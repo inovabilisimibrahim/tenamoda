@@ -2887,8 +2887,8 @@
     </CariHesapOzelKodu>
     <tcno>59935246632</tcno>
     <POSTA>nesip4949@hotmail.com</POSTA>
-    <TARIH>2025-08-16</TARIH>
-    <sipariszaman>12:08:29</sipariszaman>
+    <TARIH>2025-08-19</TARIH>
+    <sipariszaman>15:40:14</sipariszaman>
     <NET_TOPLAM>1991.72000000</NET_TOPLAM>
     <TeslimAlici>Nesip Dağlardan</TeslimAlici>
     <TeslimAdresi>Zafer Mh. 56.sok.Gazi ilkokulu yanı Merke, Muş Muş Özel Eğitim Meslek Okulu </TeslimAdresi>
@@ -7070,89 +7070,6 @@
         <URUNADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</URUNADI>
         <FATURA_ADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2357</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>50521242854</tcno>
-    <POSTA>feridesirin5@gmail.com</POSTA>
-    <TARIH>2025-08-09</TARIH>
-    <sipariszaman>15:42:07</sipariszaman>
-    <NET_TOPLAM>984.99000000</NET_TOPLAM>
-    <TeslimAlici>Feride  Şirin pulat </TeslimAlici>
-    <TeslimAdresi>Çandarlı mahallesi hürriyet meydan pitane lokantası no 26 Pitane lokantası </TeslimAdresi>
-    <TeslimTelefon>+905312595193</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35000</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Dikili</teslimilce>
-    <faturaalici>Feride  Şirin pulat </faturaalici>
-    <faturaAdresi>Çandarlı mahallesi hürriyet meydan pitane lokantası no 26 Pitane lokantası </faturaAdresi>
-    <faturaTelefon>+905312595193</faturaTelefon>
-    <faturavergino>50521242854</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35000</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Dikili</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823571</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKP66-1845_18</KOD>
-        <VARKOD>5YKP66-1845_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1845_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003365643</BARCODE>
-        <URUNADI>Kadın Bol Paça Beli Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Bol Paça Beli Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKP66-1845_18</KOD>
-        <VARKOD>5YKP66-1845_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1845_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003365636</BARCODE>
-        <URUNADI>Kadın Bol Paça Beli Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Bol Paça Beli Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
