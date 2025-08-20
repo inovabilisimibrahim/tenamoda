@@ -1,5 +1,128 @@
-﻿<!-- generated:2025-08-20T11:09:35 -->
+﻿<!-- generated:2025-08-20T11:15:03 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2456</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>melekezer86@gmail.com</POSTA>
+    <TARIH>2025-08-20</TARIH>
+    <sipariszaman>11:14:17</sipariszaman>
+    <NET_TOPLAM>2694.97000000</NET_TOPLAM>
+    <TeslimAlici>Melek Ezer</TeslimAlici>
+    <TeslimAdresi>Çekmece mahallesi 510 sokak no:24/1(mavi evler)</TeslimAdresi>
+    <TeslimTelefon>+905533977262</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Hatay</teslimil>
+    <teslimilce>Defne</teslimilce>
+    <faturaalici>Melek Ezer</faturaalici>
+    <faturaAdresi>Çekmece mahallesi 510 sokak no:24/1(mavi evler)</faturaAdresi>
+    <faturaTelefon>+905533977262</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Hatay</faturail>
+    <faturailce>Defne</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914824561</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKELT35075_08</KOD>
+        <VARKOD>4YKELT35075_0808M</VARKOD>
+        <SECENEK_DEGERI>4YKELT35075_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003097261</BARCODE>
+        <URUNADI>Kadın V Yaka Omuzları Bağlamalı Müslin Kumaş Elbise</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Omuzları Bağlamalı Müslin Kumaş Elbise</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4710_18</KOD>
+        <VARKOD>3YKSRTN4710_1818L</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4710_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003007161</BARCODE>
+        <URUNADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</URUNADI>
+        <FATURA_ADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKSRTN4921_08</KOD>
+        <VARKOD>5YKSRTN4921_0808L</VARKOD>
+        <SECENEK_DEGERI>5YKSRTN4921_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003268968</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Pileli Keten Şort</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Pileli Keten Şort</FATURA_ADI>
+        <FIYAT>734.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKSRTN4921_70</KOD>
+        <VARKOD>5YKSRTN4921_7070M</VARKOD>
+        <SECENEK_DEGERI>5YKSRTN4921_70_M</SECENEK_DEGERI>
+        <BARCODE>6000003269019</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Pileli Keten Şort</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Pileli Keten Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKYLTN3399_08</KOD>
+        <VARKOD>5YKYLTN3399_0808M</VARKOD>
+        <SECENEK_DEGERI>5YKYLTN3399_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003347953</BARCODE>
+        <URUNADI>Kadın Kare Yaka Arkası Bağlamalı Keten Yelek</URUNADI>
+        <FATURA_ADI>Kadın Kare Yaka Arkası Bağlamalı Keten Yelek</FATURA_ADI>
+        <FIYAT>1004.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN4991_08</KOD>
+        <VARKOD>5YKPNTN4991_0808L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN4991_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003268005</BARCODE>
+        <URUNADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</FATURA_ADI>
+        <FIYAT>954.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2455</SIPARIS_NO>
     <CariHesapKodu>
