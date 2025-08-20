@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-20T12:37:20 -->
+﻿<!-- generated:2025-08-20T12:42:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2457</SIPARIS_NO>
@@ -2676,8 +2676,8 @@
     </CariHesapOzelKodu>
     <tcno>21619510612</tcno>
     <POSTA>ensariy208@gmail.com</POSTA>
-    <TARIH>2025-08-16</TARIH>
-    <sipariszaman>12:08:51</sipariszaman>
+    <TARIH>2025-08-20</TARIH>
+    <sipariszaman>12:37:51</sipariszaman>
     <NET_TOPLAM>1611.72000000</NET_TOPLAM>
     <TeslimAlici>Ensari Yaprak</TeslimAlici>
     <TeslimAdresi>Koyunlu köyü Levent mevki yaprak sokak no 3C Müstakil</TeslimAdresi>
@@ -5295,8 +5295,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKSRTN4921_01</KOD>
-        <VARKOD>5YKSRTN4921_0101S</VARKOD>
         <SECENEK_DEGERI>5YKSRTN4921_01_S</SECENEK_DEGERI>
         <BARCODE>6000003268944</BARCODE>
         <URUNADI>Kadın Beli Lastikli Pileli Keten Şort</URUNADI>
