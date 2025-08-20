@@ -1,5 +1,88 @@
-﻿<!-- generated:2025-08-20T09:07:52 -->
+﻿<!-- generated:2025-08-20T09:13:32 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2455</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>14422428994</tcno>
+    <POSTA>sedaozbakir03@gmail.com</POSTA>
+    <TARIH>2025-08-20</TARIH>
+    <sipariszaman>09:12:08</sipariszaman>
+    <NET_TOPLAM>842.24000000</NET_TOPLAM>
+    <TeslimAlici>Seda Özbakır </TeslimAlici>
+    <TeslimAdresi>Taşliman mah.Karayel sok.Yücel Apt.No:10/13</TeslimAdresi>
+    <TeslimTelefon>+905524096588</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>77300</teslimPostaKodu>
+    <teslimil>Yalova</teslimil>
+    <teslimilce>Çınarcık</teslimilce>
+    <faturaalici>Seda Özbakır </faturaalici>
+    <faturaAdresi>Taşliman mah.Karayel sok.Yücel Apt.No:10/13</faturaAdresi>
+    <faturaTelefon>+905524096588</faturaTelefon>
+    <faturavergino>14422428994</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>77300</faturaPostaKodu>
+    <faturail>Yalova</faturail>
+    <faturailce>Çınarcık</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824551</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN5335_01</KOD>
+        <VARKOD>5YKPNTN5335_0101XL</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN5335_01_XL</SECENEK_DEGERI>
+        <BARCODE>6000003269439</BARCODE>
+        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN5335_18</KOD>
+        <VARKOD>5YKPNTN5335_1818XL</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN5335_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003269590</BARCODE>
+        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
+        <FIYAT>812.24000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2454</SIPARIS_NO>
     <CariHesapKodu>
@@ -46,8 +129,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YEPNFEAT20_01</KOD>
-        <VARKOD>5YEPNFEAT20_0101L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_01_L</SECENEK_DEGERI>
         <BARCODE>6000003251991</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
@@ -1418,8 +1499,8 @@
     <tcno>
     </tcno>
     <POSTA>glmsrgundogan@gmail.com</POSTA>
-    <TARIH>2025-08-19</TARIH>
-    <sipariszaman>14:27:01</sipariszaman>
+    <TARIH>2025-08-20</TARIH>
+    <sipariszaman>09:12:26</sipariszaman>
     <NET_TOPLAM>684.99000000</NET_TOPLAM>
     <TeslimAlici>Gülümser  Gündoğan </TeslimAlici>
     <TeslimAdresi>Narlı Mahallesi Çelebi sok Gazi apartmanı no51 daire15 Narlıdere izmir  Gazi apartmanı no51 daire15 </TeslimAdresi>
@@ -1502,8 +1583,8 @@
     </CariHesapOzelKodu>
     <tcno>19039290856</tcno>
     <POSTA>glmsrgundogan@gmail.com</POSTA>
-    <TARIH>2025-08-19</TARIH>
-    <sipariszaman>14:27:03</sipariszaman>
+    <TARIH>2025-08-20</TARIH>
+    <sipariszaman>09:12:26</sipariszaman>
     <NET_TOPLAM>784.99000000</NET_TOPLAM>
     <TeslimAlici>Gülümser  Gündoğan </TeslimAlici>
     <TeslimAdresi>Narlı Mahallesi Çelebi sokak Gazi apartmanı no51 daire15 Narlıdere izmir  Gazi apartmanı no51 daire15 </TeslimAdresi>
@@ -1866,8 +1947,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YEPNFEAT20_01</KOD>
-        <VARKOD>5YEPNFEAT20_0101L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_01_L</SECENEK_DEGERI>
         <BARCODE>6000003251991</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
@@ -5106,8 +5185,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YEPNFEAT20_01</KOD>
-        <VARKOD>5YEPNFEAT20_0101L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_01_L</SECENEK_DEGERI>
         <BARCODE>6000003251991</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
