@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-20T13:27:41 -->
+﻿<!-- generated:2025-08-20T13:33:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2458</SIPARIS_NO>
@@ -361,8 +361,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKPNTN5335_01</KOD>
-        <VARKOD>5YKPNTN5335_0101XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_01_XL</SECENEK_DEGERI>
         <BARCODE>6000003269439</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
@@ -446,8 +444,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YEPNFEAT20_01</KOD>
-        <VARKOD>5YEPNFEAT20_0101L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_01_L</SECENEK_DEGERI>
         <BARCODE>6000003251991</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
@@ -5397,8 +5393,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YEPNFEAT20_01</KOD>
-        <VARKOD>5YEPNFEAT20_0101L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_01_L</SECENEK_DEGERI>
         <BARCODE>6000003251991</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
