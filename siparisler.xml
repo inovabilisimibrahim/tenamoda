@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-20T14:11:38 -->
+﻿<!-- generated:2025-08-20T14:23:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2458</SIPARIS_NO>
@@ -8033,87 +8033,6 @@
         <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
         <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2337</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ebrusayin3463@gmail.com</POSTA>
-    <TARIH>2025-08-10</TARIH>
-    <sipariszaman>14:21:10</sipariszaman>
-    <NET_TOPLAM>1384.99000000</NET_TOPLAM>
-    <TeslimAlici>Ebru  Sayın </TeslimAlici>
-    <TeslimAdresi>Erenler mahallesi kırmıtlı mevki İslahiye devlet hastanesi  -1 ultrason </TeslimAdresi>
-    <TeslimTelefon>+905539676334</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Gaziantep</teslimil>
-    <teslimilce>İslahiye</teslimilce>
-    <faturaalici>Ebru  Sayın </faturaalici>
-    <faturaAdresi>Erenler mahallesi kırmıtlı mevki İslahiye devlet hastanesi  -1 ultrason </faturaAdresi>
-    <faturaTelefon>+905539676334</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Gaziantep</faturail>
-    <faturailce>İslahiye</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823371</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKCKT39040_U01_L</SECENEK_DEGERI>
-        <BARCODE>6000003075771</BARCODE>
-        <URUNADI>Kadın Balık Sırtı Gabardin Kumaş Kol Cep Detaylı Ceket</URUNADI>
-        <FATURA_ADI>Kadın Balık Sırtı Gabardin Kumaş Kol Cep Detaylı Ceket</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKCKFP9421_KFKF</KOD>
-        <VARKOD>5YKCKFP9421_KFKFKFKFSTN</VARKOD>
-        <SECENEK_DEGERI>5YKCKFP9421_KFKF_STN</SECENEK_DEGERI>
-        <BARCODE>6000003360105</BARCODE>
-        <URUNADI>Kadın Çizgili Keten Ceket</URUNADI>
-        <FATURA_ADI>Kadın Çizgili Keten Ceket</FATURA_ADI>
-        <FIYAT>1354.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
