@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-20T12:21:23 -->
+﻿<!-- generated:2025-08-20T12:26:49 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2457</SIPARIS_NO>
@@ -1135,6 +1135,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKELOY5215_18</KOD>
+        <VARKOD>4YKELOY5215_1818M</VARKOD>
         <SECENEK_DEGERI>4YKELOY5215_18_M</SECENEK_DEGERI>
         <BARCODE>6000003189188</BARCODE>
         <URUNADI>Kadın Yüzücü Model Arkası Yırtmaçlı Basic Modal Elbise</URUNADI>
