@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-21T12:55:15 -->
+﻿<!-- generated:2025-08-21T13:00:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2465</SIPARIS_NO>
@@ -7369,87 +7369,6 @@
         <URUNADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</URUNADI>
         <FATURA_ADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2367</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>24200128784</tcno>
-    <POSTA>yasemenbzkr@gmail.com</POSTA>
-    <TARIH>2025-08-11</TARIH>
-    <sipariszaman>13:00:07</sipariszaman>
-    <NET_TOPLAM>484.99000000</NET_TOPLAM>
-    <TeslimAlici>Yasemen Bozkır </TeslimAlici>
-    <TeslimAdresi>9105  sokak Vatan mah  Furkan apt.  no:9 daire:8</TeslimAdresi>
-    <TeslimTelefon>+905392441019</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35150</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karabağlar</teslimilce>
-    <faturaalici>Yasemen Bozkır </faturaalici>
-    <faturaAdresi>9105  sokak Vatan mah  Furkan apt.  no:9 daire:8</faturaAdresi>
-    <faturaTelefon>+905392441019</faturaTelefon>
-    <faturavergino>24200128784</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35150</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karabağlar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823671</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKELTN6128_YAH_M</SECENEK_DEGERI>
-        <BARCODE>6000003274907</BARCODE>
-        <URUNADI>Kadın İp Askılı Midi Boy Modal Kumaş Elbise</URUNADI>
-        <FATURA_ADI>Kadın İp Askılı Midi Boy Modal Kumaş Elbise</FATURA_ADI>
-        <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKELTN5701_Y24</KOD>
-        <VARKOD>4YKELTN5701_Y24Y24S</VARKOD>
-        <SECENEK_DEGERI>4YKELTN5701_Y24_S</SECENEK_DEGERI>
-        <BARCODE>6000003124950</BARCODE>
-        <URUNADI>Kadın İp Askılı Rahat Kesim Ruhsel Kumaş Elbise</URUNADI>
-        <FATURA_ADI>Kadın İp Askılı Rahat Kesim Ruhsel Kumaş Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
