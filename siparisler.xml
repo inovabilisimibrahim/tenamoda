@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-21T03:04:10 -->
+﻿<!-- generated:2025-08-21T03:14:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2460</SIPARIS_NO>
@@ -9843,76 +9843,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2272</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>17533507012</tcno>
-    <POSTA>selimkaya.81@hotmail.com</POSTA>
-    <TARIH>2025-08-11</TARIH>
-    <sipariszaman>03:04:53</sipariszaman>
-    <NET_TOPLAM>484.99000000</NET_TOPLAM>
-    <TeslimAlici>SELİM KAYA</TeslimAlici>
-    <TeslimAdresi>İSTİKLAL MAH GAZİPAŞA CAD NO 32A DERMAN ECZANESİ</TeslimAdresi>
-    <TeslimTelefon>+905419265174</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>09600</teslimPostaKodu>
-    <teslimil>Aydın</teslimil>
-    <teslimilce>İncirliova</teslimilce>
-    <faturaalici>SELİM KAYA</faturaalici>
-    <faturaAdresi>İSTİKLAL MAH GAZİPAŞA CAD NO 32A DERMAN ECZANESİ</faturaAdresi>
-    <faturaTelefon>+905419265174</faturaTelefon>
-    <faturavergino>17533507012</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>09600</faturaPostaKodu>
-    <faturail>Aydın</faturail>
-    <faturailce>İncirliova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914822721</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSFAL003_70</KOD>
-        <VARKOD>5YETSFAL003_7070XL</VARKOD>
-        <SECENEK_DEGERI>5YETSFAL003_70_XL</SECENEK_DEGERI>
-        <BARCODE>6000003338593</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
