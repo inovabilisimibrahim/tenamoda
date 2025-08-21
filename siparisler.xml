@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-21T12:38:58 -->
+﻿<!-- generated:2025-08-21T12:49:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2465</SIPARIS_NO>
@@ -7369,87 +7369,6 @@
         <URUNADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</URUNADI>
         <FATURA_ADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2369</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>44287623354</tcno>
-    <POSTA>keyfekeder43@hotmail.com</POSTA>
-    <TARIH>2025-08-11</TARIH>
-    <sipariszaman>12:46:11</sipariszaman>
-    <NET_TOPLAM>784.99000000</NET_TOPLAM>
-    <TeslimAlici>Mehmet Çakmak</TeslimAlici>
-    <TeslimAdresi>Şehitveli kara sokak 42/16 esertepe keçiören ankara Ülger apartmanı 42/16</TeslimAdresi>
-    <TeslimTelefon>+905413834518</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>06200</teslimPostaKodu>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Keçiören</teslimilce>
-    <faturaalici>Mehmet Çakmak</faturaalici>
-    <faturaAdresi>Şehitveli kara sokak 42/16 esertepe keçiören ankara Ülger apartmanı 42/16</faturaAdresi>
-    <faturaTelefon>+905413834518</faturaTelefon>
-    <faturavergino>44287623354</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>06200</faturaPostaKodu>
-    <faturail>Ankara</faturail>
-    <faturailce>Keçiören</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823691</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YESFEAT105_010_XL</SECENEK_DEGERI>
-        <BARCODE>6000003253575</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YEGMLTN401_18</KOD>
-        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
-        <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003303812</BARCODE>
-        <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Kısa Kol Pamuk Triko Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
