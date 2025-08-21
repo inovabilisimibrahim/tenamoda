@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-21T19:35:33 -->
+﻿<!-- generated:2025-08-21T19:40:56 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2467</SIPARIS_NO>
@@ -1034,8 +1034,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKSRTN4921_70</KOD>
-        <VARKOD>5YKSRTN4921_7070M</VARKOD>
         <SECENEK_DEGERI>5YKSRTN4921_70_M</SECENEK_DEGERI>
         <BARCODE>6000003269019</BARCODE>
         <URUNADI>Kadın Beli Lastikli Pileli Keten Şort</URUNADI>
@@ -4230,6 +4228,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3YEPNDF3668_08</KOD>
+        <VARKOD>3YEPNDF3668_080838</VARKOD>
         <SECENEK_DEGERI>3YEPNDF3668_08_38</SECENEK_DEGERI>
         <BARCODE>6000003002265</BARCODE>
         <URUNADI>Erkek Yan Cep Slim Fit Pike Chino Pantolon</URUNADI>
