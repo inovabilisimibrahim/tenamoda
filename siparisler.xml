@@ -1,5 +1,112 @@
-﻿<!-- generated:2025-08-22T11:16:56 -->
+﻿<!-- generated:2025-08-22T11:22:17 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2469</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>32218924854</tcno>
+    <POSTA>bugafiliz8@gmail.com</POSTA>
+    <TARIH>2025-08-22</TARIH>
+    <sipariszaman>11:18:54</sipariszaman>
+    <NET_TOPLAM>1839.98000000</NET_TOPLAM>
+    <TeslimAlici>Filiz ÜLGER</TeslimAlici>
+    <TeslimAdresi>Torod Mahallesi Şehit İbrahim Engin Sokak Adana/Çukurova  Dr Özay Akyıldız apt no:40  kat:11 daireno: 21</TeslimAdresi>
+    <TeslimTelefon>+905444475650</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Adana</teslimil>
+    <teslimilce>Çukurova</teslimilce>
+    <faturaalici>Filiz ÜLGER</faturaalici>
+    <faturaAdresi>Torod Mahallesi Şehit İbrahim Engin Sokak Adana/Çukurova  Dr Özay Akyıldız apt no:40  kat:11 daireno: 21</faturaAdresi>
+    <faturaTelefon>+905444475650</faturaTelefon>
+    <faturavergino>32218924854</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Adana</faturail>
+    <faturailce>Çukurova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824691</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN2545_90</KOD>
+        <VARKOD>5YKPNTN2545_9090L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2545_90_L</SECENEK_DEGERI>
+        <BARCODE>6000003327474</BARCODE>
+        <URUNADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN2545_B02</KOD>
+        <VARKOD>5YKPNTN2545_B02B02L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2545_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003327504</BARCODE>
+        <URUNADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKP66-1841_50</KOD>
+        <VARKOD>5YKP66-1841_5050M</VARKOD>
+        <SECENEK_DEGERI>5YKP66-1841_50_M</SECENEK_DEGERI>
+        <BARCODE>6000003363755</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
+        <FIYAT>904.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKP66-1841_B34</KOD>
+        <VARKOD>5YKP66-1841_B34B34M</VARKOD>
+        <SECENEK_DEGERI>5YKP66-1841_B34_M</SECENEK_DEGERI>
+        <BARCODE>6000003363786</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
+        <FIYAT>904.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2468</SIPARIS_NO>
     <CariHesapKodu>
