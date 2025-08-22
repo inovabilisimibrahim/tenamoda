@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-22T16:53:12 -->
+﻿<!-- generated:2025-08-22T16:58:50 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2474</SIPARIS_NO>
@@ -7817,87 +7817,6 @@
         <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2354</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>22369579370</tcno>
-    <POSTA>onsalih057@gmail.com</POSTA>
-    <TARIH>2025-08-12</TARIH>
-    <sipariszaman>16:55:15</sipariszaman>
-    <NET_TOPLAM>364.99000000</NET_TOPLAM>
-    <TeslimAlici>Salih Ön</TeslimAlici>
-    <TeslimAdresi>Alaçatı mah. Atatürk blv.no:71/b A lahmacun Atatürk blv . No:71/b</TeslimAdresi>
-    <TeslimTelefon>+905051774863</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35930</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Çeşme</teslimilce>
-    <faturaalici>Salih Ön</faturaalici>
-    <faturaAdresi>Alaçatı mah. Atatürk blv.no:71/b A lahmacun Atatürk blv . No:71/b</faturaAdresi>
-    <faturaTelefon>+905051774863</faturaTelefon>
-    <faturavergino>22369579370</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35930</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Çeşme</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823541</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>9YETS2002-0_14</KOD>
-        <VARKOD>9YETS2002-0_1414L</VARKOD>
-        <SECENEK_DEGERI>9YETS2002-0_14_L</SECENEK_DEGERI>
-        <BARCODE>6000002060754</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>9YETS2002-0_18_L</SECENEK_DEGERI>
-        <BARCODE>6000002060808</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
-        <FIYAT>334.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
