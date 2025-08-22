@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-22T13:18:33 -->
+﻿<!-- generated:2025-08-22T13:24:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2470</SIPARIS_NO>
@@ -7172,6 +7172,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKEL4204-1_18</KOD>
+        <VARKOD>4YKEL4204-1_1818M</VARKOD>
         <SECENEK_DEGERI>4YKEL4204-1_18_M</SECENEK_DEGERI>
         <BARCODE>6000003080799</BARCODE>
         <URUNADI>Kadın İp Askılı Etek Ucu Püsküllü Kısa Elbise</URUNADI>
