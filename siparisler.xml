@@ -1,5 +1,114 @@
-﻿<!-- generated:2025-08-22T11:44:54 -->
+﻿<!-- generated:2025-08-22T11:50:14 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2470</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>14163022830</tcno>
+    <POSTA>abdullahandic772@gmail.com</POSTA>
+    <TARIH>2025-08-22</TARIH>
+    <sipariszaman>11:45:18</sipariszaman>
+    <NET_TOPLAM>1239.98000000</NET_TOPLAM>
+    <TeslimAlici>ABDULLAH ANDİÇ</TeslimAlici>
+    <TeslimAdresi>Batman Belde mahallesi ibrahim hakkı caddesi Andiç yapı kat: 6 no: 20 Andiç yapı kat: 6 no: 20</TeslimAdresi>
+    <TeslimTelefon>+905550857872</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>72000</teslimPostaKodu>
+    <teslimil>Batman</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>ABDULLAH ANDİÇ</faturaalici>
+    <faturaAdresi>Batman Belde mahallesi ibrahim hakkı caddesi Andiç yapı kat: 6 no: 20 Andiç yapı kat: 6 no: 20</faturaAdresi>
+    <faturaTelefon>+905550857872</faturaTelefon>
+    <faturavergino>14163022830</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>72000</faturaPostaKodu>
+    <faturail>Batman</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824701</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YETSTTN104_01</KOD>
+        <VARKOD>5YETSTTN104_0101L</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_01_L</SECENEK_DEGERI>
+        <BARCODE>6000003304383</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>654.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_18</KOD>
+        <VARKOD>5YETSTNT106_1818M</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003330955</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>554.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_02</KOD>
+        <VARKOD>5YETSTNT106_0202L</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003330795</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTN2512_18</KOD>
+        <VARKOD>5YETSTN2512_1818S</VARKOD>
+        <SECENEK_DEGERI>5YETSTN2512_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003299160</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2469</SIPARIS_NO>
     <CariHesapKodu>
@@ -529,8 +638,8 @@
     <tcno>
     </tcno>
     <POSTA>esenhulyaesen@gmail.com</POSTA>
-    <TARIH>2025-08-21</TARIH>
-    <sipariszaman>13:42:03</sipariszaman>
+    <TARIH>2025-08-22</TARIH>
+    <sipariszaman>11:46:49</sipariszaman>
     <NET_TOPLAM>984.99000000</NET_TOPLAM>
     <TeslimAlici>Hülya Esen</TeslimAlici>
     <TeslimAdresi>Barış Mahallesi 337 Sokak No:128  Daire:1 Çağlayan Apt</TeslimAdresi>
@@ -1268,8 +1377,8 @@
     </CariHesapOzelKodu>
     <tcno>14422428994</tcno>
     <POSTA>sedaozbakir03@gmail.com</POSTA>
-    <TARIH>2025-08-21</TARIH>
-    <sipariszaman>13:41:56</sipariszaman>
+    <TARIH>2025-08-22</TARIH>
+    <sipariszaman>11:47:49</sipariszaman>
     <NET_TOPLAM>842.24000000</NET_TOPLAM>
     <TeslimAlici>Seda Özbakır </TeslimAlici>
     <TeslimAdresi>Taşliman mah.Karayel sok.Yücel Apt.No:10/13</TeslimAdresi>
