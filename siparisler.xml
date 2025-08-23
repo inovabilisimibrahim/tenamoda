@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-23T13:46:25 -->
+﻿<!-- generated:2025-08-23T13:52:01 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2482</SIPARIS_NO>
@@ -190,34 +190,28 @@
     </CariHesapOzelKodu>
     <tcno>
     </tcno>
-    <POSTA>cengizhanok@hotmail.com</POSTA>
     <TARIH>2025-08-23</TARIH>
-    <sipariszaman>10:38:41</sipariszaman>
+    <sipariszaman>13:51:25</sipariszaman>
     <NET_TOPLAM>1339.98000000</NET_TOPLAM>
-    <TeslimAlici>Cengizhan Ok</TeslimAlici>
-    <TeslimAdresi>Yalı mah. Mithatpaşa cad. 535 a</TeslimAdresi>
-    <TeslimTelefon>+905331342478</TeslimTelefon>
+    <TeslimAdresi>
+    </TeslimAdresi>
     <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Güzelbahçe</teslimilce>
-    <faturaalici>Cengizhan Ok</faturaalici>
-    <faturaAdresi>Yalı mah. Mithatpaşa cad. 535 a</faturaAdresi>
-    <faturaTelefon>+905331342478</faturaTelefon>
+    <faturaAdresi>
+    </faturaAdresi>
     <faturavergino>
     </faturavergino>
     <faturavergidairesi>
     </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Güzelbahçe</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824801</kargokodu>
+    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
+    <tasiyicifirma>mng</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>
+    </kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
@@ -7710,87 +7704,6 @@
         <URUNADI>Kadın Desenli Mini Şort</URUNADI>
         <FATURA_ADI>Kadın Desenli Mini Şort</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2379</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>10715248154</tcno>
-    <POSTA>cerenyagizeren@gmail.com</POSTA>
-    <TARIH>2025-08-13</TARIH>
-    <sipariszaman>13:49:39</sipariszaman>
-    <NET_TOPLAM>884.99000000</NET_TOPLAM>
-    <TeslimAlici>ceren yılmaz</TeslimAlici>
-    <TeslimAdresi>şirinyalı mahallesi ismet gökşen caddesi elif apt DK Klinik no 14c muratpaşa/antalya DK Klinik</TeslimAdresi>
-    <TeslimTelefon>+905426141474</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Antalya</teslimil>
-    <teslimilce>Muratpaşa</teslimilce>
-    <faturaalici>ceren yılmaz</faturaalici>
-    <faturaAdresi>şirinyalı mahallesi ismet gökşen caddesi elif apt DK Klinik no 14c muratpaşa/antalya DK Klinik</faturaAdresi>
-    <faturaTelefon>+905426141474</faturaTelefon>
-    <faturavergino>10715248154</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Antalya</faturail>
-    <faturailce>Muratpaşa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823791</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKTKTN2504_02</KOD>
-        <VARKOD>5YKTKTN2504_0202L</VARKOD>
-        <SECENEK_DEGERI>5YKTKTN2504_02_L</SECENEK_DEGERI>
-        <BARCODE>6000003275904</BARCODE>
-        <URUNADI>Kadın Önü İp Bağlamalı Müslin Kumaş Bluzlu Şortlu Takım</URUNADI>
-        <FATURA_ADI>Kadın Önü İp Bağlamalı Müslin Kumaş Bluzlu Şortlu Takım</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKTKTN2504_167</KOD>
-        <VARKOD>5YKTKTN2504_167167L</VARKOD>
-        <SECENEK_DEGERI>5YKTKTN2504_167_L</SECENEK_DEGERI>
-        <BARCODE>6000003275966</BARCODE>
-        <URUNADI>Kadın Önü İp Bağlamalı Müslin Kumaş Bluzlu Şortlu Takım</URUNADI>
-        <FATURA_ADI>Kadın Önü İp Bağlamalı Müslin Kumaş Bluzlu Şortlu Takım</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
