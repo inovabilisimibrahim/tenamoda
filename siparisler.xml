@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-23T03:00:16 -->
+﻿<!-- generated:2025-08-23T03:05:58 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2474</SIPARIS_NO>
@@ -7554,6 +7554,142 @@
         <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2301</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nazeelicicek@gmail.com</POSTA>
+    <TARIH>2025-08-23</TARIH>
+    <sipariszaman>03:03:13</sipariszaman>
+    <NET_TOPLAM>784.99000000</NET_TOPLAM>
+    <TeslimAlici>Nazli Eliçiçek</TeslimAlici>
+    <TeslimAdresi>Samanyolu caddesi Akagündüz Sokak şevkat Sitesi no 8 daire 16 site mahallesi ümraniye İstanbul  Şevkat s. 16</TeslimAdresi>
+    <TeslimTelefon>+905321743413</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34760</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Ümraniye</teslimilce>
+    <faturaalici>Nazli Eliçiçek</faturaalici>
+    <faturaAdresi>Samanyolu caddesi Akagündüz Sokak şevkat Sitesi no 8 daire 16 site mahallesi ümraniye İstanbul  Şevkat s. 16</faturaAdresi>
+    <faturaTelefon>+905321743413</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34760</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Ümraniye</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914823011</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKPNTN5343_08_XL</SECENEK_DEGERI>
+        <BARCODE>6000003267312</BARCODE>
+        <URUNADI>Kadın Belii Lastikli  Keten Balon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Belii Lastikli  Keten Balon Pantolon</FATURA_ADI>
+        <FIYAT>754.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2300</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>34657730218</tcno>
+    <POSTA>aoztepeonel@gmail.com</POSTA>
+    <TARIH>2025-08-23</TARIH>
+    <sipariszaman>03:03:48</sipariszaman>
+    <NET_TOPLAM>884.99000000</NET_TOPLAM>
+    <TeslimAlici>Aysun Oztepe onel</TeslimAlici>
+    <TeslimAdresi>Sogukkuyu mah 1844/11 sok no2 k4 d14   Telek apt</TeslimAdresi>
+    <TeslimTelefon>+905453666326</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bayraklı</teslimilce>
+    <faturaalici>Aysun Oztepe onel</faturaalici>
+    <faturaAdresi>Sogukkuyu mah 1844/11 sok no2 k4 d14   Telek apt</faturaAdresi>
+    <faturaTelefon>+905453666326</faturaTelefon>
+    <faturavergino>34657730218</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Bayraklı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914823001</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>3YEPNDF3668_08_34</SECENEK_DEGERI>
+        <BARCODE>6000003002241</BARCODE>
+        <URUNADI>Erkek Yan Cep Slim Fit Pike Chino Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Yan Cep Slim Fit Pike Chino Pantolon</FATURA_ADI>
+        <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
