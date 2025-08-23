@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-24T01:48:11 -->
+﻿<!-- generated:2025-08-24T01:53:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2484</SIPARIS_NO>
@@ -948,6 +948,19 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKPNTN3396_18</KOD>
+        <VARKOD>5YKPNTN3396_1818L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN3396_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003303348</BARCODE>
+        <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</FATURA_ADI>
+        <FIYAT>854.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
         <KOD>4YKETFL6020_18</KOD>
         <VARKOD>4YKETFL6020_1818STD</VARKOD>
         <SECENEK_DEGERI>4YKETFL6020_18_STD</SECENEK_DEGERI>
@@ -955,14 +968,6 @@
         <URUNADI>Kadın Yanları Yırtmaçlı File Uzun Etek</URUNADI>
         <FATURA_ADI>Kadın Yanları Yırtmaçlı File Uzun Etek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN3396_18_L</SECENEK_DEGERI>
-        <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
