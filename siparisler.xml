@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-23T10:01:56 -->
+﻿<!-- generated:2025-08-23T10:07:27 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2479</SIPARIS_NO>
@@ -306,6 +306,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEGMNGKOJI_B02</KOD>
+        <VARKOD>5YEGMNGKOJI_B02B02M</VARKOD>
         <SECENEK_DEGERI>5YEGMNGKOJI_B02_M</SECENEK_DEGERI>
         <BARCODE>6000003203662</BARCODE>
         <URUNADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</URUNADI>
