@@ -1,5 +1,207 @@
-﻿<!-- generated:2025-08-24T00:26:30 -->
+﻿<!-- generated:2025-08-24T00:32:08 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2484</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11111111111</tcno>
+    <POSTA>polat.nuray.62.35@gmail.com</POSTA>
+    <TARIH>2025-08-24</TARIH>
+    <sipariszaman>00:31:06</sipariszaman>
+    <NET_TOPLAM>2014.97000000</NET_TOPLAM>
+    <TeslimAlici>Nuray Polat Pekal</TeslimAlici>
+    <TeslimAdresi>Kirazpınar Mahallesi Kirazpınar Evleri 5797 ada küme evleri Emlak konutları 1. Etap B3 Blok Daire 4 B3 D.4</TeslimAdresi>
+    <TeslimTelefon>+905347453765</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Kocaeli</teslimil>
+    <teslimilce>Gebze</teslimilce>
+    <faturaalici>Nuray Polat Pekal</faturaalici>
+    <faturaAdresi>Kirazpınar Mahallesi Kirazpınar Evleri 5797 ada küme evleri Emlak konutları 1. Etap B3 Blok Daire 4 B3 D.4</faturaAdresi>
+    <faturaTelefon>+905347453765</faturaTelefon>
+    <faturavergino>11111111111</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Kocaeli</faturail>
+    <faturailce>Gebze</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914824841</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN2304_18</KOD>
+        <VARKOD>5YKPNTN2304_181836</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2304_18_36</SECENEK_DEGERI>
+        <BARCODE>6000003379442</BARCODE>
+        <URUNADI>Kadın Dar Paça Skinny Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Dar Paça Skinny Pantolon</FATURA_ADI>
+        <FIYAT>754.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKELTN6164_18</KOD>
+        <VARKOD>5YKELTN6164_1818S</VARKOD>
+        <SECENEK_DEGERI>5YKELTN6164_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003274136</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Düşük Omuzlu Beli Bağlama Detaylı Modal Kumaş Elbise</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Düşük Omuzlu Beli Bağlama Detaylı Modal Kumaş Elbise</FATURA_ADI>
+        <FIYAT>604.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKBLNTN999_13</KOD>
+        <VARKOD>5YKBLNTN999_1313S</VARKOD>
+        <SECENEK_DEGERI>5YKBLNTN999_13_S</SECENEK_DEGERI>
+        <BARCODE>6000003355408</BARCODE>
+        <URUNADI>Kadın Kruvaze Yaka Vatkalı Sandy Bluz</URUNADI>
+        <FATURA_ADI>Kadın Kruvaze Yaka Vatkalı Sandy Bluz</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKELTN1003_13</KOD>
+        <VARKOD>5YKELTN1003_1313S</VARKOD>
+        <SECENEK_DEGERI>5YKELTN1003_13_S</SECENEK_DEGERI>
+        <BARCODE>6000003355996</BARCODE>
+        <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKSRTNGR19_10</KOD>
+        <VARKOD>5YKSRTNGR19_1010S</VARKOD>
+        <SECENEK_DEGERI>5YKSRTNGR19_10_S</SECENEK_DEGERI>
+        <BARCODE>6000003369313</BARCODE>
+        <URUNADI>Kadın Beli Kendinden Kemerli Gabardin Şort</URUNADI>
+        <FATURA_ADI>Kadın Beli Kendinden Kemerli Gabardin Şort</FATURA_ADI>
+        <FIYAT>654.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_06</KOD>
+        <VARKOD>5YKG16-1448_0606S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_06_S</SECENEK_DEGERI>
+        <BARCODE>6000003296022</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2483</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>37180951396</tcno>
+    <POSTA>biletsuna@gmail.com</POSTA>
+    <TARIH>2025-08-24</TARIH>
+    <sipariszaman>00:31:04</sipariszaman>
+    <NET_TOPLAM>884.99000000</NET_TOPLAM>
+    <TeslimAlici>suna  öztürk</TeslimAlici>
+    <TeslimAdresi>BUCAK YURT MÜDÜRLÜĞÜ CAMİ MAH.BOZKURT CAD. 310 SOK NO:21 BUCAK/BURDUR</TeslimAdresi>
+    <TeslimTelefon>+905078775191</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Burdur</teslimil>
+    <teslimilce>Bucak</teslimilce>
+    <faturaalici>suna  öztürk</faturaalici>
+    <faturaAdresi>BUCAK YURT MÜDÜRLÜĞÜ CAMİ MAH.BOZKURT CAD. 310 SOK NO:21 BUCAK/BURDUR</faturaAdresi>
+    <faturaTelefon>+905078775191</faturaTelefon>
+    <faturavergino>37180951396</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Burdur</faturail>
+    <faturailce>Bucak</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824831</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKTKTN2508_010</KOD>
+        <VARKOD>5YKTKTN2508_010010L</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2508_010_L</SECENEK_DEGERI>
+        <BARCODE>6000003276055</BARCODE>
+        <URUNADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</URUNADI>
+        <FATURA_ADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKTKTN2508_BTY</KOD>
+        <VARKOD>5YKTKTN2508_BTYBTYM</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2508_BTY_M</SECENEK_DEGERI>
+        <BARCODE>6000003276123</BARCODE>
+        <URUNADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</URUNADI>
+        <FATURA_ADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</FATURA_ADI>
+        <FIYAT>854.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2482</SIPARIS_NO>
     <CariHesapKodu>
