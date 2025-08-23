@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-23T13:52:01 -->
+﻿<!-- generated:2025-08-23T13:57:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2482</SIPARIS_NO>
@@ -190,28 +190,34 @@
     </CariHesapOzelKodu>
     <tcno>
     </tcno>
+    <POSTA>cengizhanok@hotmail.com</POSTA>
     <TARIH>2025-08-23</TARIH>
     <sipariszaman>13:51:25</sipariszaman>
     <NET_TOPLAM>1339.98000000</NET_TOPLAM>
-    <TeslimAdresi>
-    </TeslimAdresi>
+    <TeslimAlici>Cengizhan Ok</TeslimAlici>
+    <TeslimAdresi>Yalı mah. Mithatpaşa cad. 535 a</TeslimAdresi>
+    <TeslimTelefon>+905331342478</TeslimTelefon>
     <teslimsekli>KR</teslimsekli>
-    <faturaAdresi>
-    </faturaAdresi>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Güzelbahçe</teslimilce>
+    <faturaalici>Cengizhan Ok</faturaalici>
+    <faturaAdresi>Yalı mah. Mithatpaşa cad. 535 a</faturaAdresi>
+    <faturaTelefon>+905331342478</faturaTelefon>
     <faturavergino>
     </faturavergino>
     <faturavergidairesi>
     </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Güzelbahçe</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>
-    </kargokodu>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824801</kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
