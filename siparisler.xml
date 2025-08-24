@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-24T19:53:40 -->
+﻿<!-- generated:2025-08-24T19:59:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2484</SIPARIS_NO>
@@ -995,8 +995,8 @@
     </CariHesapOzelKodu>
     <tcno>57754013282</tcno>
     <POSTA>serkan13021983@gmail.com</POSTA>
-    <TARIH>2025-08-23</TARIH>
-    <sipariszaman>11:20:58</sipariszaman>
+    <TARIH>2025-08-24</TARIH>
+    <sipariszaman>19:56:56</sipariszaman>
     <NET_TOPLAM>584.99000000</NET_TOPLAM>
     <TeslimAlici>Serkan  Barış</TeslimAlici>
     <TeslimAdresi>Bağarası cad no 26 daire 7 Yenimahalle anakra Berat </TeslimAdresi>
@@ -7667,6 +7667,8 @@
         <VARKOD>5YKPNTN3314_0505M</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3314_05_M</SECENEK_DEGERI>
         <BARCODE>6000003303447</BARCODE>
+        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
         <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -7676,6 +7678,8 @@
       <SATIR>
         <SECENEK_DEGERI>5YKPNTN3314_70_M</SECENEK_DEGERI>
         <BARCODE>6000003303539</BARCODE>
+        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -8235,6 +8239,8 @@
       <SATIR>
         <SECENEK_DEGERI>5YKPNTN3314_18_L</SECENEK_DEGERI>
         <BARCODE>6000003303492</BARCODE>
+        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
         <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
