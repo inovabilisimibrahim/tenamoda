@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-24T19:04:42 -->
+﻿<!-- generated:2025-08-24T19:10:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2484</SIPARIS_NO>
@@ -7011,105 +7011,6 @@
         <URUNADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</URUNADI>
         <FATURA_ADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</FATURA_ADI>
         <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2391</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>49171300342</tcno>
-    <POSTA>ilknurbasdemir@gmail.com</POSTA>
-    <TARIH>2025-08-14</TARIH>
-    <sipariszaman>19:04:34</sipariszaman>
-    <NET_TOPLAM>1339.98000000</NET_TOPLAM>
-    <TeslimAlici>İlknur Başdemir</TeslimAlici>
-    <TeslimAdresi>290 sokak no 8/A Çamlıkule mahallesi No: 8/A Daikin yetkili servis</TeslimAdresi>
-    <TeslimTelefon>+905350431990</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>İlknur Başdemir</faturaalici>
-    <faturaAdresi>290 sokak no 8/A Çamlıkule mahallesi No: 8/A Daikin yetkili servis</faturaAdresi>
-    <faturaTelefon>+905350431990</faturaTelefon>
-    <faturavergino>49171300342</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823911</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKPNTN5039_08_M</SECENEK_DEGERI>
-        <BARCODE>6000003079236</BARCODE>
-        <URUNADI>Kadın Paça Bel Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Bel Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKPNTN5039_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003079311</BARCODE>
-        <URUNADI>Kadın Paça Bel Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Bel Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKPNTN5039_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003079311</BARCODE>
-        <URUNADI>Kadın Paça Bel Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Bel Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKPNTN5039_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003079267</BARCODE>
-        <URUNADI>Kadın Paça Bel Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Bel Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
