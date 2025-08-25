@@ -1,5 +1,99 @@
-﻿<!-- generated:2025-08-25T15:04:12 -->
+﻿<!-- generated:2025-08-25T15:09:57 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2488</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>32881016504</tcno>
+    <POSTA>rrabia_09@hotmail.com</POSTA>
+    <TARIH>2025-08-25</TARIH>
+    <sipariszaman>15:06:48</sipariszaman>
+    <NET_TOPLAM>1274.48000000</NET_TOPLAM>
+    <TeslimAlici>rabia önal</TeslimAlici>
+    <TeslimAdresi>aydın oovası sulama birliği efeler mah.1405 sok no:18  aydın ovası sulama </TeslimAdresi>
+    <TeslimTelefon>+905423633656</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Aydın</teslimil>
+    <teslimilce>Efeler</teslimilce>
+    <faturaalici>rabia önal</faturaalici>
+    <faturaAdresi>aydın oovası sulama birliği efeler mah.1405 sok no:18  aydın ovası sulama </faturaAdresi>
+    <faturaTelefon>+905423633656</faturaTelefon>
+    <faturavergino>32881016504</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Aydın</faturail>
+    <faturailce>Efeler</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914824881</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKTKTN2506_18</KOD>
+        <VARKOD>5YKTKTN2506_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2506_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003276338</BARCODE>
+        <URUNADI>Kadın Yandan Bağlamalı Poliviskon Bluzlu Etekli Takım</URUNADI>
+        <FATURA_ADI>Kadın Yandan Bağlamalı Poliviskon Bluzlu Etekli Takım</FATURA_ADI>
+        <FIYAT>859.74000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKTKCM8153_010</KOD>
+        <VARKOD>3KKTKCM8153_010010S</VARKOD>
+        <SECENEK_DEGERI>3KKTKCM8153_010_S</SECENEK_DEGERI>
+        <BARCODE>6000003061088</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Çizgili Crop Etek Takım</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Çizgili Crop Etek Takım</FATURA_ADI>
+        <FIYAT>384.74000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKTKTN2508_010</KOD>
+        <VARKOD>5YKTKTN2508_010010M</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2508_010_M</SECENEK_DEGERI>
+        <BARCODE>6000003276062</BARCODE>
+        <URUNADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</URUNADI>
+        <FATURA_ADI>Kadın Kopça Detaylı Yelekli Etek Kumaş Takım</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2487</SIPARIS_NO>
     <CariHesapKodu>
