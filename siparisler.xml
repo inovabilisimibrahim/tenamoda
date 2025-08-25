@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-25T03:01:36 -->
+﻿<!-- generated:2025-08-25T03:06:50 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2485</SIPARIS_NO>
@@ -7059,6 +7059,144 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2306</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nuralp79@gmail.com</POSTA>
+    <TARIH>2025-08-25</TARIH>
+    <sipariszaman>03:04:39</sipariszaman>
+    <NET_TOPLAM>684.99000000</NET_TOPLAM>
+    <TeslimAlici>Nurgül  Çelik </TeslimAlici>
+    <TeslimAdresi>Atatürk mahallesi lozan caddesi no:1A Aliağa ptt dağıtım müdürlüğü </TeslimAdresi>
+    <TeslimTelefon>+905547070732</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35800</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Aliağa</teslimilce>
+    <faturaalici>Nurgül  Çelik </faturaalici>
+    <faturaAdresi>Atatürk mahallesi lozan caddesi no:1A Aliağa ptt dağıtım müdürlüğü </faturaAdresi>
+    <faturaTelefon>+905547070732</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35800</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Aliağa</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914823061</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>4YKELTN4218_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003080461</BARCODE>
+        <URUNADI>Kadın Etek Ucu Püsküllü İp Askılı Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın Etek Ucu Püsküllü İp Askılı Uzun Elbise</FATURA_ADI>
+        <FIYAT>654.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2305</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>27982030078</tcno>
+    <POSTA>ozerozdemir563@gmail.com</POSTA>
+    <TARIH>2025-08-25</TARIH>
+    <sipariszaman>03:04:04</sipariszaman>
+    <NET_TOPLAM>484.99000000</NET_TOPLAM>
+    <TeslimAlici>Perihan Çıldır </TeslimAlici>
+    <TeslimAdresi>Bağlarbaşı mahallesi vatan CD. batı sok. No.4 daire 2 Osmangazi bursa Ev</TeslimAdresi>
+    <TeslimTelefon>+905366747950</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Bursa</teslimil>
+    <teslimilce>Osmangazi</teslimilce>
+    <faturaalici>Perihan Çıldır </faturaalici>
+    <faturaAdresi>Bağlarbaşı mahallesi vatan CD. batı sok. No.4 daire 2 Osmangazi bursa Ev</faturaAdresi>
+    <faturaTelefon>+905366747950</faturaTelefon>
+    <faturavergino>27982030078</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Bursa</faturail>
+    <faturailce>Osmangazi</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914823051</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4141_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003290839</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</FATURA_ADI>
+        <FIYAT>454.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2304</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -8546,102 +8684,6 @@
         <URUNADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</URUNADI>
         <FATURA_ADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</FATURA_ADI>
         <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2282</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>oznuryldal@gmail.com</POSTA>
-    <TARIH>2025-08-15</TARIH>
-    <sipariszaman>03:04:02</sipariszaman>
-    <NET_TOPLAM>1319.98000000</NET_TOPLAM>
-    <TeslimAlici>Öznur Yıldız </TeslimAlici>
-    <TeslimAdresi>Aşık Veysel mahallesi Meriç sokak Menekşe evleri sitesi A14 B giriş kat 3 daire 7 Esenkent Esenyurt Meriç sokak A14 B giriş kat 3daire 7</TeslimAdresi>
-    <TeslimTelefon>+905334782950</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34510</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Esenyurt</teslimilce>
-    <faturaalici>Öznur Yıldız </faturaalici>
-    <faturaAdresi>Aşık Veysel mahallesi Meriç sokak Menekşe evleri sitesi A14 B giriş kat 3 daire 7 Esenkent Esenyurt Meriç sokak A14 B giriş kat 3daire 7</faturaAdresi>
-    <faturaTelefon>+905334782950</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34510</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Esenyurt</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914822821</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKPNTN3017_U01</KOD>
-        <VARKOD>4YKPNTN3017_U01U01M</VARKOD>
-        <SECENEK_DEGERI>4YKPNTN3017_U01_M</SECENEK_DEGERI>
-        <BARCODE>6000003090521</BARCODE>
-        <URUNADI>Kadın Bel Şeritli Büyük Cepli Bol Paça Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Bel Şeritli Büyük Cepli Bol Paça Pantolon</FATURA_ADI>
-        <FIYAT>534.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN5343_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003267336</BARCODE>
-        <URUNADI>Kadın Belii Lastikli  Keten Balon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Belii Lastikli  Keten Balon Pantolon</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YKK35-6681_62</KOD>
-        <VARKOD>3YKK35-6681_6262STD</VARKOD>
-        <SECENEK_DEGERI>3YKK35-6681_62_STD</SECENEK_DEGERI>
-        <BARCODE>6000002950130</BARCODE>
-        <URUNADI>Kadın Oversize Keten Kimono</URUNADI>
-        <FATURA_ADI>Kadın Oversize Keten Kimono</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
