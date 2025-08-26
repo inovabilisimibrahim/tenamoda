@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-26T11:53:56 -->
+﻿<!-- generated:2025-08-26T11:59:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2493</SIPARIS_NO>
@@ -2020,87 +2020,6 @@
         <BARCODE>6000003379541</BARCODE>
         <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
         <FATURA_ADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2466</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>serifeakmanbudak@gmail.com</POSTA>
-    <TARIH>2025-08-23</TARIH>
-    <sipariszaman>12:17:43</sipariszaman>
-    <NET_TOPLAM>584.99000000</NET_TOPLAM>
-    <TeslimAlici>Şerife  Budak</TeslimAlici>
-    <TeslimAdresi>Kuşcağız mahallesi 19 Mayıs caddesi bolluk sokak 2/17 Keçiören</TeslimAdresi>
-    <TeslimTelefon>+905345071569</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Keçiören</teslimilce>
-    <faturaalici>Şerife  Budak</faturaalici>
-    <faturaAdresi>Kuşcağız mahallesi 19 Mayıs caddesi bolluk sokak 2/17 Keçiören</faturaAdresi>
-    <faturaTelefon>+905345071569</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Ankara</faturail>
-    <faturailce>Keçiören</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824662</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YESRFEA104_70_M</SECENEK_DEGERI>
-        <BARCODE>6000003115620</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile 7046 Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile 7046 Şort</FATURA_ADI>
-        <FIYAT>554.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YESRFEA104_670</KOD>
-        <VARKOD>4YESRFEA104_670670M</VARKOD>
-        <SECENEK_DEGERI>4YESRFEA104_670_M</SECENEK_DEGERI>
-        <BARCODE>6000003115576</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile 7046 Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile 7046 Şort</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
