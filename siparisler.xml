@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-26T14:11:51 -->
+﻿<!-- generated:2025-08-26T14:17:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2495</SIPARIS_NO>
@@ -142,6 +142,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKE28-1262_18</KOD>
+        <VARKOD>5YKE28-1262_1818L</VARKOD>
         <SECENEK_DEGERI>5YKE28-1262_18_L</SECENEK_DEGERI>
         <BARCODE>6000003362710</BARCODE>
         <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
@@ -2952,6 +2954,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKPNTN5335_01</KOD>
+        <VARKOD>5YKPNTN5335_0101XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_01_XL</SECENEK_DEGERI>
         <BARCODE>6000003269439</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
@@ -5011,8 +5015,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKELTN2514_09</KOD>
-        <VARKOD>5YKELTN2514_0909S</VARKOD>
         <SECENEK_DEGERI>5YKELTN2514_09_S</SECENEK_DEGERI>
         <BARCODE>6000003276987</BARCODE>
         <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
