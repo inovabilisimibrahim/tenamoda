@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-26T15:07:00 -->
+﻿<!-- generated:2025-08-26T15:12:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2496</SIPARIS_NO>
@@ -6437,6 +6437,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YET23-1581_01</KOD>
+        <VARKOD>5YET23-1581_0101L</VARKOD>
         <SECENEK_DEGERI>5YET23-1581_01_L</SECENEK_DEGERI>
         <BARCODE>6000003350809</BARCODE>
         <URUNADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</URUNADI>
@@ -6538,8 +6540,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN3413_08</KOD>
-        <VARKOD>5YKPNTN3413_0808S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3413_08_S</SECENEK_DEGERI>
         <BARCODE>6000003348325</BARCODE>
         <URUNADI>Kadın Beli Lastikli Havuç Kesim Keten Pantolon</URUNADI>
@@ -7676,8 +7676,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN3413_08</KOD>
-        <VARKOD>5YKPNTN3413_0808S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3413_08_S</SECENEK_DEGERI>
         <BARCODE>6000003348325</BARCODE>
         <URUNADI>Kadın Beli Lastikli Havuç Kesim Keten Pantolon</URUNADI>
