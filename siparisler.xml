@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-26T03:25:54 -->
+﻿<!-- generated:2025-08-26T03:31:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2488</SIPARIS_NO>
@@ -1035,89 +1035,6 @@
         <BARCODE>6000003267138</BARCODE>
         <URUNADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</URUNADI>
         <FATURA_ADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2474</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ekicinilgul@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>03:24:37</sipariszaman>
-    <NET_TOPLAM>884.99000000</NET_TOPLAM>
-    <TeslimAlici>Nilgül Ekici</TeslimAlici>
-    <TeslimAdresi>Kırşehir güzler parkı güvenlik </TeslimAdresi>
-    <TeslimTelefon>+905395769333</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Kırşehir</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Nilgül Ekici</faturaalici>
-    <faturaAdresi>Kırşehir güzler parkı güvenlik </faturaAdresi>
-    <faturaTelefon>+905395769333</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Kırşehir</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824741</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKPNTN3396_18</KOD>
-        <VARKOD>5YKPNTN3396_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN3396_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003303348</BARCODE>
-        <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKETFL6020_18</KOD>
-        <VARKOD>4YKETFL6020_1818STD</VARKOD>
-        <SECENEK_DEGERI>4YKETFL6020_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000003136007</BARCODE>
-        <URUNADI>Kadın Yanları Yırtmaçlı File Uzun Etek</URUNADI>
-        <FATURA_ADI>Kadın Yanları Yırtmaçlı File Uzun Etek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
