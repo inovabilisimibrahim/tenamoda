@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-26T16:35:07 -->
+﻿<!-- generated:2025-08-26T16:40:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2496</SIPARIS_NO>
@@ -227,8 +227,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKE28-1262_18</KOD>
-        <VARKOD>5YKE28-1262_1818L</VARKOD>
         <SECENEK_DEGERI>5YKE28-1262_18_L</SECENEK_DEGERI>
         <BARCODE>6000003362710</BARCODE>
         <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
@@ -1077,6 +1075,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKBLNTN999_13</KOD>
+        <VARKOD>5YKBLNTN999_1313S</VARKOD>
         <SECENEK_DEGERI>5YKBLNTN999_13_S</SECENEK_DEGERI>
         <BARCODE>6000003355408</BARCODE>
         <URUNADI>Kadın Kruvaze Yaka Vatkalı Sandy Bluz</URUNADI>
