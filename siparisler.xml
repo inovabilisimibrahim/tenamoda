@@ -1,5 +1,88 @@
-﻿<!-- generated:2025-08-27T16:47:02 -->
+﻿<!-- generated:2025-08-27T16:52:29 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2502</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>15236203002</tcno>
+    <POSTA>atrabellur3@gmail.com</POSTA>
+    <TARIH>2025-08-27</TARIH>
+    <sipariszaman>16:52:23</sipariszaman>
+    <NET_TOPLAM>1484.99000000</NET_TOPLAM>
+    <TeslimAlici>Atra Bellur</TeslimAlici>
+    <TeslimAdresi>Evka3 mah. 119/8 sk. Irmak apt. No:6/4 kat:4 daire:20 Bornova  Irmak apartmanı </TeslimAdresi>
+    <TeslimTelefon>+905074776237</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35050</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bornova</teslimilce>
+    <faturaalici>Atra Bellur</faturaalici>
+    <faturaAdresi>Evka3 mah. 119/8 sk. Irmak apt. No:6/4 kat:4 daire:20 Bornova  Irmak apartmanı </faturaAdresi>
+    <faturaTelefon>+905074776237</faturaTelefon>
+    <faturavergino>15236203002</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35050</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bornova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825021</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKTKTNGR45_14</KOD>
+        <VARKOD>5YKTKTNGR45_1414L</VARKOD>
+        <SECENEK_DEGERI>5YKTKTNGR45_14_L</SECENEK_DEGERI>
+        <BARCODE>6000003374232</BARCODE>
+        <URUNADI>Kadın Yelekli Şort Etekli Takım</URUNADI>
+        <FATURA_ADI>Kadın Yelekli Şort Etekli Takım</FATURA_ADI>
+        <FIYAT>1454.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKTKTNGR45_18</KOD>
+        <VARKOD>5YKTKTNGR45_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKTKTNGR45_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003374270</BARCODE>
+        <URUNADI>Kadın Yelekli Şort Etekli Takım</URUNADI>
+        <FATURA_ADI>Kadın Yelekli Şort Etekli Takım</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2501</SIPARIS_NO>
     <CariHesapKodu>
