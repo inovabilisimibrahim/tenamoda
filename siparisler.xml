@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-27T14:19:04 -->
+﻿<!-- generated:2025-08-27T14:24:29 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2500</SIPARIS_NO>
@@ -169,7 +169,7 @@
     <tcno>33794376754</tcno>
     <POSTA>eliftopp@gmail.com</POSTA>
     <TARIH>2025-08-27</TARIH>
-    <sipariszaman>08:47:26</sipariszaman>
+    <sipariszaman>14:19:32</sipariszaman>
     <NET_TOPLAM>684.99000000</NET_TOPLAM>
     <TeslimAlici>Elif Taşkın</TeslimAlici>
     <TeslimAdresi>915 şok no 12 kat 1 ufuk mahallesi Buca İzmir  Apt 12 </TeslimAdresi>
@@ -329,8 +329,8 @@
     <tcno>
     </tcno>
     <POSTA>zeliha.gunnay@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>14:36:46</sipariszaman>
+    <TARIH>2025-08-27</TARIH>
+    <sipariszaman>14:19:16</sipariszaman>
     <NET_TOPLAM>684.99000000</NET_TOPLAM>
     <TeslimAlici>Zeliha Günay</TeslimAlici>
     <TeslimAdresi>2371 sokak no 21 gültepe izmir konak yavuz selim mahallesi</TeslimAdresi>
@@ -391,6 +391,18 @@
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
@@ -401,8 +413,8 @@
     </CariHesapOzelKodu>
     <tcno>41371549576</tcno>
     <POSTA>m.yalki68@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>13:57:40</sipariszaman>
+    <TARIH>2025-08-27</TARIH>
+    <sipariszaman>14:19:29</sipariszaman>
     <NET_TOPLAM>584.99000000</NET_TOPLAM>
     <TeslimAlici>MEHMET YALKI</TeslimAlici>
     <TeslimAdresi>Denizli Bulvarı.Güzelhisar Mahallesi. Remzibey Apt.No:33 Daire:14 Kat:7</TeslimAdresi>
@@ -485,8 +497,8 @@
     <tcno>
     </tcno>
     <POSTA>gunesm378@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>13:05:40</sipariszaman>
+    <TARIH>2025-08-27</TARIH>
+    <sipariszaman>14:19:34</sipariszaman>
     <NET_TOPLAM>1222.24000000</NET_TOPLAM>
     <TeslimAlici>merve güneş</TeslimAlici>
     <TeslimAdresi>Kemal Mutlu Cad No:147 Güneş Gıda  güneş apt</TeslimAdresi>
@@ -923,8 +935,8 @@
     </CariHesapOzelKodu>
     <tcno>57724013144</tcno>
     <POSTA>mustafaakdeniz849@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>08:51:00</sipariszaman>
+    <TARIH>2025-08-27</TARIH>
+    <sipariszaman>14:19:21</sipariszaman>
     <NET_TOPLAM>484.99000000</NET_TOPLAM>
     <TeslimAlici>Mustafa Akdeniz</TeslimAlici>
     <TeslimAdresi>Görece göçmen konutları hürriyet mah vagon cafe menderes izmir Vagon</TeslimAdresi>
