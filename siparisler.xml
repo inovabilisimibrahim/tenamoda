@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-28T14:04:48 -->
+﻿<!-- generated:2025-08-28T14:10:22 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2505</SIPARIS_NO>
@@ -1671,8 +1671,8 @@
     </CariHesapOzelKodu>
     <tcno>11111111111</tcno>
     <POSTA>polat.nuray.62.35@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>14:32:28</sipariszaman>
+    <TARIH>2025-08-28</TARIH>
+    <sipariszaman>14:05:14</sipariszaman>
     <NET_TOPLAM>2014.97000000</NET_TOPLAM>
     <TeslimAlici>Nuray Polat Pekal</TeslimAlici>
     <TeslimAdresi>Kirazpınar Mahallesi Kirazpınar Evleri 5797 ada küme evleri Emlak konutları 1. Etap B3 Blok Daire 4 B3 D.4</TeslimAdresi>
@@ -5785,115 +5785,6 @@
         <URUNADI>Erkek Kapüşonlu Kanguru Cepli Üç İplik Şardonlu Sweatshirt</URUNADI>
         <FATURA_ADI>Erkek Kapüşonlu Kanguru Cepli Üç İplik Şardonlu Sweatshirt</FATURA_ADI>
         <FIYAT>622.24000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2425</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>45106525200</tcno>
-    <POSTA>esrakogul39@gmail.com</POSTA>
-    <TARIH>2025-08-18</TARIH>
-    <sipariszaman>14:05:39</sipariszaman>
-    <NET_TOPLAM>1389.98000000</NET_TOPLAM>
-    <TeslimAlici>Esra Akoğul </TeslimAlici>
-    <TeslimAdresi>Pınar Mah. 1268.sokak no.8 kat.3 daire.3</TeslimAdresi>
-    <TeslimTelefon>+905531185381</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>39100</teslimPostaKodu>
-    <teslimil>Kırklareli</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Esra Akoğul </faturaalici>
-    <faturaAdresi>Pınar Mah. 1268.sokak no.8 kat.3 daire.3</faturaAdresi>
-    <faturaTelefon>+905531185381</faturaTelefon>
-    <faturavergino>45106525200</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>39100</faturaPostaKodu>
-    <faturail>Kırklareli</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824251</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTN1002_62</KOD>
-        <VARKOD>5YKELTN1002_6262L</VARKOD>
-        <SECENEK_DEGERI>5YKELTN1002_62_L</SECENEK_DEGERI>
-        <BARCODE>6000003355910</BARCODE>
-        <URUNADI>Kadın Önü Pencere Detaylı Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Pencere Detaylı Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELT11535_18</KOD>
-        <VARKOD>5YKELT11535_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKELT11535_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003335530</BARCODE>
-        <URUNADI>Kadın Beli Büzgülü Dik Yaka Elbise</URUNADI>
-        <FATURA_ADI>Kadın Beli Büzgülü Dik Yaka Elbise</FATURA_ADI>
-        <FIYAT>604.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKYLTN2530_18</KOD>
-        <VARKOD>5YKYLTN2530_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKYLTN2530_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003327153</BARCODE>
-        <URUNADI>Kadın Yanı Drapeli Gold Düğmeli Yelek</URUNADI>
-        <FATURA_ADI>Kadın Yanı Drapeli Gold Düğmeli Yelek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTN2513_18</KOD>
-        <VARKOD>5YKELTN2513_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKELTN2513_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003359864</BARCODE>
-        <URUNADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</URUNADI>
-        <FATURA_ADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
