@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-28T10:36:03 -->
+﻿<!-- generated:2025-08-28T10:41:34 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2505</SIPARIS_NO>
@@ -5978,91 +5978,6 @@
         <BARCODE>6000003365391</BARCODE>
         <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
         <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2423</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>meryem.bakan@outlook.com</POSTA>
-    <TARIH>2025-08-18</TARIH>
-    <sipariszaman>10:40:46</sipariszaman>
-    <NET_TOPLAM>884.99000000</NET_TOPLAM>
-    <TeslimAlici>Meryem Yanç</TeslimAlici>
-    <TeslimAdresi>Bayramoğlu mah orkide vilları vişnezade sok no17/13 Orkide villaları </TeslimAdresi>
-    <TeslimTelefon>+905325842049</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>41700</teslimPostaKodu>
-    <teslimil>Kocaeli</teslimil>
-    <teslimilce>Darıca</teslimilce>
-    <faturaalici>Meryem Yanç</faturaalici>
-    <faturaAdresi>Bayramoğlu mah orkide vilları vişnezade sok no17/13 Orkide villaları </faturaAdresi>
-    <faturaTelefon>+905325842049</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>41700</faturaPostaKodu>
-    <faturail>Kocaeli</faturail>
-    <faturailce>Darıca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824231</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETTNGRZ6_18</KOD>
-        <VARKOD>5YKETTNGRZ6_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKETTNGRZ6_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003370227</BARCODE>
-        <URUNADI>Kadın Pileli Kemerli Mini Etek</URUNADI>
-        <FATURA_ADI>Kadın Pileli Kemerli Mini Etek</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETTNGRZ6_70</KOD>
-        <VARKOD>5YKETTNGRZ6_7070L</VARKOD>
-        <SECENEK_DEGERI>5YKETTNGRZ6_70_L</SECENEK_DEGERI>
-        <BARCODE>6000003370289</BARCODE>
-        <URUNADI>Kadın Pileli Kemerli Mini Etek</URUNADI>
-        <FATURA_ADI>Kadın Pileli Kemerli Mini Etek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
