@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-28T13:09:40 -->
+﻿<!-- generated:2025-08-28T13:15:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2505</SIPARIS_NO>
@@ -6217,87 +6217,6 @@
         <BARCODE>6000003374461</BARCODE>
         <URUNADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</URUNADI>
         <FATURA_ADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2416</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>42898316450</tcno>
-    <POSTA>munevver.tenekeci@fokker.com</POSTA>
-    <TARIH>2025-08-18</TARIH>
-    <sipariszaman>13:14:28</sipariszaman>
-    <NET_TOPLAM>564.99000000</NET_TOPLAM>
-    <TeslimAlici>Münevver Tenekeci</TeslimAlici>
-    <TeslimAdresi>Hürriyet Mahallesi Namık Kemal Caddesi No.71 D.1 Buca İzmir 1</TeslimAdresi>
-    <TeslimTelefon>+905352017823</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35035</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Münevver Tenekeci</faturaalici>
-    <faturaAdresi>Hürriyet Mahallesi Namık Kemal Caddesi No.71 D.1 Buca İzmir 1</faturaAdresi>
-    <faturaTelefon>+905352017823</faturaTelefon>
-    <faturavergino>42898316450</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35035</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824161</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKELTN1003_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003355958</BARCODE>
-        <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</FATURA_ADI>
-        <FIYAT>534.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTN1003_18</KOD>
-        <VARKOD>5YKELTN1003_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKELTN1003_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003356016</BARCODE>
-        <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
