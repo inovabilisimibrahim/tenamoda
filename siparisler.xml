@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-28T19:42:40 -->
+﻿<!-- generated:2025-08-28T19:48:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2506</SIPARIS_NO>
@@ -1790,19 +1790,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKPNTN2304_18</KOD>
-        <VARKOD>5YKPNTN2304_181836</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN2304_18_36</SECENEK_DEGERI>
-        <BARCODE>6000003379442</BARCODE>
-        <URUNADI>Kadın Dar Paça Skinny Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Dar Paça Skinny Pantolon</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
         <KOD>5YKELTN6164_18</KOD>
         <VARKOD>5YKELTN6164_1818S</VARKOD>
         <SECENEK_DEGERI>5YKELTN6164_18_S</SECENEK_DEGERI>
@@ -1862,6 +1849,14 @@
         <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
         <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKPNTN2304_18_36</SECENEK_DEGERI>
+        <FIYAT>754.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
