@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-29T13:50:58 -->
+﻿<!-- generated:2025-08-29T13:56:28 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2507</SIPARIS_NO>
@@ -5448,89 +5448,6 @@
         <URUNADI>Kadın Boyundan Bağlamalı Sırtı Açık Uzun Salaş Elbise</URUNADI>
         <FATURA_ADI>Kadın Boyundan Bağlamalı Sırtı Açık Uzun Salaş Elbise</FATURA_ADI>
         <FIYAT>834.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2433</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>43360111436</tcno>
-    <POSTA>sevgibeytasdelibas66@gmail.com</POSTA>
-    <TARIH>2025-08-19</TARIH>
-    <sipariszaman>13:52:01</sipariszaman>
-    <NET_TOPLAM>484.99000000</NET_TOPLAM>
-    <TeslimAlici>Sevgi  Beytaş </TeslimAlici>
-    <TeslimAdresi>10002 sokak No 9 aosb Çiğli İzmir  9</TeslimAdresi>
-    <TeslimTelefon>+905068364340</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35620</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Çiğli</teslimilce>
-    <faturaalici>Sevgi  Beytaş </faturaalici>
-    <faturaAdresi>10002 sokak No 9 aosb Çiğli İzmir  9</faturaAdresi>
-    <faturaTelefon>+905068364340</faturaTelefon>
-    <faturavergino>43360111436</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35620</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Çiğli</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824331</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTN1001_13</KOD>
-        <VARKOD>5YKELTN1001_1313L</VARKOD>
-        <SECENEK_DEGERI>5YKELTN1001_13_L</SECENEK_DEGERI>
-        <BARCODE>6000003355705</BARCODE>
-        <URUNADI>Kadın Ön Yırtmaçlı Arkası V Detaylı Askılı Elbise</URUNADI>
-        <FATURA_ADI>Kadın Ön Yırtmaçlı Arkası V Detaylı Askılı Elbise</FATURA_ADI>
-        <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKB17-1290_18</KOD>
-        <VARKOD>5YKB17-1290_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKB17-1290_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003285033</BARCODE>
-        <URUNADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</URUNADI>
-        <FATURA_ADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
