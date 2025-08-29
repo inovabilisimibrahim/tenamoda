@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-29T03:03:45 -->
+﻿<!-- generated:2025-08-29T03:09:22 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2506</SIPARIS_NO>
@@ -7908,100 +7908,6 @@
         <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2289</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>karabinacan061@gmail.com</POSTA>
-    <TARIH>2025-08-19</TARIH>
-    <sipariszaman>03:04:57</sipariszaman>
-    <NET_TOPLAM>1739.98000000</NET_TOPLAM>
-    <TeslimAlici>Nurseda  Karabina</TeslimAlici>
-    <TeslimAdresi>Fatih mahallesi 726 sokak no 3 daire 3 Uzman Yapı no 3 daire 3</TeslimAdresi>
-    <TeslimTelefon>+905057973962</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>24000</teslimPostaKodu>
-    <teslimil>Erzincan</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Nurseda  Karabina</faturaalici>
-    <faturaAdresi>Fatih mahallesi 726 sokak no 3 daire 3 Uzman Yapı no 3 daire 3</faturaAdresi>
-    <faturaTelefon>+905057973962</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>24000</faturaPostaKodu>
-    <faturail>Erzincan</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914822891</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKPNTN3398_18</KOD>
-        <VARKOD>5YKPNTN3398_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN3398_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003303195</BARCODE>
-        <URUNADI>Kadın Yan Düğmeli Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Yan Düğmeli Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN3314_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003303492</BARCODE>
-        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>3YKPNTN5040_18_L</SECENEK_DEGERI>
-        <BARCODE>6000002994837</BARCODE>
-        <URUNADI>Kadın Yüksel Bel Beli Bağlamalı Palazzo Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Yüksel Bel Beli Bağlamalı Palazzo Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
