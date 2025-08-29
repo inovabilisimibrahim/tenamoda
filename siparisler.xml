@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-29T18:17:13 -->
+﻿<!-- generated:2025-08-29T18:22:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2509</SIPARIS_NO>
@@ -5662,89 +5662,6 @@
         <URUNADI>Kadın Boyundan Bağlamalı Sırtı Açık Uzun Salaş Elbise</URUNADI>
         <FATURA_ADI>Kadın Boyundan Bağlamalı Sırtı Açık Uzun Salaş Elbise</FATURA_ADI>
         <FIYAT>834.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2427</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>28633187110</tcno>
-    <POSTA>gokceinci10@hotmail.com</POSTA>
-    <TARIH>2025-08-19</TARIH>
-    <sipariszaman>18:17:44</sipariszaman>
-    <NET_TOPLAM>1084.99000000</NET_TOPLAM>
-    <TeslimAlici>Fatma  İnci </TeslimAlici>
-    <TeslimAdresi>30 ağustos mh 7218sk Cebeci aura1 sitesi A blok kat4 daire39 kent2 menemen  Cebeci aura1 sitesi A blok kat4 daire39 </TeslimAdresi>
-    <TeslimTelefon>+905057292178</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35663</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Menemen</teslimilce>
-    <faturaalici>Fatma  İnci </faturaalici>
-    <faturaAdresi>30 ağustos mh 7218sk Cebeci aura1 sitesi A blok kat4 daire39 kent2 menemen  Cebeci aura1 sitesi A blok kat4 daire39 </faturaAdresi>
-    <faturaTelefon>+905057292178</faturaTelefon>
-    <faturavergino>28633187110</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35663</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Menemen</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824271</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKBLTNGR18_10</KOD>
-        <VARKOD>5YKBLTNGR18_1010S</VARKOD>
-        <SECENEK_DEGERI>5YKBLTNGR18_10_S</SECENEK_DEGERI>
-        <BARCODE>6000003369610</BARCODE>
-        <URUNADI>Kadın Double Kol Çift Cepli Kuşaklı Fermuarlı Gabardin Bluz</URUNADI>
-        <FATURA_ADI>Kadın Double Kol Çift Cepli Kuşaklı Fermuarlı Gabardin Bluz</FATURA_ADI>
-        <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTNGR31_18</KOD>
-        <VARKOD>5YKELTNGR31_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKELTNGR31_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003374904</BARCODE>
-        <URUNADI>Kadın Beli Oturtmalı Gömlek Yaka Elbise</URUNADI>
-        <FATURA_ADI>Kadın Beli Oturtmalı Gömlek Yaka Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
