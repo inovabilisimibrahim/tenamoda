@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-30T12:02:34 -->
+﻿<!-- generated:2025-08-30T12:08:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2510</SIPARIS_NO>
@@ -4457,87 +4457,6 @@
         <URUNADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</URUNADI>
         <FATURA_ADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</FATURA_ADI>
         <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2450</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>16772307148</tcno>
-    <POSTA>nurcanyerebakann@gmail.com</POSTA>
-    <TARIH>2025-08-20</TARIH>
-    <sipariszaman>12:02:50</sipariszaman>
-    <NET_TOPLAM>984.99000000</NET_TOPLAM>
-    <TeslimAlici>Nurcan  Erkan</TeslimAlici>
-    <TeslimAdresi>Hamidiye mah. Akşemsettin sk.  Sertaş sitesi A1 D:29 </TeslimAdresi>
-    <TeslimTelefon>+905414875338</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Kağıthane</teslimilce>
-    <faturaalici>Nurcan  Erkan</faturaalici>
-    <faturaAdresi>Hamidiye mah. Akşemsettin sk.  Sertaş sitesi A1 D:29 </faturaAdresi>
-    <faturaTelefon>+905414875338</faturaTelefon>
-    <faturavergino>16772307148</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Kağıthane</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824501</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKP66-1845_14</KOD>
-        <VARKOD>5YKP66-1845_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1845_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003365605</BARCODE>
-        <URUNADI>Kadın Bol Paça Beli Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Bol Paça Beli Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKY37-1844_14</KOD>
-        <VARKOD>5YKY37-1844_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKY37-1844_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003365452</BARCODE>
-        <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
-        <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
