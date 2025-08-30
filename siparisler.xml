@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-08-30T12:13:33 -->
+﻿<!-- generated:2025-08-30T12:18:59 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2510</SIPARIS_NO>
@@ -6815,24 +6815,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN3314_05</KOD>
-        <VARKOD>5YKPNTN3314_0505M</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN3314_05_M</SECENEK_DEGERI>
-        <BARCODE>6000003303447</BARCODE>
-        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>854.99000000</FIYAT>
+        <SECENEK_DEGERI>5YKPNTN3314_70_M</SECENEK_DEGERI>
+        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>5YKPNTN3314_70_M</SECENEK_DEGERI>
-        <BARCODE>6000003303539</BARCODE>
-        <URUNADI>Kadın Çift Fleto Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Fleto Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
+        <SECENEK_DEGERI>5YKPNTN3314_05_M</SECENEK_DEGERI>
+        <FIYAT>854.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
