@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-01T02:29:03 -->
+﻿<!-- generated:2025-09-01T02:34:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2518</SIPARIS_NO>
@@ -4863,89 +4863,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2451</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>23296308766</tcno>
-    <POSTA>aysenkbay@gmail.com</POSTA>
-    <TARIH>2025-08-22</TARIH>
-    <sipariszaman>02:34:12</sipariszaman>
-    <NET_TOPLAM>1084.99000000</NET_TOPLAM>
-    <TeslimAlici>Ayşen Acar</TeslimAlici>
-    <TeslimAdresi>Aydın efeler cuma mahallesi 215 sokak no 62 başolhan inşaat Başolhan apartmanı no 62</TeslimAdresi>
-    <TeslimTelefon>+905067710718</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>09000</teslimPostaKodu>
-    <teslimil>Aydın</teslimil>
-    <teslimilce>Efeler</teslimilce>
-    <faturaalici>Ayşen Acar</faturaalici>
-    <faturaAdresi>Aydın efeler cuma mahallesi 215 sokak no 62 başolhan inşaat Başolhan apartmanı no 62</faturaAdresi>
-    <faturaTelefon>+905067710718</faturaTelefon>
-    <faturavergino>23296308766</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>09000</faturaPostaKodu>
-    <faturail>Aydın</faturail>
-    <faturailce>Efeler</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824511</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKSRTNGR26_02</KOD>
-        <VARKOD>5YKSRTNGR26_0202M</VARKOD>
-        <SECENEK_DEGERI>5YKSRTNGR26_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003374751</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Stoplu Bolon Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Stoplu Bolon Şort Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKTKTNGR33_14</KOD>
-        <VARKOD>5YKTKTNGR33_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKTKTNGR33_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003374454</BARCODE>
-        <URUNADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</URUNADI>
-        <FATURA_ADI>Kadın Croplu-Palozzo Pantolonlu Desenli Takım</FATURA_ADI>
-        <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
