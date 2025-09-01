@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-01T11:43:31 -->
+﻿<!-- generated:2025-09-01T11:48:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2518</SIPARIS_NO>
@@ -4117,85 +4117,6 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
-    <SIPARIS_NO>2463</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>esenhulyaesen@gmail.com</POSTA>
-    <TARIH>2025-08-22</TARIH>
-    <sipariszaman>11:46:49</sipariszaman>
-    <NET_TOPLAM>984.99000000</NET_TOPLAM>
-    <TeslimAlici>Hülya Esen</TeslimAlici>
-    <TeslimAdresi>Barış Mahallesi 337 Sokak No:128  Daire:1 Çağlayan Apt</TeslimAdresi>
-    <TeslimTelefon>+905340751601</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Hülya Esen</faturaalici>
-    <faturaAdresi>Barış Mahallesi 337 Sokak No:128  Daire:1 Çağlayan Apt</faturaAdresi>
-    <faturaTelefon>+905340751601</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824631</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKE29-5128_670_M</SECENEK_DEGERI>
-        <BARCODE>6000003382855</BARCODE>
-        <URUNADI>Kadın Pileli Midi Boy Parçalı Kırışık Etek</URUNADI>
-        <FATURA_ADI>Kadın Pileli Midi Boy Parçalı Kırışık Etek</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKE29-5128_70_M</SECENEK_DEGERI>
-        <BARCODE>6000003382886</BARCODE>
-        <URUNADI>Kadın Pileli Midi Boy Parçalı Kırışık Etek</URUNADI>
-        <FATURA_ADI>Kadın Pileli Midi Boy Parçalı Kırışık Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
     <SIPARIS_NO>2462</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -4433,87 +4354,6 @@
         <URUNADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</URUNADI>
         <FATURA_ADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2455</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>14422428994</tcno>
-    <POSTA>sedaozbakir03@gmail.com</POSTA>
-    <TARIH>2025-08-22</TARIH>
-    <sipariszaman>11:47:49</sipariszaman>
-    <NET_TOPLAM>842.24000000</NET_TOPLAM>
-    <TeslimAlici>Seda Özbakır </TeslimAlici>
-    <TeslimAdresi>Taşliman mah.Karayel sok.Yücel Apt.No:10/13</TeslimAdresi>
-    <TeslimTelefon>+905524096588</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>77300</teslimPostaKodu>
-    <teslimil>Yalova</teslimil>
-    <teslimilce>Çınarcık</teslimilce>
-    <faturaalici>Seda Özbakır </faturaalici>
-    <faturaAdresi>Taşliman mah.Karayel sok.Yücel Apt.No:10/13</faturaAdresi>
-    <faturaTelefon>+905524096588</faturaTelefon>
-    <faturavergino>14422428994</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>77300</faturaPostaKodu>
-    <faturail>Yalova</faturail>
-    <faturailce>Çınarcık</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824551</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN5335_01_XL</SECENEK_DEGERI>
-        <BARCODE>6000003269439</BARCODE>
-        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN5335_18</KOD>
-        <VARKOD>5YKPNTN5335_1818XL</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5335_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003269590</BARCODE>
-        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
-        <FIYAT>812.24000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
