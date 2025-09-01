@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-01T14:14:36 -->
+﻿<!-- generated:2025-09-01T14:19:58 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2518</SIPARIS_NO>
@@ -414,111 +414,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2513</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>18187720116</tcno>
-    <POSTA>haticeciftcioglu20@gmail.com</POSTA>
-    <TARIH>2025-08-30</TARIH>
-    <sipariszaman>20:19:21</sipariszaman>
-    <NET_TOPLAM>1559.48000000</NET_TOPLAM>
-    <TeslimAlici>Hatice  Çelebi</TeslimAlici>
-    <TeslimAdresi>Şirintepe mah köklüce sok no 2 kat 3 Mehmet akifbey ap.daire 6</TeslimAdresi>
-    <TeslimTelefon>+905322581680</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>26000</teslimPostaKodu>
-    <teslimil>Eskişehir</teslimil>
-    <teslimilce>Tepebaşı</teslimilce>
-    <faturaalici>Hatice  Çelebi</faturaalici>
-    <faturaAdresi>Şirintepe mah köklüce sok no 2 kat 3 Mehmet akifbey ap.daire 6</faturaAdresi>
-    <faturaTelefon>+905322581680</faturaTelefon>
-    <faturavergino>18187720116</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>26000</faturaPostaKodu>
-    <faturail>Eskişehir</faturail>
-    <faturailce>Tepebaşı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825131</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YETSTTN303_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003303881</BARCODE>
-        <URUNADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</FATURA_ADI>
-        <FIYAT>622.24000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YETSTTN303_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003303881</BARCODE>
-        <URUNADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YEPNFEAT20_B02</KOD>
-        <VARKOD>5YEPNFEAT20_B02B02L</VARKOD>
-        <SECENEK_DEGERI>5YEPNFEAT20_B02_L</SECENEK_DEGERI>
-        <BARCODE>6000003252240</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
-        <FIYAT>907.24000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSTTN104_01</KOD>
-        <VARKOD>5YETSTTN104_0101XL</VARKOD>
-        <SECENEK_DEGERI>5YETSTTN104_01_XL</SECENEK_DEGERI>
-        <BARCODE>6000003304413</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
