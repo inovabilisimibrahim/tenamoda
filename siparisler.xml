@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-01T10:38:37 -->
+﻿<!-- generated:2025-09-01T10:44:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2518</SIPARIS_NO>
@@ -172,8 +172,8 @@
     </CariHesapOzelKodu>
     <tcno>23990408656</tcno>
     <POSTA>sunagezer96@gmail.com</POSTA>
-    <TARIH>2025-08-31</TARIH>
-    <sipariszaman>19:10:51</sipariszaman>
+    <TARIH>2025-09-01</TARIH>
+    <sipariszaman>10:40:24</sipariszaman>
     <NET_TOPLAM>1084.99000000</NET_TOPLAM>
     <TeslimAlici>Suna  Gezer </TeslimAlici>
     <TeslimAdresi>Kazımdirik mah Lozan caddesi  Vural apartman no:19 kat:2 daire:5</TeslimAdresi>
@@ -4740,129 +4740,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2452</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>23597301640</tcno>
-    <POSTA>hazalyarenayar@gmail.com</POSTA>
-    <TARIH>2025-08-22</TARIH>
-    <sipariszaman>10:38:36</sipariszaman>
-    <NET_TOPLAM>2714.97000000</NET_TOPLAM>
-    <TeslimAlici>Hazal yaren  Adıyaman</TeslimAlici>
-    <TeslimAdresi>Pınarbaşı Mah. Dumlupınar Bulvarı Akdeniz Üniversitesi Hastanesi K Blok Zemin Kat Fizyoterapistler Odası </TeslimAdresi>
-    <TeslimTelefon>+905546527316</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>07070</teslimPostaKodu>
-    <teslimil>Antalya</teslimil>
-    <teslimilce>Konyaaltı</teslimilce>
-    <faturaalici>Hazal yaren  Adıyaman</faturaalici>
-    <faturaAdresi>Pınarbaşı Mah. Dumlupınar Bulvarı Akdeniz Üniversitesi Hastanesi K Blok Zemin Kat Fizyoterapistler Odası </faturaAdresi>
-    <faturaTelefon>+905546527316</faturaTelefon>
-    <faturavergino>23597301640</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>07070</faturaPostaKodu>
-    <faturail>Antalya</faturail>
-    <faturailce>Konyaaltı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914824521</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTN1001_09</KOD>
-        <VARKOD>5YKELTN1001_0909M</VARKOD>
-        <SECENEK_DEGERI>5YKELTN1001_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003355682</BARCODE>
-        <URUNADI>Kadın Ön Yırtmaçlı Arkası V Detaylı Askılı Elbise</URUNADI>
-        <FATURA_ADI>Kadın Ön Yırtmaçlı Arkası V Detaylı Askılı Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN2545_90</KOD>
-        <VARKOD>5YKPNTN2545_9090S</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN2545_90_S</SECENEK_DEGERI>
-        <BARCODE>6000003327498</BARCODE>
-        <URUNADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</FATURA_ADI>
-        <FIYAT>804.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETTN2547_04</KOD>
-        <VARKOD>5YKETTN2547_0404S</VARKOD>
-        <SECENEK_DEGERI>5YKETTN2547_04_S</SECENEK_DEGERI>
-        <BARCODE>6000003329102</BARCODE>
-        <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Kemerli Pileli Şort Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKSRTNGR26_02</KOD>
-        <VARKOD>5YKSRTNGR26_0202S</VARKOD>
-        <SECENEK_DEGERI>5YKSRTNGR26_02_S</SECENEK_DEGERI>
-        <BARCODE>6000003374768</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Stoplu Bolon Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Stoplu Bolon Şort Etek</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKSRTNGR19_10</KOD>
-        <VARKOD>5YKSRTNGR19_1010M</VARKOD>
-        <SECENEK_DEGERI>5YKSRTNGR19_10_M</SECENEK_DEGERI>
-        <BARCODE>6000003369306</BARCODE>
-        <URUNADI>Kadın Beli Kendinden Kemerli Gabardin Şort</URUNADI>
-        <FATURA_ADI>Kadın Beli Kendinden Kemerli Gabardin Şort</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKP66-1839_18</KOD>
-        <VARKOD>5YKP66-1839_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1839_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003365285</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Gizli Cep Detaylı Salaş Kesim Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Gizli Cep Detaylı Salaş Kesim Pantolon</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
