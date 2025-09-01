@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-01T19:00:56 -->
+﻿<!-- generated:2025-09-01T19:06:15 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2518</SIPARIS_NO>
@@ -4111,7 +4111,7 @@
     <tcno>13841285574</tcno>
     <POSTA>elifkel0635@gmail.com</POSTA>
     <TARIH>2025-09-01</TARIH>
-    <sipariszaman>18:58:09</sipariszaman>
+    <sipariszaman>19:00:54</sipariszaman>
     <NET_TOPLAM>1284.99000000</NET_TOPLAM>
     <TeslimAlici>Elif Kel</TeslimAlici>
     <TeslimAdresi>75.Yıl Mahallesi 1609/12 sokak Birkent Sitesi Başak Apartmanı no:6B daire:23 Bayraklı İzmir  Başak Apartmanı daire:23 </TeslimAdresi>
@@ -4144,6 +4144,44 @@
     <ODEME_SEKLI>2</ODEME_SEKLI>
     <not>
     </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKT18-5126_670_S</SECENEK_DEGERI>
+        <BARCODE>6000003382985</BARCODE>
+        <URUNADI>Kadın İp Askılı Kısa Pantolonlu Kırışık Takım</URUNADI>
+        <FATURA_ADI>Kadın İp Askılı Kısa Pantolonlu Kırışık Takım</FATURA_ADI>
+        <FIYAT>1254.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKY37-1844_70</KOD>
+        <VARKOD>5YKY37-1844_7070S</VARKOD>
+        <SECENEK_DEGERI>5YKY37-1844_70_S</SECENEK_DEGERI>
+        <BARCODE>6000003365520</BARCODE>
+        <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
+        <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2365</SIPARIS_NO>
