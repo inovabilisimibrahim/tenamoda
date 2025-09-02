@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-02T11:21:11 -->
+﻿<!-- generated:2025-09-02T11:26:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2520</SIPARIS_NO>
@@ -1201,6 +1201,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YETSFAL003_04</KOD>
+        <VARKOD>5YETSFAL003_04044XL</VARKOD>
         <SECENEK_DEGERI>5YETSFAL003_04_4XL</SECENEK_DEGERI>
         <BARCODE>6000003338067</BARCODE>
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
@@ -4116,8 +4118,8 @@
     </CariHesapOzelKodu>
     <tcno>13841285574</tcno>
     <POSTA>elifkel0635@gmail.com</POSTA>
-    <TARIH>2025-09-01</TARIH>
-    <sipariszaman>19:00:54</sipariszaman>
+    <TARIH>2025-09-02</TARIH>
+    <sipariszaman>11:24:54</sipariszaman>
     <NET_TOPLAM>1284.99000000</NET_TOPLAM>
     <TeslimAlici>Elif Kel</TeslimAlici>
     <TeslimAdresi>75.Yıl Mahallesi 1609/12 sokak Birkent Sitesi Başak Apartmanı no:6B daire:23 Bayraklı İzmir  Başak Apartmanı daire:23 </TeslimAdresi>
