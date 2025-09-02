@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-02T13:51:07 -->
+﻿<!-- generated:2025-09-02T13:56:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2521</SIPARIS_NO>
@@ -44,6 +44,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKELTN2514_09</KOD>
+        <VARKOD>5YKELTN2514_0909L</VARKOD>
         <SECENEK_DEGERI>5YKELTN2514_09_L</SECENEK_DEGERI>
         <BARCODE>6000003276963</BARCODE>
         <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
@@ -1323,6 +1325,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKELTN2514_09</KOD>
+        <VARKOD>5YKELTN2514_0909L</VARKOD>
         <SECENEK_DEGERI>5YKELTN2514_09_L</SECENEK_DEGERI>
         <BARCODE>6000003276963</BARCODE>
         <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
@@ -1334,6 +1338,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKELTN2514_09</KOD>
+        <VARKOD>5YKELTN2514_0909L</VARKOD>
         <SECENEK_DEGERI>5YKELTN2514_09_L</SECENEK_DEGERI>
         <BARCODE>6000003276963</BARCODE>
         <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
