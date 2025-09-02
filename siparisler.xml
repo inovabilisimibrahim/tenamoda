@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-02T11:15:47 -->
+﻿<!-- generated:2025-09-02T11:21:11 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2520</SIPARIS_NO>
@@ -4105,87 +4105,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2461</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>esaret_tug@hotmail.com</POSTA>
-    <TARIH>2025-08-23</TARIH>
-    <sipariszaman>11:19:49</sipariszaman>
-    <NET_TOPLAM>684.99000000</NET_TOPLAM>
-    <TeslimAlici>Seyfettin  Akkuş</TeslimAlici>
-    <TeslimAdresi>Emek mah.f.s.m cad.kuzey sok no.6 c blok daire 2 darıca kocaeli  C blok daire 2</TeslimAdresi>
-    <TeslimTelefon>+905355887893</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>41700</teslimPostaKodu>
-    <teslimil>Kocaeli</teslimil>
-    <teslimilce>Darıca</teslimilce>
-    <faturaalici>Seyfettin  Akkuş</faturaalici>
-    <faturaAdresi>Emek mah.f.s.m cad.kuzey sok no.6 c blok daire 2 darıca kocaeli  C blok daire 2</faturaAdresi>
-    <faturaTelefon>+905355887893</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>41700</faturaPostaKodu>
-    <faturail>Kocaeli</faturail>
-    <faturailce>Darıca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824611</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YETSCL4145_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003289536</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
-        <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YETSCL4145_010_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003289635</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
