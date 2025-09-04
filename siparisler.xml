@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-04T10:47:08 -->
+﻿<!-- generated:2025-09-04T10:58:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2523</SIPARIS_NO>
@@ -3729,91 +3729,6 @@
         <URUNADI>Erkek V Patlı Süprem Kumaş Tişört</URUNADI>
         <FATURA_ADI>Erkek V Patlı Süprem Kumaş Tişört</FATURA_ADI>
         <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2465</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>arzusahin_2006@hotmail.com</POSTA>
-    <TARIH>2025-08-25</TARIH>
-    <sipariszaman>10:47:02</sipariszaman>
-    <NET_TOPLAM>684.99000000</NET_TOPLAM>
-    <TeslimAlici>ARZU ŞAHİN</TeslimAlici>
-    <TeslimAdresi>PTT Başmüdürlüğü bahçelievler mah. 296 sok.no 1 </TeslimAdresi>
-    <TeslimTelefon>+905356177555</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>52102</teslimPostaKodu>
-    <teslimil>Ordu</teslimil>
-    <teslimilce>Altınordu</teslimilce>
-    <faturaalici>ARZU ŞAHİN</faturaalici>
-    <faturaAdresi>PTT Başmüdürlüğü bahçelievler mah. 296 sok.no 1 </faturaAdresi>
-    <faturaTelefon>+905356177555</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>52102</faturaPostaKodu>
-    <faturail>Ordu</faturail>
-    <faturailce>Altınordu</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824651</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTN6224_BGU</KOD>
-        <VARKOD>5YKELTN6224_BGUBGUL</VARKOD>
-        <SECENEK_DEGERI>5YKELTN6224_BGU_L</SECENEK_DEGERI>
-        <BARCODE>6000003274976</BARCODE>
-        <URUNADI>Kadın İp Askılı Likralı Viskon Uzun Elbise</URUNADI>
-        <FATURA_ADI>Kadın İp Askılı Likralı Viskon Uzun Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKSRTNGR19_02</KOD>
-        <VARKOD>5YKSRTNGR19_0202L</VARKOD>
-        <SECENEK_DEGERI>5YKSRTNGR19_02_L</SECENEK_DEGERI>
-        <BARCODE>6000003369269</BARCODE>
-        <URUNADI>Kadın Beli Kendinden Kemerli Gabardin Şort</URUNADI>
-        <FATURA_ADI>Kadın Beli Kendinden Kemerli Gabardin Şort</FATURA_ADI>
-        <FIYAT>654.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
