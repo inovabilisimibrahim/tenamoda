@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-04T09:53:19 -->
+﻿<!-- generated:2025-09-04T09:58:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2523</SIPARIS_NO>
@@ -1213,6 +1213,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSFAL003_01</KOD>
+        <VARKOD>5YETSFAL003_01014XL</VARKOD>
         <SECENEK_DEGERI>5YETSFAL003_01_4XL</SECENEK_DEGERI>
         <BARCODE>6000003337923</BARCODE>
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
