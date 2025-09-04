@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-04T12:24:41 -->
+﻿<!-- generated:2025-09-04T12:29:57 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2524</SIPARIS_NO>
@@ -3179,89 +3179,6 @@
         <URUNADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</URUNADI>
         <FATURA_ADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</FATURA_ADI>
         <FIYAT>654.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2475</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ronicannnyil@gmail.com</POSTA>
-    <TARIH>2025-08-25</TARIH>
-    <sipariszaman>12:25:41</sipariszaman>
-    <NET_TOPLAM>734.99000000</NET_TOPLAM>
-    <TeslimAlici>Gülsüm Türkan</TeslimAlici>
-    <TeslimAdresi>Çankaya mahallesi 201 cadde no:5 b blok kapı:85 karaağaç sitesi (yelken towers) Karaağaç sitesi(yelken towers)</TeslimAdresi>
-    <TeslimTelefon>+905058435129</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Şanlıurfa</teslimil>
-    <teslimilce>Karaköprü</teslimilce>
-    <faturaalici>Gülsüm Türkan</faturaalici>
-    <faturaAdresi>Çankaya mahallesi 301 cadde no:5 b blok no:85 karaağaç sitesi  Karaağaç sitesi(yelken towers)</faturaAdresi>
-    <faturaTelefon>+905058435129</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Şanlıurfa</faturail>
-    <faturailce>Karaköprü</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824751</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKPNTN5045_01</KOD>
-        <VARKOD>5YKPNTN5045_0101M</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5045_01_M</SECENEK_DEGERI>
-        <BARCODE>6000003267015</BARCODE>
-        <URUNADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>704.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN5045_14</KOD>
-        <VARKOD>5YKPNTN5045_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5045_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003267138</BARCODE>
-        <URUNADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
