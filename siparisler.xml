@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-05T03:00:24 -->
+﻿<!-- generated:2025-09-05T03:05:41 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2525</SIPARIS_NO>
@@ -5228,76 +5228,6 @@
         <URUNADI>Kadın Yanı Yırtmaçlı Kaşkorse Basic Etek</URUNADI>
         <FATURA_ADI>Kadın Yanı Yırtmaçlı Kaşkorse Basic Etek</FATURA_ADI>
         <FIYAT>284.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2308</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>cetinermukaddes28@gmail.com</POSTA>
-    <TARIH>2025-08-26</TARIH>
-    <sipariszaman>03:04:09</sipariszaman>
-    <NET_TOPLAM>784.99000000</NET_TOPLAM>
-    <TeslimAlici>Mukaddes  Çetiner </TeslimAlici>
-    <TeslimAdresi>Emek Mahallesi 29.Sokak No 8/2 2</TeslimAdresi>
-    <TeslimTelefon>+905068268868</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>06490</teslimPostaKodu>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Çankaya</teslimilce>
-    <faturaalici>Mukaddes  Çetiner </faturaalici>
-    <faturaAdresi>Emek Mahallesi 29.Sokak No 8/2 2</faturaAdresi>
-    <faturaTelefon>+905068268868</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>06490</faturaPostaKodu>
-    <faturail>Ankara</faturail>
-    <faturailce>Çankaya</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823081</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN5343_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003267329</BARCODE>
-        <URUNADI>Kadın Belii Lastikli  Keten Balon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Belii Lastikli  Keten Balon Pantolon</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
