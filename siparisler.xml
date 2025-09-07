@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-07T18:42:19 -->
+﻿<!-- generated:2025-09-07T18:47:37 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2532</SIPARIS_NO>
@@ -2461,113 +2461,6 @@
         <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
         <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2491</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>34660773196</tcno>
-    <POSTA>sezginserifler@hotmail.com</POSTA>
-    <TARIH>2025-08-28</TARIH>
-    <sipariszaman>18:46:25</sipariszaman>
-    <NET_TOPLAM>919.98000000</NET_TOPLAM>
-    <TeslimAlici>Nehir Şerifler </TeslimAlici>
-    <TeslimAdresi>Başkomutan Atatürk cad. No14/d</TeslimAdresi>
-    <TeslimTelefon>+905067360803</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karaburun</teslimilce>
-    <faturaalici>Nehir Şerifler </faturaalici>
-    <faturaAdresi>Başkomutan Atatürk cad. No14/d</faturaAdresi>
-    <faturaTelefon>+905067360803</faturaTelefon>
-    <faturavergino>34660773196</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Karaburun</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914824911</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSWO2122_010</KOD>
-        <VARKOD>5YETSWO2122_010010XXL</VARKOD>
-        <SECENEK_DEGERI>5YETSWO2122_010_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003342514</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</FATURA_ADI>
-        <FIYAT>434.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YE2002-211_02</KOD>
-        <VARKOD>5YE2002-211_0202XXL</VARKOD>
-        <SECENEK_DEGERI>5YE2002-211_02_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003260290</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka TRAVEL Baskı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka TRAVEL Baskı Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YE2002-178_010</KOD>
-        <VARKOD>5YE2002-178_010010XXL</VARKOD>
-        <SECENEK_DEGERI>5YE2002-178_010_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003260795</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YETSTN2089_06</KOD>
-        <VARKOD>4YETSTN2089_0606XXL</VARKOD>
-        <SECENEK_DEGERI>4YETSTN2089_06_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003095311</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</FATURA_ADI>
-        <FIYAT>454.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
