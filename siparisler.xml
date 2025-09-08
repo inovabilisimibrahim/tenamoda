@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-08T15:42:35 -->
+﻿<!-- generated:2025-09-08T15:47:59 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2535</SIPARIS_NO>
@@ -4355,12 +4355,7 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YETSTTN303_02</KOD>
-        <VARKOD>5YETSTTN303_0202M</VARKOD>
         <SECENEK_DEGERI>5YETSTTN303_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003303942</BARCODE>
-        <URUNADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
