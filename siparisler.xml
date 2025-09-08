@@ -1,5 +1,102 @@
-﻿<!-- generated:2025-09-08T08:37:44 -->
+﻿<!-- generated:2025-09-08T08:43:09 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2535</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>behiye1312@gmail.com</POSTA>
+    <TARIH>2025-09-08</TARIH>
+    <sipariszaman>08:41:59</sipariszaman>
+    <NET_TOPLAM>2109.98000000</NET_TOPLAM>
+    <TeslimAlici>Behiye Ercetin</TeslimAlici>
+    <TeslimAdresi>Cumhuriyet mah. 1984. Sk. Platine Residance b blok no:6/1 d:62 esenyurt/istanbul Platine residance b blok d:62</TeslimAdresi>
+    <TeslimTelefon>+905547168286</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Esenyurt</teslimilce>
+    <faturaalici>Behiye Ercetin</faturaalici>
+    <faturaAdresi>Cumhuriyet mah. 1984. Sk. Platine Residance b blok no:6/1 d:62 esenyurt/istanbul Platine residance b blok d:62</faturaAdresi>
+    <faturaTelefon>+905547168286</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Esenyurt</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914825351</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKP66-1841_B34</KOD>
+        <VARKOD>5YKP66-1841_B34B34M</VARKOD>
+        <SECENEK_DEGERI>5YKP66-1841_B34_M</SECENEK_DEGERI>
+        <BARCODE>6000003363786</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKP66-1841_U01</KOD>
+        <VARKOD>5YKP66-1841_U01U01M</VARKOD>
+        <SECENEK_DEGERI>5YKP66-1841_U01_M</SECENEK_DEGERI>
+        <BARCODE>6000003363816</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKP66-5127_90</KOD>
+        <VARKOD>5YKP66-5127_9090M</VARKOD>
+        <SECENEK_DEGERI>5YKP66-5127_90_M</SECENEK_DEGERI>
+        <BARCODE>6000003382794</BARCODE>
+        <URUNADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</FATURA_ADI>
+        <FIYAT>1054.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTNGR03_18</KOD>
+        <VARKOD>5YKPNTNGR03_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKPNTNGR03_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003375086</BARCODE>
+        <URUNADI>Kadın Pileli Palozzo Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Pileli Palozzo Pantolon</FATURA_ADI>
+        <FIYAT>1054.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2534</SIPARIS_NO>
     <CariHesapKodu>
