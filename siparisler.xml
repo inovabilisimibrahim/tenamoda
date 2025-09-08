@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-08T13:25:06 -->
+﻿<!-- generated:2025-09-08T13:30:27 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2535</SIPARIS_NO>
@@ -2276,91 +2276,6 @@
         <BARCODE>6000003337923</BARCODE>
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2501</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>kalamangulcan@gmail.com</POSTA>
-    <TARIH>2025-08-29</TARIH>
-    <sipariszaman>13:28:42</sipariszaman>
-    <NET_TOPLAM>984.99000000</NET_TOPLAM>
-    <TeslimAlici>Gülcan Kalaman</TeslimAlici>
-    <TeslimAdresi>Bolluca mah. Bolluca cad. No:28/1 Kalaman Apt. Daire  :2</TeslimAdresi>
-    <TeslimTelefon>+905370571691</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34287</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Arnavutköy</teslimilce>
-    <faturaalici>Gülcan Kalaman</faturaalici>
-    <faturaAdresi>Bolluca mah. Bolluca cad. No:28/1 Kalaman Apt. Daire  :2</faturaAdresi>
-    <faturaTelefon>+905370571691</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34287</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Arnavutköy</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825011</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1838_08</KOD>
-        <VARKOD>5YKG16-1838_0808L</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1838_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003365087</BARCODE>
-        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKG16-1838_18</KOD>
-        <VARKOD>5YKG16-1838_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1838_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003365117</BARCODE>
-        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
