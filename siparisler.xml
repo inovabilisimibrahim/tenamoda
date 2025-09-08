@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-08T16:09:08 -->
+﻿<!-- generated:2025-09-08T16:14:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2535</SIPARIS_NO>
@@ -4263,19 +4263,24 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <SECENEK_DEGERI>5YET23-1581_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003350861</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</FATURA_ADI>
-        <FIYAT>622.24000000</FIYAT>
+        <KOD>5YETSTTN303_02</KOD>
+        <VARKOD>5YETSTTN303_0202M</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN303_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003303942</BARCODE>
+        <URUNADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Apaş Yaka Fermuarlı Delikli Pamuk Triko Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>5YETSTTN303_02_M</SECENEK_DEGERI>
-        <FIYAT>0.00000000</FIYAT>
+        <SECENEK_DEGERI>5YET23-1581_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003350861</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</FATURA_ADI>
+        <FIYAT>622.24000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
