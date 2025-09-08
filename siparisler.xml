@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-08T13:35:51 -->
+﻿<!-- generated:2025-09-08T13:41:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2535</SIPARIS_NO>
@@ -799,91 +799,6 @@
         <URUNADI>Erkek Bisiklet Yaka Petek Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Bisiklet Yaka Petek Basic Tişört</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2526</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>dbas0496@gmail.com</POSTA>
-    <TARIH>2025-09-08</TARIH>
-    <sipariszaman>11:01:00</sipariszaman>
-    <NET_TOPLAM>937.24000000</NET_TOPLAM>
-    <TeslimAlici>Dilek Baş</TeslimAlici>
-    <TeslimAdresi>Akdeniz/Mahmudiye mah . / 4831. Sok. No :13-8 Sabahattin Yücesoy apartman/ 13-8</TeslimAdresi>
-    <TeslimTelefon>05392359987</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>33330</teslimPostaKodu>
-    <teslimil>Mersin</teslimil>
-    <teslimilce>Akdeniz</teslimilce>
-    <faturaalici>Dilek Baş</faturaalici>
-    <faturaAdresi>Akdeniz/Mahmudiye mah . / 4831. Sok. No :13-8 Sabahattin Yücesoy apartman/ 13-8</faturaAdresi>
-    <faturaTelefon>05392359987</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>33330</faturaPostaKodu>
-    <faturail>Mersin</faturail>
-    <faturailce>Akdeniz</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825261</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKP66-1841_50</KOD>
-        <VARKOD>5YKP66-1841_5050M</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1841_50_M</SECENEK_DEGERI>
-        <BARCODE>6000003363755</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKP66-1845_14</KOD>
-        <VARKOD>5YKP66-1845_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1845_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003365605</BARCODE>
-        <URUNADI>Kadın Bol Paça Beli Lastikli Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Bol Paça Beli Lastikli Pantolon</FATURA_ADI>
-        <FIYAT>907.24000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
