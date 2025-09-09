@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-09T18:23:58 -->
+﻿<!-- generated:2025-09-09T18:29:22 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2536</SIPARIS_NO>
@@ -3874,6 +3874,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YEG12-8308_18</KOD>
+        <VARKOD>4YEG12-8308_1818M</VARKOD>
         <SECENEK_DEGERI>4YEG12-8308_18_M</SECENEK_DEGERI>
         <BARCODE>6000003084780</BARCODE>
         <URUNADI>Erkek Uzun Kollu Tek Cepli Basic Gömlek</URUNADI>
