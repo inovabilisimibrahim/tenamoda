@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-09T16:12:35 -->
+﻿<!-- generated:2025-09-09T16:18:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2536</SIPARIS_NO>
@@ -1350,8 +1350,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4YETSTN2076_B02</KOD>
-        <VARKOD>4YETSTN2076_B02B02M</VARKOD>
         <SECENEK_DEGERI>4YETSTN2076_B02_M</SECENEK_DEGERI>
         <BARCODE>6000003096684</BARCODE>
         <URUNADI>Erkek Kol Ve Ön Parçalı İki İp Rahat Kalıp Tişört</URUNADI>
@@ -6288,6 +6286,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKTKF51121_04</KOD>
+        <VARKOD>5YKTKF51121_0404L</VARKOD>
         <SECENEK_DEGERI>5YKTKF51121_04_L</SECENEK_DEGERI>
         <BARCODE>6000003361072</BARCODE>
         <URUNADI>Kadın Bol Kollu Oversize Gömlek Beli Büzgülü Bol Paça Pantolon Takım</URUNADI>
