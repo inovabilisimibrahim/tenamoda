@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-10T16:17:58 -->
+﻿<!-- generated:2025-09-10T16:23:40 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2538</SIPARIS_NO>
@@ -341,92 +341,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2533</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>mustafaeksi69@gmail.com</POSTA>
-    <TARIH>2025-09-10</TARIH>
-    <sipariszaman>14:53:59</sipariszaman>
-    <NET_TOPLAM>699.74000000</NET_TOPLAM>
-    <TeslimAlici>RECEP EKŞİ</TeslimAlici>
-    <TeslimAdresi>CUMHURİYET MAHALLESİ GÜLTEPE SOKAK NO:4   DEMİRCİ MANİSA KAT 3 DAİRE 1</TeslimAdresi>
-    <TeslimTelefon>05062537269</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>45900</teslimPostaKodu>
-    <teslimil>Manisa</teslimil>
-    <teslimilce>Demirci</teslimilce>
-    <faturaalici>RECEP EKŞİ</faturaalici>
-    <faturaAdresi>CUMHURİYET MAHALLESİ GÜLTEPE SOKAK NO:4   DEMİRCİ MANİSA KAT 3 DAİRE 1</faturaAdresi>
-    <faturaTelefon>05062537269</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>45900</faturaPostaKodu>
-    <faturail>Manisa</faturail>
-    <faturailce>Demirci</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>
-    </kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKPNTN5045_08</KOD>
-        <VARKOD>5YKPNTN5045_0808XL</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5045_08_XL</SECENEK_DEGERI>
-        <BARCODE>6000003267114</BARCODE>
-        <URUNADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN5045_670</KOD>
-        <VARKOD>5YKPNTN5045_670670XL</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5045_670_XL</SECENEK_DEGERI>
-        <BARCODE>6000003267190</BARCODE>
-        <URUNADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Palaska  Kemerli  Kargu Ceplii Paça Lastikli  Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>669.74000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
