@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-11T15:35:58 -->
+﻿<!-- generated:2025-09-11T15:41:19 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2542</SIPARIS_NO>
@@ -70,6 +70,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEPNFEAT20_05</KOD>
+        <VARKOD>5YEPNFEAT20_0505L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_05_L</SECENEK_DEGERI>
         <BARCODE>6000003252097</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
@@ -81,6 +83,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEPNFEAT20_05</KOD>
+        <VARKOD>5YEPNFEAT20_0505L</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_05_L</SECENEK_DEGERI>
         <BARCODE>6000003252097</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
