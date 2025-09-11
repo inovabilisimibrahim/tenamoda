@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-11T23:43:41 -->
+﻿<!-- generated:2025-09-11T23:49:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2542</SIPARIS_NO>
@@ -2374,85 +2374,6 @@
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
         <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2507</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>46531606472</tcno>
-    <POSTA>cerenoztemel@icloud.com</POSTA>
-    <TARIH>2025-09-01</TARIH>
-    <sipariszaman>23:44:45</sipariszaman>
-    <NET_TOPLAM>934.99000000</NET_TOPLAM>
-    <TeslimAlici>Ceren Erken</TeslimAlici>
-    <TeslimAdresi>onüç eylül mahallesi bakırçay sokak no:53/1 53/1</TeslimAdresi>
-    <TeslimTelefon>+905435262080</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>45500</teslimPostaKodu>
-    <teslimil>Manisa</teslimil>
-    <teslimilce>Soma</teslimilce>
-    <faturaalici>Ceren Erken</faturaalici>
-    <faturaAdresi>onüç eylül mahallesi bakırçay sokak no:53/1 53/1</faturaAdresi>
-    <faturaTelefon>+905435262080</faturaTelefon>
-    <faturavergino>46531606472</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>45500</faturaPostaKodu>
-    <faturail>Manisa</faturail>
-    <faturailce>Soma</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825071</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKELTN2514_09_L</SECENEK_DEGERI>
-        <BARCODE>6000003276963</BARCODE>
-        <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
-        <FATURA_ADI>Kadın Degaje Yaka Saten Uzun Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKELTN2514_09_L</SECENEK_DEGERI>
-        <BARCODE>6000003276963</BARCODE>
-        <URUNADI>Kadın Degaje Yaka Saten Uzun Elbise</URUNADI>
-        <FATURA_ADI>Kadın Degaje Yaka Saten Uzun Elbise</FATURA_ADI>
-        <FIYAT>904.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
