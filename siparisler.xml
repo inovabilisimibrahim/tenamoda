@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-12T09:39:57 -->
+﻿<!-- generated:2025-09-12T09:45:40 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2545</SIPARIS_NO>
@@ -138,6 +138,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YEPN101-01_22</KOD>
+        <VARKOD>4YEPN101-01_222231</VARKOD>
         <SECENEK_DEGERI>4YEPN101-01_22_31</SECENEK_DEGERI>
         <BARCODE>6000003198784</BARCODE>
         <URUNADI>Erkek Beş Cep CONA PFD Gabardin Pantolon</URUNADI>
