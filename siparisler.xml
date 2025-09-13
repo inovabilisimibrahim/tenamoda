@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-13T18:10:47 -->
+﻿<!-- generated:2025-09-13T18:16:10 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2546</SIPARIS_NO>
@@ -1918,85 +1918,6 @@
         <URUNADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</URUNADI>
         <FATURA_ADI>Kadın Straplez Cep Kapak Kaplamalı Elbise</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2518</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>12318143126</tcno>
-    <POSTA>olga.gamonenko@hotmail.com</POSTA>
-    <TARIH>2025-09-03</TARIH>
-    <sipariszaman>18:13:22</sipariszaman>
-    <NET_TOPLAM>984.99000000</NET_TOPLAM>
-    <TeslimAlici>Olga Çıtakoğlu </TeslimAlici>
-    <TeslimAdresi>karabağlar, 260sk, N43, D2, Arap Hasan mahallesi</TeslimAdresi>
-    <TeslimTelefon>5375580583</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karabağlar</teslimilce>
-    <faturaalici>Olga Çıtakoğlu </faturaalici>
-    <faturaAdresi>karabağlar, 260sk, N43, D2, Arap Hasan mahallesi</faturaAdresi>
-    <faturaTelefon>5375580583</faturaTelefon>
-    <faturavergino>12318143126</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Karabağlar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825181</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETTNGR12_08</KOD>
-        <VARKOD>5YKETTNGR12_0808L</VARKOD>
-        <SECENEK_DEGERI>5YKETTNGR12_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003367982</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Kloş Uzun Etek</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Kloş Uzun Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKETTNGR12_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003368026</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Kloş Uzun Etek</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Kloş Uzun Etek</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
