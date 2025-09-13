@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-13T15:54:36 -->
+﻿<!-- generated:2025-09-13T16:00:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2546</SIPARIS_NO>
@@ -1997,91 +1997,6 @@
         <URUNADI>Erkek Kol Ve Ön Parçalı İki İp Rahat Kalıp Tişört</URUNADI>
         <FATURA_ADI>Erkek Kol Ve Ön Parçalı İki İp Rahat Kalıp Tişört</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2519</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ozgur.canpolat@hotmail.com</POSTA>
-    <TARIH>2025-09-03</TARIH>
-    <sipariszaman>15:59:44</sipariszaman>
-    <NET_TOPLAM>534.99000000</NET_TOPLAM>
-    <TeslimAlici>Özgür Bülent CANPOLAT</TeslimAlici>
-    <TeslimAdresi>Y.Bağlıca mah.Çambayırı caddesi no 114/27 Bahçelievler sitesi 2 ncı Kısım Bahçelievler sitesi 2 kısmı safir apartman </TeslimAdresi>
-    <TeslimTelefon>+905453057266</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>06830</teslimPostaKodu>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Etimesgut</teslimilce>
-    <faturaalici>Özgür Bülent CANPOLAT</faturaalici>
-    <faturaAdresi>Y.Bağlıca mah.Çambayırı caddesi no 114/27 Bahçelievler sitesi 2 ncı Kısım Bahçelievler sitesi 2 kısmı safir apartman </faturaAdresi>
-    <faturaTelefon>+905453057266</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>06830</faturaPostaKodu>
-    <faturail>Ankara</faturail>
-    <faturailce>Etimesgut</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825191</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSCL4546_01</KOD>
-        <VARKOD>5YETSCL4546_01013XL</VARKOD>
-        <SECENEK_DEGERI>5YETSCL4546_01_3XL</SECENEK_DEGERI>
-        <BARCODE>6000003324343</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSCL4546_01</KOD>
-        <VARKOD>5YETSCL4546_01013XL</VARKOD>
-        <SECENEK_DEGERI>5YETSCL4546_01_3XL</SECENEK_DEGERI>
-        <BARCODE>6000003324343</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</FATURA_ADI>
-        <FIYAT>504.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
