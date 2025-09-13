@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-13T13:00:28 -->
+﻿<!-- generated:2025-09-13T13:06:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2546</SIPARIS_NO>
@@ -2161,85 +2161,6 @@
         <URUNADI>Kadın Beli Lastikli Kloş Uzun Etek</URUNADI>
         <FATURA_ADI>Kadın Beli Lastikli Kloş Uzun Etek</FATURA_ADI>
         <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2516</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>23990408656</tcno>
-    <POSTA>sunagezer96@gmail.com</POSTA>
-    <TARIH>2025-09-03</TARIH>
-    <sipariszaman>13:01:57</sipariszaman>
-    <NET_TOPLAM>1084.99000000</NET_TOPLAM>
-    <TeslimAlici>Suna  Gezer </TeslimAlici>
-    <TeslimAdresi>Kazımdirik mah Lozan caddesi  Vural apartman no:19 kat:2 daire:5</TeslimAdresi>
-    <TeslimTelefon>+905464328357</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35800</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Aliağa</teslimilce>
-    <faturaalici>Suna  Gezer </faturaalici>
-    <faturaAdresi>Kazımdirik mah Lozan caddesi  Vural apartman no:19 kat:2 daire:5</faturaAdresi>
-    <faturaTelefon>+905464328357</faturaTelefon>
-    <faturavergino>23990408656</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35800</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Aliağa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825161</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKYLTN3399_08_S</SECENEK_DEGERI>
-        <BARCODE>6000003347960</BARCODE>
-        <URUNADI>Kadın Kare Yaka Arkası Bağlamalı Keten Yelek</URUNADI>
-        <FATURA_ADI>Kadın Kare Yaka Arkası Bağlamalı Keten Yelek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKELTNGR17_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003367975</BARCODE>
-        <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</FATURA_ADI>
-        <FIYAT>1054.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
