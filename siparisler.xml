@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-15T03:01:58 -->
+﻿<!-- generated:2025-09-15T03:07:33 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2546</SIPARIS_NO>
@@ -6993,100 +6993,6 @@
         <URUNADI>Kadın Kalın Askılı Ön Arka U Yaka Modal Kumaş Midi Boy Basic Elbise</URUNADI>
         <FATURA_ADI>Kadın Kalın Askılı Ön Arka U Yaka Modal Kumaş Midi Boy Basic Elbise</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2342</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>gulerozkan020@gmail.com</POSTA>
-    <TARIH>2025-09-05</TARIH>
-    <sipariszaman>03:06:51</sipariszaman>
-    <NET_TOPLAM>1599.80000000</NET_TOPLAM>
-    <TeslimAlici>Güler Özkan</TeslimAlici>
-    <TeslimAdresi>Ahmet Piriştina bulvarı no 51 özel Tınaztepe hastanesi Kuruçeşme buca izmir  Özel Tınaztepe hastanesi </TeslimAdresi>
-    <TeslimTelefon>+905529204320</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35000</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Güler Özkan</faturaalici>
-    <faturaAdresi>Ahmet Piriştina bulvarı no 51 özel Tınaztepe hastanesi Kuruçeşme buca izmir  Özel Tınaztepe hastanesi </faturaAdresi>
-    <faturaTelefon>+905529204320</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35000</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823421</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YET23-1581_02_XL</SECENEK_DEGERI>
-        <BARCODE>6000003350885</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Çizgili Tişört</FATURA_ADI>
-        <FIYAT>729.23000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSTTN104_01</KOD>
-        <VARKOD>5YETSTTN104_0101XL</VARKOD>
-        <SECENEK_DEGERI>5YETSTTN104_01_XL</SECENEK_DEGERI>
-        <BARCODE>6000003304413</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YESFEAT105_08_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003253735</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
-        <FIYAT>840.57000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
