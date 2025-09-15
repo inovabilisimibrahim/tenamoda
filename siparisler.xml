@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-15T09:24:44 -->
+﻿<!-- generated:2025-09-15T09:30:05 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2548</SIPARIS_NO>
@@ -1938,43 +1938,41 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
-    <SIPARIS_NO>2522</SIPARIS_NO>
+    <SIPARIS_NO>2426</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
     <CariHesapOzelKodu>
     </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>glmsrgundogan@gmail.com</POSTA>
-    <TARIH>2025-09-05</TARIH>
-    <sipariszaman>09:28:33</sipariszaman>
-    <NET_TOPLAM>784.99000000</NET_TOPLAM>
-    <TeslimAlici>Gülümser Gündoğan</TeslimAlici>
-    <TeslimAdresi>Narlı Mahallesi Çelebi sokak Gazi apartmanı no51 daire15 Narlıdere izmir Gazi apartmanı no51 daire15</TeslimAdresi>
-    <TeslimTelefon>+905058019420</TeslimTelefon>
+    <tcno>21619510612</tcno>
+    <POSTA>ensariy208@gmail.com</POSTA>
+    <TARIH>2025-09-15</TARIH>
+    <sipariszaman>09:29:45</sipariszaman>
+    <NET_TOPLAM>1611.72000000</NET_TOPLAM>
+    <TeslimAlici>Ensari Yaprak</TeslimAlici>
+    <TeslimAdresi>Koyunlu köyü Levent mevki yaprak sokak no 3C Müstakil</TeslimAdresi>
+    <TeslimTelefon>+905379179267</TeslimTelefon>
     <teslimsekli>KR</teslimsekli>
     <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35320</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Narlıdere</teslimilce>
-    <faturaalici>Gülümser Gündoğan</faturaalici>
-    <faturaAdresi>Narlı Mahallesi Çelebi sokak Gazi apartmanı no51 daire15 Narlıdere izmir Gazi apartmanı no51 daire15</faturaAdresi>
-    <faturaTelefon>+905058019420</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
+    <teslimPostaKodu>13725</teslimPostaKodu>
+    <teslimil>Bitlis</teslimil>
+    <teslimilce>Mutki</teslimilce>
+    <faturaalici>Ensari Yaprak</faturaalici>
+    <faturaAdresi>Koyunlu köyü Levent mevki yaprak sokak no 3C Müstakil</faturaAdresi>
+    <faturaTelefon>+905379179267</faturaTelefon>
+    <faturavergino>21619510612</faturavergino>
     <faturavergidairesi>
     </faturavergidairesi>
     <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35320</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Narlıdere</faturailce>
+    <faturaPostaKodu>13725</faturaPostaKodu>
+    <faturail>Bitlis</faturail>
+    <faturailce>Mutki</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
     <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
     <tasiyicifirma>hepsijet</tasiyicifirma>
     <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
     <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825221</kargokodu>
+    <kargokodu>IKASHJ22914824261</kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
@@ -1983,26 +1981,39 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKY37-1844_14</KOD>
-        <VARKOD>5YKY37-1844_1414L</VARKOD>
-        <SECENEK_DEGERI>5YKY37-1844_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003365445</BARCODE>
-        <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
-        <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
+        <KOD>1KESWTN4022_18</KOD>
+        <VARKOD>1KESWTN4022_1818M</VARKOD>
+        <SECENEK_DEGERI>1KESWTN4022_18_M</SECENEK_DEGERI>
+        <BARCODE>6000002676672</BARCODE>
+        <URUNADI>Erkek Kapüşonlu Fermuarlı Şardonlu Basic Sweatshirt</URUNADI>
+        <FATURA_ADI>Erkek Kapüşonlu Fermuarlı Şardonlu Basic Sweatshirt</FATURA_ADI>
+        <FIYAT>337.24000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKY37-1844_70</KOD>
-        <VARKOD>5YKY37-1844_7070L</VARKOD>
-        <SECENEK_DEGERI>5YKY37-1844_70_L</SECENEK_DEGERI>
-        <BARCODE>6000003365506</BARCODE>
-        <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
-        <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
+        <KOD>4KESWRAFAEL_18</KOD>
+        <VARKOD>4KESWRAFAEL_1818M</VARKOD>
+        <SECENEK_DEGERI>4KESWRAFAEL_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003311282</BARCODE>
+        <URUNADI>Erkek Üç İplik Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Erkek Üç İplik Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>622.24000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KESWTR2605_18</KOD>
+        <VARKOD>4KESWTR2605_1818M</VARKOD>
+        <SECENEK_DEGERI>4KESWTR2605_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003318670</BARCODE>
+        <URUNADI>Erkek Kapüşonlu Kanguru Cepli Üç İplik Şardonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Erkek Kapüşonlu Kanguru Cepli Üç İplik Şardonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>622.24000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
