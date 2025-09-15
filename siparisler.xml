@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-15T16:07:20 -->
+﻿<!-- generated:2025-09-15T16:12:38 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2548</SIPARIS_NO>
@@ -876,8 +876,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKE28-1262_01</KOD>
-        <VARKOD>5YKE28-1262_0101L</VARKOD>
         <SECENEK_DEGERI>5YKE28-1262_01_L</SECENEK_DEGERI>
         <BARCODE>6000003362680</BARCODE>
         <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
@@ -889,8 +887,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKE28-1262_670</KOD>
-        <VARKOD>5YKE28-1262_670670L</VARKOD>
         <SECENEK_DEGERI>5YKE28-1262_670_L</SECENEK_DEGERI>
         <BARCODE>6000003362741</BARCODE>
         <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
