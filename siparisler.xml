@@ -1,5 +1,86 @@
-﻿<!-- generated:2025-09-16T09:08:01 -->
+﻿<!-- generated:2025-09-16T09:13:31 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2553</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11318505026</tcno>
+    <POSTA>sebnemsu@hotmail.com</POSTA>
+    <TARIH>2025-09-16</TARIH>
+    <sipariszaman>09:08:11</sipariszaman>
+    <NET_TOPLAM>369.98000000</NET_TOPLAM>
+    <TeslimAlici>Sebnem Sunacoglu</TeslimAlici>
+    <TeslimAdresi>Ekinoba mah. Pirireis cad. Ayisigi konutlari 4A A1 blok D:8</TeslimAdresi>
+    <TeslimTelefon>+905423443554</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Büyükçekmece</teslimilce>
+    <faturaalici>Sebnem Sunacoglu</faturaalici>
+    <faturaAdresi>Ekinoba mah. Pirireis cad. Ayisigi konutlari 4A A1 blok D:8</faturaAdresi>
+    <faturaTelefon>+905423443554</faturaTelefon>
+    <faturavergino>11318505026</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Büyükçekmece</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825531</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3YKP66-5794_08</KOD>
+        <VARKOD>3YKP66-5794_0808S</VARKOD>
+        <SECENEK_DEGERI>3YKP66-5794_08_S</SECENEK_DEGERI>
+        <BARCODE>6000002949936</BARCODE>
+        <URUNADI>Kadın Bel Bağlamalı Bağcıklı Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Bel Bağlamalı Bağcıklı Keten Pantolon</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKP66-5794_62</KOD>
+        <VARKOD>3YKP66-5794_6262S</VARKOD>
+        <SECENEK_DEGERI>3YKP66-5794_62_S</SECENEK_DEGERI>
+        <BARCODE>6000002950024</BARCODE>
+        <URUNADI>Kadın Bel Bağlamalı Bağcıklı Keten Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Bel Bağlamalı Bağcıklı Keten Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2552</SIPARIS_NO>
     <CariHesapKodu>
