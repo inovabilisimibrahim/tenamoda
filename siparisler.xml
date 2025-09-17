@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-17T17:48:49 -->
+﻿<!-- generated:2025-09-17T17:54:15 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2557</SIPARIS_NO>
@@ -6882,17 +6882,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <SECENEK_DEGERI>5YE2002-210_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003260351</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka YOUTHFUL Baskı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka YOUTHFUL Baskı Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
         <SECENEK_DEGERI>5YE2002-211_123_L</SECENEK_DEGERI>
         <BARCODE>6000003260306</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka TRAVEL Baskı Tişört</URUNADI>
@@ -6915,10 +6904,15 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <SECENEK_DEGERI>5YE2002-210_01_L</SECENEK_DEGERI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
         <SECENEK_DEGERI>5YE2002-210_25_L</SECENEK_DEGERI>
-        <BARCODE>6000003260504</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka YOUTHFUL Baskı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka YOUTHFUL Baskı Tişört</FATURA_ADI>
         <FIYAT>334.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
