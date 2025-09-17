@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-18T02:49:17 -->
+﻿<!-- generated:2025-09-18T02:54:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2557</SIPARIS_NO>
@@ -7252,85 +7252,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>1993</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>behiye1312@gmail.com</POSTA>
-    <TARIH>2025-09-08</TARIH>
-    <sipariszaman>02:54:27</sipariszaman>
-    <NET_TOPLAM>1739.97000000</NET_TOPLAM>
-    <TeslimAlici>Behiye Ercetin</TeslimAlici>
-    <TeslimAdresi>Cumhuriyet mah. 1984. Sk. Platine Residance b blok no:6/1 d:62 esenyurt/istanbul Platine residance b blok d:62</TeslimAdresi>
-    <TeslimTelefon>+905547168286</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Esenyurt</teslimilce>
-    <faturaalici>Behiye Ercetin</faturaalici>
-    <faturaAdresi>Cumhuriyet mah. 1984. Sk. Platine Residance b blok no:6/1 d:62 esenyurt/istanbul Platine residance b blok d:62</faturaAdresi>
-    <faturaTelefon>+905547168286</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Esenyurt</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914819931</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN5343_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003267336</BARCODE>
-        <URUNADI>Kadın Belii Lastikli  Keten Balon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Belii Lastikli  Keten Balon Pantolon</FATURA_ADI>
-        <FIYAT>674.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN2522_ZZW3_L</SECENEK_DEGERI>
-        <BARCODE>6000003288652</BARCODE>
-        <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>974.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>89.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
