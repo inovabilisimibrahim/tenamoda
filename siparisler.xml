@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-18T14:59:03 -->
+﻿<!-- generated:2025-09-18T15:04:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2557</SIPARIS_NO>
@@ -284,8 +284,8 @@
     <tcno>
     </tcno>
     <POSTA>selcukali_yilmaz@hotmail.com</POSTA>
-    <TARIH>2025-09-16</TARIH>
-    <sipariszaman>16:05:31</sipariszaman>
+    <TARIH>2025-09-18</TARIH>
+    <sipariszaman>15:00:18</sipariszaman>
     <NET_TOPLAM>669.98000000</NET_TOPLAM>
     <TeslimAlici>Selçuk Ali Yılmaz</TeslimAlici>
     <TeslimAdresi>Yunus Emre Mah Ulukale Sok No:37</TeslimAdresi>
@@ -663,8 +663,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YESRT102VF_18</KOD>
-        <VARKOD>5YESRT102VF_181833</VARKOD>
         <SECENEK_DEGERI>5YESRT102VF_18_33</SECENEK_DEGERI>
         <BARCODE>6000003308367</BARCODE>
         <URUNADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</URUNADI>
