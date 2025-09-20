@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-20T14:51:13 -->
+﻿<!-- generated:2025-09-20T14:56:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2559</SIPARIS_NO>
@@ -1601,91 +1601,6 @@
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
         <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2532</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>tugceozer02@icloud.com</POSTA>
-    <TARIH>2025-09-10</TARIH>
-    <sipariszaman>14:53:59</sipariszaman>
-    <NET_TOPLAM>784.99000000</NET_TOPLAM>
-    <TeslimAlici>Tuğçe Özer</TeslimAlici>
-    <TeslimAdresi>Kaşıkçıbağları Mah. ,Danişmentgazi Cad., Elite Yaşam Sitesi, NO:38/1 B blok, Kat:5, Daire:9 MERKEZ/TOKAT</TeslimAdresi>
-    <TeslimTelefon>+905061491657</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>60100</teslimPostaKodu>
-    <teslimil>Tokat</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Tuğçe Özer</faturaalici>
-    <faturaAdresi>Kaşıkçıbağları Mah. ,Danişmentgazi Cad., Elite Yaşam Sitesi, NO:38/1 B blok, Kat:5, Daire:9 MERKEZ/TOKAT</faturaAdresi>
-    <faturaTelefon>+905061491657</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>60100</faturaPostaKodu>
-    <faturail>Tokat</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825321</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1449_010</KOD>
-        <VARKOD>5YKG16-1449_010010S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1449_010_S</SECENEK_DEGERI>
-        <BARCODE>6000003295872</BARCODE>
-        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
-        <FIYAT>754.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKG16-1449_18</KOD>
-        <VARKOD>5YKG16-1449_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1449_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003295964</BARCODE>
-        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
