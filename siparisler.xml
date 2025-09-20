@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-20T03:10:12 -->
+﻿<!-- generated:2025-09-20T03:15:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2559</SIPARIS_NO>
@@ -7025,85 +7025,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2389</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>30373334938</tcno>
-    <POSTA>irmak.bicakcioglu@gmail.com</POSTA>
-    <TARIH>2025-09-10</TARIH>
-    <sipariszaman>03:10:33</sipariszaman>
-    <NET_TOPLAM>249.99000000</NET_TOPLAM>
-    <TeslimAlici>Irmak Bıçakcıoğlu</TeslimAlici>
-    <TeslimAdresi>Fevzi çakmak Caddesi, Çolakoğlu Pasajı, P-3, No:7, Teleskop Plakevi </TeslimAdresi>
-    <TeslimTelefon>+905442336915</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35030</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Irmak Bıçakcıoğlu</faturaalici>
-    <faturaAdresi>Fevzi çakmak Caddesi, Çolakoğlu Pasajı, P-3, No:7, Teleskop Plakevi </faturaAdresi>
-    <faturaTelefon>+905442336915</faturaTelefon>
-    <faturavergino>30373334938</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35030</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823891</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKTST24516_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003086388</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Oversize Süprem Basic Crop Tişört</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Oversize Süprem Basic Crop Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKTST24516_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003086388</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Oversize Süprem Basic Crop Tişört</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Oversize Süprem Basic Crop Tişört</FATURA_ADI>
-        <FIYAT>219.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
