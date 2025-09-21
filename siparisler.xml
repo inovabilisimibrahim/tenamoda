@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-21T13:51:07 -->
+﻿<!-- generated:2025-09-21T13:56:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2559</SIPARIS_NO>
@@ -1743,8 +1743,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YEGMNGKOJI_010</KOD>
-        <VARKOD>5YEGMNGKOJI_010010M</VARKOD>
         <SECENEK_DEGERI>5YEGMNGKOJI_010_M</SECENEK_DEGERI>
         <BARCODE>6000003203464</BARCODE>
         <URUNADI>Erkek Apaj Yaka Kısa Kollu Kapak Cepli Kabartma Desenli Gömlek</URUNADI>
@@ -3952,6 +3950,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKETM22113_18</KOD>
+        <VARKOD>4KKETM22113_1818M</VARKOD>
         <SECENEK_DEGERI>4KKETM22113_18_M</SECENEK_DEGERI>
         <BARCODE>6000003220935</BARCODE>
         <URUNADI>Kadın Midi Boy Saten Etek</URUNADI>
