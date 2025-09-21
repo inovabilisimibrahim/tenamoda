@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-21T03:40:51 -->
+﻿<!-- generated:2025-09-21T03:46:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2559</SIPARIS_NO>
@@ -689,12 +689,7 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN3396_18</KOD>
-        <VARKOD>5YKPNTN3396_1818S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003303362</BARCODE>
-        <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
