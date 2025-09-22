@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-22T09:00:55 -->
+﻿<!-- generated:2025-09-22T09:06:10 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2563</SIPARIS_NO>
@@ -138,8 +138,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YEG11-8309_08</KOD>
-        <VARKOD>4YEG11-8309_0808M</VARKOD>
         <SECENEK_DEGERI>4YEG11-8309_08_M</SECENEK_DEGERI>
         <BARCODE>6000003091733</BARCODE>
         <URUNADI>Erkek Uzun Kollu Gofre Gömlek</URUNADI>
@@ -1836,8 +1834,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4YEG11-8309_08</KOD>
-        <VARKOD>4YEG11-8309_0808M</VARKOD>
         <SECENEK_DEGERI>4YEG11-8309_08_M</SECENEK_DEGERI>
         <BARCODE>6000003091733</BARCODE>
         <URUNADI>Erkek Uzun Kollu Gofre Gömlek</URUNADI>
