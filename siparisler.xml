@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-22T02:58:43 -->
+﻿<!-- generated:2025-09-22T03:04:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2559</SIPARIS_NO>
@@ -6872,102 +6872,6 @@
         <URUNADI>Kadın Beli Lastikli Havuç Kesim Keten Pantolon</URUNADI>
         <FATURA_ADI>Kadın Beli Lastikli Havuç Kesim Keten Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2398</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>deniz.erylmz@gmail.com</POSTA>
-    <TARIH>2025-09-12</TARIH>
-    <sipariszaman>03:03:29</sipariszaman>
-    <NET_TOPLAM>1939.98000000</NET_TOPLAM>
-    <TeslimAlici>Deniz Ladikli</TeslimAlici>
-    <TeslimAdresi>Yazır mah. Kilise yakası sok. No:8/1 olimpos.Kumluca-Antalya</TeslimAdresi>
-    <TeslimTelefon>+905056352565</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>06370</teslimPostaKodu>
-    <teslimil>Antalya</teslimil>
-    <teslimilce>Kumluca</teslimilce>
-    <faturaalici>Deniz Ladikli</faturaalici>
-    <faturaAdresi>Yazır mah. Kilise yakası sok. No:8/1 olimpos.Kumluca-Antalya</faturaAdresi>
-    <faturaTelefon>+905056352565</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>06370</faturaPostaKodu>
-    <faturail>Antalya</faturail>
-    <faturailce>Kumluca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914823981</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKT18-5124_670</KOD>
-        <VARKOD>5YKT18-5124_670670M</VARKOD>
-        <SECENEK_DEGERI>5YKT18-5124_670_M</SECENEK_DEGERI>
-        <BARCODE>6000003387058</BARCODE>
-        <URUNADI>Kadın Kolsuz Bluzlu Şortlu Takım</URUNADI>
-        <FATURA_ADI>Kadın Kolsuz Bluzlu Şortlu Takım</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN4991_08</KOD>
-        <VARKOD>5YKPNTN4991_0808M</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN4991_08_M</SECENEK_DEGERI>
-        <BARCODE>6000003268012</BARCODE>
-        <URUNADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN4991_70_S</SECENEK_DEGERI>
-        <BARCODE>6000003268104</BARCODE>
-        <URUNADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli İp Bağlamalı Keten Yan Cepli Bol Paça Pantolon</FATURA_ADI>
-        <FIYAT>954.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
