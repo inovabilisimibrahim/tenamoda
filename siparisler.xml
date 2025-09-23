@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-23T15:53:20 -->
+﻿<!-- generated:2025-09-23T15:58:52 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2565</SIPARIS_NO>
@@ -6022,6 +6022,9 @@
       </SATIR>
       <SATIR>
         <SECENEK_DEGERI>5YKPNTN5343_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003267282</BARCODE>
+        <URUNADI>Kadın Belii Lastikli  Keten Balon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Belii Lastikli  Keten Balon Pantolon</FATURA_ADI>
         <FIYAT>754.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
