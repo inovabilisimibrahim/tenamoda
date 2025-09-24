@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-24T10:07:38 -->
+﻿<!-- generated:2025-09-24T10:13:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2569</SIPARIS_NO>
@@ -83,6 +83,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKGMT34162_08</KOD>
+        <VARKOD>4YKGMT34162_0808S</VARKOD>
         <SECENEK_DEGERI>4YKGMT34162_08_S</SECENEK_DEGERI>
         <BARCODE>6000003098381</BARCODE>
         <URUNADI>Kadın Kısa Kollu Arkası Uzun Rahat Kalıp Keten Gömlek</URUNADI>
@@ -159,6 +161,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKELT35060_PT8</KOD>
+        <VARKOD>4YKELT35060_PT8PT8M</VARKOD>
         <SECENEK_DEGERI>4YKELT35060_PT8_M</SECENEK_DEGERI>
         <BARCODE>6000003074880</BARCODE>
         <URUNADI>Kadın Kolları Bağlamalı Poplin Elbise</URUNADI>
@@ -170,6 +174,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKTSM21602_02</KOD>
+        <VARKOD>4YKTSM21602_0202M</VARKOD>
         <SECENEK_DEGERI>4YKTSM21602_02_M</SECENEK_DEGERI>
         <BARCODE>6000003158528</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Arkası Parçalı İp Bağlamalı Tişört</URUNADI>
