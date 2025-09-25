@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-25T11:36:24 -->
+﻿<!-- generated:2025-09-25T11:41:57 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2573</SIPARIS_NO>
@@ -5260,6 +5260,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKPNTN5335_01</KOD>
+        <VARKOD>5YKPNTN5335_0101XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_01_XL</SECENEK_DEGERI>
         <BARCODE>6000003269439</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
@@ -5271,6 +5273,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5335_18</KOD>
+        <VARKOD>5YKPNTN5335_1818XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003269590</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
