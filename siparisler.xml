@@ -1,5 +1,265 @@
-﻿<!-- generated:2025-09-25T07:08:28 -->
+﻿<!-- generated:2025-09-25T07:13:41 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2573</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nihaloztemel@gmail.com</POSTA>
+    <TARIH>2025-09-25</TARIH>
+    <sipariszaman>07:12:27</sipariszaman>
+    <NET_TOPLAM>2859.45000000</NET_TOPLAM>
+    <TeslimAlici>Nihal Oztemel</TeslimAlici>
+    <TeslimAdresi>Murat reis mah. 245 sk. No:22/8</TeslimAdresi>
+    <TeslimTelefon>+905364780301</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Konak</teslimilce>
+    <faturaalici>Nihal Oztemel</faturaalici>
+    <faturaAdresi>Murat reis mah. 245 sk. No:22/8</faturaAdresi>
+    <faturaTelefon>+905364780301</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Konak</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914825731</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKPNT36136_01</KOD>
+        <VARKOD>4YKPNT36136_0101S</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36136_01_S</SECENEK_DEGERI>
+        <BARCODE>6000003099227</BARCODE>
+        <URUNADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNT36136_18</KOD>
+        <VARKOD>4YKPNT36136_1818S</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36136_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003099289</BARCODE>
+        <URUNADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1451_010</KOD>
+        <VARKOD>5YKG16-1451_010010S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1451_010_S</SECENEK_DEGERI>
+        <BARCODE>6000003296176</BARCODE>
+        <URUNADI>Kadın Düşük Kol Çımalı Crop Poplin Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Çımalı Crop Poplin Gömlek</FATURA_ADI>
+        <FIYAT>645.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1451_18</KOD>
+        <VARKOD>5YKG16-1451_1818S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1451_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003296206</BARCODE>
+        <URUNADI>Kadın Düşük Kol Çımalı Crop Poplin Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Çımalı Crop Poplin Gömlek</FATURA_ADI>
+        <FIYAT>645.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNTN6518_U01</KOD>
+        <VARKOD>4YKPNTN6518_U01U01L</VARKOD>
+        <SECENEK_DEGERI>4YKPNTN6518_U01_L</SECENEK_DEGERI>
+        <BARCODE>6000003075627</BARCODE>
+        <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_08</KOD>
+        <VARKOD>5YKG16-1448_0808S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003296053</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_06</KOD>
+        <VARKOD>5YKG16-1448_0606S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_06_S</SECENEK_DEGERI>
+        <BARCODE>6000003296022</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_010</KOD>
+        <VARKOD>5YKG16-1448_010010S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_010_S</SECENEK_DEGERI>
+        <BARCODE>6000003295995</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>522.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_160</KOD>
+        <VARKOD>5YKG16-1448_160160S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_160_S</SECENEK_DEGERI>
+        <BARCODE>6000003296114</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>522.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1448_14</KOD>
+        <VARKOD>5YKG16-1448_1414S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1448_14_S</SECENEK_DEGERI>
+        <BARCODE>6000003296084</BARCODE>
+        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
+        <FIYAT>522.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2572</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>efsaekin26@gmail.com</POSTA>
+    <TARIH>2025-09-25</TARIH>
+    <sipariszaman>07:12:24</sipariszaman>
+    <NET_TOPLAM>544.98000000</NET_TOPLAM>
+    <TeslimAlici>efsa ekin</TeslimAlici>
+    <TeslimAdresi>erenler mahallesi 2806.sokak no:6  kalem kız öğrenci yurdu</TeslimAdresi>
+    <TeslimTelefon>+905387454370</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>03000</teslimPostaKodu>
+    <teslimil>Afyonkarahisar</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>efsa ekin</faturaalici>
+    <faturaAdresi>erenler mahallesi 2806.sokak no:6  kalem kız öğrenci yurdu</faturaAdresi>
+    <faturaTelefon>+905387454370</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>03000</faturaPostaKodu>
+    <faturail>Afyonkarahisar</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825721</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKPNTN6518_U01</KOD>
+        <VARKOD>4YKPNTN6518_U01U01M</VARKOD>
+        <SECENEK_DEGERI>4YKPNTN6518_U01_M</SECENEK_DEGERI>
+        <BARCODE>6000003075634</BARCODE>
+        <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>474.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKSWT24253_18</KOD>
+        <VARKOD>3KKSWT24253_1818L</VARKOD>
+        <SECENEK_DEGERI>3KKSWT24253_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003050983</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Kol İçi Ribana Detaylı Üç İplik Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Kol İçi Ribana Detaylı Üç İplik Sweatshirt</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2571</SIPARIS_NO>
     <CariHesapKodu>
