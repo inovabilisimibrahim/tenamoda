@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-25T10:41:47 -->
+﻿<!-- generated:2025-09-25T10:47:05 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2573</SIPARIS_NO>
@@ -2520,87 +2520,6 @@
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
         <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
         <FIYAT>954.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2539</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>48514869218</tcno>
-    <POSTA>hanedar1983@gmail.com</POSTA>
-    <TARIH>2025-09-15</TARIH>
-    <sipariszaman>10:45:25</sipariszaman>
-    <NET_TOPLAM>1284.99000000</NET_TOPLAM>
-    <TeslimAlici>HÜLYA HANEDAR</TeslimAlici>
-    <TeslimAdresi>686 /25 no 11 3</TeslimAdresi>
-    <TeslimTelefon>+905464838308</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>HÜLYA HANEDAR</faturaalici>
-    <faturaAdresi>686 /25 no 11 3</faturaAdresi>
-    <faturaTelefon>+905464838308</faturaTelefon>
-    <faturavergino>48514869218</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825391</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKE28-1262_01</KOD>
-        <VARKOD>5YKE28-1262_0101L</VARKOD>
-        <SECENEK_DEGERI>5YKE28-1262_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003362680</BARCODE>
-        <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
-        <FATURA_ADI>Kadın U Yaka Salaş Modal Elbise</FATURA_ADI>
-        <FIYAT>1254.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKE28-1262_670</KOD>
-        <VARKOD>5YKE28-1262_670670L</VARKOD>
-        <SECENEK_DEGERI>5YKE28-1262_670_L</SECENEK_DEGERI>
-        <BARCODE>6000003362741</BARCODE>
-        <URUNADI>Kadın U Yaka Salaş Modal Elbise</URUNADI>
-        <FATURA_ADI>Kadın U Yaka Salaş Modal Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
