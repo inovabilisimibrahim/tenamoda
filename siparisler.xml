@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-25T08:25:05 -->
+﻿<!-- generated:2025-09-25T08:30:20 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2573</SIPARIS_NO>
@@ -44,6 +44,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>4YKPNT36136_01</KOD>
+        <VARKOD>4YKPNT36136_0101S</VARKOD>
         <SECENEK_DEGERI>4YKPNT36136_01_S</SECENEK_DEGERI>
         <BARCODE>6000003099227</BARCODE>
         <URUNADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</URUNADI>
@@ -94,6 +96,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKPNTN6518_U01</KOD>
+        <VARKOD>4YKPNTN6518_U01U01L</VARKOD>
         <SECENEK_DEGERI>4YKPNTN6518_U01_L</SECENEK_DEGERI>
         <BARCODE>6000003075627</BARCODE>
         <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
