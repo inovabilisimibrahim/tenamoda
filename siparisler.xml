@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-26T14:06:39 -->
+﻿<!-- generated:2025-09-26T14:12:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2578</SIPARIS_NO>
@@ -2581,91 +2581,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2548</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ilknurayber@hotmail.com</POSTA>
-    <TARIH>2025-09-16</TARIH>
-    <sipariszaman>14:10:42</sipariszaman>
-    <NET_TOPLAM>1284.99000000</NET_TOPLAM>
-    <TeslimAlici>ilknur ayber</TeslimAlici>
-    <TeslimAdresi>Ali güven mesleki ve teknik Anadolu lisesi uygulama oteli şehit rüstem demirbaş sokak no 7 uluönder mah Tepebaşı</TeslimAdresi>
-    <TeslimTelefon>+905370287795</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>26190</teslimPostaKodu>
-    <teslimil>Eskişehir</teslimil>
-    <teslimilce>Tepebaşı</teslimilce>
-    <faturaalici>ilknur ayber</faturaalici>
-    <faturaAdresi>Ali güven mesleki ve teknik Anadolu lisesi uygulama oteli şehit rüstem demirbaş sokak no 7 uluönder mah Tepebaşı</faturaAdresi>
-    <faturaTelefon>+905370287795</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>26190</faturaPostaKodu>
-    <faturail>Eskişehir</faturail>
-    <faturailce>Tepebaşı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825481</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKTLTNGR14_14</KOD>
-        <VARKOD>5YKTLTNGR14_1414S</VARKOD>
-        <SECENEK_DEGERI>5YKTLTNGR14_14_S</SECENEK_DEGERI>
-        <BARCODE>6000003369764</BARCODE>
-        <URUNADI>Kadın Kolsuz Kuşak Bağlamalı Double Paça Tulum</URUNADI>
-        <FATURA_ADI>Kadın Kolsuz Kuşak Bağlamalı Double Paça Tulum</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKTLTNGR14_83</KOD>
-        <VARKOD>5YKTLTNGR14_8383S</VARKOD>
-        <SECENEK_DEGERI>5YKTLTNGR14_83_S</SECENEK_DEGERI>
-        <BARCODE>6000003369795</BARCODE>
-        <URUNADI>Kadın Kolsuz Kuşak Bağlamalı Double Paça Tulum</URUNADI>
-        <FATURA_ADI>Kadın Kolsuz Kuşak Bağlamalı Double Paça Tulum</FATURA_ADI>
-        <FIYAT>1254.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
