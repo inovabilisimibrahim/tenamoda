@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-26T19:34:52 -->
+﻿<!-- generated:2025-09-26T19:40:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2578</SIPARIS_NO>
@@ -1469,8 +1469,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YE2002-211_123</KOD>
-        <VARKOD>5YE2002-211_123123XL</VARKOD>
         <SECENEK_DEGERI>5YE2002-211_123_XL</SECENEK_DEGERI>
         <BARCODE>6000003260337</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka TRAVEL Baskı Tişört</URUNADI>
@@ -4337,8 +4335,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YETSTTN104_01</KOD>
-        <VARKOD>5YETSTTN104_0101XXL</VARKOD>
         <SECENEK_DEGERI>5YETSTTN104_01_XXL</SECENEK_DEGERI>
         <BARCODE>6000003304420</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
