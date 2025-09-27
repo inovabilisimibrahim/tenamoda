@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-27T12:22:16 -->
+﻿<!-- generated:2025-09-27T12:27:47 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2580</SIPARIS_NO>
@@ -567,92 +567,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2574</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ntopalca46@gmail.com</POSTA>
-    <TARIH>2025-09-27</TARIH>
-    <sipariszaman>11:57:22</sipariszaman>
-    <NET_TOPLAM>2075.73000000</NET_TOPLAM>
-    <TeslimAlici>Nuray Emekçi</TeslimAlici>
-    <TeslimAdresi>Postacılar Mahallesi 7651/1 Sokak No:30 Daire:6   Bayraklı/ İzmir Alperen Apt No:30 D:6</TeslimAdresi>
-    <TeslimTelefon>+905053216597</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35000</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bayraklı</teslimilce>
-    <faturaalici>Nuray Emekçi</faturaalici>
-    <faturaAdresi>Postacılar Mahallesi 7651/1 Sokak No:30 Daire:6   Bayraklı/ İzmir Alperen Apt No:30 D:6</faturaAdresi>
-    <faturaTelefon>+905053216597</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35000</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bayraklı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914825741</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKCKTN3327_08</KOD>
-        <VARKOD>5YKCKTN3327_080838</VARKOD>
-        <SECENEK_DEGERI>5YKCKTN3327_08_38</SECENEK_DEGERI>
-        <BARCODE>6000003367456</BARCODE>
-        <URUNADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</URUNADI>
-        <FATURA_ADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKCKTN3327_09</KOD>
-        <VARKOD>5YKCKTN3327_090938</VARKOD>
-        <SECENEK_DEGERI>5YKCKTN3327_09_38</SECENEK_DEGERI>
-        <BARCODE>6000003367487</BARCODE>
-        <URUNADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</URUNADI>
-        <FATURA_ADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</FATURA_ADI>
-        <FIYAT>1263.49000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKP66-1839_70</KOD>
-        <VARKOD>5YKP66-1839_7070M</VARKOD>
-        <SECENEK_DEGERI>5YKP66-1839_70_M</SECENEK_DEGERI>
-        <BARCODE>6000003365339</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Gizli Cep Detaylı Salaş Kesim Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Gizli Cep Detaylı Salaş Kesim Pantolon</FATURA_ADI>
-        <FIYAT>812.24000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
