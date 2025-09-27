@@ -1,5 +1,145 @@
-﻿<!-- generated:2025-09-27T07:40:12 -->
+﻿<!-- generated:2025-09-27T07:45:23 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2580</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>bozkirserap@gmail.com</POSTA>
+    <TARIH>2025-09-27</TARIH>
+    <sipariszaman>07:43:09</sipariszaman>
+    <NET_TOPLAM>719.98000000</NET_TOPLAM>
+    <TeslimAlici>Serap Ataseven</TeslimAlici>
+    <TeslimAdresi>Mevlana mah kaya1 sokak  Güneş apt no:56</TeslimAdresi>
+    <TeslimTelefon>+905437222952</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Kayseri</teslimil>
+    <teslimilce>Talas</teslimilce>
+    <faturaalici>Serap Ataseven</faturaalici>
+    <faturaAdresi>Mevlana mah kaya1 sokak  Güneş apt no:56</faturaAdresi>
+    <faturaTelefon>+905437222952</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Kayseri</faturail>
+    <faturailce>Talas</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825801</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKCKDS2576_08</KOD>
+        <VARKOD>4KKCKDS2576_0808S</VARKOD>
+        <SECENEK_DEGERI>4KKCKDS2576_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003226463</BARCODE>
+        <URUNADI>Kadın Üç İplik Düğmeli Ceket</URUNADI>
+        <FATURA_ADI>Kadın Üç İplik Düğmeli Ceket</FATURA_ADI>
+        <FIYAT>649.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2579</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>28597560394</tcno>
+    <POSTA>alcaulkem@gmail.com</POSTA>
+    <TARIH>2025-09-27</TARIH>
+    <sipariszaman>07:43:06</sipariszaman>
+    <NET_TOPLAM>869.97000000</NET_TOPLAM>
+    <TeslimAlici>Ülkem Alca</TeslimAlici>
+    <TeslimAdresi>Cumhuriyet Mah. Dörtkaya Mevkii 3049 Sok. NO:3 Edirne Life 5 Apt. KAT: 5 D:9</TeslimAdresi>
+    <TeslimTelefon>+905439631397</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>22030</teslimPostaKodu>
+    <teslimil>Edirne</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Ülkem Alca</faturaalici>
+    <faturaAdresi>Cumhuriyet Mah. Dörtkaya Mevkii 3049 Sok. NO:3 Edirne Life 5 Apt. KAT: 5 D:9</faturaAdresi>
+    <faturaTelefon>+905439631397</faturaTelefon>
+    <faturavergino>28597560394</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>22030</faturaPostaKodu>
+    <faturail>Edirne</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825791</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>9KETRTN0003_18</KOD>
+        <VARKOD>9KETRTN0003_1818XXL</VARKOD>
+        <SECENEK_DEGERI>9KETRTN0003_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000002413666</BARCODE>
+        <URUNADI>Erkek Yarım Balıkçı Yaka Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Erkek Yarım Balıkçı Yaka Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>2.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2578</SIPARIS_NO>
     <CariHesapKodu>
