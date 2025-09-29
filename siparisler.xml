@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-29T09:13:48 -->
+﻿<!-- generated:2025-09-29T09:19:04 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2584</SIPARIS_NO>
@@ -300,8 +300,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YETSCL4141_01</KOD>
-        <VARKOD>5YETSCL4141_01013XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_01_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290549</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -313,8 +311,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YETSCL4141_01</KOD>
-        <VARKOD>5YETSCL4141_01013XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_01_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290549</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -384,8 +380,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN2522_09</KOD>
-        <VARKOD>5YKPNTN2522_0909L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN2522_09_L</SECENEK_DEGERI>
         <BARCODE>6000003288591</BARCODE>
         <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
@@ -2465,8 +2459,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN2522_09</KOD>
-        <VARKOD>5YKPNTN2522_0909L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN2522_09_L</SECENEK_DEGERI>
         <BARCODE>6000003288591</BARCODE>
         <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
@@ -5815,8 +5807,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN2522_09</KOD>
-        <VARKOD>5YKPNTN2522_0909L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN2522_09_L</SECENEK_DEGERI>
         <BARCODE>6000003288591</BARCODE>
         <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
