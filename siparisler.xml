@@ -1,5 +1,154 @@
-﻿<!-- generated:2025-09-29T13:24:45 -->
+﻿<!-- generated:2025-09-29T13:30:06 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2585</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nihaloztemel@gmail.com</POSTA>
+    <TARIH>2025-09-29</TARIH>
+    <sipariszaman>13:25:38</sipariszaman>
+    <NET_TOPLAM>2373.54000000</NET_TOPLAM>
+    <TeslimAlici>Nihal Oztemel</TeslimAlici>
+    <TeslimAdresi>Murat reis mah. 245 sk. No:22/8</TeslimAdresi>
+    <TeslimTelefon>+905364780301</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Konak</teslimilce>
+    <faturaalici>Nihal Oztemel</faturaalici>
+    <faturaAdresi>Murat reis mah. 245 sk. No:22/8</faturaAdresi>
+    <faturaTelefon>+905364780301</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Konak</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914825851</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKG16-1450_010</KOD>
+        <VARKOD>5YKG16-1450_010010S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1450_010_S</SECENEK_DEGERI>
+        <BARCODE>6000003295759</BARCODE>
+        <URUNADI>Kadın Düşük Kol Tek Cepli Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Tek Cepli Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1450_06</KOD>
+        <VARKOD>5YKG16-1450_0606S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1450_06_S</SECENEK_DEGERI>
+        <BARCODE>6000003295780</BARCODE>
+        <URUNADI>Kadın Düşük Kol Tek Cepli Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Tek Cepli Gömlek</FATURA_ADI>
+        <FIYAT>558.48000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1450_08</KOD>
+        <VARKOD>5YKG16-1450_0808S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1450_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003295810</BARCODE>
+        <URUNADI>Kadın Düşük Kol Tek Cepli Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Tek Cepli Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1450_14</KOD>
+        <VARKOD>5YKG16-1450_1414S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1450_14_S</SECENEK_DEGERI>
+        <BARCODE>6000003295841</BARCODE>
+        <URUNADI>Kadın Düşük Kol Tek Cepli Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Tek Cepli Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_08</KOD>
+        <VARKOD>5YKETYE4450_0808S</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003348530</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>651.56000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1423_06</KOD>
+        <VARKOD>5YKG16-1423_0606S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1423_06_S</SECENEK_DEGERI>
+        <BARCODE>6000003284784</BARCODE>
+        <URUNADI>Kadın Kalın Manşetli Cepleri Düğme Detaylı Oversize Oxford Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Kalın Manşetli Cepleri Düğme Detaylı Oversize Oxford Gömlek</FATURA_ADI>
+        <FIYAT>605.02000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4710_010</KOD>
+        <VARKOD>3YKSRTN4710_010010S</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4710_010_S</SECENEK_DEGERI>
+        <BARCODE>6000003007093</BARCODE>
+        <URUNADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</URUNADI>
+        <FATURA_ADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4710_14</KOD>
+        <VARKOD>3YKSRTN4710_1414S</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4710_14_S</SECENEK_DEGERI>
+        <BARCODE>6000003082632</BARCODE>
+        <URUNADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</URUNADI>
+        <FATURA_ADI>Kadın Yüksel Bel Beli Kemerli Gabardin Şort</FATURA_ADI>
+        <FIYAT>558.48000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2584</SIPARIS_NO>
     <CariHesapKodu>
