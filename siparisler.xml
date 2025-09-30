@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-30T12:06:04 -->
+﻿<!-- generated:2025-09-30T12:11:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2586</SIPARIS_NO>
@@ -1739,6 +1739,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKGMT34162_08</KOD>
+        <VARKOD>4YKGMT34162_0808S</VARKOD>
         <SECENEK_DEGERI>4YKGMT34162_08_S</SECENEK_DEGERI>
         <BARCODE>6000003098381</BARCODE>
         <URUNADI>Kadın Kısa Kollu Arkası Uzun Rahat Kalıp Keten Gömlek</URUNADI>
