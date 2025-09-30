@@ -1,5 +1,88 @@
-﻿<!-- generated:2025-09-30T12:59:56 -->
+﻿<!-- generated:2025-09-30T13:05:19 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2587</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>41332985566</tcno>
+    <POSTA>ayseturkay@gmail.com</POSTA>
+    <TARIH>2025-09-30</TARIH>
+    <sipariszaman>13:04:18</sipariszaman>
+    <NET_TOPLAM>469.98000000</NET_TOPLAM>
+    <TeslimAlici>Ayşe Türkay</TeslimAlici>
+    <TeslimAdresi>Kaner Tekstil, Firüzköy Yolu. Bağlar İçi cad. No:105</TeslimAdresi>
+    <TeslimTelefon>+905322047907</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34325</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Avcılar</teslimilce>
+    <faturaalici>Ayşe Türkay</faturaalici>
+    <faturaAdresi>Kaner Tekstil, Firüzköy Yolu. Bağlar İçi cad. No:105</faturaAdresi>
+    <faturaTelefon>+905322047907</faturaTelefon>
+    <faturavergino>41332985566</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34325</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Avcılar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825871</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKSWTN5526_07</KOD>
+        <VARKOD>4KKSWTN5526_0707S</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN5526_07_S</SECENEK_DEGERI>
+        <BARCODE>6000003192232</BARCODE>
+        <URUNADI>Kadın Çizgili Üç İplik Şardonsuz Kapüşonlu Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Çizgili Üç İplik Şardonsuz Kapüşonlu Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKSWTN5479_18</KOD>
+        <VARKOD>3KKSWTN5479_1818S</VARKOD>
+        <SECENEK_DEGERI>3KKSWTN5479_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003055797</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Fermuarlı Scuba Kumaş Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Fermuarlı Scuba Kumaş Sweatshirt</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2586</SIPARIS_NO>
     <CariHesapKodu>
