@@ -1,5 +1,114 @@
-﻿<!-- generated:2025-09-30T14:26:01 -->
+﻿<!-- generated:2025-09-30T14:31:20 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2588</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>43537119272</tcno>
+    <POSTA>fhmtstn@hotmail.com</POSTA>
+    <TARIH>2025-09-30</TARIH>
+    <sipariszaman>14:28:30</sipariszaman>
+    <NET_TOPLAM>1069.97000000</NET_TOPLAM>
+    <TeslimAlici>Feyim  Taştan </TeslimAlici>
+    <TeslimAdresi>Ulus mah. İstiklal cad. Mesca life evleri menemen izmir A blok daire 115</TeslimAdresi>
+    <TeslimTelefon>+905545889204</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35660</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Menemen</teslimilce>
+    <faturaalici>Feyim  Taştan </faturaalici>
+    <faturaAdresi>Ulus mah. İstiklal cad. Mesca life evleri menemen izmir A blok daire 115</faturaAdresi>
+    <faturaTelefon>+905545889204</faturaTelefon>
+    <faturavergino>43537119272</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35660</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Menemen</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825881</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKSWTN6017_18</KOD>
+        <VARKOD>4KKSWTN6017_1818S</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6017_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003193789</BARCODE>
+        <URUNADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6017_02</KOD>
+        <VARKOD>4KKSWTN6017_0202S</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6017_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003193741</BARCODE>
+        <URUNADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6015_02</KOD>
+        <VARKOD>4KKSWTN6015_0202S</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6015_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003195950</BARCODE>
+        <URUNADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6015_18</KOD>
+        <VARKOD>4KKSWTN6015_1818S</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6015_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003195998</BARCODE>
+        <URUNADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2587</SIPARIS_NO>
     <CariHesapKodu>
