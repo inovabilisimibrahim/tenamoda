@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-09-30T15:25:19 -->
+﻿<!-- generated:2025-09-30T15:30:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2588</SIPARIS_NO>
@@ -764,6 +764,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_18183XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_18_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290785</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -775,6 +777,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_18183XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_18_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290785</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -1113,8 +1117,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKBLNO1559_18</KOD>
-        <VARKOD>5YKBLNO1559_1818M-L</VARKOD>
         <SECENEK_DEGERI>5YKBLNO1559_18_M-L</SECENEK_DEGERI>
         <BARCODE>6000003299733</BARCODE>
         <URUNADI>Kadın Kare Yaka Ottoman Kumaş Crop Bluz</URUNADI>
