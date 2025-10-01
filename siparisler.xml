@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-01T17:01:49 -->
+﻿<!-- generated:2025-10-01T17:07:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2590</SIPARIS_NO>
@@ -925,6 +925,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_18183XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_18_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290785</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -936,6 +938,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_18183XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_18_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290785</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
