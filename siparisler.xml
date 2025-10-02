@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-02T15:40:37 -->
+﻿<!-- generated:2025-10-02T15:46:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2592</SIPARIS_NO>
@@ -1032,6 +1032,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSCL4141_01</KOD>
+        <VARKOD>5YETSCL4141_01013XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_01_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290549</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -1043,6 +1045,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSCL4141_01</KOD>
+        <VARKOD>5YETSCL4141_01013XL</VARKOD>
         <SECENEK_DEGERI>5YETSCL4141_01_3XL</SECENEK_DEGERI>
         <BARCODE>6000003290549</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
@@ -5043,6 +5047,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YETS2083-2_B02</KOD>
+        <VARKOD>5YETS2083-2_B02B02XXL</VARKOD>
         <SECENEK_DEGERI>5YETS2083-2_B02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003298583</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Petek Basic Tişört</URUNADI>
