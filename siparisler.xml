@@ -1,5 +1,90 @@
-﻿<!-- generated:2025-10-02T11:43:41 -->
+﻿<!-- generated:2025-10-02T11:49:02 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2592</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>caglar30528645@hotmail.com</POSTA>
+    <TARIH>2025-10-02</TARIH>
+    <sipariszaman>11:44:06</sipariszaman>
+    <NET_TOPLAM>829.98000000</NET_TOPLAM>
+    <TeslimAlici>ÇAĞLAR KÜÇ</TeslimAlici>
+    <TeslimAdresi>Manisa akhisar beyoba mah. 92sk no:5 cevdet kuaföre de bırakabilirsiniz.</TeslimAdresi>
+    <TeslimTelefon>+905513941388</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>45200</teslimPostaKodu>
+    <teslimil>Manisa</teslimil>
+    <teslimilce>Akhisar</teslimilce>
+    <faturaalici>ÇAĞLAR KÜÇ</faturaalici>
+    <faturaAdresi>Manisa akhisar beyoba mah. 92sk no:5 cevdet kuaföre de bırakabilirsiniz.</faturaAdresi>
+    <faturaTelefon>+905513941388</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>45200</faturaPostaKodu>
+    <faturail>Manisa</faturail>
+    <faturailce>Akhisar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825921</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YEPNIZD204_47</KOD>
+        <VARKOD>4YEPNIZD204_474736</VARKOD>
+        <SECENEK_DEGERI>4YEPNIZD204_47_36</SECENEK_DEGERI>
+        <BARCODE>6000003180581</BARCODE>
+        <URUNADI>Erkek Bel Ve Paça Lastikli 10790 PFD JOGGER Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Bel Ve Paça Lastikli 10790 PFD JOGGER Pantolon</FATURA_ADI>
+        <FIYAT>759.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YEPNIZD204_47</KOD>
+        <VARKOD>4YEPNIZD204_474736</VARKOD>
+        <SECENEK_DEGERI>4YEPNIZD204_47_36</SECENEK_DEGERI>
+        <BARCODE>6000003180581</BARCODE>
+        <URUNADI>Erkek Bel Ve Paça Lastikli 10790 PFD JOGGER Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Bel Ve Paça Lastikli 10790 PFD JOGGER Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2590</SIPARIS_NO>
     <CariHesapKodu>
