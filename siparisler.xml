@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-03T12:01:49 -->
+﻿<!-- generated:2025-10-03T12:07:10 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2593</SIPARIS_NO>
@@ -2833,85 +2833,6 @@
         <BARCODE>6000003077577</BARCODE>
         <URUNADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</URUNADI>
         <FATURA_ADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2562</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>22484200844</tcno>
-    <POSTA>omeryldrm4781@gmail.com</POSTA>
-    <TARIH>2025-09-23</TARIH>
-    <sipariszaman>12:05:54</sipariszaman>
-    <NET_TOPLAM>569.98000000</NET_TOPLAM>
-    <TeslimAlici>Ömer  Yıldırım </TeslimAlici>
-    <TeslimAdresi>5747/10 sokak no 8 Meriç mahallesi Bornova  Ose Tekstil </TeslimAdresi>
-    <TeslimTelefon>+905435017691</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35160</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Ömer  Yıldırım </faturaalici>
-    <faturaAdresi>5747/10 sokak no 8 Meriç mahallesi Bornova  Ose Tekstil </faturaAdresi>
-    <faturaTelefon>+905435017691</faturaTelefon>
-    <faturavergino>22484200844</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35160</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825621</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YEG12-8308_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003084728</BARCODE>
-        <URUNADI>Erkek Uzun Kollu Tek Cepli Basic Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kollu Tek Cepli Basic Gömlek</FATURA_ADI>
-        <FIYAT>499.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YEG11-8309_08_M</SECENEK_DEGERI>
-        <BARCODE>6000003091733</BARCODE>
-        <URUNADI>Erkek Uzun Kollu Gofre Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kollu Gofre Gömlek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
