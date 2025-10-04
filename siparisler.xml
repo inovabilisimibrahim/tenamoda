@@ -1,5 +1,173 @@
-﻿<!-- generated:2025-10-04T09:02:17 -->
+﻿<!-- generated:2025-10-04T09:07:31 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2598</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>14369326688</tcno>
+    <POSTA>taylanerden@yahoo.com</POSTA>
+    <TARIH>2025-10-04</TARIH>
+    <sipariszaman>09:02:48</sipariszaman>
+    <NET_TOPLAM>569.98000000</NET_TOPLAM>
+    <TeslimAlici>Cemtaylan Erden</TeslimAlici>
+    <TeslimAdresi>Uncalı mah 1270 sok no35 marina konaklari b blok d4 d 4</TeslimAdresi>
+    <TeslimTelefon>+905053302086</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>07070</teslimPostaKodu>
+    <teslimil>Antalya</teslimil>
+    <teslimilce>Konyaaltı</teslimilce>
+    <faturaalici>Cemtaylan Erden</faturaalici>
+    <faturaAdresi>Uncalı mah 1270 sok no35 marina konaklari b blok d4 d 4</faturaAdresi>
+    <faturaTelefon>+905053302086</faturaTelefon>
+    <faturavergino>14369326688</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>07070</faturaPostaKodu>
+    <faturail>Antalya</faturail>
+    <faturailce>Konyaaltı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825981</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YETSTNT106_18</KOD>
+        <VARKOD>5YETSTNT106_1818M</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003330955</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_02</KOD>
+        <VARKOD>5YETSTNT106_0202M</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003330801</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2597</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>vefaegeerdogan@hotmail.com</POSTA>
+    <TARIH>2025-10-04</TARIH>
+    <sipariszaman>09:02:45</sipariszaman>
+    <NET_TOPLAM>669.98000000</NET_TOPLAM>
+    <TeslimAlici>Vefa Ege Erdoğan </TeslimAlici>
+    <TeslimAdresi>Patika Dil Konuşma ve Gelişim Merkezi İhsaniye, Celal Atik Cd. No: 56 D:1 A blok, 10200 Bandırma/Balıkesir (SİYAH CAMLI DÜKKAN) Patika Dil Konuşma ve Gelişim Merkezi</TeslimAdresi>
+    <TeslimTelefon>+905424356640</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>10200</teslimPostaKodu>
+    <teslimil>Balıkesir</teslimil>
+    <teslimilce>Bandırma</teslimilce>
+    <faturaalici>Vefa Ege Erdoğan </faturaalici>
+    <faturaAdresi>Patika Dil Konuşma ve Gelişim Merkezi İhsaniye, Celal Atik Cd. No: 56 D:1 A blok, 10200 Bandırma/Balıkesir (SİYAH CAMLI DÜKKAN) Patika Dil Konuşma ve Gelişim Merkezi</faturaAdresi>
+    <faturaTelefon>+905424356640</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>10200</faturaPostaKodu>
+    <faturail>Balıkesir</faturail>
+    <faturailce>Bandırma</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825971</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YETSTTN104_B02</KOD>
+        <VARKOD>5YETSTTN104_B02B02XL</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_B02_XL</SECENEK_DEGERI>
+        <BARCODE>6000003304611</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTTN104_01</KOD>
+        <VARKOD>5YETSTTN104_0101XL</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_01_XL</SECENEK_DEGERI>
+        <BARCODE>6000003304413</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2595</SIPARIS_NO>
     <CariHesapKodu>
