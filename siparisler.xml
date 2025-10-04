@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-04T13:35:59 -->
+﻿<!-- generated:2025-10-04T13:41:21 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2598</SIPARIS_NO>
@@ -2897,89 +2897,6 @@
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2565</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>17539277742</tcno>
-    <POSTA>gozdemsrl35@gmail.com</POSTA>
-    <TARIH>2025-09-24</TARIH>
-    <sipariszaman>13:39:29</sipariszaman>
-    <NET_TOPLAM>392.97000000</NET_TOPLAM>
-    <TeslimAlici>Gözde Mısırlı</TeslimAlici>
-    <TeslimAdresi>Alsancak Mahallesi 1474. Sokak No 6 Alsancak Diş Hastanesi Konak Izmir</TeslimAdresi>
-    <TeslimTelefon>+905076572698</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35220</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Konak</teslimilce>
-    <faturaalici>Gözde Mısırlı</faturaalici>
-    <faturaAdresi>Alsancak Mahallesi 1474. Sokak No 6 Alsancak Diş Hastanesi Konak Izmir</faturaAdresi>
-    <faturaTelefon>+905076572698</faturaTelefon>
-    <faturavergino>17539277742</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35220</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Konak</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825651</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>3YKTST23370_010</KOD>
-        <VARKOD>3YKTST23370_010010XL</VARKOD>
-        <SECENEK_DEGERI>3YKTST23370_010_XL</SECENEK_DEGERI>
-        <BARCODE>6000002981820</BARCODE>
-        <URUNADI>Kadın Yaka Ribanalı Bisiklet Yaka Basic Tişört</URUNADI>
-        <FATURA_ADI>Kadın Yaka Ribanalı Bisiklet Yaka Basic Tişört</FATURA_ADI>
-        <FIYAT>161.49000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>2.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YKTST23370_010</KOD>
-        <VARKOD>3YKTST23370_010010XL</VARKOD>
-        <SECENEK_DEGERI>3YKTST23370_010_XL</SECENEK_DEGERI>
-        <BARCODE>6000002981820</BARCODE>
-        <URUNADI>Kadın Yaka Ribanalı Bisiklet Yaka Basic Tişört</URUNADI>
-        <FATURA_ADI>Kadın Yaka Ribanalı Bisiklet Yaka Basic Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>2.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
