@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-05T11:30:37 -->
+﻿<!-- generated:2025-10-05T11:36:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2598</SIPARIS_NO>
@@ -3252,6 +3252,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKTKTN0006_09</KOD>
+        <VARKOD>5YKTKTN0006_0909S</VARKOD>
         <SECENEK_DEGERI>5YKTKTN0006_09_S</SECENEK_DEGERI>
         <BARCODE>6000003341579</BARCODE>
         <URUNADI>Kadın Blazer Ceketli Palozzo Modal Pantolonlu Takım</URUNADI>
