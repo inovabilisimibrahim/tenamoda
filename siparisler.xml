@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-06T16:58:14 -->
+﻿<!-- generated:2025-10-06T17:03:40 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2603</SIPARIS_NO>
@@ -2518,91 +2518,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2572</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>efsaekin26@gmail.com</POSTA>
-    <TARIH>2025-09-26</TARIH>
-    <sipariszaman>16:58:40</sipariszaman>
-    <NET_TOPLAM>544.98000000</NET_TOPLAM>
-    <TeslimAlici>efsa ekin</TeslimAlici>
-    <TeslimAdresi>erenler mahallesi 2806.sokak no:6  kalem kız öğrenci yurdu</TeslimAdresi>
-    <TeslimTelefon>+905387454370</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>03000</teslimPostaKodu>
-    <teslimil>Afyonkarahisar</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>efsa ekin</faturaalici>
-    <faturaAdresi>erenler mahallesi 2806.sokak no:6  kalem kız öğrenci yurdu</faturaAdresi>
-    <faturaTelefon>+905387454370</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>03000</faturaPostaKodu>
-    <faturail>Afyonkarahisar</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825721</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKPNTN6518_U01</KOD>
-        <VARKOD>4YKPNTN6518_U01U01M</VARKOD>
-        <SECENEK_DEGERI>4YKPNTN6518_U01_M</SECENEK_DEGERI>
-        <BARCODE>6000003075634</BARCODE>
-        <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</FATURA_ADI>
-        <FIYAT>474.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3KKSWT24253_18</KOD>
-        <VARKOD>3KKSWT24253_1818L</VARKOD>
-        <SECENEK_DEGERI>3KKSWT24253_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003050983</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Kol İçi Ribana Detaylı Üç İplik Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Kol İçi Ribana Detaylı Üç İplik Sweatshirt</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
