@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-06T03:04:12 -->
+﻿<!-- generated:2025-10-06T03:09:33 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2603</SIPARIS_NO>
@@ -3356,6 +3356,89 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2531</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>34537118518</tcno>
+    <POSTA>xibo1972@hotmail.com</POSTA>
+    <TARIH>2025-10-06</TARIH>
+    <sipariszaman>03:04:13</sipariszaman>
+    <NET_TOPLAM>984.99000000</NET_TOPLAM>
+    <TeslimAlici>İbrahim Bozkurt</TeslimAlici>
+    <TeslimAdresi>Akkuyu mah Anadolu cad 1001 sok Urartu sitesi g blok kat 3 daire 8 </TeslimAdresi>
+    <TeslimTelefon>05053935458</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>07070</teslimPostaKodu>
+    <teslimil>Antalya</teslimil>
+    <teslimilce>Konyaaltı</teslimilce>
+    <faturaalici>İbrahim Bozkurt</faturaalici>
+    <faturaAdresi>Akkuyu mah Anadolu cad 1001 sok Urartu sitesi g blok kat 3 daire 8 </faturaAdresi>
+    <faturaTelefon>05053935458</faturaTelefon>
+    <faturavergino>34537118518</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>07070</faturaPostaKodu>
+    <faturail>Antalya</faturail>
+    <faturailce>Konyaaltı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825311</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YESRT102VF_05</KOD>
+        <VARKOD>5YESRT102VF_050533</VARKOD>
+        <SECENEK_DEGERI>5YESRT102VF_05_33</SECENEK_DEGERI>
+        <BARCODE>6000003308220</BARCODE>
+        <URUNADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YESRT102VF_07</KOD>
+        <VARKOD>5YESRT102VF_070733</VARKOD>
+        <SECENEK_DEGERI>5YESRT102VF_07_33</SECENEK_DEGERI>
+        <BARCODE>6000003324169</BARCODE>
+        <URUNADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</FATURA_ADI>
+        <FIYAT>954.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2530</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -4910,87 +4993,6 @@
       <SATIR>
         <SECENEK_DEGERI>5YKCKTN3393_18_S</SECENEK_DEGERI>
         <FIYAT>1554.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2504</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>12889578648</tcno>
-    <POSTA>alpaykaratas08@gmail.com</POSTA>
-    <TARIH>2025-09-26</TARIH>
-    <sipariszaman>03:06:23</sipariszaman>
-    <NET_TOPLAM>484.99000000</NET_TOPLAM>
-    <TeslimAlici>Alpay karataş</TeslimAlici>
-    <TeslimAdresi>Zerdalilik mahallesi 1396 sokak  Hasan bey konağı no:4 /4</TeslimAdresi>
-    <TeslimTelefon>+905323568955</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>07100</teslimPostaKodu>
-    <teslimil>Antalya</teslimil>
-    <teslimilce>Muratpaşa</teslimilce>
-    <faturaalici>Alpay karataş</faturaalici>
-    <faturaAdresi>Zerdalilik mahallesi 1396 sokak  Hasan bey konağı no:4 /4</faturaAdresi>
-    <faturaTelefon>+905323568955</faturaTelefon>
-    <faturavergino>12889578648</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>07100</faturaPostaKodu>
-    <faturail>Antalya</faturail>
-    <faturailce>Muratpaşa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825041</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSFAL003_70</KOD>
-        <VARKOD>5YETSFAL003_7070XL</VARKOD>
-        <SECENEK_DEGERI>5YETSFAL003_70_XL</SECENEK_DEGERI>
-        <BARCODE>6000003338593</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKTST24541_010_XL</SECENEK_DEGERI>
-        <BARCODE>6000003086593</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Oversize Basic Süprem Tişört</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Oversize Basic Süprem Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
