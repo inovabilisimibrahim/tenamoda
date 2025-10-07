@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-07T10:07:50 -->
+﻿<!-- generated:2025-10-07T10:13:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2605</SIPARIS_NO>
@@ -2200,66 +2200,6 @@
         <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
         <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
         <FIYAT>549.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2576</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>nazanbardakci72@gmail.com</POSTA>
-    <TARIH>2025-09-27</TARIH>
-    <sipariszaman>10:08:47</sipariszaman>
-    <NET_TOPLAM>899.99000000</NET_TOPLAM>
-    <TeslimAlici>Nazan Bardakcı</TeslimAlici>
-    <TeslimAdresi>Erzene Mahallesi 70. Sokak No 10 Daire 5</TeslimAdresi>
-    <TeslimTelefon>+905077180033</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35040</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Nazan Bardakcı</faturaalici>
-    <faturaAdresi>Erzene Mahallesi 70. Sokak No 10 Daire 5</faturaAdresi>
-    <faturaTelefon>+905077180033</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35040</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825761</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKY37-5254_47</KOD>
-        <VARKOD>5KKY37-5254_4747STD</VARKOD>
-        <SECENEK_DEGERI>5KKY37-5254_47_STD</SECENEK_DEGERI>
-        <BARCODE>6000003400542</BARCODE>
-        <URUNADI>Kadın Fermarlı Buklet Yelek</URUNADI>
-        <FATURA_ADI>Kadın Fermarlı Buklet Yelek</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
