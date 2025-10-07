@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-07T16:52:43 -->
+﻿<!-- generated:2025-10-07T16:57:58 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2605</SIPARIS_NO>
@@ -1061,6 +1061,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKSWTN6003_18</KOD>
+        <VARKOD>4KKSWTN6003_1818L</VARKOD>
         <SECENEK_DEGERI>4KKSWTN6003_18_L</SECENEK_DEGERI>
         <BARCODE>6000003191815</BARCODE>
         <URUNADI>Kadın Yıldız Baskılı Cepsiz Üç İplik Kapüşonlu Sweatshirt</URUNADI>
