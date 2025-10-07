@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-07T14:44:56 -->
+﻿<!-- generated:2025-10-07T14:50:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2605</SIPARIS_NO>
@@ -9,7 +9,7 @@
     <tcno>35149208966</tcno>
     <POSTA>kilinccengiz@hotmail.com</POSTA>
     <TARIH>2025-10-07</TARIH>
-    <sipariszaman>09:03:07</sipariszaman>
+    <sipariszaman>14:47:07</sipariszaman>
     <NET_TOPLAM>2199.98000000</NET_TOPLAM>
     <TeslimAlici>Cengiz Kılınç</TeslimAlici>
     <TeslimAdresi>Egekent mah. 8847 SK. No:8 D:8 Özlem Apt. </TeslimAdresi>
@@ -87,7 +87,7 @@
     </tcno>
     <POSTA>zubusum_@hotmail.com</POSTA>
     <TARIH>2025-10-07</TARIH>
-    <sipariszaman>09:03:05</sipariszaman>
+    <sipariszaman>14:47:03</sipariszaman>
     <NET_TOPLAM>469.98000000</NET_TOPLAM>
     <TeslimAlici>Zübeyde Çifci</TeslimAlici>
     <TeslimAdresi>Vatan Mahallesi 9068 Sokak  Yılmaz 2 Apartmanı No:4 D:7</TeslimAdresi>
@@ -1061,8 +1061,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKSWTN6003_18</KOD>
-        <VARKOD>4KKSWTN6003_1818L</VARKOD>
         <SECENEK_DEGERI>4KKSWTN6003_18_L</SECENEK_DEGERI>
         <BARCODE>6000003191815</BARCODE>
         <URUNADI>Kadın Yıldız Baskılı Cepsiz Üç İplik Kapüşonlu Sweatshirt</URUNADI>
