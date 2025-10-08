@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-08T03:02:46 -->
+﻿<!-- generated:2025-10-08T03:08:01 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2605</SIPARIS_NO>
@@ -2498,6 +2498,85 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2536</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>17557614444</tcno>
+    <POSTA>sadisklr@gmail.com</POSTA>
+    <TARIH>2025-10-08</TARIH>
+    <sipariszaman>03:05:51</sipariszaman>
+    <NET_TOPLAM>484.99000000</NET_TOPLAM>
+    <TeslimAlici>Sadi ŞIKLAR</TeslimAlici>
+    <TeslimAdresi>Alacaatlı mah Park Mozaik Konutları Şehit Hayrettin EREN cad No:10/2 Daire:B-119 Yaşamkent-Çankaya-ANKARA</TeslimAdresi>
+    <TeslimTelefon>+905053422167</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Ankara</teslimil>
+    <teslimilce>Çankaya</teslimilce>
+    <faturaalici>Sadi ŞIKLAR</faturaalici>
+    <faturaAdresi>Alacaatlı mah Park Mozaik Konutları Şehit Hayrettin EREN cad No:10/2 Daire:B-119 Yaşamkent-Çankaya-ANKARA</faturaAdresi>
+    <faturaTelefon>+905053422167</faturaTelefon>
+    <faturavergino>17557614444</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Ankara</faturail>
+    <faturailce>Çankaya</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825361</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5YETSFAL003_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338463</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_04</KOD>
+        <VARKOD>5YETSFAL003_0404XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_04_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338111</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>454.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
