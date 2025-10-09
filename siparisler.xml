@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-09T22:29:39 -->
+﻿<!-- generated:2025-10-09T22:34:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2607</SIPARIS_NO>
@@ -80,77 +80,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2606</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>34834441562</tcno>
-    <POSTA>handekandirmaz@hotmail.com</POSTA>
-    <TARIH>2025-10-09</TARIH>
-    <sipariszaman>19:11:50</sipariszaman>
-    <NET_TOPLAM>899.99000000</NET_TOPLAM>
-    <TeslimAlici>Hande Kandırmaz</TeslimAlici>
-    <TeslimAdresi>Sümer Mahallesi Çuha Sokak No: 15 / A Odunpazarı Eskişehir  No: 15/ A </TeslimAdresi>
-    <TeslimTelefon>+905055068906</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>26140</teslimPostaKodu>
-    <teslimil>Eskişehir</teslimil>
-    <teslimilce>Odunpazarı</teslimilce>
-    <faturaalici>Hande Kandırmaz</faturaalici>
-    <faturaAdresi>Sümer Mahallesi Çuha Sokak No: 15 / A Odunpazarı Eskişehir  No: 15/ A </faturaAdresi>
-    <faturaTelefon>+905055068906</faturaTelefon>
-    <faturavergino>34834441562</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>26140</faturaPostaKodu>
-    <faturail>Eskişehir</faturail>
-    <faturailce>Odunpazarı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826061</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKEL4204-1_18</KOD>
-        <VARKOD>4YKEL4204-1_1818S</VARKOD>
-        <SECENEK_DEGERI>4YKEL4204-1_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003080805</BARCODE>
-        <URUNADI>Kadın İp Askılı Etek Ucu Püsküllü Kısa Elbise</URUNADI>
-        <FATURA_ADI>Kadın İp Askılı Etek Ucu Püsküllü Kısa Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKELD90519_MT5</KOD>
-        <VARKOD>4YKELD90519_MT5MT536</VARKOD>
-        <SECENEK_DEGERI>4YKELD90519_MT5_36</SECENEK_DEGERI>
-        <BARCODE>6000003169166</BARCODE>
-        <URUNADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
