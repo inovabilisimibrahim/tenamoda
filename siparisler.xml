@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-09T03:03:29 -->
+﻿<!-- generated:2025-10-09T03:08:54 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2607</SIPARIS_NO>
@@ -2586,6 +2586,85 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2537</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>17962951066</tcno>
+    <POSTA>ruzgarpolat@gmail.com</POSTA>
+    <TARIH>2025-10-09</TARIH>
+    <sipariszaman>03:07:54</sipariszaman>
+    <NET_TOPLAM>544.99000000</NET_TOPLAM>
+    <TeslimAlici>Haşim Polat</TeslimAlici>
+    <TeslimAdresi>Ahmet Yesevi Mahallesi Gülhane Caddesi Ilıca Sokak No 18 Daire 3 18/3</TeslimAdresi>
+    <TeslimTelefon>+905370173110</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34903</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Pendik</teslimilce>
+    <faturaalici>Haşim Polat</faturaalici>
+    <faturaAdresi>Ahmet Yesevi Mahallesi Gülhane Caddesi Ilıca Sokak No 18 Daire 3 18/3</faturaAdresi>
+    <faturaTelefon>+905370173110</faturaTelefon>
+    <faturavergino>17962951066</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34903</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Pendik</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914825371</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>4YEG11-8309_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003091733</BARCODE>
+        <URUNADI>Erkek Uzun Kollu Gofre Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kollu Gofre Gömlek</FATURA_ADI>
+        <FIYAT>514.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5YETSFAL003_70_L</SECENEK_DEGERI>
+        <BARCODE>6000003338579</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>30.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2536</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -4068,186 +4147,6 @@
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
         <FIYAT>454.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>30.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2514</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>46591386574</tcno>
-    <POSTA>meneksemiray@hotmail.com</POSTA>
-    <TARIH>2025-09-29</TARIH>
-    <sipariszaman>03:05:49</sipariszaman>
-    <NET_TOPLAM>2109.98000000</NET_TOPLAM>
-    <TeslimAlici>Safiye Menekşe Şevik</TeslimAlici>
-    <TeslimAdresi>Gazi Osman Paşa mahallesi Kamil Tunca Bulvarı 83 Şevik Apt. Çamdibi Bornova Şevik</TeslimAdresi>
-    <TeslimTelefon>+905553163540</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35000</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Safiye Menekşe Şevik</faturaalici>
-    <faturaAdresi>Gazi Osman Paşa mahallesi Kamil Tunca Bulvarı 83 Şevik Apt. Çamdibi Bornova Şevik</faturaAdresi>
-    <faturaTelefon>+905553163540</faturaTelefon>
-    <faturavergino>46591386574</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35000</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914825141</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTNGR17_08</KOD>
-        <VARKOD>5YKELTNGR17_0808M</VARKOD>
-        <SECENEK_DEGERI>5YKELTNGR17_08_M</SECENEK_DEGERI>
-        <BARCODE>6000003367906</BARCODE>
-        <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</FATURA_ADI>
-        <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTNGR17_18</KOD>
-        <VARKOD>5YKELTNGR17_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKELTNGR17_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003367968</BARCODE>
-        <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</FATURA_ADI>
-        <FIYAT>1054.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTNGR15_14</KOD>
-        <VARKOD>5YKELTNGR15_1414L</VARKOD>
-        <SECENEK_DEGERI>5YKELTNGR15_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003367838</BARCODE>
-        <URUNADI>Kadın Düşük Kol Yanları Yırtmaçlı Uzun Elbise</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Yanları Yırtmaçlı Uzun Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTNGR15_18</KOD>
-        <VARKOD>5YKELTNGR15_1818L</VARKOD>
-        <SECENEK_DEGERI>5YKELTNGR15_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003367869</BARCODE>
-        <URUNADI>Kadın Düşük Kol Yanları Yırtmaçlı Uzun Elbise</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Yanları Yırtmaçlı Uzun Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2512</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>asliioz84@gmail.com</POSTA>
-    <TARIH>2025-09-29</TARIH>
-    <sipariszaman>03:05:01</sipariszaman>
-    <NET_TOPLAM>1484.99000000</NET_TOPLAM>
-    <TeslimAlici>Aslı Alatekin</TeslimAlici>
-    <TeslimAdresi>Kemalpaşa osb mah 88 sok no.2  Seltaş metal </TeslimAdresi>
-    <TeslimTelefon>+905386327391</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Kemalpaşa</teslimilce>
-    <faturaalici>Aslı Alatekin</faturaalici>
-    <faturaAdresi>Kemalpaşa osb mah 88 sok no.2  Seltaş metal </faturaAdresi>
-    <faturaTelefon>+905386327391</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Kemalpaşa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825121</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKT18-1453_18</KOD>
-        <VARKOD>5YKT18-1453_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKT18-1453_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003298095</BARCODE>
-        <URUNADI>Kadın Oversize Düşük Kol Gömlek Şortlu Takım</URUNADI>
-        <FATURA_ADI>Kadın Oversize Düşük Kol Gömlek Şortlu Takım</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKT18-1453_70</KOD>
-        <VARKOD>5YKT18-1453_7070M</VARKOD>
-        <SECENEK_DEGERI>5YKT18-1453_70_M</SECENEK_DEGERI>
-        <BARCODE>6000003298125</BARCODE>
-        <URUNADI>Kadın Oversize Düşük Kol Gömlek Şortlu Takım</URUNADI>
-        <FATURA_ADI>Kadın Oversize Düşük Kol Gömlek Şortlu Takım</FATURA_ADI>
-        <FIYAT>1454.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
