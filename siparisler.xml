@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-10T11:26:12 -->
+﻿<!-- generated:2025-10-10T11:31:33 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2607</SIPARIS_NO>
@@ -1741,87 +1741,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2583</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>30004125140</tcno>
-    <POSTA>ylzprmksz@gmail.com</POSTA>
-    <TARIH>2025-09-30</TARIH>
-    <sipariszaman>11:30:26</sipariszaman>
-    <NET_TOPLAM>769.98000000</NET_TOPLAM>
-    <TeslimAlici>Yeliz Parmaksız </TeslimAlici>
-    <TeslimAdresi>Gazi mh 28/11 SK.  KAZIMBEY APT. NO4 D.2</TeslimAdresi>
-    <TeslimTelefon>+905325228223</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Gaziemir</teslimilce>
-    <faturaalici>Yeliz Parmaksız </faturaalici>
-    <faturaAdresi>Gazi mh 28/11 SK.  KAZIMBEY APT. NO4 D.2</faturaAdresi>
-    <faturaTelefon>+905325228223</faturaTelefon>
-    <faturavergino>30004125140</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Gaziemir</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825831</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1449_010</KOD>
-        <VARKOD>5YKG16-1449_010010M</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1449_010_M</SECENEK_DEGERI>
-        <BARCODE>6000003295865</BARCODE>
-        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKG16-1449_18</KOD>
-        <VARKOD>5YKG16-1449_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1449_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003295957</BARCODE>
-        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
