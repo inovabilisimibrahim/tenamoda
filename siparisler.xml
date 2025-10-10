@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-10T10:54:35 -->
+﻿<!-- generated:2025-10-10T10:59:54 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2607</SIPARIS_NO>
@@ -1915,87 +1915,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2581</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>13612138702</tcno>
-    <POSTA>sengulciftci77@hotmail.com</POSTA>
-    <TARIH>2025-09-30</TARIH>
-    <sipariszaman>10:56:43</sipariszaman>
-    <NET_TOPLAM>1069.98000000</NET_TOPLAM>
-    <TeslimAlici>Şengül Çiftci</TeslimAlici>
-    <TeslimAdresi>Karaağaç mahallesi, 116. Cd. Çağla sitesi B -blok no1/4 merkez/ ısparta Çağla sitesi</TeslimAdresi>
-    <TeslimTelefon>+905052914149</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>32100</teslimPostaKodu>
-    <teslimil>Isparta</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Şengül Çiftci</faturaalici>
-    <faturaAdresi>Karaağaç mahallesi, 116. Cd. Çağla sitesi B -blok no1/4 merkez/ ısparta Çağla sitesi</faturaAdresi>
-    <faturaTelefon>+905052914149</faturaTelefon>
-    <faturavergino>13612138702</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>32100</faturaPostaKodu>
-    <faturail>Isparta</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825811</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKPNTN2522_01</KOD>
-        <VARKOD>5YKPNTN2522_0101L</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN2522_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003288539</BARCODE>
-        <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>999.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN2522_09_L</SECENEK_DEGERI>
-        <BARCODE>6000003288591</BARCODE>
-        <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
