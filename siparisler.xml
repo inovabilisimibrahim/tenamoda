@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-10T14:25:55 -->
+﻿<!-- generated:2025-10-10T14:31:15 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2607</SIPARIS_NO>
@@ -673,8 +673,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YETSTTN104_01</KOD>
-        <VARKOD>5YETSTTN104_0101XL</VARKOD>
         <SECENEK_DEGERI>5YETSTTN104_01_XL</SECENEK_DEGERI>
         <BARCODE>6000003304413</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
