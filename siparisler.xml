@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-10T17:19:16 -->
+﻿<!-- generated:2025-10-10T17:24:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2608</SIPARIS_NO>
@@ -1515,6 +1515,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN3396_18</KOD>
+        <VARKOD>5YKPNTN3396_1818S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_18_S</SECENEK_DEGERI>
         <BARCODE>6000003303362</BARCODE>
         <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
@@ -2630,6 +2632,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKPNTN3396_05</KOD>
+        <VARKOD>5YKPNTN3396_0505L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_05_L</SECENEK_DEGERI>
         <BARCODE>6000003303287</BARCODE>
         <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
@@ -2641,6 +2645,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN3396_70</KOD>
+        <VARKOD>5YKPNTN3396_7070L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_70_L</SECENEK_DEGERI>
         <BARCODE>6000003303379</BARCODE>
         <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
