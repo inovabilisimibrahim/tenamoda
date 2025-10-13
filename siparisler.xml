@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-13T09:22:42 -->
+﻿<!-- generated:2025-10-13T09:27:56 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2614</SIPARIS_NO>
@@ -230,8 +230,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4YEPNFEAT15_05</KOD>
-        <VARKOD>4YEPNFEAT15_0505L</VARKOD>
         <SECENEK_DEGERI>4YEPNFEAT15_05_L</SECENEK_DEGERI>
         <BARCODE>6000003114616</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Double Paça Karya Pantolon</URUNADI>
@@ -243,8 +241,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YEPNFEAT15_05</KOD>
-        <VARKOD>4YEPNFEAT15_0505L</VARKOD>
         <SECENEK_DEGERI>4YEPNFEAT15_05_L</SECENEK_DEGERI>
         <BARCODE>6000003114616</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Double Paça Karya Pantolon</URUNADI>
