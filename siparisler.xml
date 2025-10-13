@@ -1,5 +1,102 @@
-﻿<!-- generated:2025-10-13T10:52:25 -->
+﻿<!-- generated:2025-10-13T10:57:49 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2615</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>derya.yasar@gmail.com</POSTA>
+    <TARIH>2025-10-13</TARIH>
+    <sipariszaman>10:53:34</sipariszaman>
+    <NET_TOPLAM>941.16000000</NET_TOPLAM>
+    <TeslimAlici>Derya Başer</TeslimAlici>
+    <TeslimAdresi>Bolu Abant İzzet Baysal Üniversitesi Egitim Fak. Oda No:116 Gölköy Kampüsü </TeslimAdresi>
+    <TeslimTelefon>+905054759408</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Bolu</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Derya Başer</faturaalici>
+    <faturaAdresi>Bolu Abant İzzet Baysal Üniversitesi Egitim Fak. Oda No:116 Gölköy Kampüsü </faturaAdresi>
+    <faturaTelefon>+905054759408</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Bolu</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914826151</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3YKSRTN4411_08</KOD>
+        <VARKOD>3YKSRTN4411_0808M</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4411_08_M</SECENEK_DEGERI>
+        <BARCODE>6000002992314</BARCODE>
+        <URUNADI>Kadın Yanı Fermuarlı Şort Etek</URUNADI>
+        <FATURA_ADI>Kadın Yanı Fermuarlı Şort Etek</FATURA_ADI>
+        <FIYAT>470.58000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4484_22</KOD>
+        <VARKOD>3YKSRTN4484_2222S</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4484_22_S</SECENEK_DEGERI>
+        <BARCODE>6000002992208</BARCODE>
+        <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
+        <FATURA_ADI>Kadın İp Bağlamalı Double Paça Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4484_61</KOD>
+        <VARKOD>3YKSRTN4484_6161S</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4484_61_S</SECENEK_DEGERI>
+        <BARCODE>6000002992239</BARCODE>
+        <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
+        <FATURA_ADI>Kadın İp Bağlamalı Double Paça Şort</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKSRTN4411_06</KOD>
+        <VARKOD>3YKSRTN4411_0606M</VARKOD>
+        <SECENEK_DEGERI>3YKSRTN4411_06_M</SECENEK_DEGERI>
+        <BARCODE>6000002992284</BARCODE>
+        <URUNADI>Kadın Yanı Fermuarlı Şort Etek</URUNADI>
+        <FATURA_ADI>Kadın Yanı Fermuarlı Şort Etek</FATURA_ADI>
+        <FIYAT>470.58000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2614</SIPARIS_NO>
     <CariHesapKodu>
