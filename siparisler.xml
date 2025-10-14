@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-14T14:47:23 -->
+﻿<!-- generated:2025-10-14T14:52:49 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2618</SIPARIS_NO>
@@ -10,7 +10,7 @@
     </tcno>
     <POSTA>edakaykusuz2005@gmail.com</POSTA>
     <TARIH>2025-10-14</TARIH>
-    <sipariszaman>12:09:48</sipariszaman>
+    <sipariszaman>14:49:55</sipariszaman>
     <NET_TOPLAM>444.34000000</NET_TOPLAM>
     <TeslimAlici>Edanur Kaykusuz</TeslimAlici>
     <TeslimAdresi>Çamlık mah Turan Emeksiz sokak No:8 Daire:4 Apartman</TeslimAdresi>
@@ -94,7 +94,7 @@
     <tcno>14018471882</tcno>
     <POSTA>flzyogun@hotmail.com</POSTA>
     <TARIH>2025-10-14</TARIH>
-    <sipariszaman>09:04:12</sipariszaman>
+    <sipariszaman>14:50:10</sipariszaman>
     <NET_TOPLAM>2899.98000000</NET_TOPLAM>
     <TeslimAlici>Filiz  Yoğun Tosun </TeslimAlici>
     <TeslimAdresi>Atatürk Mahallesi 8809/10 sokak  Güneş Apartmanı No 6 daire 29 kat 7 Çiğli </TeslimAdresi>
@@ -180,7 +180,7 @@
     <tcno>58120537708</tcno>
     <POSTA>temellnazz28@gmail.com</POSTA>
     <TARIH>2025-10-14</TARIH>
-    <sipariszaman>09:04:08</sipariszaman>
+    <sipariszaman>14:50:23</sipariszaman>
     <NET_TOPLAM>519.98000000</NET_TOPLAM>
     <TeslimAlici>Nazlı  Temel</TeslimAlici>
     <TeslimAdresi>Ali Fuat Cebesoy 9135/4 no 4 ege yaşam Hastanesi Karabağlar İzmir  Ege Yaşam hastanesi </TeslimAdresi>
@@ -543,8 +543,8 @@
     </CariHesapOzelKodu>
     <tcno>33766814604</tcno>
     <POSTA>thorberat@gmail.com</POSTA>
-    <TARIH>2025-10-13</TARIH>
-    <sipariszaman>09:05:15</sipariszaman>
+    <TARIH>2025-10-14</TARIH>
+    <sipariszaman>14:50:01</sipariszaman>
     <NET_TOPLAM>969.98000000</NET_TOPLAM>
     <TeslimAlici>Berat Temel</TeslimAlici>
     <TeslimAdresi>TAF/TURKCELL ATLETİZM YÜKSEK PERFORMANS MERKEZİ  Mersinli mahallesi Şehitler caddesi Atatürk stadyumu içi  No:181/3 İş yerim stadyum içi TAF</TeslimAdresi>
@@ -754,8 +754,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KEPNNTUOMO_18</KOD>
-        <VARKOD>4KEPNNTUOMO_1818XXL</VARKOD>
         <SECENEK_DEGERI>4KEPNNTUOMO_18_XXL</SECENEK_DEGERI>
         <BARCODE>6000003313712</BARCODE>
         <URUNADI>Erkek Beli Lastikli ve İpli Arka Cep Düğmeli Pantolon</URUNADI>
