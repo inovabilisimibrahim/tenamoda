@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-15T14:50:32 -->
+﻿<!-- generated:2025-10-15T14:55:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2620</SIPARIS_NO>
@@ -70,8 +70,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKKZSN4107_010</KOD>
-        <VARKOD>4KKKZSN4107_010010STD</VARKOD>
         <SECENEK_DEGERI>4KKKZSN4107_010_STD</SECENEK_DEGERI>
         <BARCODE>6000003210844</BARCODE>
         <URUNADI>Kadın Fitilli Ajurlu Triko Kazak</URUNADI>
@@ -109,8 +107,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKKZSN3766_HEK</KOD>
-        <VARKOD>4KKKZSN3766_HEKHEKSTD</VARKOD>
         <SECENEK_DEGERI>4KKKZSN3766_HEK_STD</SECENEK_DEGERI>
         <BARCODE>6000003210790</BARCODE>
         <URUNADI>Kadın Ponpon Detaylı Delikli Triko Kazak</URUNADI>
@@ -555,6 +551,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3YKSRTN4484_22</KOD>
+        <VARKOD>3YKSRTN4484_2222S</VARKOD>
         <SECENEK_DEGERI>3YKSRTN4484_22_S</SECENEK_DEGERI>
         <BARCODE>6000002992208</BARCODE>
         <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
