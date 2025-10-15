@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-15T14:55:46 -->
+﻿<!-- generated:2025-10-15T15:01:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2620</SIPARIS_NO>
@@ -564,6 +564,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3YKSRTN4484_61</KOD>
+        <VARKOD>3YKSRTN4484_6161S</VARKOD>
         <SECENEK_DEGERI>3YKSRTN4484_61_S</SECENEK_DEGERI>
         <BARCODE>6000002992239</BARCODE>
         <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
