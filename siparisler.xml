@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-15T12:27:48 -->
+﻿<!-- generated:2025-10-15T12:33:11 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2620</SIPARIS_NO>
@@ -70,6 +70,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKKZSN4107_010</KOD>
+        <VARKOD>4KKKZSN4107_010010STD</VARKOD>
         <SECENEK_DEGERI>4KKKZSN4107_010_STD</SECENEK_DEGERI>
         <BARCODE>6000003210844</BARCODE>
         <URUNADI>Kadın Fitilli Ajurlu Triko Kazak</URUNADI>
@@ -107,6 +109,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKKZSN3766_HEK</KOD>
+        <VARKOD>4KKKZSN3766_HEKHEKSTD</VARKOD>
         <SECENEK_DEGERI>4KKKZSN3766_HEK_STD</SECENEK_DEGERI>
         <BARCODE>6000003210790</BARCODE>
         <URUNADI>Kadın Ponpon Detaylı Delikli Triko Kazak</URUNADI>
@@ -551,8 +555,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>3YKSRTN4484_22</KOD>
-        <VARKOD>3YKSRTN4484_2222S</VARKOD>
         <SECENEK_DEGERI>3YKSRTN4484_22_S</SECENEK_DEGERI>
         <BARCODE>6000002992208</BARCODE>
         <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
@@ -564,8 +566,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>3YKSRTN4484_61</KOD>
-        <VARKOD>3YKSRTN4484_6161S</VARKOD>
         <SECENEK_DEGERI>3YKSRTN4484_61_S</SECENEK_DEGERI>
         <BARCODE>6000002992239</BARCODE>
         <URUNADI>Kadın İp Bağlamalı Double Paça Şort</URUNADI>
@@ -785,8 +785,8 @@
     </CariHesapOzelKodu>
     <tcno>33766814604</tcno>
     <POSTA>thorberat@gmail.com</POSTA>
-    <TARIH>2025-10-14</TARIH>
-    <sipariszaman>14:50:01</sipariszaman>
+    <TARIH>2025-10-15</TARIH>
+    <sipariszaman>12:30:33</sipariszaman>
     <NET_TOPLAM>969.98000000</NET_TOPLAM>
     <TeslimAlici>Berat Temel</TeslimAlici>
     <TeslimAdresi>TAF/TURKCELL ATLETİZM YÜKSEK PERFORMANS MERKEZİ  Mersinli mahallesi Şehitler caddesi Atatürk stadyumu içi  No:181/3 İş yerim stadyum içi TAF</TeslimAdresi>
