@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-17T14:31:18 -->
+﻿<!-- generated:2025-10-17T14:36:42 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2621</SIPARIS_NO>
@@ -1549,77 +1549,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2603</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>aynurgvendi@gmail.com</POSTA>
-    <TARIH>2025-10-07</TARIH>
-    <sipariszaman>14:31:34</sipariszaman>
-    <NET_TOPLAM>699.99000000</NET_TOPLAM>
-    <TeslimAlici>Aynur  Güvendi </TeslimAlici>
-    <TeslimAdresi>Akpınar mah. 1. Acar sok no 3 il sağlık mid. Ek bina </TeslimAdresi>
-    <TeslimTelefon>+905317919767</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Bursa</teslimil>
-    <teslimilce>Osmangazi</teslimilce>
-    <faturaalici>Aynur  Güvendi </faturaalici>
-    <faturaAdresi>Akpınar mah. 1. Acar sok no 3 il sağlık mid. Ek bina </faturaAdresi>
-    <faturaTelefon>+905317919767</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Bursa</faturail>
-    <faturailce>Osmangazi</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826031</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETYE4450_09</KOD>
-        <VARKOD>5YKETYE4450_0909M</VARKOD>
-        <SECENEK_DEGERI>5YKETYE4450_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003348554</BARCODE>
-        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
-        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKG16-1448_14</KOD>
-        <VARKOD>5YKG16-1448_1414S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1448_14_S</SECENEK_DEGERI>
-        <BARCODE>6000003296084</BARCODE>
-        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
