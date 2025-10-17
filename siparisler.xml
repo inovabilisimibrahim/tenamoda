@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-17T13:33:19 -->
+﻿<!-- generated:2025-10-17T13:38:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2621</SIPARIS_NO>
@@ -1689,71 +1689,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2599</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>12611547928</tcno>
-    <POSTA>gokhan.goktas36@gmail.com</POSTA>
-    <TARIH>2025-10-07</TARIH>
-    <sipariszaman>13:34:19</sipariszaman>
-    <NET_TOPLAM>969.98000000</NET_TOPLAM>
-    <TeslimAlici>Gökhan  Göktaş </TeslimAlici>
-    <TeslimAdresi>Cumhuriyet Mah. 9603/1 Sok. Deniz Aprt.  No:2 D:23 K:5 </TeslimAdresi>
-    <TeslimTelefon>+905452455549</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35650</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Çiğli</teslimilce>
-    <faturaalici>Gökhan  Göktaş </faturaalici>
-    <faturaAdresi>Cumhuriyet Mah. 9603/1 Sok. Deniz Aprt.  No:2 D:23 K:5 </faturaAdresi>
-    <faturaTelefon>+905452455549</faturaTelefon>
-    <faturavergino>12611547928</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35650</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Çiğli</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914825991</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5KEKZT34104_02_M</SECENEK_DEGERI>
-        <FIYAT>899.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
