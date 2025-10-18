@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-18T18:28:20 -->
+﻿<!-- generated:2025-10-18T18:33:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2623</SIPARIS_NO>
@@ -1552,83 +1552,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2605</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>35149208966</tcno>
-    <POSTA>kilinccengiz@hotmail.com</POSTA>
-    <TARIH>2025-10-08</TARIH>
-    <sipariszaman>18:32:40</sipariszaman>
-    <NET_TOPLAM>2199.98000000</NET_TOPLAM>
-    <TeslimAlici>Cengiz Kılınç</TeslimAlici>
-    <TeslimAdresi>Egekent mah. 8847 SK. No:8 D:8 Özlem Apt. </TeslimAdresi>
-    <TeslimTelefon>+905059062370</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Çiğli</teslimilce>
-    <faturaalici>Cengiz Kılınç</faturaalici>
-    <faturaAdresi>Egekent mah. 8847 SK. No:8 D:8 Özlem Apt. </faturaAdresi>
-    <faturaTelefon>+905059062370</faturaTelefon>
-    <faturavergino>35149208966</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Çiğli</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914826051</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSTNT106_18</KOD>
-        <VARKOD>5YETSTNT106_1818L</VARKOD>
-        <SECENEK_DEGERI>5YETSTNT106_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003330948</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
-        <FIYAT>499.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSTNT106_18</KOD>
-        <VARKOD>5YETSTNT106_1818L</VARKOD>
-        <SECENEK_DEGERI>5YETSTNT106_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003330948</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
-        <FIYAT>1699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
