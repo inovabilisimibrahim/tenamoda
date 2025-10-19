@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-19T19:30:41 -->
+﻿<!-- generated:2025-10-19T19:36:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2623</SIPARIS_NO>
@@ -436,6 +436,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKSWTN6019_YAH</KOD>
+        <VARKOD>4KKSWTN6019_YAHYAHM</VARKOD>
         <SECENEK_DEGERI>4KKSWTN6019_YAH_M</SECENEK_DEGERI>
         <BARCODE>6000003194137</BARCODE>
         <URUNADI>Kadın Kind Reminder Baskılı Üç İplik Sweatshirt</URUNADI>
