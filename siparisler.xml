@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-23T13:25:06 -->
+﻿<!-- generated:2025-10-23T13:30:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2633</SIPARIS_NO>
@@ -391,6 +391,8 @@
     <SATIRLAR>
       <SATIR>
         <SECENEK_DEGERI>5KEHRTNE204_X23_M</SECENEK_DEGERI>
+        <URUNADI>Erkek Double Face Akrilik Fermuarlı Hırka</URUNADI>
+        <FATURA_ADI>Erkek Double Face Akrilik Fermuarlı Hırka</FATURA_ADI>
         <FIYAT>1290.17000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
