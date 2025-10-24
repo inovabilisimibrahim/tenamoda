@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-24T13:13:44 -->
+﻿<!-- generated:2025-10-24T13:19:05 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2635</SIPARIS_NO>
@@ -1895,89 +1895,6 @@
         <BARCODE>6000003114616</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Double Paça Karya Pantolon</URUNADI>
         <FATURA_ADI>Erkek Beli Yarım Lastikli Double Paça Karya Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2611</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>berkay.aydogdu2306@gmail.com</POSTA>
-    <TARIH>2025-10-14</TARIH>
-    <sipariszaman>13:15:50</sipariszaman>
-    <NET_TOPLAM>419.98000000</NET_TOPLAM>
-    <TeslimAlici>Berkay Aydoğdu</TeslimAlici>
-    <TeslimAdresi>Levent mah. Krizantem sok. No:5</TeslimAdresi>
-    <TeslimTelefon>+905388399312</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Beşiktaş</teslimilce>
-    <faturaalici>Berkay Aydoğdu</faturaalici>
-    <faturaAdresi>Levent mah. Krizantem sok. No:5</faturaAdresi>
-    <faturaTelefon>+905388399312</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Beşiktaş</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826111</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSTN2512_010</KOD>
-        <VARKOD>5YETSTN2512_010010XXL</VARKOD>
-        <SECENEK_DEGERI>5YETSTN2512_010_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003299030</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
-        <FIYAT>349.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSTN2512_010</KOD>
-        <VARKOD>5YETSTN2512_010010XXL</VARKOD>
-        <SECENEK_DEGERI>5YETSTN2512_010_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003299030</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
