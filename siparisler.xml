@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-24T07:27:56 -->
+﻿<!-- generated:2025-10-24T07:33:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2635</SIPARIS_NO>
@@ -9,7 +9,7 @@
     <tcno>55072137178</tcno>
     <POSTA>sevimnikbay730@gmail.com</POSTA>
     <TARIH>2025-10-24</TARIH>
-    <sipariszaman>07:26:46</sipariszaman>
+    <sipariszaman>07:26:51</sipariszaman>
     <NET_TOPLAM>2092.64000000</NET_TOPLAM>
     <TeslimAlici>Sevim Nikbay</TeslimAlici>
     <TeslimAdresi>1188 sokak no 24 daire 1 levent mah konak izmir 1</TeslimAdresi>
@@ -31,12 +31,11 @@
     <faturailce>Konak</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
     <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
     <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>
-    </kargokodu>
+    <kargokodu>IKASHJ22914826351</kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
@@ -159,7 +158,7 @@
     <tcno>43537119272</tcno>
     <POSTA>fhmtstn@hotmail.com</POSTA>
     <TARIH>2025-10-24</TARIH>
-    <sipariszaman>07:26:46</sipariszaman>
+    <sipariszaman>07:26:49</sipariszaman>
     <NET_TOPLAM>499.92000000</NET_TOPLAM>
     <TeslimAlici>Feyim Taştan</TeslimAlici>
     <TeslimAdresi>Ulus mah. İstiklal cad. Mesca life evleri A blok kat4 daire15</TeslimAdresi>
@@ -181,12 +180,11 @@
     <faturailce>Menemen</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
     <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
     <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>
-    </kargokodu>
+    <kargokodu>IKASHJ22914826341</kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
