@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-24T13:51:32 -->
+﻿<!-- generated:2025-10-24T13:56:54 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2635</SIPARIS_NO>
@@ -1776,59 +1776,6 @@
         <URUNADI>Kadın Yanı Fermuarlı Şort Etek</URUNADI>
         <FATURA_ADI>Kadın Yanı Fermuarlı Şort Etek</FATURA_ADI>
         <FIYAT>470.58000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2614</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>10334799174</tcno>
-    <POSTA>xxsacredvv@gmail.com</POSTA>
-    <TARIH>2025-10-14</TARIH>
-    <sipariszaman>13:52:28</sipariszaman>
-    <NET_TOPLAM>1199.99000000</NET_TOPLAM>
-    <TeslimAlici>Tunahan Tırman</TeslimAlici>
-    <TeslimAdresi>Şaireşref mh 74 sk no 19 kat 4 daire 5 Lema apt daire 5</TeslimAdresi>
-    <TeslimTelefon>+905418843506</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>45700</teslimPostaKodu>
-    <teslimil>Manisa</teslimil>
-    <teslimilce>Kırkağaç</teslimilce>
-    <faturaalici>Tunahan Tırman</faturaalici>
-    <faturaAdresi>Şaireşref mh 74 sk no 19 kat 4 daire 5 Lema apt daire 5</faturaAdresi>
-    <faturaTelefon>+905418843506</faturaTelefon>
-    <faturavergino>10334799174</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>45700</faturaPostaKodu>
-    <faturail>Manisa</faturail>
-    <faturailce>Kırkağaç</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826141</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5KEHRTNE204_LCVI_M</SECENEK_DEGERI>
-        <FIYAT>1199.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
