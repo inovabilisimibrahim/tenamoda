@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-25T15:41:05 -->
+﻿<!-- generated:2025-10-25T15:46:26 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2636</SIPARIS_NO>
@@ -1485,89 +1485,6 @@
         <URUNADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2618</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>edakaykusuz2005@gmail.com</POSTA>
-    <TARIH>2025-10-15</TARIH>
-    <sipariszaman>15:45:50</sipariszaman>
-    <NET_TOPLAM>444.34000000</NET_TOPLAM>
-    <TeslimAlici>Edanur Kaykusuz</TeslimAlici>
-    <TeslimAdresi>Çamlık mah Turan Emeksiz sokak No:8 Daire:4 Apartman</TeslimAdresi>
-    <TeslimTelefon>+905332424445</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34774</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Ümraniye</teslimilce>
-    <faturaalici>Edanur Kaykusuz</faturaalici>
-    <faturaAdresi>Çamlık mah Turan Emeksiz sokak No:8 Daire:4 Apartman</faturaAdresi>
-    <faturaTelefon>+905332424445</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34774</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Ümraniye</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826181</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>3KKKZBS3822_18</KOD>
-        <VARKOD>3KKKZBS3822_1818STN</VARKOD>
-        <SECENEK_DEGERI>3KKKZBS3822_18_STN</SECENEK_DEGERI>
-        <BARCODE>6000003100107</BARCODE>
-        <URUNADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>3KKSWT24176_08_XL</SECENEK_DEGERI>
-        <BARCODE>6000003030695</BARCODE>
-        <URUNADI>Kadın Üç İplik Komple Fermuarlı Kapüşonlu Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Üç İplik Komple Fermuarlı Kapüşonlu Sweatshirt</FATURA_ADI>
-        <FIYAT>374.35000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
