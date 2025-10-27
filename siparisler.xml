@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-27T19:38:20 -->
+﻿<!-- generated:2025-10-27T19:43:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2640</SIPARIS_NO>
@@ -1168,6 +1168,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3KKKZBS3822_18</KOD>
+        <VARKOD>3KKKZBS3822_1818STN</VARKOD>
         <SECENEK_DEGERI>3KKKZBS3822_18_STN</SECENEK_DEGERI>
         <BARCODE>6000003100107</BARCODE>
         <URUNADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</URUNADI>
