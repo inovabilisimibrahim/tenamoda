@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-28T18:28:33 -->
+﻿<!-- generated:2025-10-28T18:34:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2640</SIPARIS_NO>
@@ -260,8 +260,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>1KKSWTN3854_08</KOD>
-        <VARKOD>1KKSWTN3854_0808L</VARKOD>
         <SECENEK_DEGERI>1KKSWTN3854_08_L</SECENEK_DEGERI>
         <BARCODE>6000002652966</BARCODE>
         <URUNADI>Kadın ( TN0002 ) Üç İplik Şardonlu Kanguru Cepli Kapüşonlu Sweatshirt</URUNADI>
@@ -876,8 +874,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4KKBLMS9871_18</KOD>
-        <VARKOD>4KKBLMS9871_1818M</VARKOD>
         <SECENEK_DEGERI>4KKBLMS9871_18_M</SECENEK_DEGERI>
         <BARCODE>6000003256804</BARCODE>
         <URUNADI>Kadın Dik Yakalı Omuz Bel Drapeli Bluz</URUNADI>
@@ -1565,8 +1561,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKSWTN6014_123</KOD>
-        <VARKOD>4KKSWTN6014_123123M</VARKOD>
         <SECENEK_DEGERI>4KKSWTN6014_123_M</SECENEK_DEGERI>
         <BARCODE>6000003193536</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Lovers Lane Baskılı Üç İplik Crop Sweatshirt</URUNADI>
