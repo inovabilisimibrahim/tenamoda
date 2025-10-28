@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-28T14:07:03 -->
+﻿<!-- generated:2025-10-28T14:12:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2640</SIPARIS_NO>
@@ -9,7 +9,7 @@
     <tcno>11908125962</tcno>
     <POSTA>rabiainci@hotmail.com</POSTA>
     <TARIH>2025-10-28</TARIH>
-    <sipariszaman>07:25:59</sipariszaman>
+    <sipariszaman>14:08:07</sipariszaman>
     <NET_TOPLAM>319.98000000</NET_TOPLAM>
     <TeslimAlici>RABİA  İNCİ ÇELEBİ </TeslimAlici>
     <TeslimAdresi>Güzeltepe mahallesi Şölen sok  No:6/3 Çankaya </TeslimAdresi>
@@ -212,8 +212,8 @@
     <tcno>
     </tcno>
     <POSTA>pinararpaci@hotmail.com</POSTA>
-    <TARIH>2025-10-27</TARIH>
-    <sipariszaman>08:59:27</sipariszaman>
+    <TARIH>2025-10-28</TARIH>
+    <sipariszaman>14:08:02</sipariszaman>
     <NET_TOPLAM>1409.09000000</NET_TOPLAM>
     <TeslimAlici>Pınar Kavuştu</TeslimAlici>
     <TeslimAdresi>Şehit Binbaşı Yavuz Başayar Cd prestij sitesi . A blok kat:3 daire:14 Prestij Sitesi A blok kare daire14 Aliağa /İzmir</TeslimAdresi>
@@ -876,8 +876,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4KKBLMS9871_18</KOD>
-        <VARKOD>4KKBLMS9871_1818M</VARKOD>
         <SECENEK_DEGERI>4KKBLMS9871_18_M</SECENEK_DEGERI>
         <BARCODE>6000003256804</BARCODE>
         <URUNADI>Kadın Dik Yakalı Omuz Bel Drapeli Bluz</URUNADI>
