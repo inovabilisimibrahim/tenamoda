@@ -1,5 +1,86 @@
-﻿<!-- generated:2025-10-30T07:02:20 -->
+﻿<!-- generated:2025-10-30T07:07:33 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2643</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11843466250</tcno>
+    <POSTA>elciin000@gmail.com</POSTA>
+    <TARIH>2025-10-30</TARIH>
+    <sipariszaman>07:03:14</sipariszaman>
+    <NET_TOPLAM>1069.98000000</NET_TOPLAM>
+    <TeslimAlici>Elçin Ağırgöl</TeslimAlici>
+    <TeslimAdresi>Cumhuriyet mah.Silahşör cad.Hekim sok.No:4 D:405Öğer Residence/Bomonti</TeslimAdresi>
+    <TeslimTelefon>+905338181784</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Şişli</teslimilce>
+    <faturaalici>Elçin Ağırgöl</faturaalici>
+    <faturaAdresi>Cumhuriyet mah.Silahşör cad.Hekim sok.No:4 D:405Öğer Residence/Bomonti</faturaAdresi>
+    <faturaTelefon>+905338181784</faturaTelefon>
+    <faturavergino>11843466250</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Şişli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914826431</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELCR5324_18</KOD>
+        <VARKOD>5YKELCR5324_1818S</VARKOD>
+        <SECENEK_DEGERI>5YKELCR5324_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003345669</BARCODE>
+        <URUNADI>Kadın Kolsuz Önü Yırtmaçlı Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın Kolsuz Önü Yırtmaçlı Uzun Elbise</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKELTNGR17_18</KOD>
+        <VARKOD>5YKELTNGR17_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKELTNGR17_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003367968</BARCODE>
+        <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</FATURA_ADI>
+        <FIYAT>999.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2642</SIPARIS_NO>
     <CariHesapKodu>
