@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-10-31T14:30:48 -->
+﻿<!-- generated:2025-10-31T14:36:12 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2643</SIPARIS_NO>
@@ -1517,76 +1517,6 @@
         <URUNADI>Kadın Bisiklet Yaka Yarım Kol Düz Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Yarım Kol Düz Triko Kazak</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2624</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>kahramankbr.kn@gmail.com</POSTA>
-    <TARIH>2025-10-21</TARIH>
-    <sipariszaman>14:34:22</sipariszaman>
-    <NET_TOPLAM>505.30000000</NET_TOPLAM>
-    <TeslimAlici>Kübra Kahraman</TeslimAlici>
-    <TeslimAdresi>İvedik OSB. Mh. Melih Gökçek Bulvarı HM Commerce Center No:63/134 Kılıç ray dolap</TeslimAdresi>
-    <TeslimTelefon>+905077101359</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Yenimahalle</teslimilce>
-    <faturaalici>Kübra Kahraman</faturaalici>
-    <faturaAdresi>İvedik OSB. Mh. Melih Gökçek Bulvarı HM Commerce Center No:63/134 Kılıç ray dolap</faturaAdresi>
-    <faturaTelefon>+905077101359</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Ankara</faturail>
-    <faturailce>Yenimahalle</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826241</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>2KKTRTN7055_18</KOD>
-        <VARKOD>2KKTRTN7055_1818STN</VARKOD>
-        <SECENEK_DEGERI>2KKTRTN7055_18_STN</SECENEK_DEGERI>
-        <BARCODE>6000002861443</BARCODE>
-        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
-        <FIYAT>435.31000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
