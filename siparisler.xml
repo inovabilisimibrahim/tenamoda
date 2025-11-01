@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-01T13:03:40 -->
+﻿<!-- generated:2025-11-01T13:09:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2643</SIPARIS_NO>
@@ -1286,91 +1286,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2627</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>serinameydan@hotmail.com</POSTA>
-    <TARIH>2025-10-22</TARIH>
-    <sipariszaman>13:08:27</sipariszaman>
-    <NET_TOPLAM>597.47000000</NET_TOPLAM>
-    <TeslimAlici>Serina Meydan</TeslimAlici>
-    <TeslimAdresi>Skyland İstanbul, Huzur Mah. Azerbaycan Cad. D Blok, No: 4D/7, İç Kapı No:457, 34475 Sarıyer  MAVİ JEANS GENEL MÜDÜRLÜK  Skyland İstanbul, Huzur Mah. Azerbaycan Cad. D Blok, No: 4D/7, İç Kapı No:457, 34475 Sarıyer  MAVİ JEANS GENEL MÜDÜRLÜK </TeslimAdresi>
-    <TeslimTelefon>+905425094288</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34475</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Sarıyer</teslimilce>
-    <faturaalici>Serina Meydan</faturaalici>
-    <faturaAdresi>Skyland İstanbul, Huzur Mah. Azerbaycan Cad. D Blok, No: 4D/7, İç Kapı No:457, 34475 Sarıyer  MAVİ JEANS GENEL MÜDÜRLÜK  Skyland İstanbul, Huzur Mah. Azerbaycan Cad. D Blok, No: 4D/7, İç Kapı No:457, 34475 Sarıyer  MAVİ JEANS GENEL MÜDÜRLÜK </faturaAdresi>
-    <faturaTelefon>+905425094288</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34475</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Sarıyer</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826271</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KKBLB11425_010</KOD>
-        <VARKOD>4KKBLB11425_010010S</VARKOD>
-        <SECENEK_DEGERI>4KKBLB11425_010_S</SECENEK_DEGERI>
-        <BARCODE>6000003238664</BARCODE>
-        <URUNADI>Kadın Düşük Omuz Uzun Kollu Bluz</URUNADI>
-        <FATURA_ADI>Kadın Düşük Omuz Uzun Kollu Bluz</FATURA_ADI>
-        <FIYAT>427.49000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YKATTN4215_18</KOD>
-        <VARKOD>3YKATTN4215_1818STD</VARKOD>
-        <SECENEK_DEGERI>3YKATTN4215_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000002948410</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</FATURA_ADI>
-        <FIYAT>99.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
