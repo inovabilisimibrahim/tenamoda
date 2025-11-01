@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-01T15:59:45 -->
+﻿<!-- generated:2025-11-01T16:04:58 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2643</SIPARIS_NO>
@@ -1235,89 +1235,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2626</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>firuze.alpan@sabanciuniv.edu</POSTA>
-    <TARIH>2025-10-22</TARIH>
-    <sipariszaman>16:01:44</sipariszaman>
-    <NET_TOPLAM>449.98000000</NET_TOPLAM>
-    <TeslimAlici>Firuze Alpan</TeslimAlici>
-    <TeslimAdresi>Kaptan Sok. Marine Life Villaları No:29 Bayramoğlu - Darıca</TeslimAdresi>
-    <TeslimTelefon>+905326820164</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>41700</teslimPostaKodu>
-    <teslimil>Kocaeli</teslimil>
-    <teslimilce>Darıca</teslimilce>
-    <faturaalici>Firuze Alpan</faturaalici>
-    <faturaAdresi>Kaptan Sok. Marine Life Villaları No:29 Bayramoğlu - Darıca</faturaAdresi>
-    <faturaTelefon>+905326820164</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>41700</faturaPostaKodu>
-    <faturail>Kocaeli</faturail>
-    <faturailce>Darıca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826261</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>2KKTRTN1079_18</KOD>
-        <VARKOD>2KKTRTN1079_1818STD</VARKOD>
-        <SECENEK_DEGERI>2KKTRTN1079_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000002850096</BARCODE>
-        <URUNADI>Kadın Balıkçı Yaka Eteği Düz Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Balıkçı Yaka Eteği Düz Triko Kazak</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>3KKKZBS3822_18_STN</SECENEK_DEGERI>
-        <BARCODE>6000003100107</BARCODE>
-        <URUNADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</FATURA_ADI>
-        <FIYAT>379.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>69.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
