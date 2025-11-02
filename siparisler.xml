@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-02T16:38:31 -->
+﻿<!-- generated:2025-11-02T16:43:58 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2643</SIPARIS_NO>
@@ -1845,6 +1845,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN2522_01</KOD>
+        <VARKOD>5YKPNTN2522_0101S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN2522_01_S</SECENEK_DEGERI>
         <BARCODE>6000003288553</BARCODE>
         <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
@@ -1895,12 +1897,7 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN3396_18</KOD>
-        <VARKOD>5YKPNTN3396_1818S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003303362</BARCODE>
-        <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
