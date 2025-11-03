@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-03T11:03:10 -->
+﻿<!-- generated:2025-11-03T11:08:19 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2644</SIPARIS_NO>
@@ -1081,75 +1081,6 @@
         <BARCODE>6000003304437</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
         <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2629</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>60229469828</tcno>
-    <POSTA>bayramsafiye17@gmail.com</POSTA>
-    <TARIH>2025-10-24</TARIH>
-    <sipariszaman>11:06:03</sipariszaman>
-    <NET_TOPLAM>334.64000000</NET_TOPLAM>
-    <TeslimAlici>Safiye  Bayram </TeslimAlici>
-    <TeslimAdresi>Şingah mahallesi kültür Sokak yuvam evleri2 C blok daire:13 kat:4 Yuvam evleri2 C blok daire:13 kat:4</TeslimAdresi>
-    <TeslimTelefon>+905528621469</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>69000</teslimPostaKodu>
-    <teslimil>Bayburt</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Safiye  Bayram </faturaalici>
-    <faturaAdresi>Şingah mahallesi kültür Sokak yuvam evleri2 C blok daire:13 kat:4 Yuvam evleri2 C blok daire:13 kat:4</faturaAdresi>
-    <faturaTelefon>+905528621469</faturaTelefon>
-    <faturavergino>60229469828</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>69000</faturaPostaKodu>
-    <faturail>Bayburt</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826291</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>3YKTRBS3791_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000002970169</BARCODE>
-        <URUNADI>Kadın Baklava Desen Ajurlu Kısa Kazak</URUNADI>
-        <FATURA_ADI>Kadın Baklava Desen Ajurlu Kısa Kazak</FATURA_ADI>
-        <FIYAT>334.64000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKKZFL6015_02</KOD>
-        <VARKOD>4YKKZFL6015_0202STD</VARKOD>
-        <SECENEK_DEGERI>4YKKZFL6015_02_STD</SECENEK_DEGERI>
-        <BARCODE>6000003136014</BARCODE>
-        <URUNADI>Kadın İspanyol Kol File Crop Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın İspanyol Kol File Crop Triko Kazak</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
