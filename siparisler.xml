@@ -1,5 +1,61 @@
-﻿<!-- generated:2025-11-04T09:30:33 -->
+﻿<!-- generated:2025-11-04T09:35:47 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2645</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>30106062930</tcno>
+    <POSTA>fuldencihan@hotmail.com</POSTA>
+    <TARIH>2025-11-04</TARIH>
+    <sipariszaman>09:34:44</sipariszaman>
+    <NET_TOPLAM>399.99000000</NET_TOPLAM>
+    <TeslimAlici>Fulden Cihan</TeslimAlici>
+    <TeslimAdresi>Darülbedai cad. No:4 No:4</TeslimAdresi>
+    <TeslimTelefon>+905323972014</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Şişli</teslimilce>
+    <faturaalici>Fulden Cihan</faturaalici>
+    <faturaAdresi>Darülbedai cad. No:4 No:4</faturaAdresi>
+    <faturaTelefon>+905323972014</faturaTelefon>
+    <faturavergino>30106062930</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Şişli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914826451</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3KKTRTN9055_02</KOD>
+        <VARKOD>3KKTRTN9055_0202STN</VARKOD>
+        <SECENEK_DEGERI>3KKTRTN9055_02_STN</SECENEK_DEGERI>
+        <BARCODE>6000003016347</BARCODE>
+        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2644</SIPARIS_NO>
     <CariHesapKodu>
