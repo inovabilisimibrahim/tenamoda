@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-04T13:07:02 -->
+﻿<!-- generated:2025-11-04T13:12:19 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2645</SIPARIS_NO>
@@ -2120,6 +2120,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN2522_01</KOD>
+        <VARKOD>5YKPNTN2522_0101S</VARKOD>
         <SECENEK_DEGERI>5YKPNTN2522_01_S</SECENEK_DEGERI>
         <BARCODE>6000003288553</BARCODE>
         <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
