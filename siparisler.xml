@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-10T18:10:00 -->
+﻿<!-- generated:2025-11-10T18:15:12 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2654</SIPARIS_NO>
@@ -9,7 +9,7 @@
     <tcno>22510995362</tcno>
     <POSTA>glsmcyln35@gmail.com</POSTA>
     <TARIH>2025-11-10</TARIH>
-    <sipariszaman>18:09:07</sipariszaman>
+    <sipariszaman>18:09:10</sipariszaman>
     <NET_TOPLAM>1090.02000000</NET_TOPLAM>
     <TeslimAlici>Gülsüm  CEYLAN </TeslimAlici>
     <TeslimAdresi>Merkez Atatürk İlkokulu Kemalpaşa/İZMİR </TeslimAdresi>
@@ -31,12 +31,11 @@
     <faturailce>Kemalpaşa</faturailce>
     <status>8</status>
     <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
     <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
     <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>
-    </kargokodu>
+    <kargokodu>IKASHJ22914826541</kargokodu>
     <banka>
     </banka>
     <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
@@ -1294,6 +1293,9 @@
       </SATIR>
       <SATIR>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003409439</BARCODE>
+        <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
+        <FATURA_ADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</FATURA_ADI>
         <FIYAT>1699.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
