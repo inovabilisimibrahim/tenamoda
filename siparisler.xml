@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-10T17:43:46 -->
+﻿<!-- generated:2025-11-10T17:49:08 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2653</SIPARIS_NO>
@@ -1515,7 +1515,12 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5KEKZT34104_02</KOD>
+        <VARKOD>5KEKZT34104_0202M</VARKOD>
         <SECENEK_DEGERI>5KEKZT34104_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003398689</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Pike Örgü Basic Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Pike Örgü Basic Triko</FATURA_ADI>
         <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
