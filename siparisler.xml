@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-11T18:07:52 -->
+﻿<!-- generated:2025-11-11T18:13:05 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2657</SIPARIS_NO>
@@ -309,8 +309,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YKATT24610_02</KOD>
-        <VARKOD>4YKATT24610_0202S</VARKOD>
         <SECENEK_DEGERI>4YKATT24610_02_S</SECENEK_DEGERI>
         <BARCODE>6000003085466</BARCODE>
         <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
@@ -511,6 +509,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3KKMNKS0047_18S</KOD>
+        <VARKOD>3KKMNKS0047_18S18S38</VARKOD>
         <SECENEK_DEGERI>3KKMNKS0047_18S_38</SECENEK_DEGERI>
         <BARCODE>6000003024649</BARCODE>
         <URUNADI>Kadın Torba Cepli Oversize Mont</URUNADI>
