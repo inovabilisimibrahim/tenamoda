@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-13T00:49:55 -->
+﻿<!-- generated:2025-11-13T00:55:20 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2660</SIPARIS_NO>
@@ -818,6 +818,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3KKMNKS0047_18S</KOD>
+        <VARKOD>3KKMNKS0047_18S18S38</VARKOD>
         <SECENEK_DEGERI>3KKMNKS0047_18S_38</SECENEK_DEGERI>
         <BARCODE>6000003024649</BARCODE>
         <URUNADI>Kadın Torba Cepli Oversize Mont</URUNADI>
