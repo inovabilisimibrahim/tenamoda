@@ -1,5 +1,89 @@
-﻿<!-- generated:2025-11-12T12:21:41 -->
+﻿<!-- generated:2025-11-12T12:27:00 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2660</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>39869193042</tcno>
+    <POSTA>mehmetkarakabak78@hotmail.com</POSTA>
+    <TARIH>2025-11-12</TARIH>
+    <sipariszaman>12:25:23</sipariszaman>
+    <NET_TOPLAM>467.69000000</NET_TOPLAM>
+    <TeslimAlici>Mehmet Karakabak</TeslimAlici>
+    <TeslimAdresi>Aygünsan Demir Çelik .Şehit Reşat Atilla Moralı caddesi medikar hastanesi altı yeşil mahalle </TeslimAdresi>
+    <TeslimTelefon>+905394404278</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>78000</teslimPostaKodu>
+    <teslimil>Karabük</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Mehmet Karakabak</faturaalici>
+    <faturaAdresi>Aygünsan Demir Çelik .Şehit Reşat Atilla Moralı caddesi medikar hastanesi altı yeşil mahalle </faturaAdresi>
+    <faturaTelefon>+905394404278</faturaTelefon>
+    <faturavergino>39869193042</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>78000</faturaPostaKodu>
+    <faturail>Karabük</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914826601</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3YKBLTN5039_08</KOD>
+        <VARKOD>3YKBLTN5039_0808S</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN5039_08_S</SECENEK_DEGERI>
+        <BARCODE>6000002947901</BARCODE>
+        <URUNADI>Kadın V Yaka Düşük Kol Bürümcük Kumaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Düşük Kol Bürümcük Kumaş Bluz</FATURA_ADI>
+        <FIYAT>64.51000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKCKDS2576_08</KOD>
+        <VARKOD>4KKCKDS2576_0808M</VARKOD>
+        <SECENEK_DEGERI>4KKCKDS2576_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003226456</BARCODE>
+        <URUNADI>Kadın Üç İplik Düğmeli Ceket</URUNADI>
+        <FATURA_ADI>Kadın Üç İplik Düğmeli Ceket</FATURA_ADI>
+        <FIYAT>349.42000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKBLTN5030_BEJ</KOD>
+        <VARKOD>3YKBLTN5030_BEJBEJS</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN5030_BEJ_S</SECENEK_DEGERI>
+        <BARCODE>6000002947659</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Bürümcük Kumaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Bürümcük Kumaş Bluz</FATURA_ADI>
+        <FIYAT>53.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2659</SIPARIS_NO>
     <CariHesapKodu>
