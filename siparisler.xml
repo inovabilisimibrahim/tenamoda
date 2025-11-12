@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-12T18:20:21 -->
+﻿<!-- generated:2025-11-12T18:25:37 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2660</SIPARIS_NO>
@@ -70,8 +70,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>3YKBLTN5030_BEJ</KOD>
-        <VARKOD>3YKBLTN5030_BEJBEJS</VARKOD>
         <SECENEK_DEGERI>3YKBLTN5030_BEJ_S</SECENEK_DEGERI>
         <BARCODE>6000002947659</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Bürümcük Kumaş Bluz</URUNADI>
@@ -167,8 +165,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YKATT24610_18</KOD>
-        <VARKOD>4YKATT24610_1818M</VARKOD>
         <SECENEK_DEGERI>4YKATT24610_18_M</SECENEK_DEGERI>
         <BARCODE>6000003085572</BARCODE>
         <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
@@ -290,8 +286,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YE2002-211_123</KOD>
-        <VARKOD>5YE2002-211_123123XL</VARKOD>
         <SECENEK_DEGERI>5YE2002-211_123_XL</SECENEK_DEGERI>
         <BARCODE>6000003260337</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka TRAVEL Baskı Tişört</URUNADI>
