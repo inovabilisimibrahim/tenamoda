@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-12T11:08:03 -->
+﻿<!-- generated:2025-11-12T11:13:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2659</SIPARIS_NO>
@@ -83,6 +83,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKATT24610_18</KOD>
+        <VARKOD>4YKATT24610_1818M</VARKOD>
         <SECENEK_DEGERI>4YKATT24610_18_M</SECENEK_DEGERI>
         <BARCODE>6000003085572</BARCODE>
         <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
@@ -525,6 +527,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKATT24610_18</KOD>
+        <VARKOD>4YKATT24610_1818M</VARKOD>
         <SECENEK_DEGERI>4YKATT24610_18_M</SECENEK_DEGERI>
         <BARCODE>6000003085572</BARCODE>
         <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
