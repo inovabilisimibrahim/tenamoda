@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-12T03:09:26 -->
+﻿<!-- generated:2025-11-12T03:14:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2657</SIPARIS_NO>
@@ -878,6 +878,87 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2618</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>edakaykusuz2005@gmail.com</POSTA>
+    <TARIH>2025-11-12</TARIH>
+    <sipariszaman>03:09:35</sipariszaman>
+    <NET_TOPLAM>444.34000000</NET_TOPLAM>
+    <TeslimAlici>Edanur Kaykusuz</TeslimAlici>
+    <TeslimAdresi>Çamlık mah Turan Emeksiz sokak No:8 Daire:4 Apartman</TeslimAdresi>
+    <TeslimTelefon>+905332424445</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34774</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Ümraniye</teslimilce>
+    <faturaalici>Edanur Kaykusuz</faturaalici>
+    <faturaAdresi>Çamlık mah Turan Emeksiz sokak No:8 Daire:4 Apartman</faturaAdresi>
+    <faturaTelefon>+905332424445</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34774</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Ümraniye</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914826181</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>3KKKZBS3822_18_STN</SECENEK_DEGERI>
+        <BARCODE>6000003100107</BARCODE>
+        <URUNADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Kol Katlamalı Tam Balıkçı Crop Triko Kazak</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>3KKSWT24176_08_XL</SECENEK_DEGERI>
+        <BARCODE>6000003030695</BARCODE>
+        <URUNADI>Kadın Üç İplik Komple Fermuarlı Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Üç İplik Komple Fermuarlı Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>374.35000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2617</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -963,6 +1044,85 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2616</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>58120537708</tcno>
+    <POSTA>temellnazz28@gmail.com</POSTA>
+    <TARIH>2025-11-12</TARIH>
+    <sipariszaman>03:08:50</sipariszaman>
+    <NET_TOPLAM>519.98000000</NET_TOPLAM>
+    <TeslimAlici>Nazlı  Temel</TeslimAlici>
+    <TeslimAdresi>Ali Fuat Cebesoy 9135/4 no 4 ege yaşam Hastanesi Karabağlar İzmir  Ege Yaşam hastanesi </TeslimAdresi>
+    <TeslimTelefon>+905521679123</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Nazlı  Temel</faturaalici>
+    <faturaAdresi>Ali Fuat Cebesoy 9135/4 no 4 ege yaşam Hastanesi Karabağlar İzmir  Ege Yaşam hastanesi </faturaAdresi>
+    <faturaTelefon>+905521679123</faturaTelefon>
+    <faturavergino>58120537708</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>1</kargo_odemesi>
+    <kargokodu>IKASHJ22914826161</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>4KKSWTN2543_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003163843</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Yanları Ribana Detaylı Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Yanları Ribana Detaylı Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>449.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN2543_18</KOD>
+        <VARKOD>4KKSWTN2543_1818L</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN2543_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003163966</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Yanları Ribana Detaylı Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Yanları Ribana Detaylı Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
