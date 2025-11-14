@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-14T01:55:45 -->
+﻿<!-- generated:2025-11-14T11:36:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2661</SIPARIS_NO>
@@ -1085,77 +1085,6 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
-    <SIPARIS_NO>2644</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>rizeizmir_1453_61_35_53@hotmail.com</POSTA>
-    <TARIH>2025-11-04</TARIH>
-    <sipariszaman>11:11:22</sipariszaman>
-    <NET_TOPLAM>749.99000000</NET_TOPLAM>
-    <TeslimAlici>Yelda Yılmaz</TeslimAlici>
-    <TeslimAdresi>Nihat dağdelen solağı no.30 daire1 izmir karşıyaka nergiz Gereli apt daire 1</TeslimAdresi>
-    <TeslimTelefon>+905527013688</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karşıyaka</teslimilce>
-    <faturaalici>Yelda Yılmaz</faturaalici>
-    <faturaAdresi>Nihat dağdelen solağı no.30 daire1 izmir karşıyaka nergiz Gereli apt daire 1</faturaAdresi>
-    <faturaTelefon>+905527013688</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Karşıyaka</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914826441</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETTN2561_18</KOD>
-        <VARKOD>5YKETTN2561_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKETTN2561_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003327405</BARCODE>
-        <URUNADI>Kadın İnce Kemerli Poliviskon Midi Boy Etek</URUNADI>
-        <FATURA_ADI>Kadın İnce Kemerli Poliviskon Midi Boy Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETTN2561_01</KOD>
-        <VARKOD>5YKETTN2561_0101S</VARKOD>
-        <SECENEK_DEGERI>5YKETTN2561_01_S</SECENEK_DEGERI>
-        <BARCODE>6000003327344</BARCODE>
-        <URUNADI>Kadın İnce Kemerli Poliviskon Midi Boy Etek</URUNADI>
-        <FATURA_ADI>Kadın İnce Kemerli Poliviskon Midi Boy Etek</FATURA_ADI>
-        <FIYAT>749.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
     <SIPARIS_NO>2641</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -1690,6 +1619,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>4KKSWTN2543_02</KOD>
+        <VARKOD>4KKSWTN2543_0202L</VARKOD>
         <SECENEK_DEGERI>4KKSWTN2543_02_L</SECENEK_DEGERI>
         <BARCODE>6000003163843</BARCODE>
         <URUNADI>Kadın Kapüşonlu Yanları Ribana Detaylı Crop Sweatshirt</URUNADI>
@@ -2703,146 +2634,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2603</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>aynurgvendi@gmail.com</POSTA>
-    <TARIH>2025-11-04</TARIH>
-    <sipariszaman>03:08:25</sipariszaman>
-    <NET_TOPLAM>699.99000000</NET_TOPLAM>
-    <TeslimAlici>Aynur  Güvendi </TeslimAlici>
-    <TeslimAdresi>Akpınar mah. 1. Acar sok no 3 il sağlık mid. Ek bina </TeslimAdresi>
-    <TeslimTelefon>+905317919767</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Bursa</teslimil>
-    <teslimilce>Osmangazi</teslimilce>
-    <faturaalici>Aynur  Güvendi </faturaalici>
-    <faturaAdresi>Akpınar mah. 1. Acar sok no 3 il sağlık mid. Ek bina </faturaAdresi>
-    <faturaTelefon>+905317919767</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Bursa</faturail>
-    <faturailce>Osmangazi</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826031</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETYE4450_09</KOD>
-        <VARKOD>5YKETYE4450_0909M</VARKOD>
-        <SECENEK_DEGERI>5YKETYE4450_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003348554</BARCODE>
-        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
-        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKG16-1448_14</KOD>
-        <VARKOD>5YKG16-1448_1414S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1448_14_S</SECENEK_DEGERI>
-        <BARCODE>6000003296084</BARCODE>
-        <URUNADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Çift Cepli Düşük Kol Crop Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2602</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>37246067566</tcno>
-    <POSTA>pelinpirincci@gmail.com</POSTA>
-    <TARIH>2025-11-04</TARIH>
-    <sipariszaman>03:07:27</sipariszaman>
-    <NET_TOPLAM>94.99000000</NET_TOPLAM>
-    <TeslimAlici>Pelin  Pirinççi</TeslimAlici>
-    <TeslimAdresi>Barış mahallesi 112 sok. No:3/2 motto evleri b blok kat 2 daire 16 Merkez Çanakkale </TeslimAdresi>
-    <TeslimTelefon>+905541323440</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Çanakkale</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Pelin  Pirinççi</faturaalici>
-    <faturaAdresi>Barış mahallesi 112 sok. No:3/2 motto evleri b blok kat 2 daire 16 Merkez Çanakkale </faturaAdresi>
-    <faturaTelefon>+905541323440</faturaTelefon>
-    <faturavergino>37246067566</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Çanakkale</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Alıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>1</kargo_odemesi>
-    <kargokodu>IKASHJ22914826021</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>3YKBLTN4759_18</KOD>
-        <VARKOD>3YKBLTN4759_1818S</VARKOD>
-        <SECENEK_DEGERI>3YKBLTN4759_18_S</SECENEK_DEGERI>
-        <BARCODE>6000002948298</BARCODE>
-        <URUNADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</URUNADI>
-        <FATURA_ADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKETTHAN05_18</KOD>
-        <VARKOD>4YKETTHAN05_1818M</VARKOD>
-        <SECENEK_DEGERI>4YKETTHAN05_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003135970</BARCODE>
-        <URUNADI>Kadın Önü Yırtmaçlı Kaşe Mini Etek</URUNADI>
-        <FATURA_ADI>Kadın Önü Yırtmaçlı Kaşe Mini Etek</FATURA_ADI>
-        <FIYAT>94.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
