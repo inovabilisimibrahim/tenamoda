@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-17T19:57:49 -->
+﻿<!-- generated:2025-11-17T20:03:06 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2673</SIPARIS_NO>
@@ -167,8 +167,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKG16-1850_58</KOD>
-        <VARKOD>5YKG16-1850_5858S</VARKOD>
         <SECENEK_DEGERI>5YKG16-1850_58_S</SECENEK_DEGERI>
         <BARCODE>6000003364660</BARCODE>
         <URUNADI>Kadın Sedef Düğmeli Gömlek</URUNADI>
@@ -1147,6 +1145,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>4KKBLB11425_010</KOD>
+        <VARKOD>4KKBLB11425_010010S</VARKOD>
         <SECENEK_DEGERI>4KKBLB11425_010_S</SECENEK_DEGERI>
         <BARCODE>6000003238664</BARCODE>
         <URUNADI>Kadın Düşük Omuz Uzun Kollu Bluz</URUNADI>
