@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-17T15:27:06 -->
+﻿<!-- generated:2025-11-17T15:32:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2671</SIPARIS_NO>
@@ -550,8 +550,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKSWTN6020_18</KOD>
-        <VARKOD>4KKSWTN6020_1818XL</VARKOD>
         <SECENEK_DEGERI>4KKSWTN6020_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003194274</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Ohio Baskılı Üç İplik Sweatshirt</URUNADI>
@@ -968,8 +966,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4KKBLB11425_010</KOD>
-        <VARKOD>4KKBLB11425_010010S</VARKOD>
         <SECENEK_DEGERI>4KKBLB11425_010_S</SECENEK_DEGERI>
         <BARCODE>6000003238664</BARCODE>
         <URUNADI>Kadın Düşük Omuz Uzun Kollu Bluz</URUNADI>
