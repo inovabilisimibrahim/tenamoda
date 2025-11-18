@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-18T13:56:47 -->
+﻿<!-- generated:2025-11-18T14:02:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2679</SIPARIS_NO>
@@ -137,6 +137,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEPNFEAT20_08</KOD>
+        <VARKOD>5YEPNFEAT20_0808XXL</VARKOD>
         <SECENEK_DEGERI>5YEPNFEAT20_08_XXL</SECENEK_DEGERI>
         <BARCODE>6000003252189</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
@@ -497,6 +499,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YE2002-200_02</KOD>
+        <VARKOD>5YE2002-200_0202XXL</VARKOD>
         <SECENEK_DEGERI>5YE2002-200_02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003260948</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</URUNADI>
@@ -508,6 +512,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YE2002-178_18</KOD>
+        <VARKOD>5YE2002-178_1818XXL</VARKOD>
         <SECENEK_DEGERI>5YE2002-178_18_XXL</SECENEK_DEGERI>
         <BARCODE>6000003260849</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</URUNADI>
@@ -584,6 +590,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YETSTN2083_B02</KOD>
+        <VARKOD>4YETSTN2083_B02B02XXL</VARKOD>
         <SECENEK_DEGERI>4YETSTN2083_B02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003096110</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</URUNADI>
@@ -2057,6 +2065,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YE2002-200_02</KOD>
+        <VARKOD>5YE2002-200_0202XXL</VARKOD>
         <SECENEK_DEGERI>5YE2002-200_02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003260948</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</URUNADI>
@@ -2437,6 +2447,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YETSTN2083_B02</KOD>
+        <VARKOD>4YETSTN2083_B02B02XXL</VARKOD>
         <SECENEK_DEGERI>4YETSTN2083_B02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003096110</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</URUNADI>
