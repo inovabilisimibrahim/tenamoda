@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-18T11:38:43 -->
+﻿<!-- generated:2025-11-18T11:43:51 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2678</SIPARIS_NO>
@@ -113,8 +113,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YKELTN8328_18</KOD>
-        <VARKOD>4YKELTN8328_1818L</VARKOD>
         <SECENEK_DEGERI>4YKELTN8328_18_L</SECENEK_DEGERI>
         <BARCODE>6000003080621</BARCODE>
         <URUNADI>Kadın Önü Bağlamalı Yanı Yırtmaçlı İp Askılı Kısa Elbise</URUNADI>
@@ -139,8 +137,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5KKE28-9828_09</KOD>
-        <VARKOD>5KKE28-9828_0909L</VARKOD>
         <SECENEK_DEGERI>5KKE28-9828_09_L</SECENEK_DEGERI>
         <BARCODE>6000003440135</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</URUNADI>
@@ -320,8 +316,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKG16-7422_010</KOD>
-        <VARKOD>5YKG16-7422_010010L</VARKOD>
         <SECENEK_DEGERI>5YKG16-7422_010_L</SECENEK_DEGERI>
         <BARCODE>6000003284173</BARCODE>
         <URUNADI>Kadın Kalın Manşetli Basic Gömlek</URUNADI>
