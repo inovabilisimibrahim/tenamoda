@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-18T14:02:02 -->
+﻿<!-- generated:2025-11-18T14:07:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2679</SIPARIS_NO>
@@ -10,7 +10,7 @@
     </tcno>
     <POSTA>ugur717090@gmail.com</POSTA>
     <TARIH>2025-11-18</TARIH>
-    <sipariszaman>12:59:16</sipariszaman>
+    <sipariszaman>14:06:23</sipariszaman>
     <NET_TOPLAM>11733.72000000</NET_TOPLAM>
     <TeslimAlici>Uğur Haskuzugüdenli</TeslimAlici>
     <TeslimAdresi>Siyahgül mahallesi 4010 sokak bina no 8 Dalkesen apartmanı kat 4 daire 15.Halfeti/ŞANLIURFA</TeslimAdresi>
@@ -423,6 +423,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETS2083-1_010</KOD>
+        <VARKOD>5YETS2083-1_010010XXL</VARKOD>
         <SECENEK_DEGERI>5YETS2083-1_010_XXL</SECENEK_DEGERI>
         <BARCODE>6000003240582</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Mini Waffle WESTMiSTER Enjeksiyon Baskılı Tişört</URUNADI>
