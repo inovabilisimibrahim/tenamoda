@@ -1,5 +1,637 @@
-﻿<!-- generated:2025-11-18T12:57:33 -->
+﻿<!-- generated:2025-11-18T13:02:53 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2679</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>ugur717090@gmail.com</POSTA>
+    <TARIH>2025-11-18</TARIH>
+    <sipariszaman>12:59:16</sipariszaman>
+    <NET_TOPLAM>11733.72000000</NET_TOPLAM>
+    <TeslimAlici>Uğur Haskuzugüdenli</TeslimAlici>
+    <TeslimAdresi>Siyahgül mahallesi 4010 sokak bina no 8 Dalkesen apartmanı kat 4 daire 15.Halfeti/ŞANLIURFA</TeslimAdresi>
+    <TeslimTelefon>+905396721851</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>63950</teslimPostaKodu>
+    <teslimil>Şanlıurfa</teslimil>
+    <teslimilce>Halfeti</teslimilce>
+    <faturaalici>Uğur Haskuzugüdenli</faturaalici>
+    <faturaAdresi>Siyahgül mahallesi 4010 sokak bina no 8 Dalkesen apartmanı kat 4 daire 15.Halfeti/ŞANLIURFA</faturaAdresi>
+    <faturaTelefon>+905396721851</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>63950</faturaPostaKodu>
+    <faturail>Şanlıurfa</faturail>
+    <faturailce>Halfeti</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826791</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YESRSANTUK_1-GR</KOD>
+        <VARKOD>5YESRSANTUK_1-GR1-GRXXL</VARKOD>
+        <SECENEK_DEGERI>5YESRSANTUK_1-GR_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003350496</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Pamuk Şantuk Jogger Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Pamuk Şantuk Jogger Şort</FATURA_ADI>
+        <FIYAT>380.54000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4145_01</KOD>
+        <VARKOD>5YETSCL4145_0101XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4145_01_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003289574</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Fermuarlı Omuz Şeritli Kagi Tişört</FATURA_ADI>
+        <FIYAT>285.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KESWTNCOLE_18</KOD>
+        <VARKOD>4KESWTNCOLE_1818XXL</VARKOD>
+        <SECENEK_DEGERI>4KESWTNCOLE_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003155770</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Yatay Çizgili Waffle Sweatshirt</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Yatay Çizgili Waffle Sweatshirt</FATURA_ADI>
+        <FIYAT>451.88000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2080_02</KOD>
+        <VARKOD>4YETSTN2080_0202XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2080_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003094512</BARCODE>
+        <URUNADI>Erkek Kolu Ribanalı İki İp Rahat Kalıp Tişört</URUNADI>
+        <FATURA_ADI>Erkek Kolu Ribanalı İki İp Rahat Kalıp Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KEM34-1461_14</KOD>
+        <VARKOD>5KEM34-1461_1414XXL</VARKOD>
+        <SECENEK_DEGERI>5KEM34-1461_14_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003415812</BARCODE>
+        <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
+        <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
+        <FIYAT>1287.88000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YE2002-201_02</KOD>
+        <VARKOD>5YE2002-201_0202XXL</VARKOD>
+        <SECENEK_DEGERI>5YE2002-201_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003261099</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka MICHIGAN Baskı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka MICHIGAN Baskı Tişört</FATURA_ADI>
+        <FIYAT>133.18000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTTN202_02</KOD>
+        <VARKOD>5YETSTTN202_0202XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN202_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003304222</BARCODE>
+        <URUNADI>Erkek Apaş V Yaka Göğüs Ve Kol Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Apaş V Yaka Göğüs Ve Kol Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>285.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YEPNFEAT20_08</KOD>
+        <VARKOD>5YEPNFEAT20_0808XXL</VARKOD>
+        <SECENEK_DEGERI>5YEPNFEAT20_08_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003252189</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
+        <FIYAT>428.11000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YEPNFEAT20_B02</KOD>
+        <VARKOD>5YEPNFEAT20_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>5YEPNFEAT20_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003252288</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
+        <FIYAT>428.11000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4149_18</KOD>
+        <VARKOD>5YETSCL4149_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4149_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003289154</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ön ve Kol Parçalı Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ön ve Kol Parçalı Kagi Tişört</FATURA_ADI>
+        <FIYAT>285.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4546_01</KOD>
+        <VARKOD>5YETSCL4546_0101XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4546_01_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003324398</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</FATURA_ADI>
+        <FIYAT>214.06000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4546_010</KOD>
+        <VARKOD>5YETSCL4546_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4546_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003324459</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</FATURA_ADI>
+        <FIYAT>214.06000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4141_18</KOD>
+        <VARKOD>5YETSCL4141_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4141_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003290839</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4141_01</KOD>
+        <VARKOD>5YETSCL4141_0101XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4141_01_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003290594</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Omuz ve Yanları Biyeli Kagi Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSWO2122_010</KOD>
+        <VARKOD>5YETSWO2122_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSWO2122_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003342514</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</FATURA_ADI>
+        <FIYAT>180.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSWO2122_01</KOD>
+        <VARKOD>5YETSWO2122_0101XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSWO2122_01_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003342460</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Enjeksiyon Baskı Challenge Yazılı Tişört</FATURA_ADI>
+        <FIYAT>180.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_18</KOD>
+        <VARKOD>5YETSFAL003_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338463</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_04</KOD>
+        <VARKOD>5YETSFAL003_0404XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_04_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338111</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_010</KOD>
+        <VARKOD>5YETSFAL003_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338043</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_01</KOD>
+        <VARKOD>5YETSFAL003_0101XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_01_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003337978</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTTN104_B02</KOD>
+        <VARKOD>5YETSTTN104_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003304628</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>285.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTTN104_02</KOD>
+        <VARKOD>5YETSTTN104_0202XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003304475</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>285.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_18</KOD>
+        <VARKOD>5YETSTNT106_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003330986</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>237.84000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_02</KOD>
+        <VARKOD>5YETSTNT106_0202XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003330832</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>237.84000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTN2512_18</KOD>
+        <VARKOD>5YETSTN2512_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTN2512_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003299184</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
+        <FIYAT>166.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTN2512_010</KOD>
+        <VARKOD>5YETSTN2512_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTN2512_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003299030</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
+        <FIYAT>166.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_GB</KOD>
+        <VARKOD>5YETSFAL003_GBGBXXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_GB_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338746</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_B02</KOD>
+        <VARKOD>5YETSFAL003_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338678</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSFAL003_70</KOD>
+        <VARKOD>5YETSFAL003_7070XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSFAL003_70_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003338609</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETS2083-1_010</KOD>
+        <VARKOD>5YETS2083-1_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETS2083-1_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003240582</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Mini Waffle WESTMiSTER Enjeksiyon Baskılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Mini Waffle WESTMiSTER Enjeksiyon Baskılı Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETS2083-2_010</KOD>
+        <VARKOD>5YETS2083-2_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YETS2083-2_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003298682</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Petek Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Petek Basic Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YESFEAT105_08</KOD>
+        <VARKOD>5YESFEAT105_0808XXL</VARKOD>
+        <SECENEK_DEGERI>5YESFEAT105_08_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003253735</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
+        <FIYAT>332.97000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YESFEAT105_07</KOD>
+        <VARKOD>5YESFEAT105_0707XXL</VARKOD>
+        <SECENEK_DEGERI>5YESFEAT105_07_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003253681</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
+        <FIYAT>332.97000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YESFEAT105_B02</KOD>
+        <VARKOD>5YESFEAT105_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>5YESFEAT105_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003253780</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
+        <FIYAT>332.97000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YEPNFEAT17_07</KOD>
+        <VARKOD>5YEPNFEAT17_0707XXL</VARKOD>
+        <SECENEK_DEGERI>5YEPNFEAT17_07_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003253087</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Gofre  Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Gofre  Pantolon</FATURA_ADI>
+        <FIYAT>428.11000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YE2002-200_02</KOD>
+        <VARKOD>5YE2002-200_0202XXL</VARKOD>
+        <SECENEK_DEGERI>5YE2002-200_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003260948</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka COMO LAKE Baskı Tişört</FATURA_ADI>
+        <FIYAT>133.18000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YE2002-178_18</KOD>
+        <VARKOD>5YE2002-178_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YE2002-178_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003260849</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</FATURA_ADI>
+        <FIYAT>180.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YE2002-178_010</KOD>
+        <VARKOD>5YE2002-178_010010XXL</VARKOD>
+        <SECENEK_DEGERI>5YE2002-178_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003260795</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Önü Parçalı Cep Baskılı Tişört</FATURA_ADI>
+        <FIYAT>180.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2091_B02</KOD>
+        <VARKOD>4YETSTN2091_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2091_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003101906</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol Ve Etek Ribanalı İki İp Rahat Kalıp Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol Ve Etek Ribanalı İki İp Rahat Kalıp Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2089_18</KOD>
+        <VARKOD>4YETSTN2089_1818XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2089_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003242883</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2089_06</KOD>
+        <VARKOD>4YETSTN2089_0606XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2089_06_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003095311</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YET2062-94_010</KOD>
+        <VARKOD>4YET2062-94_010010XXL</VARKOD>
+        <SECENEK_DEGERI>4YET2062-94_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003172203</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Orıgınal Enjeksiyon Baskılı Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Orıgınal Enjeksiyon Baskılı Tişört</FATURA_ADI>
+        <FIYAT>133.18000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2083_B02</KOD>
+        <VARKOD>4YETSTN2083_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2083_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003096110</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</FATURA_ADI>
+        <FIYAT>118.92000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YETSTN2080_B02</KOD>
+        <VARKOD>4YETSTN2080_B02B02XXL</VARKOD>
+        <SECENEK_DEGERI>4YETSTN2080_B02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003094710</BARCODE>
+        <URUNADI>Erkek Kolu Ribanalı İki İp Rahat Kalıp Tişört</URUNADI>
+        <FATURA_ADI>Erkek Kolu Ribanalı İki İp Rahat Kalıp Tişört</FATURA_ADI>
+        <FIYAT>190.27000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>9KETRWE5000_010</KOD>
+        <VARKOD>9KETRWE5000_010010XXL</VARKOD>
+        <SECENEK_DEGERI>9KETRWE5000_010_XXL</SECENEK_DEGERI>
+        <BARCODE>6000002172457</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>380.53000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2678</SIPARIS_NO>
     <CariHesapKodu>
