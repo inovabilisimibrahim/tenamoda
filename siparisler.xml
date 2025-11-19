@@ -1,5 +1,63 @@
-﻿<!-- generated:2025-11-19T15:44:08 -->
+﻿<!-- generated:2025-11-19T15:49:30 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2682</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>40591009266</tcno>
+    <POSTA>elif__akman@hotmail.com</POSTA>
+    <TARIH>2025-11-19</TARIH>
+    <sipariszaman>15:45:59</sipariszaman>
+    <NET_TOPLAM>325.00000000</NET_TOPLAM>
+    <TeslimAlici>Elif Akman</TeslimAlici>
+    <TeslimAdresi>Kocatepe mh. Lamartin cd.   Ofis lamartin apt no:5/3 iş yatırım</TeslimAdresi>
+    <TeslimTelefon>+905335031387</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34437</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Beyoğlu</teslimilce>
+    <faturaalici>Elif Akman</faturaalici>
+    <faturaAdresi>Kocatepe mh. Lamartin cd.   Ofis lamartin apt no:5/3 iş yatırım</faturaAdresi>
+    <faturaTelefon>+905335031387</faturaTelefon>
+    <faturavergino>40591009266</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34437</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Beyoğlu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826821</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKETTN2547_18</KOD>
+        <VARKOD>5YKETTN2547_1818S</VARKOD>
+        <SECENEK_DEGERI>5YKETTN2547_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003329041</BARCODE>
+        <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
+        <FATURA_ADI>Kadın Kemerli Pileli Şort Etek</FATURA_ADI>
+        <FIYAT>325.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2681</SIPARIS_NO>
     <CariHesapKodu>
