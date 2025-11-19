@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-19T13:09:27 -->
+﻿<!-- generated:2025-11-19T13:14:47 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2680</SIPARIS_NO>
@@ -880,6 +880,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKPNT36153_07</KOD>
+        <VARKOD>4YKPNT36153_0707L</VARKOD>
         <SECENEK_DEGERI>4YKPNT36153_07_L</SECENEK_DEGERI>
         <BARCODE>6000003099029</BARCODE>
         <URUNADI>Kadın Kısa Palazzo Poplin Pantolon</URUNADI>
