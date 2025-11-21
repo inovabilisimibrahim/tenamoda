@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-21T13:02:07 -->
+﻿<!-- generated:2025-11-21T13:07:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2687</SIPARIS_NO>
@@ -3143,6 +3143,138 @@
         <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
         <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
         <FIYAT>1253.74000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2654</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>22510995362</tcno>
+    <POSTA>glsmcyln35@gmail.com</POSTA>
+    <TARIH>2025-11-21</TARIH>
+    <sipariszaman>13:05:51</sipariszaman>
+    <NET_TOPLAM>1090.02000000</NET_TOPLAM>
+    <TeslimAlici>Gülsüm  CEYLAN </TeslimAlici>
+    <TeslimAdresi>Merkez Atatürk İlkokulu Kemalpaşa/İZMİR </TeslimAdresi>
+    <TeslimTelefon>+905057278570</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35000</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Kemalpaşa</teslimilce>
+    <faturaalici>Gülsüm  CEYLAN </faturaalici>
+    <faturaAdresi>Merkez Atatürk İlkokulu Kemalpaşa/İZMİR </faturaAdresi>
+    <faturaTelefon>+905057278570</faturaTelefon>
+    <faturavergino>22510995362</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35000</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Kemalpaşa</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>IKASHJ22914826541</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3YKBLTN4759_08</KOD>
+        <VARKOD>3YKBLTN4759_0808M</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN4759_08_M</SECENEK_DEGERI>
+        <BARCODE>6000002948205</BARCODE>
+        <URUNADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</FATURA_ADI>
+        <FIYAT>45.80000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKBLTN4759_54</KOD>
+        <VARKOD>3YKBLTN4759_5454S</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN4759_54_S</SECENEK_DEGERI>
+        <BARCODE>6000002948335</BARCODE>
+        <URUNADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</FATURA_ADI>
+        <FIYAT>45.80000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN5335_01</KOD>
+        <VARKOD>5YKPNTN5335_0101M</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN5335_01_M</SECENEK_DEGERI>
+        <BARCODE>6000003269415</BARCODE>
+        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
+        <FIYAT>366.39000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN5335_18</KOD>
+        <VARKOD>5YKPNTN5335_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN5335_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003269576</BARCODE>
+        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
+        <FIYAT>366.39000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKATBS3114_02</KOD>
+        <VARKOD>3YKATBS3114_0202STN</VARKOD>
+        <SECENEK_DEGERI>3YKATBS3114_02_STN</SECENEK_DEGERI>
+        <BARCODE>6000002990433</BARCODE>
+        <URUNADI>Kadın Fitilli Yakalı Atlet</URUNADI>
+        <FATURA_ADI>Kadın Fitilli Yakalı Atlet</FATURA_ADI>
+        <FIYAT>100.76000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>4YKATT24610_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003085572</BARCODE>
+        <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
+        <FATURA_ADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</FATURA_ADI>
+        <FIYAT>82.44000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>4YKATT24610_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003085466</BARCODE>
+        <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
+        <FATURA_ADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</FATURA_ADI>
+        <FIYAT>82.44000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
