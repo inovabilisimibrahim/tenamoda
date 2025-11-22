@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-22T09:22:18 -->
+﻿<!-- generated:2025-11-22T09:27:44 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2689</SIPARIS_NO>
@@ -57,8 +57,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4YKTST24516_18</KOD>
-        <VARKOD>4YKTST24516_1818M</VARKOD>
         <SECENEK_DEGERI>4YKTST24516_18_M</SECENEK_DEGERI>
         <BARCODE>6000003086371</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Oversize Süprem Basic Crop Tişört</URUNADI>
@@ -96,8 +94,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKTSB28444_02</KOD>
-        <VARKOD>5YKTSB28444_0202STD</VARKOD>
         <SECENEK_DEGERI>5YKTSB28444_02_STD</SECENEK_DEGERI>
         <BARCODE>6000003355279</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Arkası Dönük Toplu Saçlı Kadın Baskılı Asimetrik Kesim Tişört</URUNADI>
@@ -2935,8 +2931,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKTSB28444_02</KOD>
-        <VARKOD>5YKTSB28444_0202STD</VARKOD>
         <SECENEK_DEGERI>5YKTSB28444_02_STD</SECENEK_DEGERI>
         <BARCODE>6000003355279</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Arkası Dönük Toplu Saçlı Kadın Baskılı Asimetrik Kesim Tişört</URUNADI>
