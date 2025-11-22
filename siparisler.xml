@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-22T14:40:09 -->
+﻿<!-- generated:2025-11-22T14:45:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2689</SIPARIS_NO>
@@ -2615,77 +2615,6 @@
         <URUNADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</URUNADI>
         <FATURA_ADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</FATURA_ADI>
         <FIYAT>427.49000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2656</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>avk.s_kose@hotmail.com</POSTA>
-    <TARIH>2025-11-12</TARIH>
-    <sipariszaman>14:42:49</sipariszaman>
-    <NET_TOPLAM>600.00000000</NET_TOPLAM>
-    <TeslimAlici>sevim köse</TeslimAlici>
-    <TeslimAdresi>Mehterçesme mh 1881 sk esenbahce konutlari c blok kat 2 d 16 esenyurt/istanbul Esenbahce konutlari c blok kat 2 d 16 esenyurt istanbul</TeslimAdresi>
-    <TeslimTelefon>+905336118298</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Esenyurt</teslimilce>
-    <faturaalici>sevim köse</faturaalici>
-    <faturaAdresi>Mehterçesme mh 1881 sk esenbahce konutlari c blok kat 2 d 16 esenyurt/istanbul Esenbahce konutlari c blok kat 2 d 16 esenyurt istanbul</faturaAdresi>
-    <faturaTelefon>+905336118298</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Esenyurt</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914826561</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKBLTN2570_02</KOD>
-        <VARKOD>5YKBLTN2570_0202M</VARKOD>
-        <SECENEK_DEGERI>5YKBLTN2570_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003328051</BARCODE>
-        <URUNADI>Kadın Kurdele Detaylı Puantiyeli Şifon Bluz</URUNADI>
-        <FATURA_ADI>Kadın Kurdele Detaylı Puantiyeli Şifon Bluz</FATURA_ADI>
-        <FIYAT>300.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKBLTN2570_18</KOD>
-        <VARKOD>5YKBLTN2570_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKBLTN2570_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003328112</BARCODE>
-        <URUNADI>Kadın Kurdele Detaylı Puantiyeli Şifon Bluz</URUNADI>
-        <FATURA_ADI>Kadın Kurdele Detaylı Puantiyeli Şifon Bluz</FATURA_ADI>
-        <FIYAT>300.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
