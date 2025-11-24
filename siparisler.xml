@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-24T12:04:09 -->
+﻿<!-- generated:2025-11-24T12:09:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2694</SIPARIS_NO>
@@ -849,6 +849,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4KKSWT25131_FM4</KOD>
+        <VARKOD>4KKSWT25131_FM4FM4L</VARKOD>
         <SECENEK_DEGERI>4KKSWT25131_FM4_L</SECENEK_DEGERI>
         <BARCODE>6000003166202</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Selanik Kumaş Basic Sweatshirt</URUNADI>
