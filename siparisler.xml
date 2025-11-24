@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-24T15:03:35 -->
+﻿<!-- generated:2025-11-24T15:08:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2695</SIPARIS_NO>
@@ -44,6 +44,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKG16-1201_18</KOD>
+        <VARKOD>5YKG16-1201_1818S</VARKOD>
         <SECENEK_DEGERI>5YKG16-1201_18_S</SECENEK_DEGERI>
         <BARCODE>6000003284128</BARCODE>
         <URUNADI>Kadın Krınkıl Oversize Gömlek</URUNADI>
@@ -102,6 +104,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>4KKTYO10006_04</KOD>
+        <VARKOD>4KKTYO10006_0404M</VARKOD>
         <SECENEK_DEGERI>4KKTYO10006_04_M</SECENEK_DEGERI>
         <BARCODE>6000003295209</BARCODE>
         <URUNADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</URUNADI>
@@ -173,6 +177,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKTLTN2568_18</KOD>
+        <VARKOD>5YKTLTN2568_1818S</VARKOD>
         <SECENEK_DEGERI>5YKTLTN2568_18_S</SECENEK_DEGERI>
         <BARCODE>6000003327733</BARCODE>
         <URUNADI>Kadın Sırtı Çapraz Bol Kesim Krep Tulum</URUNADI>
@@ -184,6 +190,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKTKTN0010_70</KOD>
+        <VARKOD>5YKTKTN0010_7070M</VARKOD>
         <SECENEK_DEGERI>5YKTKTN0010_70_M</SECENEK_DEGERI>
         <BARCODE>6000003337190</BARCODE>
         <URUNADI>Kadın Kruvaze Yelekli Biye Bağlamalı Palazzo Pantolonlu Takım</URUNADI>
@@ -562,6 +570,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKG16-1449_14</KOD>
+        <VARKOD>5YKG16-1449_1414M</VARKOD>
         <SECENEK_DEGERI>5YKG16-1449_14_M</SECENEK_DEGERI>
         <BARCODE>6000003295926</BARCODE>
         <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
@@ -573,6 +583,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKG16-1449_18</KOD>
+        <VARKOD>5YKG16-1449_1818M</VARKOD>
         <SECENEK_DEGERI>5YKG16-1449_18_M</SECENEK_DEGERI>
         <BARCODE>6000003295957</BARCODE>
         <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
@@ -1106,6 +1118,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKETTN2547_04</KOD>
+        <VARKOD>5YKETTN2547_0404S</VARKOD>
         <SECENEK_DEGERI>5YKETTN2547_04_S</SECENEK_DEGERI>
         <BARCODE>6000003329102</BARCODE>
         <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
@@ -1164,6 +1178,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKETTN2547_18</KOD>
+        <VARKOD>5YKETTN2547_1818S</VARKOD>
         <SECENEK_DEGERI>5YKETTN2547_18_S</SECENEK_DEGERI>
         <BARCODE>6000003329041</BARCODE>
         <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
@@ -1233,6 +1249,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKETTN2547_18</KOD>
+        <VARKOD>5YKETTN2547_1818S</VARKOD>
         <SECENEK_DEGERI>5YKETTN2547_18_S</SECENEK_DEGERI>
         <BARCODE>6000003329041</BARCODE>
         <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
@@ -1513,6 +1531,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNLV3435_02</KOD>
+        <VARKOD>5YKPNLV3435_0202XL</VARKOD>
         <SECENEK_DEGERI>5YKPNLV3435_02_XL</SECENEK_DEGERI>
         <BARCODE>6000003264120</BARCODE>
         <URUNADI>Kadın Beli Lastikli Havuç Paça Muslin Pantolon</URUNADI>
@@ -1621,6 +1641,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKETTN2547_04</KOD>
+        <VARKOD>5YKETTN2547_0404S</VARKOD>
         <SECENEK_DEGERI>5YKETTN2547_04_S</SECENEK_DEGERI>
         <BARCODE>6000003329102</BARCODE>
         <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
@@ -1740,6 +1762,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN3396_18</KOD>
+        <VARKOD>5YKPNTN3396_1818L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3396_18_L</SECENEK_DEGERI>
         <BARCODE>6000003303348</BARCODE>
         <URUNADI>Kadın Kemersiz Önü Çift Pileli Poliviskon Pantolon</URUNADI>
@@ -1764,6 +1788,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKG16-1423_06</KOD>
+        <VARKOD>5YKG16-1423_0606S</VARKOD>
         <SECENEK_DEGERI>5YKG16-1423_06_S</SECENEK_DEGERI>
         <BARCODE>6000003284784</BARCODE>
         <URUNADI>Kadın Kalın Manşetli Cepleri Düğme Detaylı Oversize Oxford Gömlek</URUNADI>
@@ -2296,6 +2322,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKELTN2559_C01</KOD>
+        <VARKOD>5YKELTN2559_C01C01S</VARKOD>
         <SECENEK_DEGERI>5YKELTN2559_C01_S</SECENEK_DEGERI>
         <BARCODE>6000003327917</BARCODE>
         <URUNADI>Kadın Önü Katlı Straplez Krep Elbise</URUNADI>
@@ -2471,6 +2499,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKGMTN2572_04</KOD>
+        <VARKOD>5YKGMTN2572_0404S</VARKOD>
         <SECENEK_DEGERI>5YKGMTN2572_04_S</SECENEK_DEGERI>
         <BARCODE>6000003328037</BARCODE>
         <URUNADI>Kadın Geometrik Desenli Saten Gömlek</URUNADI>
