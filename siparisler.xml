@@ -1,5 +1,63 @@
-﻿<!-- generated:2025-11-26T16:58:11 -->
+﻿<!-- generated:2025-11-26T17:03:32 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2699</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>ezgidenizkoc@gmail.com</POSTA>
+    <TARIH>2025-11-26</TARIH>
+    <sipariszaman>17:02:42</sipariszaman>
+    <NET_TOPLAM>600.00000000</NET_TOPLAM>
+    <TeslimAlici>şerife koç</TeslimAlici>
+    <TeslimAdresi>ev bahçeşehir 1.kısım mah yeşilırmak sok Ilgaz03 bl01 d5 başakşehir </TeslimAdresi>
+    <TeslimTelefon>+905333780270</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Başakşehir</teslimilce>
+    <faturaalici>şerife koç</faturaalici>
+    <faturaAdresi>ev bahçeşehir 1.kısım mah yeşilırmak sok Ilgaz03 bl01 d5 başakşehir </faturaAdresi>
+    <faturaTelefon>+905333780270</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Başakşehir</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826991</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELTNGRZ4_010</KOD>
+        <VARKOD>5YKELTNGRZ4_010010STD</VARKOD>
+        <SECENEK_DEGERI>5YKELTNGRZ4_010_STD</SECENEK_DEGERI>
+        <BARCODE>6000003380479</BARCODE>
+        <URUNADI>Kadın Düşük Kol Beli Tünel Kemerli Keten Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Beli Tünel Kemerli Keten Uzun Elbise</FATURA_ADI>
+        <FIYAT>600.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2698</SIPARIS_NO>
     <CariHesapKodu>
