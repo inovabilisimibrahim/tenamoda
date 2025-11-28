@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-11-28T13:00:56 -->
+﻿<!-- generated:2025-11-28T13:06:12 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2699</SIPARIS_NO>
@@ -2768,99 +2768,6 @@
         <URUNADI>Kadın Kind Reminder Baskılı Üç İplik Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Kind Reminder Baskılı Üç İplik Sweatshirt</FATURA_ADI>
         <FIYAT>225.93000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2664</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>13616400966</tcno>
-    <POSTA>rumeysa35eren@gmail.com</POSTA>
-    <TARIH>2025-11-18</TARIH>
-    <sipariszaman>13:03:04</sipariszaman>
-    <NET_TOPLAM>950.00000000</NET_TOPLAM>
-    <TeslimAlici>Rumeysa Eren</TeslimAlici>
-    <TeslimAdresi>Cumhuriyet mahallesi Haluk Alpsü Bulvarı  Kolcu apt. No:53/8 Kat: 2 daire: 3 Torbalı/İzmir </TeslimAdresi>
-    <TeslimTelefon>+905418346076</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Torbalı</teslimilce>
-    <faturaalici>Rumeysa Eren</faturaalici>
-    <faturaAdresi>Cumhuriyet mahallesi Haluk Alpsü Bulvarı  Kolcu apt. No:53/8 Kat: 2 daire: 3 Torbalı/İzmir </faturaAdresi>
-    <faturaTelefon>+905418346076</faturaTelefon>
-    <faturavergino>13616400966</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Torbalı</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826641</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KKSWTN6003_06</KOD>
-        <VARKOD>4KKSWTN6003_0606XL</VARKOD>
-        <SECENEK_DEGERI>4KKSWTN6003_06_XL</SECENEK_DEGERI>
-        <BARCODE>6000003191761</BARCODE>
-        <URUNADI>Kadın Yıldız Baskılı Cepsiz Üç İplik Kapüşonlu Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Yıldız Baskılı Cepsiz Üç İplik Kapüşonlu Sweatshirt</FATURA_ADI>
-        <FIYAT>250.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4KKSWTN6020_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003194274</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Ohio Baskılı Üç İplik Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Ohio Baskılı Üç İplik Sweatshirt</FATURA_ADI>
-        <FIYAT>200.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKSWTN6015_18</KOD>
-        <VARKOD>4KKSWTN6015_1818M</VARKOD>
-        <SECENEK_DEGERI>4KKSWTN6015_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003195981</BARCODE>
-        <URUNADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
-        <FIYAT>250.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKSWTN6015_02</KOD>
-        <VARKOD>4KKSWTN6015_0202M</VARKOD>
-        <SECENEK_DEGERI>4KKSWTN6015_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003195943</BARCODE>
-        <URUNADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Sacramento Baskılı Üç İplik Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
-        <FIYAT>250.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
