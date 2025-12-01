@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-01T13:20:19 -->
+﻿<!-- generated:2025-12-01T13:25:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2702</SIPARIS_NO>
@@ -67,7 +67,7 @@
     <tcno>23815277870</tcno>
     <POSTA>yasar3987@gmail.com</POSTA>
     <TARIH>2025-12-01</TARIH>
-    <sipariszaman>11:39:17</sipariszaman>
+    <sipariszaman>13:24:28</sipariszaman>
     <NET_TOPLAM>1143.55000000</NET_TOPLAM>
     <TeslimAlici>Emin Yaşar</TeslimAlici>
     <TeslimAdresi>Emek cad. Osmangazi Sok. Veteriner hizmet kliniği  No.10</TeslimAdresi>
@@ -1488,77 +1488,6 @@
         <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
         <FATURA_ADI>Kadın Kemerli Pileli Şort Etek</FATURA_ADI>
         <FIYAT>325.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2683</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ilknurkorkmaz4@gmail.com</POSTA>
-    <TARIH>2025-11-21</TARIH>
-    <sipariszaman>13:21:09</sipariszaman>
-    <NET_TOPLAM>325.00000000</NET_TOPLAM>
-    <TeslimAlici>Ilknur Korkmaz</TeslimAlici>
-    <TeslimAdresi>Osmangazi Mahallesi Naci Kunt Caddesi No 11 Gürbüz Apt. Daire 6 Kat 2</TeslimAdresi>
-    <TeslimTelefon>+905305695981</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>41700</teslimPostaKodu>
-    <teslimil>Kocaeli</teslimil>
-    <teslimilce>Darıca</teslimilce>
-    <faturaalici>Ilknur Korkmaz</faturaalici>
-    <faturaAdresi>Osmangazi Mahallesi Naci Kunt Caddesi No 11 Gürbüz Apt. Daire 6 Kat 2</faturaAdresi>
-    <faturaTelefon>+905305695981</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>41700</faturaPostaKodu>
-    <faturail>Kocaeli</faturail>
-    <faturailce>Darıca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826831</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKETTN2547_18</KOD>
-        <VARKOD>5YKETTN2547_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKETTN2547_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003329041</BARCODE>
-        <URUNADI>Kadın Kemerli Pileli Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Kemerli Pileli Şort Etek</FATURA_ADI>
-        <FIYAT>281.67000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKETTHAN05_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003135970</BARCODE>
-        <URUNADI>Kadın Önü Yırtmaçlı Kaşe Mini Etek</URUNADI>
-        <FATURA_ADI>Kadın Önü Yırtmaçlı Kaşe Mini Etek</FATURA_ADI>
-        <FIYAT>43.33000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
