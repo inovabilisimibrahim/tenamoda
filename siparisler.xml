@@ -1,5 +1,169 @@
-﻿<!-- generated:2025-12-04T17:00:50 -->
+﻿<!-- generated:2025-12-04T17:06:04 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2709</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>64630105498</tcno>
+    <POSTA>pkayhan83@gmail.com</POSTA>
+    <TARIH>2025-12-04</TARIH>
+    <sipariszaman>17:02:39</sipariszaman>
+    <NET_TOPLAM>1619.73000000</NET_TOPLAM>
+    <TeslimAlici>pınar şeker</TeslimAlici>
+    <TeslimAdresi>10016 sk no:16 aosb aosb</TeslimAdresi>
+    <TeslimTelefon>+905076150989</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35620</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Çiğli</teslimilce>
+    <faturaalici>pınar şeker</faturaalici>
+    <faturaAdresi>10016 sk no:16 aosb aosb</faturaAdresi>
+    <faturaTelefon>+905076150989</faturaTelefon>
+    <faturavergino>64630105498</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35620</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Çiğli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827091</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3YKBLTN4759_54</KOD>
+        <VARKOD>3YKBLTN4759_5454S</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN4759_54_S</SECENEK_DEGERI>
+        <BARCODE>6000002948335</BARCODE>
+        <URUNADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın Balon Kol Kare Bürümcük Kumaş Bluz</FATURA_ADI>
+        <FIYAT>44.87000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNT36138_07</KOD>
+        <VARKOD>4YKPNT36138_0707S</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36138_07_S</SECENEK_DEGERI>
+        <BARCODE>6000003098954</BARCODE>
+        <URUNADI>Kadın Beli Bağlamalı Havuç Paça Poplin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Bağlamalı Havuç Paça Poplin Pantolon</FATURA_ADI>
+        <FIYAT>157.04000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN5526_YAH</KOD>
+        <VARKOD>4KKSWTN5526_YAHYAHS</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN5526_YAH_S</SECENEK_DEGERI>
+        <BARCODE>6000003192317</BARCODE>
+        <URUNADI>Kadın Çizgili Üç İplik Şardonsuz Kapüşonlu Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Çizgili Üç İplik Şardonsuz Kapüşonlu Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>179.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKBLTN4092_BEJ</KOD>
+        <VARKOD>3YKBLTN4092_BEJBEJSTD</VARKOD>
+        <SECENEK_DEGERI>3YKBLTN4092_BEJ_STD</SECENEK_DEGERI>
+        <BARCODE>6000002948502</BARCODE>
+        <URUNADI>Kadın Kolları Fırfırlı Kolsuz Kaşkorse Bluz</URUNADI>
+        <FATURA_ADI>Kadın Kolları Fırfırlı Kolsuz Kaşkorse Bluz</FATURA_ADI>
+        <FIYAT>35.89000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>2.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6006_YAH</KOD>
+        <VARKOD>4KKSWTN6006_YAHYAHS</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6006_YAH_S</SECENEK_DEGERI>
+        <BARCODE>6000003192195</BARCODE>
+        <URUNADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</FATURA_ADI>
+        <FIYAT>224.34000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>2.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6006_02</KOD>
+        <VARKOD>4KKSWTN6006_0202M</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6006_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003192065</BARCODE>
+        <URUNADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</FATURA_ADI>
+        <FIYAT>224.34000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKELT35053_07</KOD>
+        <VARKOD>4YKELT35053_0707S</VARKOD>
+        <SECENEK_DEGERI>4YKELT35053_07_S</SECENEK_DEGERI>
+        <BARCODE>6000003075498</BARCODE>
+        <URUNADI>Kadın Yaka Fırfırlı Önü Düğmeli Kolsuz Poplin Kumaş Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın Yaka Fırfırlı Önü Düğmeli Kolsuz Poplin Kumaş Uzun Elbise</FATURA_ADI>
+        <FIYAT>179.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKELT35068_18</KOD>
+        <VARKOD>4YKELT35068_1818S</VARKOD>
+        <SECENEK_DEGERI>4YKELT35068_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003098800</BARCODE>
+        <URUNADI>Kadın Gömlek Yaka Önü Düğmeli Kolsuz Poplin Elbise</URUNADI>
+        <FATURA_ADI>Kadın Gömlek Yaka Önü Düğmeli Kolsuz Poplin Elbise</FATURA_ADI>
+        <FIYAT>179.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKBLTN5780_18</KOD>
+        <VARKOD>4YKBLTN5780_1818S</VARKOD>
+        <SECENEK_DEGERI>4YKBLTN5780_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003150317</BARCODE>
+        <URUNADI>Kadın Gömlek Yaka Düşük Kol Bluz</URUNADI>
+        <FATURA_ADI>Kadın Gömlek Yaka Düşük Kol Bluz</FATURA_ADI>
+        <FIYAT>134.61000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2708</SIPARIS_NO>
     <CariHesapKodu>
