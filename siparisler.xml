@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-06T10:42:05 -->
+﻿<!-- generated:2025-12-06T10:47:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2712</SIPARIS_NO>
@@ -1038,64 +1038,6 @@
         <URUNADI>Kadın Bol Paça Beli Lastikli Pantolon</URUNADI>
         <FATURA_ADI>Kadın Bol Paça Beli Lastikli Pantolon</FATURA_ADI>
         <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2695</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>dilektoprak81@hotmail.com</POSTA>
-    <TARIH>2025-11-26</TARIH>
-    <sipariszaman>10:45:14</sipariszaman>
-    <NET_TOPLAM>300.00000000</NET_TOPLAM>
-    <TeslimAlici>dilek toprak</TeslimAlici>
-    <TeslimAdresi>ÜÇEVLER MAH. ESRA SOK. NO.1 KAT 6 İŞKUR NİLÜFER İŞKUR</TeslimAdresi>
-    <TeslimTelefon>+905324507782</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Bursa</teslimil>
-    <teslimilce>Nilüfer</teslimilce>
-    <faturaalici>dilek toprak</faturaalici>
-    <faturaAdresi>ÜÇEVLER MAH. ESRA SOK. NO.1 KAT 6 İŞKUR NİLÜFER İŞKUR</faturaAdresi>
-    <faturaTelefon>+905324507782</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Bursa</faturail>
-    <faturailce>Nilüfer</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826951</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1201_18</KOD>
-        <VARKOD>5YKG16-1201_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1201_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003284128</BARCODE>
-        <URUNADI>Kadın Krınkıl Oversize Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Krınkıl Oversize Gömlek</FATURA_ADI>
-        <FIYAT>300.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
