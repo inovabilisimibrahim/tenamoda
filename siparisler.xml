@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-14T03:06:06 -->
+﻿<!-- generated:2025-12-14T03:11:23 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2720</SIPARIS_NO>
@@ -1202,6 +1202,97 @@
         <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
         <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
         <FIYAT>1143.55000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2665</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>59620270720</tcno>
+    <POSTA>drselinozdemir@gmail.com</POSTA>
+    <TARIH>2025-12-14</TARIH>
+    <sipariszaman>03:07:10</sipariszaman>
+    <NET_TOPLAM>938.75000000</NET_TOPLAM>
+    <TeslimAlici>selin özdemir</TeslimAlici>
+    <TeslimAdresi>Bahar mah Bozyaka egt ve ars hastanesi D blok</TeslimAdresi>
+    <TeslimTelefon>+905468501235</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>selin özdemir</faturaalici>
+    <faturaAdresi>Bahar mah Bozyaka egt ve ars hastanesi D blok</faturaAdresi>
+    <faturaTelefon>+905468501235</faturaTelefon>
+    <faturavergino>59620270720</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826651</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>4KKBLB11425_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003238701</BARCODE>
+        <URUNADI>Kadın Düşük Omuz Uzun Kollu Bluz</URUNADI>
+        <FATURA_ADI>Kadın Düşük Omuz Uzun Kollu Bluz</FATURA_ADI>
+        <FIYAT>193.17000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KKSWTN6017_18</KOD>
+        <VARKOD>4KKSWTN6017_1818M</VARKOD>
+        <SECENEK_DEGERI>4KKSWTN6017_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003193772</BARCODE>
+        <URUNADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Wintage Baskılı Cepsiz Kapüşonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>203.34000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKGMTN2572_04</KOD>
+        <VARKOD>5YKGMTN2572_0404S</VARKOD>
+        <SECENEK_DEGERI>5YKGMTN2572_04_S</SECENEK_DEGERI>
+        <BARCODE>6000003328037</BARCODE>
+        <URUNADI>Kadın Geometrik Desenli Saten Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Geometrik Desenli Saten Gömlek</FATURA_ADI>
+        <FIYAT>316.31000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>4KKSWTN6019_YAH_L</SECENEK_DEGERI>
+        <BARCODE>6000003194120</BARCODE>
+        <URUNADI>Kadın Kind Reminder Baskılı Üç İplik Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kind Reminder Baskılı Üç İplik Sweatshirt</FATURA_ADI>
+        <FIYAT>225.93000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
