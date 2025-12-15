@@ -1,5 +1,63 @@
-﻿<!-- generated:2025-12-15T14:16:08 -->
+﻿<!-- generated:2025-12-15T14:21:22 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2724</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>esra@rotamar.com</POSTA>
+    <TARIH>2025-12-15</TARIH>
+    <sipariszaman>14:19:08</sipariszaman>
+    <NET_TOPLAM>314.09000000</NET_TOPLAM>
+    <TeslimAlici>Esra Üstünsoy</TeslimAlici>
+    <TeslimAdresi>Yalı mah 6523 sokak Soyak Mavişehir B Bölgesi B3 Blok Da:21 Mavişehir/İzmir</TeslimAdresi>
+    <TeslimTelefon>+905326532592</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karşıyaka</teslimilce>
+    <faturaalici>Esra Üstünsoy</faturaalici>
+    <faturaAdresi>Yalı mah 6523 sokak Soyak Mavişehir B Bölgesi B3 Blok Da:21 Mavişehir/İzmir</faturaAdresi>
+    <faturaTelefon>+905326532592</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Karşıyaka</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827241</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKBLB16711_02</KOD>
+        <VARKOD>4KKBLB16711_0202S</VARKOD>
+        <SECENEK_DEGERI>4KKBLB16711_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003213234</BARCODE>
+        <URUNADI>Kadın Kısa Kollu Dik Yaka Crop Bluz</URUNADI>
+        <FATURA_ADI>Kadın Kısa Kollu Dik Yaka Crop Bluz</FATURA_ADI>
+        <FIYAT>314.09000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2723</SIPARIS_NO>
     <CariHesapKodu>
@@ -10,7 +68,7 @@
     </tcno>
     <POSTA>tunailyas22@hotmail.com</POSTA>
     <TARIH>2025-12-15</TARIH>
-    <sipariszaman>09:05:28</sipariszaman>
+    <sipariszaman>14:18:17</sipariszaman>
     <NET_TOPLAM>449.09000000</NET_TOPLAM>
     <TeslimAlici>İlyas Tuna</TeslimAlici>
     <TeslimAdresi>Şeyh Sinan mahallesi şehid Seyhan yılmaz sok merkez apt no 22 daire 14 kat 4 çorlu Tekirdağ</TeslimAdresi>
@@ -70,7 +128,7 @@
     </tcno>
     <POSTA>fusunkacmaz@hotmail.com</POSTA>
     <TARIH>2025-12-15</TARIH>
-    <sipariszaman>09:05:28</sipariszaman>
+    <sipariszaman>14:18:28</sipariszaman>
     <NET_TOPLAM>946.36000000</NET_TOPLAM>
     <TeslimAlici>Füsun  Kaçmaz </TeslimAlici>
     <TeslimAdresi>Şenlikköy Mahallesi  Akasya Sokak No 12 A Daire 6</TeslimAdresi>
@@ -143,7 +201,7 @@
     </tcno>
     <POSTA>zeliha.gunnay@gmail.com</POSTA>
     <TARIH>2025-12-15</TARIH>
-    <sipariszaman>09:05:28</sipariszaman>
+    <sipariszaman>14:18:12</sipariszaman>
     <NET_TOPLAM>723.99000000</NET_TOPLAM>
     <TeslimAlici>Zeliha Günay</TeslimAlici>
     <TeslimAdresi>2371 sokak no 21 gültepe izmir konak yavuz selim mahallesi</TeslimAdresi>
