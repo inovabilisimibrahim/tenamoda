@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-15T03:07:41 -->
+﻿<!-- generated:2025-12-15T03:12:53 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2720</SIPARIS_NO>
@@ -1202,6 +1202,64 @@
         <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
         <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
         <FIYAT>1143.55000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2666</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>35308647602</tcno>
+    <POSTA>pasifik3565@gmail.com</POSTA>
+    <TARIH>2025-12-15</TARIH>
+    <sipariszaman>03:07:11</sipariszaman>
+    <NET_TOPLAM>500.00000000</NET_TOPLAM>
+    <TeslimAlici>Doğukan Haykut</TeslimAlici>
+    <TeslimAdresi>Buca koop mah 206/5 sokak  no 146/5  kat 1 daire 5 umut market üstü / izmir buca 5</TeslimAdresi>
+    <TeslimTelefon>+905448202960</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35390</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Buca</teslimilce>
+    <faturaalici>Doğukan Haykut</faturaalici>
+    <faturaAdresi>Buca koop mah 206/5 sokak  no 146/5  kat 1 daire 5 umut market üstü / izmir buca 5</faturaAdresi>
+    <faturaTelefon>+905448202960</faturaTelefon>
+    <faturavergino>35308647602</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35390</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Buca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826661</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKE28-9828_09</KOD>
+        <VARKOD>5KKE28-9828_0909S</VARKOD>
+        <SECENEK_DEGERI>5KKE28-9828_09_S</SECENEK_DEGERI>
+        <BARCODE>6000003440159</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
