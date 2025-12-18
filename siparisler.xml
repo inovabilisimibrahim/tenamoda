@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-18T09:00:14 -->
+﻿<!-- generated:2025-12-18T09:05:41 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2729</SIPARIS_NO>
@@ -3165,64 +3165,6 @@
         <URUNADI>Kadın V Yaka Omuzları Bağlamalı Müslin Kumaş Elbise</URUNADI>
         <FATURA_ADI>Kadın V Yaka Omuzları Bağlamalı Müslin Kumaş Elbise</FATURA_ADI>
         <FIYAT>300.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2651</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>demetalakus2635@gmail.com</POSTA>
-    <TARIH>2025-12-08</TARIH>
-    <sipariszaman>09:01:45</sipariszaman>
-    <NET_TOPLAM>222.20000000</NET_TOPLAM>
-    <TeslimAlici>Demet ALAKUŞ</TeslimAlici>
-    <TeslimAdresi>Çukurçayır Mahallesi Siteler Caddesi C Blok Kat 9 No 28 Mimoza Sitesi</TeslimAdresi>
-    <TeslimTelefon>+905058109335</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>61100</teslimPostaKodu>
-    <teslimil>Trabzon</teslimil>
-    <teslimilce>Ortahisar</teslimilce>
-    <faturaalici>Demet ALAKUŞ</faturaalici>
-    <faturaAdresi>Çukurçayır Mahallesi Siteler Caddesi C Blok Kat 9 No 28 Mimoza Sitesi</faturaAdresi>
-    <faturaTelefon>+905058109335</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>61100</faturaPostaKodu>
-    <faturail>Trabzon</faturail>
-    <faturailce>Ortahisar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914826511</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKTSB28444_02_STD</SECENEK_DEGERI>
-        <BARCODE>6000003355279</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Arkası Dönük Toplu Saçlı Kadın Baskılı Asimetrik Kesim Tişört</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Arkası Dönük Toplu Saçlı Kadın Baskılı Asimetrik Kesim Tişört</FATURA_ADI>
-        <FIYAT>222.20000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
