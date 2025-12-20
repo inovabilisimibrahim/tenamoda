@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-20T13:01:45 -->
+﻿<!-- generated:2025-12-20T13:07:03 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2730</SIPARIS_NO>
@@ -3190,6 +3190,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKBLNO1559_010</KOD>
+        <VARKOD>5YKBLNO1559_010010S-M</VARKOD>
         <SECENEK_DEGERI>5YKBLNO1559_010_S-M</SECENEK_DEGERI>
         <BARCODE>6000003299702</BARCODE>
         <URUNADI>Kadın Kare Yaka Ottoman Kumaş Crop Bluz</URUNADI>
