@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-21T03:01:29 -->
+﻿<!-- generated:2025-12-21T03:06:52 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2730</SIPARIS_NO>
@@ -3349,62 +3349,6 @@
         <URUNADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Bisiklet Yaka Mini Waffle Basic Tişört</FATURA_ADI>
         <FIYAT>125.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2657</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>50725020562</tcno>
-    <POSTA>ernesto_che1928@hotmail.com</POSTA>
-    <TARIH>2025-12-11</TARIH>
-    <sipariszaman>03:04:04</sipariszaman>
-    <NET_TOPLAM>427.49000000</NET_TOPLAM>
-    <TeslimAlici>Hasan Mengüllü</TeslimAlici>
-    <TeslimAdresi>Atatürk Mahallesi Yüzbaşı serdar yücel caddesi Jandarma Sosyal Tesisleri </TeslimAdresi>
-    <TeslimTelefon>+905347240415</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Iğdır</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Hasan Mengüllü</faturaalici>
-    <faturaAdresi>Atatürk Mahallesi Yüzbaşı serdar yücel caddesi Jandarma Sosyal Tesisleri </faturaAdresi>
-    <faturaTelefon>+905347240415</faturaTelefon>
-    <faturavergino>50725020562</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Iğdır</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>IKASHJ22914826571</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KESWTR2606_18</KOD>
-        <VARKOD>4KESWTR2606_1818S</VARKOD>
-        <SECENEK_DEGERI>4KESWTR2606_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003318403</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</FATURA_ADI>
-        <FIYAT>427.49000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
