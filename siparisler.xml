@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-22T12:24:19 -->
+﻿<!-- generated:2025-12-22T12:29:37 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2730</SIPARIS_NO>
@@ -672,77 +672,6 @@
         <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
         <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
         <FIYAT>557.22000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2717</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>feray@milenyumtextile.com</POSTA>
-    <TARIH>2025-12-12</TARIH>
-    <sipariszaman>12:27:11</sipariszaman>
-    <NET_TOPLAM>1258.18000000</NET_TOPLAM>
-    <TeslimAlici>feray yalçın</TeslimAlici>
-    <TeslimAdresi>kocasinan merkez mah mahmutbey cad no 323-/1 kat 5 yenibosna bahçelievler  happy center marketin üstü</TeslimAdresi>
-    <TeslimTelefon>+905557614748</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Bahçelievler</teslimilce>
-    <faturaalici>feray yalçın</faturaalici>
-    <faturaAdresi>kocasinan merkez mah mahmutbey cad no 323-/1 kat 5 yenibosna bahçelievler  happy center marketin üstü</faturaAdresi>
-    <faturaTelefon>+905557614748</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Bahçelievler</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827171</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKK53-5344_58</KOD>
-        <VARKOD>5KKK53-5344_5858STD</VARKOD>
-        <SECENEK_DEGERI>5KKK53-5344_58_STD</SECENEK_DEGERI>
-        <BARCODE>6000003402485</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
-        <FIYAT>809.09000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKTRTN9057_13</KOD>
-        <VARKOD>4KKTRTN9057_1313STN</VARKOD>
-        <SECENEK_DEGERI>4KKTRTN9057_13_STN</SECENEK_DEGERI>
-        <BARCODE>6000003188624</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
-        <FIYAT>449.09000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
