@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-22T13:17:34 -->
+﻿<!-- generated:2025-12-22T13:23:04 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2730</SIPARIS_NO>
@@ -769,77 +769,6 @@
         <URUNADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</FATURA_ADI>
         <FIYAT>476.27000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2715</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>eylempolice35@gmail.com</POSTA>
-    <TARIH>2025-12-12</TARIH>
-    <sipariszaman>13:19:26</sipariszaman>
-    <NET_TOPLAM>438.99000000</NET_TOPLAM>
-    <TeslimAlici>Eylem Ayber  Uzunpolat</TeslimAlici>
-    <TeslimAdresi>Latife Hanım Mahallesi Coşkun Şahin Sk Sever sitesi A 121 D 23  Sever sitesi</TeslimAdresi>
-    <TeslimTelefon>05494541881</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35600</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karşıyaka</teslimilce>
-    <faturaalici>Eylem Ayber  Uzunpolat</faturaalici>
-    <faturaAdresi>Latife Hanım Mahallesi Coşkun Şahin Sk Sever sitesi A 121 D 23  Sever sitesi</faturaAdresi>
-    <faturaTelefon>05494541881</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35600</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karşıyaka</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827151</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4KKBLB10448_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003213043</BARCODE>
-        <URUNADI>Kadın Uzun Kollu Sıfır Yaka Yaka Büzgülü Bluz</URUNADI>
-        <FATURA_ADI>Kadın Uzun Kollu Sıfır Yaka Yaka Büzgülü Bluz</FATURA_ADI>
-        <FIYAT>438.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKBLB10448_18</KOD>
-        <VARKOD>4KKBLB10448_1818S</VARKOD>
-        <SECENEK_DEGERI>4KKBLB10448_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003213050</BARCODE>
-        <URUNADI>Kadın Uzun Kollu Sıfır Yaka Yaka Büzgülü Bluz</URUNADI>
-        <FATURA_ADI>Kadın Uzun Kollu Sıfır Yaka Yaka Büzgülü Bluz</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
