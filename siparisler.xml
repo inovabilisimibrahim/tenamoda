@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-23T12:26:57 -->
+﻿<!-- generated:2025-12-23T12:32:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2730</SIPARIS_NO>
@@ -601,103 +601,6 @@
         <URUNADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</URUNADI>
         <FATURA_ADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</FATURA_ADI>
         <FIYAT>1498.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2716</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>22942316032</tcno>
-    <POSTA>sehriyemadra423@gmail.com</POSTA>
-    <TARIH>2025-12-13</TARIH>
-    <sipariszaman>12:30:30</sipariszaman>
-    <NET_TOPLAM>1143.43000000</NET_TOPLAM>
-    <TeslimAlici>Şehriye  Madran</TeslimAlici>
-    <TeslimAdresi>Menderes Mah erdem cad no:149-151/Abuca izmir Özel Yaylacık ağız ve diş sağlığı polikliniği </TeslimAdresi>
-    <TeslimTelefon>+905072432184</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35370</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Şehriye  Madran</faturaalici>
-    <faturaAdresi>Menderes Mah erdem cad no:149-151/Abuca izmir Özel Yaylacık ağız ve diş sağlığı polikliniği </faturaAdresi>
-    <faturaTelefon>+905072432184</faturaTelefon>
-    <faturavergino>22942316032</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35370</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827161</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KKSWTN6021_123</KOD>
-        <VARKOD>4KKSWTN6021_123123L</VARKOD>
-        <SECENEK_DEGERI>4KKSWTN6021_123_L</SECENEK_DEGERI>
-        <BARCODE>6000003194366</BARCODE>
-        <URUNADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YEG19-1193_02</KOD>
-        <VARKOD>5YEG19-1193_0202XL</VARKOD>
-        <SECENEK_DEGERI>5YEG19-1193_02_XL</SECENEK_DEGERI>
-        <BARCODE>6000003279995</BARCODE>
-        <URUNADI>Erkek Kısa Kollu Apaj Yaka Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Kısa Kollu Apaj Yaka Gömlek</FATURA_ADI>
-        <FIYAT>667.16000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSFAL003_70</KOD>
-        <VARKOD>5YETSFAL003_7070XL</VARKOD>
-        <SECENEK_DEGERI>5YETSFAL003_70_XL</SECENEK_DEGERI>
-        <BARCODE>6000003338593</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKSWTN6021_18</KOD>
-        <VARKOD>4KKSWTN6021_1818S</VARKOD>
-        <SECENEK_DEGERI>4KKSWTN6021_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003194465</BARCODE>
-        <URUNADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Resort Paris Baskılı Üç İplik Crop Sweatshirt</FATURA_ADI>
-        <FIYAT>476.27000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
