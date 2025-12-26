@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-26T03:02:06 -->
+﻿<!-- generated:2025-12-26T03:07:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2732</SIPARIS_NO>
@@ -541,6 +541,122 @@
         <URUNADI>Erkek Tam Balıkçı Yaka Basic Triko Kazak</URUNADI>
         <FATURA_ADI>Erkek Tam Balıkçı Yaka Basic Triko Kazak</FATURA_ADI>
         <FIYAT>449.09000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2699</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>ezgidenizkoc@gmail.com</POSTA>
+    <TARIH>2025-12-26</TARIH>
+    <sipariszaman>03:07:04</sipariszaman>
+    <NET_TOPLAM>600.00000000</NET_TOPLAM>
+    <TeslimAlici>şerife koç</TeslimAlici>
+    <TeslimAdresi>ev bahçeşehir 1.kısım mah yeşilırmak sok Ilgaz03 bl01 d5 başakşehir </TeslimAdresi>
+    <TeslimTelefon>+905333780270</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Başakşehir</teslimilce>
+    <faturaalici>şerife koç</faturaalici>
+    <faturaAdresi>ev bahçeşehir 1.kısım mah yeşilırmak sok Ilgaz03 bl01 d5 başakşehir </faturaAdresi>
+    <faturaTelefon>+905333780270</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Başakşehir</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826991</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELTNGRZ4_010</KOD>
+        <VARKOD>5YKELTNGRZ4_010010STD</VARKOD>
+        <SECENEK_DEGERI>5YKELTNGRZ4_010_STD</SECENEK_DEGERI>
+        <BARCODE>6000003380479</BARCODE>
+        <URUNADI>Kadın Düşük Kol Beli Tünel Kemerli Keten Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Beli Tünel Kemerli Keten Uzun Elbise</FATURA_ADI>
+        <FIYAT>600.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2698</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>45169988202</tcno>
+    <POSTA>muhittinsalman35@gmail.com</POSTA>
+    <TARIH>2025-12-26</TARIH>
+    <sipariszaman>03:06:05</sipariszaman>
+    <NET_TOPLAM>125.00000000</NET_TOPLAM>
+    <TeslimAlici>Muhittin SALMAN</TeslimAlici>
+    <TeslimAdresi>Mermerli Mahallesi Bülent Ecevit Bulvarı No 90 Daire 2 Menemen/İZMİR</TeslimAdresi>
+    <TeslimTelefon>+905073018222</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35660</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Menemen</teslimilce>
+    <faturaalici>Muhittin SALMAN</faturaalici>
+    <faturaAdresi>Mermerli Mahallesi Bülent Ecevit Bulvarı No 90 Daire 2 Menemen/İZMİR</faturaAdresi>
+    <faturaTelefon>+905073018222</faturaTelefon>
+    <faturavergino>45169988202</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35660</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Menemen</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914826981</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YETSTN2512_18</KOD>
+        <VARKOD>5YETSTN2512_1818XXL</VARKOD>
+        <SECENEK_DEGERI>5YETSTN2512_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003299184</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
+        <FIYAT>125.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -2880,157 +2996,6 @@
         <URUNADI>Kadın Sedef Düğmeli Gömlek</URUNADI>
         <FATURA_ADI>Kadın Sedef Düğmeli Gömlek</FATURA_ADI>
         <FIYAT>376.30000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2669</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>dilara5844467@gmail.com</POSTA>
-    <TARIH>2025-12-16</TARIH>
-    <sipariszaman>03:07:05</sipariszaman>
-    <NET_TOPLAM>600.00000000</NET_TOPLAM>
-    <TeslimAlici>Nezaket  Söğüt </TeslimAlici>
-    <TeslimAdresi>Yeni cami mah. Cumhuriyet sitesi B blok kat 2 kapı no 4 </TeslimAdresi>
-    <TeslimTelefon>+905353892640</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Sivas</teslimil>
-    <teslimilce>Zara</teslimilce>
-    <faturaalici>Nezaket  Söğüt </faturaalici>
-    <faturaAdresi>Yeni cami mah. Cumhuriyet sitesi B blok kat 2 kapı no 4 </faturaAdresi>
-    <faturaTelefon>+905353892640</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Sivas</faturail>
-    <faturailce>Zara</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826691</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>3KKMNKS0047_18S_36</SECENEK_DEGERI>
-        <BARCODE>6000003024632</BARCODE>
-        <URUNADI>Kadın Torba Cepli Oversize Mont</URUNADI>
-        <FATURA_ADI>Kadın Torba Cepli Oversize Mont</FATURA_ADI>
-        <FIYAT>600.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2668</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>black22witch@gmail.com</POSTA>
-    <TARIH>2025-12-16</TARIH>
-    <sipariszaman>03:05:12</sipariszaman>
-    <NET_TOPLAM>1099.98000000</NET_TOPLAM>
-    <TeslimAlici>Duygu Boyraz</TeslimAlici>
-    <TeslimAdresi>Okurcalar mah.ilifos cad Lina carsi 35A Okurcalar  Alanya Lofts Lina </TeslimAdresi>
-    <TeslimTelefon>+905399283946</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>07415</teslimPostaKodu>
-    <teslimil>Antalya</teslimil>
-    <teslimilce>Alanya</teslimilce>
-    <faturaalici>Duygu Boyraz</faturaalici>
-    <faturaAdresi>Okurcalar mah.ilifos cad Lina carsi 35A Okurcalar  Alanya Lofts Lina </faturaAdresi>
-    <faturaTelefon>+905399283946</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>07415</faturaPostaKodu>
-    <faturail>Antalya</faturail>
-    <faturailce>Alanya</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826681</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKELTN2559_C01</KOD>
-        <VARKOD>5YKELTN2559_C01C01S</VARKOD>
-        <SECENEK_DEGERI>5YKELTN2559_C01_S</SECENEK_DEGERI>
-        <BARCODE>6000003327917</BARCODE>
-        <URUNADI>Kadın Önü Katlı Straplez Krep Elbise</URUNADI>
-        <FATURA_ADI>Kadın Önü Katlı Straplez Krep Elbise</FATURA_ADI>
-        <FIYAT>275.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKPNT36127_U01</KOD>
-        <VARKOD>4YKPNT36127_U01U01M</VARKOD>
-        <SECENEK_DEGERI>4YKPNT36127_U01_M</SECENEK_DEGERI>
-        <BARCODE>6000003077577</BARCODE>
-        <URUNADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>275.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKATPYZ028_18_STN</SECENEK_DEGERI>
-        <BARCODE>6000003451223</BARCODE>
-        <URUNADI>Kadın Kaşe Şal Atkı</URUNADI>
-        <FATURA_ADI>Kadın Kaşe Şal Atkı</FATURA_ADI>
-        <FIYAT>274.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKATPYZ028_670_STN</SECENEK_DEGERI>
-        <BARCODE>6000003451230</BARCODE>
-        <URUNADI>Kadın Kaşe Şal Atkı</URUNADI>
-        <FATURA_ADI>Kadın Kaşe Şal Atkı</FATURA_ADI>
-        <FIYAT>274.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
