@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-26T03:07:16 -->
+﻿<!-- generated:2025-12-26T03:12:37 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2732</SIPARIS_NO>
@@ -2938,64 +2938,6 @@
         <URUNADI>Erkek (TRZ050) Bisiklet Yaka Örgülü Triko Kazak</URUNADI>
         <FATURA_ADI>Erkek (TRZ050) Bisiklet Yaka Örgülü Triko Kazak</FATURA_ADI>
         <FIYAT>649.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2670</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>gulten.vardar@ege.edu.tr</POSTA>
-    <TARIH>2025-12-16</TARIH>
-    <sipariszaman>03:08:58</sipariszaman>
-    <NET_TOPLAM>376.30000000</NET_TOPLAM>
-    <TeslimAlici>Gulten vardar</TeslimAlici>
-    <TeslimAdresi>kazimdirik mah.171 sok.kucukerkan apt.no.10 kat.2 dai.6 Kucukerkan apt.no 10 kat.2 dai.6</TeslimAdresi>
-    <TeslimTelefon>+905367615125</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Gulten vardar</faturaalici>
-    <faturaAdresi>kazimdirik mah.171 sok.kucukerkan apt.no.10 kat.2 dai.6 Kucukerkan apt.no 10 kat.2 dai.6</faturaAdresi>
-    <faturaTelefon>+905367615125</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826701</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1850_YĞ</KOD>
-        <VARKOD>5YKG16-1850_YĞYĞL</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1850_YĞ_L</SECENEK_DEGERI>
-        <BARCODE>6000003364677</BARCODE>
-        <URUNADI>Kadın Sedef Düğmeli Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Sedef Düğmeli Gömlek</FATURA_ADI>
-        <FIYAT>376.30000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
