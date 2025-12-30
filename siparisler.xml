@@ -1,4 +1,4 @@
-﻿<!-- generated:2025-12-30T03:02:04 -->
+﻿<!-- generated:2025-12-30T03:07:21 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2733</SIPARIS_NO>
@@ -337,6 +337,64 @@
         <URUNADI>Kadın Bisiklet Yaka Eagles Baskılı Üç İplik Basic Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Eagles Baskılı Üç İplik Basic Sweatshirt</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2701</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>23815277870</tcno>
+    <POSTA>yasar3987@gmail.com</POSTA>
+    <TARIH>2025-12-30</TARIH>
+    <sipariszaman>03:04:43</sipariszaman>
+    <NET_TOPLAM>1143.55000000</NET_TOPLAM>
+    <TeslimAlici>Emin Yaşar</TeslimAlici>
+    <TeslimAdresi>Emek cad. Osmangazi Sok. Veteriner hizmet kliniği  No.10</TeslimAdresi>
+    <TeslimTelefon>+905395183331</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>08700</teslimPostaKodu>
+    <teslimil>Artvin</teslimil>
+    <teslimilce>Şavşat</teslimilce>
+    <faturaalici>Emin Yaşar</faturaalici>
+    <faturaAdresi>Emek cad. Osmangazi Sok. Veteriner hizmet kliniği  No.10</faturaAdresi>
+    <faturaTelefon>+905395183331</faturaTelefon>
+    <faturavergino>23815277870</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>08700</faturaPostaKodu>
+    <faturail>Artvin</faturail>
+    <faturailce>Şavşat</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827011</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KEM34-1461_14</KOD>
+        <VARKOD>5KEM34-1461_1414M</VARKOD>
+        <SECENEK_DEGERI>5KEM34-1461_14_M</SECENEK_DEGERI>
+        <BARCODE>6000003415782</BARCODE>
+        <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
+        <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
+        <FIYAT>1143.55000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -1596,62 +1654,6 @@
         <URUNADI>Kadın Saç Örgülü Etek Kazak Takım</URUNADI>
         <FATURA_ADI>Kadın Saç Örgülü Etek Kazak Takım</FATURA_ADI>
         <FIYAT>1099.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2685</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>39869193042</tcno>
-    <POSTA>mehmetkarakabak78@hotmail.com</POSTA>
-    <TARIH>2025-12-20</TARIH>
-    <sipariszaman>03:05:31</sipariszaman>
-    <NET_TOPLAM>212.74000000</NET_TOPLAM>
-    <TeslimAlici>Mehmet Karakabak</TeslimAlici>
-    <TeslimAdresi>Aygünsan Demir Çelik .Şehit Reşat Atilla Moralı caddesi medikar hastanesi altı yeşil mahalle </TeslimAdresi>
-    <TeslimTelefon>+905394404278</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>78000</teslimPostaKodu>
-    <teslimil>Karabük</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Mehmet Karakabak</faturaalici>
-    <faturaAdresi>Aygünsan Demir Çelik .Şehit Reşat Atilla Moralı caddesi medikar hastanesi altı yeşil mahalle </faturaAdresi>
-    <faturaTelefon>+905394404278</faturaTelefon>
-    <faturavergino>39869193042</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>78000</faturaPostaKodu>
-    <faturail>Karabük</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826851</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4KKSWTN6006_YAH_M</SECENEK_DEGERI>
-        <BARCODE>6000003192188</BARCODE>
-        <URUNADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Fake People Baskılı Üç İplik Sweatshirt</FATURA_ADI>
-        <FIYAT>212.74000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
