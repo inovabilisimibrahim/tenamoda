@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-02T03:09:58 -->
+﻿<!-- generated:2026-01-02T03:15:06 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2734</SIPARIS_NO>
@@ -631,79 +631,6 @@
         <URUNADI>Kadın Krınkıl Oversize Gömlek</URUNADI>
         <FATURA_ADI>Kadın Krınkıl Oversize Gömlek</FATURA_ADI>
         <FIYAT>300.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2694</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>drgulder@gmail.com</POSTA>
-    <TARIH>2025-12-23</TARIH>
-    <sipariszaman>03:11:34</sipariszaman>
-    <NET_TOPLAM>749.99000000</NET_TOPLAM>
-    <TeslimAlici>GÜLDER ÖZKAN</TeslimAlici>
-    <TeslimAdresi>ESENTEPE MH OKUL CD AKSEL 2 YILMAZ SİTESİ A BLOK 2/1A</TeslimAdresi>
-    <TeslimTelefon>+905057712373</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>16200</teslimPostaKodu>
-    <teslimil>Bursa</teslimil>
-    <teslimilce>Nilüfer</teslimilce>
-    <faturaalici>GÜLDER ÖZKAN</faturaalici>
-    <faturaAdresi>ESENTEPE MH OKUL CD AKSEL 2 YILMAZ SİTESİ A BLOK 2/1A</faturaAdresi>
-    <faturaTelefon>+905057712373</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>16200</faturaPostaKodu>
-    <faturail>Bursa</faturail>
-    <faturailce>Nilüfer</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914826941</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KKTYO10006_04</KOD>
-        <VARKOD>4KKTYO10006_0404M</VARKOD>
-        <SECENEK_DEGERI>4KKTYO10006_04_M</SECENEK_DEGERI>
-        <BARCODE>6000003295209</BARCODE>
-        <URUNADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</URUNADI>
-        <FATURA_ADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</FATURA_ADI>
-        <FIYAT>399.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETYE4450_14</KOD>
-        <VARKOD>5YKETYE4450_1414M</VARKOD>
-        <SECENEK_DEGERI>5YKETYE4450_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003348585</BARCODE>
-        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
-        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
-        <FIYAT>350.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
