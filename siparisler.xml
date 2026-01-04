@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-04T03:03:52 -->
+﻿<!-- generated:2026-01-04T03:09:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2734</SIPARIS_NO>
@@ -270,6 +270,151 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2712</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>mehtap.ercan@dr.com.tr</POSTA>
+    <TARIH>2026-01-04</TARIH>
+    <sipariszaman>03:07:12</sipariszaman>
+    <NET_TOPLAM>997.89000000</NET_TOPLAM>
+    <TeslimAlici>Mehtap Ercan</TeslimAlici>
+    <TeslimAdresi>Osmangazi mahallesi dundarli caddesi mahal sitesi no 12 e blok kat 6 daire 26 Samandıra İstanbul</TeslimAdresi>
+    <TeslimTelefon>+905321581777</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Sancaktepe</teslimilce>
+    <faturaalici>Mehtap Ercan</faturaalici>
+    <faturaAdresi>Osmangazi mahallesi dundarli caddesi mahal sitesi no 12 e blok kat 6 daire 26 Samandıra İstanbul</faturaAdresi>
+    <faturaTelefon>+905321581777</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Sancaktepe</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827121</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN2543_B02</KOD>
+        <VARKOD>5YKPNTN2543_B02B02L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2543_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003297692</BARCODE>
+        <URUNADI>Kadın Beli Kalın Lastikli Bol Kesim Modal Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Kalın Lastikli Bol Kesim Modal Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKE29-9827_18</KOD>
+        <VARKOD>5KKE29-9827_1818M</VARKOD>
+        <SECENEK_DEGERI>5KKE29-9827_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003436411</BARCODE>
+        <URUNADI>Kadın Içi Mini Etekli Dilimli Tül Etek</URUNADI>
+        <FATURA_ADI>Kadın Içi Mini Etekli Dilimli Tül Etek</FATURA_ADI>
+        <FIYAT>997.89000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2711</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>haciogluutku@gmail.com</POSTA>
+    <TARIH>2026-01-04</TARIH>
+    <sipariszaman>03:06:07</sipariszaman>
+    <NET_TOPLAM>547.44000000</NET_TOPLAM>
+    <TeslimAlici>Utku Hacıoğlu</TeslimAlici>
+    <TeslimAdresi>Atatürk mahallesi 161 sokak Başaran apartmanı No:1 daire:6</TeslimAdresi>
+    <TeslimTelefon>+905520779145</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>45200</teslimPostaKodu>
+    <teslimil>Manisa</teslimil>
+    <teslimilce>Akhisar</teslimilce>
+    <faturaalici>Utku Hacıoğlu</faturaalici>
+    <faturaAdresi>Atatürk mahallesi 161 sokak Başaran apartmanı No:1 daire:6</faturaAdresi>
+    <faturaTelefon>+905520779145</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>45200</faturaPostaKodu>
+    <faturail>Manisa</faturail>
+    <faturailce>Akhisar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827111</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>9KETRTN0003_18</KOD>
+        <VARKOD>9KETRTN0003_1818XXL</VARKOD>
+        <SECENEK_DEGERI>9KETRTN0003_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000002413666</BARCODE>
+        <URUNADI>Erkek Yarım Balıkçı Yaka Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Erkek Yarım Balıkçı Yaka Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>477.45000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>69.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
