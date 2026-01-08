@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-08T03:06:05 -->
+﻿<!-- generated:2026-01-08T03:11:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2735</SIPARIS_NO>
@@ -182,6 +182,75 @@
         <URUNADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</FATURA_ADI>
         <FIYAT>1177.91000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2714</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>srnyrtgl1903@gmail.com</POSTA>
+    <TARIH>2026-01-08</TARIH>
+    <sipariszaman>03:07:11</sipariszaman>
+    <NET_TOPLAM>1598.99000000</NET_TOPLAM>
+    <TeslimAlici>serenay ün</TeslimAlici>
+    <TeslimAdresi>8809/11sk c blok no:6 k:4 d:17  özlem apartmanı </TeslimAdresi>
+    <TeslimTelefon>+905050485826</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35610</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Çiğli</teslimilce>
+    <faturaalici>serenay ün</faturaalici>
+    <faturaAdresi>8809/11sk c blok no:6 k:4 d:17  özlem apartmanı </faturaAdresi>
+    <faturaTelefon>+905050485826</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35610</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Çiğli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827141</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>1KKMNBD5117_14_42</SECENEK_DEGERI>
+        <BARCODE>6000002702968</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>1KKMNBD5117_B02_42</SECENEK_DEGERI>
+        <BARCODE>6000003462656</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</FATURA_ADI>
+        <FIYAT>1598.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
