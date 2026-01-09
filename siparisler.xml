@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-09T03:00:14 -->
+﻿<!-- generated:2026-01-09T03:05:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2735</SIPARIS_NO>
@@ -875,64 +875,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2701</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>23815277870</tcno>
-    <POSTA>yasar3987@gmail.com</POSTA>
-    <TARIH>2025-12-30</TARIH>
-    <sipariszaman>03:04:43</sipariszaman>
-    <NET_TOPLAM>1143.55000000</NET_TOPLAM>
-    <TeslimAlici>Emin Yaşar</TeslimAlici>
-    <TeslimAdresi>Emek cad. Osmangazi Sok. Veteriner hizmet kliniği  No.10</TeslimAdresi>
-    <TeslimTelefon>+905395183331</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>08700</teslimPostaKodu>
-    <teslimil>Artvin</teslimil>
-    <teslimilce>Şavşat</teslimilce>
-    <faturaalici>Emin Yaşar</faturaalici>
-    <faturaAdresi>Emek cad. Osmangazi Sok. Veteriner hizmet kliniği  No.10</faturaAdresi>
-    <faturaTelefon>+905395183331</faturaTelefon>
-    <faturavergino>23815277870</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>08700</faturaPostaKodu>
-    <faturail>Artvin</faturail>
-    <faturailce>Şavşat</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827011</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KEM34-1461_14</KOD>
-        <VARKOD>5KEM34-1461_1414M</VARKOD>
-        <SECENEK_DEGERI>5KEM34-1461_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003415782</BARCODE>
-        <URUNADI>Erkek Kadife Yakalı Regular Mont</URUNADI>
-        <FATURA_ADI>Erkek Kadife Yakalı Regular Mont</FATURA_ADI>
-        <FIYAT>1143.55000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
