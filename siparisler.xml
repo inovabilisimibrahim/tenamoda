@@ -1,5 +1,76 @@
-﻿<!-- generated:2026-01-19T09:05:06 -->
+﻿<!-- generated:2026-01-19T09:10:18 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2739</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>35293385626</tcno>
+    <POSTA>zarakaratasss@icloud.com</POSTA>
+    <TARIH>2026-01-19</TARIH>
+    <sipariszaman>09:07:50</sipariszaman>
+    <NET_TOPLAM>4289.99000000</NET_TOPLAM>
+    <TeslimAlici>Zara Karataş</TeslimAlici>
+    <TeslimAdresi>7281. Sk. 16 emek mahallesi Fırat apartmanı</TeslimAdresi>
+    <TeslimTelefon>+905540144335</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35510</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bayraklı</teslimilce>
+    <faturaalici>Zara Karataş</faturaalici>
+    <faturaAdresi>7281. Sk. 16 emek mahallesi Fırat apartmanı</faturaAdresi>
+    <faturaTelefon>+905540144335</faturaTelefon>
+    <faturavergino>35293385626</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35510</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bayraklı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827391</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK35-5557_18</KOD>
+        <VARKOD>5KKK35-5557_1818S</VARKOD>
+        <SECENEK_DEGERI>5KKK35-5557_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003409859</BARCODE>
+        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
+        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
+        <FIYAT>2859.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKK35-5557_18</KOD>
+        <VARKOD>5KKK35-5557_1818S</VARKOD>
+        <SECENEK_DEGERI>5KKK35-5557_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003409859</BARCODE>
+        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
+        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
+        <FIYAT>1430.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2737</SIPARIS_NO>
     <CariHesapKodu>
