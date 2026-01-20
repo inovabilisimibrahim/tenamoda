@@ -1,5 +1,136 @@
-﻿<!-- generated:2026-01-20T09:03:19 -->
+﻿<!-- generated:2026-01-20T09:08:34 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2741</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>babacangulben3@gmail.com</POSTA>
+    <TARIH>2026-01-20</TARIH>
+    <sipariszaman>09:05:16</sipariszaman>
+    <NET_TOPLAM>289.99000000</NET_TOPLAM>
+    <TeslimAlici>Gülben BABACAN</TeslimAlici>
+    <TeslimAdresi>Ev  Metin oktay mah 108/35 tuğcu apt no 55 kat 1 daire 2</TeslimAdresi>
+    <TeslimTelefon>+905557515611</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Gülben BABACAN</faturaalici>
+    <faturaAdresi>Ev  Metin oktay mah 108/35 tuğcu apt no 55 kat 1 daire 2</faturaAdresi>
+    <faturaTelefon>+905557515611</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827411</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKATT24610_18</KOD>
+        <VARKOD>4YKATT24610_1818S</VARKOD>
+        <SECENEK_DEGERI>4YKATT24610_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003085589</BARCODE>
+        <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</URUNADI>
+        <FATURA_ADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Ribana Atlet</FATURA_ADI>
+        <FIYAT>289.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2740</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>necila.yildirim@hotmail.com</POSTA>
+    <TARIH>2026-01-20</TARIH>
+    <sipariszaman>09:05:14</sipariszaman>
+    <NET_TOPLAM>1609.99000000</NET_TOPLAM>
+    <TeslimAlici>Necla YILDIRIM</TeslimAlici>
+    <TeslimAdresi>Talatpaşa Caddesi Aşık Veysel Mahallesi Orkide Evleri 7/A Kat 8 Daire:17 B 15 No:17</TeslimAdresi>
+    <TeslimTelefon>+905056312320</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34707</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Esenyurt</teslimilce>
+    <faturaalici>Necla YILDIRIM</faturaalici>
+    <faturaAdresi>Talatpaşa Caddesi Aşık Veysel Mahallesi Orkide Evleri 7/A Kat 8 Daire:17 B 15 No:17</faturaAdresi>
+    <faturaTelefon>+905056312320</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34707</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Esenyurt</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827401</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>1KKMNBD5117_05</KOD>
+        <VARKOD>1KKMNBD5117_050538</VARKOD>
+        <SECENEK_DEGERI>1KKMNBD5117_05_38</SECENEK_DEGERI>
+        <BARCODE>6000002704184</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</FATURA_ADI>
+        <FIYAT>1609.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>1KKMNBD5117_B02</KOD>
+        <VARKOD>1KKMNBD5117_B02B0238</VARKOD>
+        <SECENEK_DEGERI>1KKMNBD5117_B02_38</SECENEK_DEGERI>
+        <BARCODE>6000003462632</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Anorak Yanları Stoplu Mont</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2739</SIPARIS_NO>
     <CariHesapKodu>
