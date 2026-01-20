@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-20T02:59:12 -->
+﻿<!-- generated:2026-01-20T03:04:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2739</SIPARIS_NO>
@@ -683,77 +683,6 @@
         <URUNADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</URUNADI>
         <FATURA_ADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</FATURA_ADI>
         <FIYAT>1498.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2718</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>kazimozer3512@gmail.com</POSTA>
-    <TARIH>2026-01-10</TARIH>
-    <sipariszaman>03:03:14</sipariszaman>
-    <NET_TOPLAM>557.22000000</NET_TOPLAM>
-    <TeslimAlici>Kazım Özer</TeslimAlici>
-    <TeslimAdresi>Fevzi Çakmak Mah. Tarkan Sokak 5/4 Günay Apt. No:5/4</TeslimAdresi>
-    <TeslimTelefon>+905368785364</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Balçova</teslimilce>
-    <faturaalici>Kazım Özer</faturaalici>
-    <faturaAdresi>Fevzi Çakmak Mah. Tarkan Sokak 5/4 Günay Apt. No:5/4</faturaAdresi>
-    <faturaTelefon>+905368785364</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Balçova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827181</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSFAL003_01</KOD>
-        <VARKOD>5YETSFAL003_0101XXL</VARKOD>
-        <SECENEK_DEGERI>5YETSFAL003_01_XXL</SECENEK_DEGERI>
-        <BARCODE>6000003337978</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSFAL003_70</KOD>
-        <VARKOD>5YETSFAL003_7070XL</VARKOD>
-        <SECENEK_DEGERI>5YETSFAL003_70_XL</SECENEK_DEGERI>
-        <BARCODE>6000003338593</BARCODE>
-        <URUNADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</URUNADI>
-        <FATURA_ADI>Erkek Ayaklı Yaka Ottoman Basic Tişört</FATURA_ADI>
-        <FIYAT>557.22000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
