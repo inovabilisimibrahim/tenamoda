@@ -1,5 +1,78 @@
-﻿<!-- generated:2026-01-21T17:02:29 -->
+﻿<!-- generated:2026-01-21T17:07:39 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2742</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>selmakocas24@gmail.com</POSTA>
+    <TARIH>2026-01-21</TARIH>
+    <sipariszaman>17:05:18</sipariszaman>
+    <NET_TOPLAM>769.49000000</NET_TOPLAM>
+    <TeslimAlici>Selma Koçaş</TeslimAlici>
+    <TeslimAdresi>Atatürk caddesi Dizdaroğlu sk no:5 ticaret ve sanayi odası  5</TeslimAdresi>
+    <TeslimTelefon>+905412629045</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>57000</teslimPostaKodu>
+    <teslimil>Sinop</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Selma Koçaş</faturaalici>
+    <faturaAdresi>Atatürk caddesi Dizdaroğlu sk no:5 ticaret ve sanayi odası  5</faturaAdresi>
+    <faturaTelefon>+905412629045</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>57000</faturaPostaKodu>
+    <faturail>Sinop</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827421</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKPNT36153_05</KOD>
+        <VARKOD>4YKPNT36153_0505M</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36153_05_M</SECENEK_DEGERI>
+        <BARCODE>6000003099005</BARCODE>
+        <URUNADI>Kadın Kısa Palazzo Poplin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Kısa Palazzo Poplin Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_09</KOD>
+        <VARKOD>5YKETYE4450_0909M</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003348554</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>769.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2741</SIPARIS_NO>
     <CariHesapKodu>
