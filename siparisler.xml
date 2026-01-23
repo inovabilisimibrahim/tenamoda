@@ -1,5 +1,136 @@
-﻿<!-- generated:2026-01-23T07:39:14 -->
+﻿<!-- generated:2026-01-23T07:44:24 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2745</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>19262204804</tcno>
+    <POSTA>belin98@hotmail.com</POSTA>
+    <TARIH>2026-01-23</TARIH>
+    <sipariszaman>07:39:40</sipariszaman>
+    <NET_TOPLAM>1364.99000000</NET_TOPLAM>
+    <TeslimAlici>Belin Deniz Baysan</TeslimAlici>
+    <TeslimAdresi>Yenikale mahallesi Fırat sokak Nlatis apartmanı no:2 daire:29</TeslimAdresi>
+    <TeslimTelefon>+905342939883</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35320</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Narlıdere</teslimilce>
+    <faturaalici>Belin Deniz Baysan</faturaalici>
+    <faturaAdresi>Yenikale mahallesi Fırat sokak Nlatis apartmanı no:2 daire:29</faturaAdresi>
+    <faturaTelefon>+905342939883</faturaTelefon>
+    <faturavergino>19262204804</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35320</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Narlıdere</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
+    <tasiyicifirma>mng</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>
+    </kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKKZ251120_58</KOD>
+        <VARKOD>5KKKZ251120_5858STD</VARKOD>
+        <SECENEK_DEGERI>5KKKZ251120_58_STD</SECENEK_DEGERI>
+        <BARCODE>6000003468177</BARCODE>
+        <URUNADI>Kadın Dik Yaka Saç Örgülü Düğmeli Kazak</URUNADI>
+        <FATURA_ADI>Kadın Dik Yaka Saç Örgülü Düğmeli Kazak</FATURA_ADI>
+        <FIYAT>1109.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKTRTN9055_02</KOD>
+        <VARKOD>3KKTRTN9055_0202STN</VARKOD>
+        <SECENEK_DEGERI>3KKTRTN9055_02_STN</SECENEK_DEGERI>
+        <BARCODE>6000003016347</BARCODE>
+        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>255.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2744</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>serpil_us@hotmail.com</POSTA>
+    <TARIH>2026-01-23</TARIH>
+    <sipariszaman>07:39:37</sipariszaman>
+    <NET_TOPLAM>1259.99000000</NET_TOPLAM>
+    <TeslimAlici>SERPİL US</TeslimAlici>
+    <TeslimAdresi>ÇAMLIK MAH. ELMALI SOK İREM SİTESİ B BLOK DAİRE 22</TeslimAdresi>
+    <TeslimTelefon>+905056721823</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Ümraniye</teslimilce>
+    <faturaalici>SERPİL US</faturaalici>
+    <faturaAdresi>ÇAMLIK MAH. ELMALI SOK İREM SİTESİ B BLOK DAİRE 22</faturaAdresi>
+    <faturaTelefon>+905056721823</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Ümraniye</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
+    <tasiyicifirma>mng</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>
+    </kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN2522_01</KOD>
+        <VARKOD>5YKPNTN2522_0101M</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2522_01_M</SECENEK_DEGERI>
+        <BARCODE>6000003288546</BARCODE>
+        <URUNADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Çift Pileli Bol Kesim Poliviskon Pantolon</FATURA_ADI>
+        <FIYAT>1259.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2743</SIPARIS_NO>
     <CariHesapKodu>
