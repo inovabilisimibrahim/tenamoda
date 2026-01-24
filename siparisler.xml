@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-24T13:36:14 -->
+﻿<!-- generated:2026-01-24T13:41:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2745</SIPARIS_NO>
@@ -565,64 +565,6 @@
         <URUNADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</URUNADI>
         <FATURA_ADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</FATURA_ADI>
         <FIYAT>1109.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2736</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>elfkapusuz@gmail.com</POSTA>
-    <TARIH>2026-01-14</TARIH>
-    <sipariszaman>13:38:42</sipariszaman>
-    <NET_TOPLAM>2809.99000000</NET_TOPLAM>
-    <TeslimAlici>Elif  Kapusuz</TeslimAlici>
-    <TeslimAdresi>Ambarlı Mah Şenkazan Sok Yalı Apt No:5 Daire 7</TeslimAdresi>
-    <TeslimTelefon>+905338982110</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Avcılar</teslimilce>
-    <faturaalici>Elif  Kapusuz</faturaalici>
-    <faturaAdresi>Ambarlı Mah Şenkazan Sok Yalı Apt No:5 Daire 7</faturaAdresi>
-    <faturaTelefon>+905338982110</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Avcılar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827361</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKK35-5557_18</KOD>
-        <VARKOD>5KKK35-5557_1818S</VARKOD>
-        <SECENEK_DEGERI>5KKK35-5557_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003409859</BARCODE>
-        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
-        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
-        <FIYAT>2809.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
