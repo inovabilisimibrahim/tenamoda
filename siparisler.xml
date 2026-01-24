@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-24T03:04:02 -->
+﻿<!-- generated:2026-01-24T03:09:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2745</SIPARIS_NO>
@@ -623,6 +623,79 @@
         <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
         <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
         <FIYAT>2809.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2732</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>yucesteilknur@hotmail.com</POSTA>
+    <TARIH>2026-01-24</TARIH>
+    <sipariszaman>03:05:51</sipariszaman>
+    <NET_TOPLAM>1473.99000000</NET_TOPLAM>
+    <TeslimAlici>İlknur Külekçi</TeslimAlici>
+    <TeslimAdresi>Çamlıtepe Mah. Yunus Emre Cad. No 159/3 Körfez/Kocaeli</TeslimAdresi>
+    <TeslimTelefon>+905058189641</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>41780</teslimPostaKodu>
+    <teslimil>Kocaeli</teslimil>
+    <teslimilce>Körfez</teslimilce>
+    <faturaalici>İlknur Külekçi</faturaalici>
+    <faturaAdresi>Çamlıtepe Mah. Yunus Emre Cad. No 159/3 Körfez/Kocaeli</faturaAdresi>
+    <faturaTelefon>+905058189641</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>41780</faturaPostaKodu>
+    <faturail>Kocaeli</faturail>
+    <faturailce>Körfez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827321</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKCKTN3327_02</KOD>
+        <VARKOD>5YKCKTN3327_020240</VARKOD>
+        <SECENEK_DEGERI>5YKCKTN3327_02_40</SECENEK_DEGERI>
+        <BARCODE>6000003367432</BARCODE>
+        <URUNADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</URUNADI>
+        <FATURA_ADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</FATURA_ADI>
+        <FIYAT>1473.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKCKTN3338_B02</KOD>
+        <VARKOD>5YKCKTN3338_B02B02L</VARKOD>
+        <SECENEK_DEGERI>5YKCKTN3338_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003302907</BARCODE>
+        <URUNADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</URUNADI>
+        <FATURA_ADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
