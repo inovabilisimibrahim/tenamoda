@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-25T02:59:21 -->
+﻿<!-- generated:2026-01-25T03:04:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2745</SIPARIS_NO>
@@ -846,77 +846,6 @@
         <BARCODE>6000003193093</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Eagles Baskılı Üç İplik Basic Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Eagles Baskılı Üç İplik Basic Sweatshirt</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2728</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>24559772348</tcno>
-    <POSTA>serkanyola_35@hotmail.com</POSTA>
-    <TARIH>2026-01-15</TARIH>
-    <sipariszaman>03:03:12</sipariszaman>
-    <NET_TOPLAM>948.99000000</NET_TOPLAM>
-    <TeslimAlici>Serkan Yola</TeslimAlici>
-    <TeslimAdresi>Ataşehir Mahallesi 8001/1 Sokak Eski Belediye Binası 3. Kat İş Güvenliği Birimi </TeslimAdresi>
-    <TeslimTelefon>+905331386010</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35620</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Çiğli</teslimilce>
-    <faturaalici>Serkan Yola</faturaalici>
-    <faturaAdresi>Ataşehir Mahallesi 8001/1 Sokak Eski Belediye Binası 3. Kat İş Güvenliği Birimi </faturaAdresi>
-    <faturaTelefon>+905331386010</faturaTelefon>
-    <faturavergino>24559772348</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35620</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Çiğli</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827281</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YEPNFEAT20_05</KOD>
-        <VARKOD>5YEPNFEAT20_0505M</VARKOD>
-        <SECENEK_DEGERI>5YEPNFEAT20_05_M</SECENEK_DEGERI>
-        <BARCODE>6000003252103</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
-        <FIYAT>948.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YEPNFEAT20_B02</KOD>
-        <VARKOD>5YEPNFEAT20_B02B02M</VARKOD>
-        <SECENEK_DEGERI>5YEPNFEAT20_B02_M</SECENEK_DEGERI>
-        <BARCODE>6000003252257</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Tek Pile Duble Paça Diamond Kumaş  Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
