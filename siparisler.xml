@@ -1,5 +1,65 @@
-﻿<!-- generated:2026-01-28T12:04:09 -->
+﻿<!-- generated:2026-01-28T12:09:19 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2749</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nazlanbilgen57@gmail.com</POSTA>
+    <TARIH>2026-01-28</TARIH>
+    <sipariszaman>12:04:49</sipariszaman>
+    <NET_TOPLAM>1109.99000000</NET_TOPLAM>
+    <TeslimAlici>Bilgen Güngör</TeslimAlici>
+    <TeslimAdresi>Foça Mahallesi İbrahim Gül Caddesi No 21 Tura Market</TeslimAdresi>
+    <TeslimTelefon>5313281341</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>48300</teslimPostaKodu>
+    <teslimil>Muğla</teslimil>
+    <teslimilce>Fethiye</teslimilce>
+    <faturaalici>Bilgen Güngör</faturaalici>
+    <faturaAdresi>Foça Mahallesi İbrahim Gül Caddesi No 21 Tura Market</faturaAdresi>
+    <faturaTelefon>5313281341</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>48300</faturaPostaKodu>
+    <faturail>Muğla</faturail>
+    <faturailce>Fethiye</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827491</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK53-5328_05</KOD>
+        <VARKOD>5KKK53-5328_0505STD</VARKOD>
+        <SECENEK_DEGERI>5KKK53-5328_05_STD</SECENEK_DEGERI>
+        <BARCODE>6000003401907</BARCODE>
+        <URUNADI>Kadın Yakası Düğmeli Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Yakası Düğmeli Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>1109.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2748</SIPARIS_NO>
     <CariHesapKodu>
