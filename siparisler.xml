@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-01-28T03:01:57 -->
+﻿<!-- generated:2026-01-28T03:07:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2747</SIPARIS_NO>
@@ -836,79 +836,6 @@
         <URUNADI>Kadın Sedef Düğmeli Gömlek</URUNADI>
         <FATURA_ADI>Kadın Sedef Düğmeli Gömlek</FATURA_ADI>
         <FIYAT>798.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2730</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>guneri1982@hotmail.com</POSTA>
-    <TARIH>2026-01-18</TARIH>
-    <sipariszaman>03:05:09</sipariszaman>
-    <NET_TOPLAM>548.99000000</NET_TOPLAM>
-    <TeslimAlici>Ümit Ünal</TeslimAlici>
-    <TeslimAdresi>Gazeteci hasan tahsin cad.no162 kat1 DAIRE1 basinsitesi Karabağlar Izmır (Evde yoksam kamer eczanesine bırakınız)</TeslimAdresi>
-    <TeslimTelefon>+905365162616</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35150</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karabağlar</teslimilce>
-    <faturaalici>Ümit Ünal</faturaalici>
-    <faturaAdresi>Gazeteci hasan tahsin cad.no162 kat1 DAIRE1 basinsitesi Karabağlar Izmır (Evde yoksam kamer eczanesine bırakınız)</faturaAdresi>
-    <faturaTelefon>+905365162616</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35150</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karabağlar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827301</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YETSCL4546_01</KOD>
-        <VARKOD>5YETSCL4546_0101XL</VARKOD>
-        <SECENEK_DEGERI>5YETSCL4546_01_XL</SECENEK_DEGERI>
-        <BARCODE>6000003324381</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol Yaka Şeritli Kagi Kumaş Tişört</FATURA_ADI>
-        <FIYAT>548.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YETSTN2512_18</KOD>
-        <VARKOD>5YETSTN2512_1818XL</VARKOD>
-        <SECENEK_DEGERI>5YETSTN2512_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003299177</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
