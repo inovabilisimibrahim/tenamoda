@@ -1,5 +1,77 @@
-﻿<!-- generated:2026-01-30T17:02:27 -->
+﻿<!-- generated:2026-01-30T17:44:43 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2752</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>nurtenmscgl.01@gmail.com</POSTA>
+    <TARIH>2026-01-30</TARIH>
+    <sipariszaman>15:55:40</sipariszaman>
+    <NET_TOPLAM>600.00000000</NET_TOPLAM>
+    <TeslimAlici>Nurten Mescigil</TeslimAlici>
+    <TeslimAdresi>Erenköy mahallesi İclal Karabekir sokak no 11 suphiye hanım apartmanı kat 13 daire 38 Suphiye hanim</TeslimAdresi>
+    <TeslimTelefon>+905538693376</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Kadıköy</teslimilce>
+    <faturaalici>Nurten Mescigil</faturaalici>
+    <faturaAdresi>Erenköy mahallesi İclal Karabekir sokak no 11 suphiye hanım apartmanı kat 13 daire 38 Suphiye hanim</faturaAdresi>
+    <faturaTelefon>+905538693376</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Kadıköy</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827521</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK53-5328_05</KOD>
+        <VARKOD>5KKK53-5328_0505STD</VARKOD>
+        <SECENEK_DEGERI>5KKK53-5328_05_STD</SECENEK_DEGERI>
+        <BARCODE>6000003401907</BARCODE>
+        <URUNADI>Kadın Yakası Düğmeli Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Yakası Düğmeli Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2751</SIPARIS_NO>
     <CariHesapKodu>
@@ -10,7 +82,7 @@
     </tcno>
     <POSTA>aydantrs35@gmail.com</POSTA>
     <TARIH>2026-01-30</TARIH>
-    <sipariszaman>09:05:42</sipariszaman>
+    <sipariszaman>15:55:36</sipariszaman>
     <NET_TOPLAM>1400.00000000</NET_TOPLAM>
     <TeslimAlici>Aydan Köseoğlu</TeslimAlici>
     <TeslimAdresi>İş İzmir bölge adliye mahkemesi 6.kat f blok 11.icra mahkemesi</TeslimAdresi>
@@ -108,7 +180,7 @@
     </tcno>
     <POSTA>sevilustunol@hotmail.com</POSTA>
     <TARIH>2026-01-30</TARIH>
-    <sipariszaman>09:05:42</sipariszaman>
+    <sipariszaman>15:55:42</sipariszaman>
     <NET_TOPLAM>950.00000000</NET_TOPLAM>
     <TeslimAlici>Sevil Atılgan</TeslimAlici>
     <TeslimAdresi>Şükrü tunar sk no.79 d.2 İki gazi apt</TeslimAdresi>
@@ -225,79 +297,6 @@
         <URUNADI>Kadın Yakası Düğmeli Basic Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın Yakası Düğmeli Basic Triko Kazak</FATURA_ADI>
         <FIYAT>1109.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2748</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>tozanoglu@hotmail.com</POSTA>
-    <TARIH>2026-01-29</TARIH>
-    <sipariszaman>13:10:18</sipariszaman>
-    <NET_TOPLAM>584.57000000</NET_TOPLAM>
-    <TeslimAlici>Ahmet  TOZANOĞLU </TeslimAlici>
-    <TeslimAdresi>Barboros Mh 305 Sok. No:19 D:5</TeslimAdresi>
-    <TeslimTelefon>+905054910659</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35260</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Konak</teslimilce>
-    <faturaalici>Ahmet  TOZANOĞLU </faturaalici>
-    <faturaAdresi>Barboros Mh 305 Sok. No:19 D:5</faturaAdresi>
-    <faturaTelefon>+905054910659</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35260</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Konak</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827481</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKPNTN6518_U01</KOD>
-        <VARKOD>4YKPNTN6518_U01U01S</VARKOD>
-        <SECENEK_DEGERI>4YKPNTN6518_U01_S</SECENEK_DEGERI>
-        <BARCODE>6000003075641</BARCODE>
-        <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</FATURA_ADI>
-        <FIYAT>584.57000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKELTN1003_18</KOD>
-        <VARKOD>5YKELTN1003_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKELTN1003_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003356023</BARCODE>
-        <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
