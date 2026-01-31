@@ -1,5 +1,177 @@
-﻿<!-- generated:2026-01-31T09:01:11 -->
+﻿<!-- generated:2026-01-31T09:06:25 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2754</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>sedac.71@hotmail.com</POSTA>
+    <TARIH>2026-01-31</TARIH>
+    <sipariszaman>09:03:23</sipariszaman>
+    <NET_TOPLAM>427.50000000</NET_TOPLAM>
+    <TeslimAlici>Seda Çetin</TeslimAlici>
+    <TeslimAdresi>Cumhuriyet mah.Aziz nesin cad.Alptuğ evleri Alptuğ  evleri  no 5 A blok kat 2</TeslimAdresi>
+    <TeslimTelefon>+905332173179</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>17110</teslimPostaKodu>
+    <teslimil>Çanakkale</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Seda Çetin</faturaalici>
+    <faturaAdresi>Cumhuriyet mah.Aziz nesin cad.Alptuğ evleri Alptuğ  evleri  no 5 A blok kat 2</faturaAdresi>
+    <faturaTelefon>+905332173179</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>17110</faturaPostaKodu>
+    <faturail>Çanakkale</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827541</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKTR241164_QEZ</KOD>
+        <VARKOD>4KKTR241164_QEZQEZSTN</VARKOD>
+        <SECENEK_DEGERI>4KKTR241164_QEZ_STN</SECENEK_DEGERI>
+        <BARCODE>6000003319172</BARCODE>
+        <URUNADI>Kadın Dik Yaka Kurdale Desenli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Dik Yaka Kurdale Desenli Triko Kazak</FATURA_ADI>
+        <FIYAT>427.50000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2753</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>10100797724</tcno>
+    <POSTA>hasankocabas4545@gmail.com</POSTA>
+    <TARIH>2026-01-31</TARIH>
+    <sipariszaman>09:03:23</sipariszaman>
+    <NET_TOPLAM>2562.57000000</NET_TOPLAM>
+    <TeslimAlici>Hasan Kocabaş</TeslimAlici>
+    <TeslimAdresi>Ulucami mah.280 sok .no:97b okan market Okan Market </TeslimAdresi>
+    <TeslimTelefon>+905340706311</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>45200</teslimPostaKodu>
+    <teslimil>Manisa</teslimil>
+    <teslimilce>Akhisar</teslimilce>
+    <faturaalici>Hasan Kocabaş</faturaalici>
+    <faturaAdresi>Ulucami mah.280 sok .no:97b okan market Okan Market </faturaAdresi>
+    <faturaTelefon>+905340706311</faturaTelefon>
+    <faturavergino>10100797724</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>45200</faturaPostaKodu>
+    <faturail>Manisa</faturail>
+    <faturailce>Akhisar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827531</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>9YETS2002-0_B02</KOD>
+        <VARKOD>9YETS2002-0_B02B02L</VARKOD>
+        <SECENEK_DEGERI>9YETS2002-0_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003102569</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
+        <FIYAT>349.43000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4KESWTR2606_18</KOD>
+        <VARKOD>4KESWTR2606_1818M</VARKOD>
+        <SECENEK_DEGERI>4KESWTR2606_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003318397</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Üç İplik Şardonlu Sweatshirt</FATURA_ADI>
+        <FIYAT>291.21000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KEKZTNE305_670</KOD>
+        <VARKOD>5KEKZTNE305_670670M</VARKOD>
+        <SECENEK_DEGERI>5KEKZTNE305_670_M</SECENEK_DEGERI>
+        <BARCODE>6000003404519</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Buklet Kazak</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Buklet Kazak</FATURA_ADI>
+        <FIYAT>524.17000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSCL4149_18</KOD>
+        <VARKOD>5YETSCL4149_1818L</VARKOD>
+        <SECENEK_DEGERI>5YETSCL4149_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003289116</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Ön ve Kol Parçalı Kagi Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Ön ve Kol Parçalı Kagi Tişört</FATURA_ADI>
+        <FIYAT>698.88000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTTN104_02</KOD>
+        <VARKOD>5YETSTTN104_0202L</VARKOD>
+        <SECENEK_DEGERI>5YETSTTN104_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003304437</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Çizgili Triko Tişört</FATURA_ADI>
+        <FIYAT>698.88000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2752</SIPARIS_NO>
     <CariHesapKodu>
