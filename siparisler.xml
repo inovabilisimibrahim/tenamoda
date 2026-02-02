@@ -1,5 +1,116 @@
-﻿<!-- generated:2026-02-02T14:54:21 -->
+﻿<!-- generated:2026-02-02T14:59:36 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2762</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>26702042698</tcno>
+    <POSTA>mehtaparvuz@icloud.com</POSTA>
+    <TARIH>2026-02-02</TARIH>
+    <sipariszaman>14:58:44</sipariszaman>
+    <NET_TOPLAM>1549.99000000</NET_TOPLAM>
+    <TeslimAlici>Mehtap İpekşen</TeslimAlici>
+    <TeslimAdresi>Ataürk Mah.8809/26 Sok.No:26 Tepeşehir Sitesi A Blok Kat:6 D:27 Çiğli İzmir Tepeşehir Sitesi A Blok</TeslimAdresi>
+    <TeslimTelefon>+905068436563</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35100</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Çiğli</teslimilce>
+    <faturaalici>Mehtap İpekşen</faturaalici>
+    <faturaAdresi>Ataürk Mah.8809/26 Sok.No:26 Tepeşehir Sitesi A Blok Kat:6 D:27 Çiğli İzmir Tepeşehir Sitesi A Blok</faturaAdresi>
+    <faturaTelefon>+905068436563</faturaTelefon>
+    <faturavergino>26702042698</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35100</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Çiğli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827621</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKY37-1844_02</KOD>
+        <VARKOD>5YKY37-1844_0202M</VARKOD>
+        <SECENEK_DEGERI>5YKY37-1844_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003365391</BARCODE>
+        <URUNADI>Kadın Fleto Cepli Arkası Gipeli Yelek</URUNADI>
+        <FATURA_ADI>Kadın Fleto Cepli Arkası Gipeli Yelek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKSWTN2456_08</KOD>
+        <VARKOD>3KKSWTN2456_0808M</VARKOD>
+        <SECENEK_DEGERI>3KKSWTN2456_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003018815</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Üç İplik Oversize Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Üç İplik Oversize Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>225.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3KKSWTN2456_06</KOD>
+        <VARKOD>3KKSWTN2456_0606M</VARKOD>
+        <SECENEK_DEGERI>3KKSWTN2456_06_M</SECENEK_DEGERI>
+        <BARCODE>6000003018778</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Üç İplik Oversize Crop Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Üç İplik Oversize Crop Sweatshirt</FATURA_ADI>
+        <FIYAT>225.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_09</KOD>
+        <VARKOD>5YKETYE4450_0909M</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003348554</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>350.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2761</SIPARIS_NO>
     <CariHesapKodu>
