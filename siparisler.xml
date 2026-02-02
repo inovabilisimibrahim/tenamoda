@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-03T00:03:29 -->
+﻿<!-- generated:2026-02-03T00:08:43 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2763</SIPARIS_NO>
@@ -1076,104 +1076,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2751</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>aydantrs35@gmail.com</POSTA>
-    <TARIH>2026-02-02</TARIH>
-    <sipariszaman>14:29:31</sipariszaman>
-    <NET_TOPLAM>1400.00000000</NET_TOPLAM>
-    <TeslimAlici>Aydan Köseoğlu</TeslimAlici>
-    <TeslimAdresi>İş İzmir bölge adliye mahkemesi 6.kat f blok 11.icra mahkemesi</TeslimAdresi>
-    <TeslimTelefon>+905541251538</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Konak</teslimilce>
-    <faturaalici>Aydan Köseoğlu</faturaalici>
-    <faturaAdresi>İş İzmir bölge adliye mahkemesi 6.kat f blok 11.icra mahkemesi</faturaAdresi>
-    <faturaTelefon>+905541251538</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Konak</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827511</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKBLM22770_09</KOD>
-        <VARKOD>5KKBLM22770_0909S</VARKOD>
-        <SECENEK_DEGERI>5KKBLM22770_09_S</SECENEK_DEGERI>
-        <BARCODE>6000003477759</BARCODE>
-        <URUNADI>Kadın Boğazlı Çıtçıt Detaylı Uzun Kollu Bluz</URUNADI>
-        <FATURA_ADI>Kadın Boğazlı Çıtçıt Detaylı Uzun Kollu Bluz</FATURA_ADI>
-        <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKTR231075_60</KOD>
-        <VARKOD>4KKTR231075_6060STN</VARKOD>
-        <SECENEK_DEGERI>4KKTR231075_60_STN</SECENEK_DEGERI>
-        <BARCODE>6000003326613</BARCODE>
-        <URUNADI>Kadın Degaje Yaka Fitilli Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Degaje Yaka Fitilli Triko Kazak</FATURA_ADI>
-        <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5KKB17-9839_02</KOD>
-        <VARKOD>5KKB17-9839_0202M</VARKOD>
-        <SECENEK_DEGERI>5KKB17-9839_02_M</SECENEK_DEGERI>
-        <BARCODE>6000003427372</BARCODE>
-        <URUNADI>Kadın Tn023 Önü Fırfırlı Kolları Bağlamalı Şifon Buluz</URUNADI>
-        <FATURA_ADI>Kadın Tn023 Önü Fırfırlı Kolları Bağlamalı Şifon Buluz</FATURA_ADI>
-        <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
