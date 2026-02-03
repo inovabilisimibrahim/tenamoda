@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-03T15:06:50 -->
+﻿<!-- generated:2026-02-03T15:12:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2768</SIPARIS_NO>
@@ -243,8 +243,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKPNTN3398_05</KOD>
-        <VARKOD>5YKPNTN3398_0505M</VARKOD>
         <SECENEK_DEGERI>5YKPNTN3398_05_M</SECENEK_DEGERI>
         <BARCODE>6000003303140</BARCODE>
         <URUNADI>Kadın Yan Düğmeli Poliviskon Pantolon</URUNADI>
@@ -269,8 +267,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5KKS27-5499_TERA</KOD>
-        <VARKOD>5KKS27-5499_TERATERAS</VARKOD>
         <SECENEK_DEGERI>5KKS27-5499_TERA_S</SECENEK_DEGERI>
         <BARCODE>6000003408234</BARCODE>
         <URUNADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</URUNADI>
