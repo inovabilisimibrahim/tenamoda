@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-03T14:09:24 -->
+﻿<!-- generated:2026-02-03T14:14:34 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2768</SIPARIS_NO>
@@ -108,6 +108,94 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2767</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>durdu_0906@hotmail.com</POSTA>
+    <TARIH>2026-02-03</TARIH>
+    <sipariszaman>14:12:19</sipariszaman>
+    <NET_TOPLAM>330.00000000</NET_TOPLAM>
+    <TeslimAlici>durdu Işık</TeslimAlici>
+    <TeslimAdresi>Bağlar mah.2720 sok no:27 kat:3 ısparta merkez  3</TeslimAdresi>
+    <TeslimTelefon>+905324713731</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>32100</teslimPostaKodu>
+    <teslimil>Isparta</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>durdu Işık</faturaalici>
+    <faturaAdresi>Bağlar mah.2720 sok no:27 kat:3 ısparta merkez  3</faturaAdresi>
+    <faturaTelefon>+905324713731</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>32100</faturaPostaKodu>
+    <faturail>Isparta</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827671</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKTYO10006_04</KOD>
+        <VARKOD>4KKTYO10006_0404M</VARKOD>
+        <SECENEK_DEGERI>4KKTYO10006_04_M</SECENEK_DEGERI>
+        <BARCODE>6000003295209</BARCODE>
+        <URUNADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</URUNADI>
+        <FATURA_ADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</FATURA_ADI>
+        <FIYAT>200.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKATBS3632_22</KOD>
+        <VARKOD>3YKATBS3632_2222STN</VARKOD>
+        <SECENEK_DEGERI>3YKATBS3632_22_STN</SECENEK_DEGERI>
+        <BARCODE>6000002991041</BARCODE>
+        <URUNADI>Kadın Kare Yaka Kalın Fitilli Atlet</URUNADI>
+        <FATURA_ADI>Kadın Kare Yaka Kalın Fitilli Atlet</FATURA_ADI>
+        <FIYAT>60.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>2KKATBS3585_61</KOD>
+        <VARKOD>2KKATBS3585_6161STN</VARKOD>
+        <SECENEK_DEGERI>2KKATBS3585_61_STN</SECENEK_DEGERI>
+        <BARCODE>6000003031661</BARCODE>
+        <URUNADI>Kadın Kare Yaka Triko Atlet</URUNADI>
+        <FATURA_ADI>Kadın Kare Yaka Triko Atlet</FATURA_ADI>
+        <FIYAT>70.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -612,8 +700,8 @@
     <tcno>
     </tcno>
     <POSTA>melikekaradede@hotmail.com</POSTA>
-    <TARIH>2026-02-02</TARIH>
-    <sipariszaman>17:15:48</sipariszaman>
+    <TARIH>2026-02-03</TARIH>
+    <sipariszaman>14:08:55</sipariszaman>
     <NET_TOPLAM>800.00000000</NET_TOPLAM>
     <TeslimAlici>Melike Karadede</TeslimAlici>
     <TeslimAdresi>Kültür Mah Fevzi Paşa Cad 254 sok. No:2 Final Anadolu Lisesi</TeslimAdresi>
