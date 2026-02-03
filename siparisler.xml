@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-03T12:09:22 -->
+﻿<!-- generated:2026-02-03T12:14:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2766</SIPARIS_NO>
@@ -648,80 +648,6 @@
         <URUNADI>Kadın Fermarlı Buklet Yelek</URUNADI>
         <FATURA_ADI>Kadın Fermarlı Buklet Yelek</FATURA_ADI>
         <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2758</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>zeliha.gunnay@gmail.com</POSTA>
-    <TARIH>2026-02-03</TARIH>
-    <sipariszaman>11:52:11</sipariszaman>
-    <NET_TOPLAM>800.00000000</NET_TOPLAM>
-    <TeslimAlici>Zeliha Günay</TeslimAlici>
-    <TeslimAdresi>2371 sokak no 21 gültepe izmir konak yavuz selim mahallesi</TeslimAdresi>
-    <TeslimTelefon>+905541159078</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35000</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Konak</teslimilce>
-    <faturaalici>Zeliha Günay</faturaalici>
-    <faturaAdresi>2371 sokak no 21 gültepe izmir konak yavuz selim mahallesi</faturaAdresi>
-    <faturaTelefon>+905541159078</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35000</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Konak</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827581</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKT18-5498_G04</KOD>
-        <VARKOD>5KKT18-5498_G04G04M</VARKOD>
-        <SECENEK_DEGERI>5KKT18-5498_G04_M</SECENEK_DEGERI>
-        <BARCODE>6000003408043</BARCODE>
-        <URUNADI>Kadın Yaka Fermuarlı Dikiş Detaylı Selanik Takım</URUNADI>
-        <FATURA_ADI>Kadın Yaka Fermuarlı Dikiş Detaylı Selanik Takım</FATURA_ADI>
-        <FIYAT>700.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
