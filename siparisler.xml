@@ -1,5 +1,103 @@
-﻿<!-- generated:2026-02-04T14:20:42 -->
+﻿<!-- generated:2026-02-04T14:25:52 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2771</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>28180103328</tcno>
+    <POSTA>bolukbasilives@gmail.com</POSTA>
+    <TARIH>2026-02-04</TARIH>
+    <sipariszaman>14:25:06</sipariszaman>
+    <NET_TOPLAM>1400.00000000</NET_TOPLAM>
+    <TeslimAlici>Sevil Bölükbaşıoğlu</TeslimAlici>
+    <TeslimAdresi>Konyaaltı cad. Bahçelievler mah.  Cazip apt. 46/4</TeslimAdresi>
+    <TeslimTelefon>+905323163752</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>07050</teslimPostaKodu>
+    <teslimil>Antalya</teslimil>
+    <teslimilce>Muratpaşa</teslimilce>
+    <faturaalici>Sevil Bölükbaşıoğlu</faturaalici>
+    <faturaAdresi>Konyaaltı cad. Bahçelievler mah.  Cazip apt. 46/4</faturaAdresi>
+    <faturaTelefon>+905323163752</faturaTelefon>
+    <faturavergino>28180103328</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>07050</faturaPostaKodu>
+    <faturail>Antalya</faturail>
+    <faturailce>Muratpaşa</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827711</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKP66-9832_B02</KOD>
+        <VARKOD>5KKP66-9832_B02B02L</VARKOD>
+        <SECENEK_DEGERI>5KKP66-9832_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003444898</BARCODE>
+        <URUNADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</URUNADI>
+        <FATURA_ADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</FATURA_ADI>
+        <FIYAT>450.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKHR251004_18</KOD>
+        <VARKOD>5KKHR251004_1818STD</VARKOD>
+        <SECENEK_DEGERI>5KKHR251004_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003467675</BARCODE>
+        <URUNADI>Kadın Siyah Fular Detaylı Hırka</URUNADI>
+        <FATURA_ADI>Kadın Siyah Fular Detaylı Hırka</FATURA_ADI>
+        <FIYAT>540.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKK53-5344_58</KOD>
+        <VARKOD>5KKK53-5344_5858STD</VARKOD>
+        <SECENEK_DEGERI>5KKK53-5344_58_STD</SECENEK_DEGERI>
+        <BARCODE>6000003402485</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>360.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2770</SIPARIS_NO>
     <CariHesapKodu>
