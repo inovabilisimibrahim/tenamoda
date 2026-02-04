@@ -1,5 +1,92 @@
-﻿<!-- generated:2026-02-04T15:33:37 -->
+﻿<!-- generated:2026-02-04T15:38:45 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2772</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>1981hatice1981@gmail.com</POSTA>
+    <TARIH>2026-02-04</TARIH>
+    <sipariszaman>15:34:36</sipariszaman>
+    <NET_TOPLAM>900.00000000</NET_TOPLAM>
+    <TeslimAlici>Hatice  Karademir </TeslimAlici>
+    <TeslimAdresi>108/10/SK no 6 daire 1 Metin Oktay mahallesi Karabağlar İzmir Hatice Karademir  Daire </TeslimAdresi>
+    <TeslimTelefon>+905423269177</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35140</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Hatice  Karademir </faturaalici>
+    <faturaAdresi>108/10/SK no 6 daire 1 Metin Oktay mahallesi Karabağlar İzmir Hatice Karademir  Daire </faturaAdresi>
+    <faturaTelefon>+905423269177</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35140</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827721</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKZ53-5223_05</KOD>
+        <VARKOD>5KKZ53-5223_0505STD</VARKOD>
+        <SECENEK_DEGERI>5KKZ53-5223_05_STD</SECENEK_DEGERI>
+        <BARCODE>6000003399921</BARCODE>
+        <URUNADI>Kadın Şal Yaka Düğmeli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Şal Yaka Düğmeli Triko Kazak</FATURA_ADI>
+        <FIYAT>400.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKZ53-5223_70</KOD>
+        <VARKOD>5KKZ53-5223_7070STD</VARKOD>
+        <SECENEK_DEGERI>5KKZ53-5223_70_STD</SECENEK_DEGERI>
+        <BARCODE>6000003399969</BARCODE>
+        <URUNADI>Kadın Şal Yaka Düğmeli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Şal Yaka Düğmeli Triko Kazak</FATURA_ADI>
+        <FIYAT>400.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2771</SIPARIS_NO>
     <CariHesapKodu>
