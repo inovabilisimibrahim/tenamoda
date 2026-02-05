@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-05T03:00:29 -->
+﻿<!-- generated:2026-02-05T03:05:43 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2772</SIPARIS_NO>
@@ -2281,6 +2281,64 @@
         <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
         <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
         <FIYAT>769.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2735</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>bay_yuksel@hotmail.com</POSTA>
+    <TARIH>2026-02-05</TARIH>
+    <sipariszaman>03:04:15</sipariszaman>
+    <NET_TOPLAM>1009.99000000</NET_TOPLAM>
+    <TeslimAlici>Bayram Yüksel</TeslimAlici>
+    <TeslimAdresi>Fenerbahçe mh.  Sadberk Sk. No:13</TeslimAdresi>
+    <TeslimTelefon>+905552000762</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34726</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Kadıköy</teslimilce>
+    <faturaalici>Bayram Yüksel</faturaalici>
+    <faturaAdresi>Fenerbahçe mh.  Sadberk Sk. No:13</faturaAdresi>
+    <faturaTelefon>+905552000762</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34726</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Kadıköy</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827351</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5KKS27-5499_TERA_S</SECENEK_DEGERI>
+        <BARCODE>6000003408234</BARCODE>
+        <URUNADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</FATURA_ADI>
+        <FIYAT>1009.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
