@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-06T10:30:12 -->
+﻿<!-- generated:2026-02-06T10:35:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2775</SIPARIS_NO>
@@ -81,8 +81,8 @@
     <tcno>
     </tcno>
     <POSTA>mug.88@hotmail.com</POSTA>
-    <TARIH>2026-02-05</TARIH>
-    <sipariszaman>16:17:29</sipariszaman>
+    <TARIH>2026-02-06</TARIH>
+    <sipariszaman>10:33:03</sipariszaman>
     <NET_TOPLAM>540.00000000</NET_TOPLAM>
     <TeslimAlici>Müge Kaya Bayrakçı</TeslimAlici>
     <TeslimAdresi>Susuz Bld. Sakarya Mah. Kanuni Cad. Hedef Villaları No 2/37 Merkez Afyonkarahisar </TeslimAdresi>
@@ -912,8 +912,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5KKC35-5555_09</KOD>
-        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
@@ -2068,8 +2066,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5KKC35-5555_09</KOD>
-        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
