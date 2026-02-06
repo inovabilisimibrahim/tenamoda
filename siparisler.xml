@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-06T11:33:13 -->
+﻿<!-- generated:2026-02-06T11:38:28 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2775</SIPARIS_NO>
@@ -267,6 +267,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKCKTN3141_08</KOD>
+        <VARKOD>5YKCKTN3141_080840</VARKOD>
         <SECENEK_DEGERI>5YKCKTN3141_08_40</SECENEK_DEGERI>
         <BARCODE>6000003367340</BARCODE>
         <URUNADI>Kadın Kol Katlamalı Keten Blazer Ceket</URUNADI>
@@ -910,6 +912,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKC35-5555_09</KOD>
+        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
@@ -2064,6 +2068,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5KKC35-5555_09</KOD>
+        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
