@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-09T02:59:40 -->
+﻿<!-- generated:2026-02-09T03:05:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2776</SIPARIS_NO>
@@ -2196,6 +2196,62 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2736</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>elfkapusuz@gmail.com</POSTA>
+    <TARIH>2026-02-09</TARIH>
+    <sipariszaman>03:02:58</sipariszaman>
+    <NET_TOPLAM>2809.99000000</NET_TOPLAM>
+    <TeslimAlici>Elif  Kapusuz</TeslimAlici>
+    <TeslimAdresi>Ambarlı Mah Şenkazan Sok Yalı Apt No:5 Daire 7</TeslimAdresi>
+    <TeslimTelefon>+905338982110</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Avcılar</teslimilce>
+    <faturaalici>Elif  Kapusuz</faturaalici>
+    <faturaAdresi>Ambarlı Mah Şenkazan Sok Yalı Apt No:5 Daire 7</faturaAdresi>
+    <faturaTelefon>+905338982110</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Avcılar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827361</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5KKK35-5557_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003409859</BARCODE>
+        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
+        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
+        <FIYAT>2809.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2735</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -2246,77 +2302,6 @@
         <URUNADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</URUNADI>
         <FATURA_ADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</FATURA_ADI>
         <FIYAT>1009.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2734</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>mervekoyuncuoglu29@gmail.com</POSTA>
-    <TARIH>2026-01-30</TARIH>
-    <sipariszaman>03:04:49</sipariszaman>
-    <NET_TOPLAM>854.04000000</NET_TOPLAM>
-    <TeslimAlici>Nazli Koyuncuoglu</TeslimAlici>
-    <TeslimAdresi>Carsi mah.yazikent cad.no33B 33B</TeslimAdresi>
-    <TeslimTelefon>+905074955891</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Aydın</teslimil>
-    <teslimilce>Bozdoğan</teslimilce>
-    <faturaalici>Nazli Koyuncuoglu</faturaalici>
-    <faturaAdresi>Carsi mah.yazikent cad.no33B 33B</faturaAdresi>
-    <faturaTelefon>+905074955891</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Aydın</faturail>
-    <faturailce>Bozdoğan</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827341</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKE28-1442_18</KOD>
-        <VARKOD>5YKE28-1442_1818S</VARKOD>
-        <SECENEK_DEGERI>5YKE28-1442_18_S</SECENEK_DEGERI>
-        <BARCODE>6000003296688</BARCODE>
-        <URUNADI>Kadın Gömlek Yaka Mini Boy Elbise</URUNADI>
-        <FATURA_ADI>Kadın Gömlek Yaka Mini Boy Elbise</FATURA_ADI>
-        <FIYAT>854.04000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKE28-1442_18</KOD>
-        <VARKOD>5YKE28-1442_1818M</VARKOD>
-        <SECENEK_DEGERI>5YKE28-1442_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003296671</BARCODE>
-        <URUNADI>Kadın Gömlek Yaka Mini Boy Elbise</URUNADI>
-        <FATURA_ADI>Kadın Gömlek Yaka Mini Boy Elbise</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
