@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-09T20:45:16 -->
+﻿<!-- generated:2026-02-09T20:50:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2778</SIPARIS_NO>
@@ -1153,8 +1153,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5KKC35-5555_09</KOD>
-        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
@@ -2309,8 +2307,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5KKC35-5555_09</KOD>
-        <VARKOD>5KKC35-5555_0909M</VARKOD>
         <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
         <BARCODE>6000003409439</BARCODE>
         <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
