@@ -1,5 +1,76 @@
-﻿<!-- generated:2026-02-10T15:28:02 -->
+﻿<!-- generated:2026-02-10T15:33:13 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2782</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11111111111</tcno>
+    <POSTA>sevilay@tenatekstil.com.tr</POSTA>
+    <TARIH>2026-02-10</TARIH>
+    <sipariszaman>15:30:16</sipariszaman>
+    <NET_TOPLAM>500.00000000</NET_TOPLAM>
+    <TeslimAlici>sevilay civaş</TeslimAlici>
+    <TeslimAdresi>no10</TeslimAdresi>
+    <TeslimTelefon>+905447358883</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Bayburt</teslimil>
+    <teslimilce>Demirözü</teslimilce>
+    <faturaalici>sevilay civaş</faturaalici>
+    <faturaAdresi>no10</faturaAdresi>
+    <faturaTelefon>+905447358883</faturaTelefon>
+    <faturavergino>11111111111</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Bayburt</faturail>
+    <faturailce>Demirözü</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
+    <tasiyicifirma>mng</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>
+    </kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKZ53-5223_60</KOD>
+        <VARKOD>5KKZ53-5223_6060STD</VARKOD>
+        <SECENEK_DEGERI>5KKZ53-5223_60_STD</SECENEK_DEGERI>
+        <BARCODE>6000003399952</BARCODE>
+        <URUNADI>Kadın Şal Yaka Düğmeli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Şal Yaka Düğmeli Triko Kazak</FATURA_ADI>
+        <FIYAT>400.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2781</SIPARIS_NO>
     <CariHesapKodu>
