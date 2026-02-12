@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-13T00:36:57 -->
+﻿<!-- generated:2026-02-13T00:47:23 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -518,7 +518,12 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>2KKTRTN8055_18</KOD>
+        <VARKOD>2KKTRTN8055_1818STN</VARKOD>
         <SECENEK_DEGERI>2KKTRTN8055_18_STN</SECENEK_DEGERI>
+        <BARCODE>6000002861634</BARCODE>
+        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
         <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -825,6 +830,19 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>2KKTRTN8055_18</KOD>
+        <VARKOD>2KKTRTN8055_1818STN</VARKOD>
+        <SECENEK_DEGERI>2KKTRTN8055_18_STN</SECENEK_DEGERI>
+        <BARCODE>6000002861634</BARCODE>
+        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
+        <FIYAT>192.16000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
         <KOD>3KKTRTN9055_02</KOD>
         <VARKOD>3KKTRTN9055_0202STN</VARKOD>
         <SECENEK_DEGERI>3KKTRTN9055_02_STN</SECENEK_DEGERI>
@@ -882,14 +900,6 @@
         <URUNADI>Kadın Degaje Yaka Fitilli Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın Degaje Yaka Fitilli Triko Kazak</FATURA_ADI>
         <FIYAT>432.35000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>2KKTRTN8055_18_STN</SECENEK_DEGERI>
-        <FIYAT>192.16000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -1906,7 +1916,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>2KKTRTN8055_13_STN</SECENEK_DEGERI>
+        <KOD>2KKTRTN8055_05</KOD>
+        <VARKOD>2KKTRTN8055_0505STN</VARKOD>
+        <SECENEK_DEGERI>2KKTRTN8055_05_STN</SECENEK_DEGERI>
+        <BARCODE>6000002861597</BARCODE>
+        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
         <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -1914,7 +1929,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>2KKTRTN8055_05_STN</SECENEK_DEGERI>
+        <KOD>2KKTRTN8055_13</KOD>
+        <VARKOD>2KKTRTN8055_1313STN</VARKOD>
+        <SECENEK_DEGERI>2KKTRTN8055_13_STN</SECENEK_DEGERI>
+        <BARCODE>6000002861627</BARCODE>
+        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
         <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -2130,7 +2150,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>2KKTRTN8055_05</KOD>
+        <VARKOD>2KKTRTN8055_0505STN</VARKOD>
         <SECENEK_DEGERI>2KKTRTN8055_05_STN</SECENEK_DEGERI>
+        <BARCODE>6000002861597</BARCODE>
+        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
         <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
