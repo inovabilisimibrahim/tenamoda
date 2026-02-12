@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-12T15:50:15 -->
+﻿<!-- generated:2026-02-12T15:55:26 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -2288,68 +2288,6 @@
         <URUNADI>Erkek (TRZ050) Bisiklet Yaka Örgülü Triko Kazak</URUNADI>
         <FATURA_ADI>Erkek (TRZ050) Bisiklet Yaka Örgülü Triko Kazak</FATURA_ADI>
         <FIYAT>350.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2754</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>sedac.71@hotmail.com</POSTA>
-    <TARIH>2026-02-02</TARIH>
-    <sipariszaman>15:53:55</sipariszaman>
-    <NET_TOPLAM>427.50000000</NET_TOPLAM>
-    <TeslimAlici>Seda Çetin</TeslimAlici>
-    <TeslimAdresi>Cumhuriyet mah.Aziz nesin cad.Alptuğ evleri Alptuğ  evleri  no 5 A blok kat 2</TeslimAdresi>
-    <TeslimTelefon>+905332173179</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>17110</teslimPostaKodu>
-    <teslimil>Çanakkale</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Seda Çetin</faturaalici>
-    <faturaAdresi>Cumhuriyet mah.Aziz nesin cad.Alptuğ evleri Alptuğ  evleri  no 5 A blok kat 2</faturaAdresi>
-    <faturaTelefon>+905332173179</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>17110</faturaPostaKodu>
-    <faturail>Çanakkale</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827541</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4KKTR241164_QEZ</KOD>
-        <VARKOD>4KKTR241164_QEZQEZSTN</VARKOD>
-        <SECENEK_DEGERI>4KKTR241164_QEZ_STN</SECENEK_DEGERI>
-        <BARCODE>6000003319172</BARCODE>
-        <URUNADI>Kadın Dik Yaka Kurdale Desenli Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Dik Yaka Kurdale Desenli Triko Kazak</FATURA_ADI>
-        <FIYAT>427.50000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
