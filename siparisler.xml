@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-12T10:50:16 -->
+﻿<!-- generated:2026-02-12T10:55:33 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2784</SIPARIS_NO>
@@ -1469,81 +1469,6 @@
         <URUNADI>Kadın Çizgili Gömlek</URUNADI>
         <FATURA_ADI>Kadın Çizgili Gömlek</FATURA_ADI>
         <FIYAT>272.61000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2765</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>eda.3524@gmail.com</POSTA>
-    <TARIH>2026-02-04</TARIH>
-    <sipariszaman>12:36:20</sipariszaman>
-    <NET_TOPLAM>500.00000000</NET_TOPLAM>
-    <TeslimAlici>Edanur Çalışkan</TeslimAlici>
-    <TeslimAdresi>Refet bele mah. 9125/22 sok.  No:3 kat:4 daire:7</TeslimAdresi>
-    <TeslimTelefon>+905375428748</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35160</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karabağlar</teslimilce>
-    <faturaalici>Edanur Çalışkan</faturaalici>
-    <faturaAdresi>Refet bele mah. 9125/22 sok.  No:3 kat:4 daire:7</faturaAdresi>
-    <faturaTelefon>+905375428748</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35160</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karabağlar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827651</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKPNT36136_18</KOD>
-        <VARKOD>4YKPNT36136_1818M</VARKOD>
-        <SECENEK_DEGERI>4YKPNT36136_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003099272</BARCODE>
-        <URUNADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Çift Pileli Kemerli Poly Viskon Palazzo Pantolon</FATURA_ADI>
-        <FIYAT>250.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKPNTN6518_U01</KOD>
-        <VARKOD>4YKPNTN6518_U01U01M</VARKOD>
-        <SECENEK_DEGERI>4YKPNTN6518_U01_M</SECENEK_DEGERI>
-        <BARCODE>6000003075634</BARCODE>
-        <URUNADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Önü Çift Pileli Palazzo Balıksırtı Gabardin Kumaş Pantolon</FATURA_ADI>
-        <FIYAT>250.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
