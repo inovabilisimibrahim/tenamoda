@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-13T20:17:18 -->
+﻿<!-- generated:2026-02-13T20:22:28 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -1710,80 +1710,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2759</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>gulalpata@gmail.com</POSTA>
-    <TARIH>2026-02-03</TARIH>
-    <sipariszaman>20:17:42</sipariszaman>
-    <NET_TOPLAM>550.00000000</NET_TOPLAM>
-    <TeslimAlici>Gül Alpata</TeslimAlici>
-    <TeslimAdresi>Caddebostan Mahallesi Ethemefendi Caddesi Kayserililer Apt. No 9 Kat 2 Daire 4</TeslimAdresi>
-    <TeslimTelefon>+905322723273</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34728</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Kadıköy</teslimilce>
-    <faturaalici>Gül Alpata</faturaalici>
-    <faturaAdresi>Caddebostan Mahallesi Ethemefendi Caddesi Kayserililer Apt. No 9 Kat 2 Daire 4</faturaAdresi>
-    <faturaTelefon>+905322723273</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34728</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Kadıköy</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827591</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKY37-5254_05</KOD>
-        <VARKOD>5KKY37-5254_0505STD</VARKOD>
-        <SECENEK_DEGERI>5KKY37-5254_05_STD</SECENEK_DEGERI>
-        <BARCODE>6000003400535</BARCODE>
-        <URUNADI>Kadın Fermarlı Buklet Yelek</URUNADI>
-        <FATURA_ADI>Kadın Fermarlı Buklet Yelek</FATURA_ADI>
-        <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
