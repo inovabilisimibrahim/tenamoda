@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-14T16:00:42 -->
+﻿<!-- generated:2026-02-14T16:05:53 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -1223,109 +1223,6 @@
         <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
         <FIYAT>400.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2766</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>21664445754</tcno>
-    <POSTA>burcukeskekoglu@gmail.com</POSTA>
-    <TARIH>2026-02-04</TARIH>
-    <sipariszaman>16:04:43</sipariszaman>
-    <NET_TOPLAM>2090.00000000</NET_TOPLAM>
-    <TeslimAlici>Burcu  Keşkekoğlu </TeslimAlici>
-    <TeslimAdresi>Yenikent Mah. Mustafa Ertekin Cd.   No:28 D.1 Kat.1 özgen Mühendislik </TeslimAdresi>
-    <TeslimTelefon>+905457865685</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35430</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Urla</teslimilce>
-    <faturaalici>Burcu  Keşkekoğlu </faturaalici>
-    <faturaAdresi>Yenikent Mah. Mustafa Ertekin Cd.   No:28 D.1 Kat.1 özgen Mühendislik </faturaAdresi>
-    <faturaTelefon>+905457865685</faturaTelefon>
-    <faturavergino>21664445754</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35430</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Urla</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914827661</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKPNTN3398_05_M</SECENEK_DEGERI>
-        <BARCODE>6000003303140</BARCODE>
-        <URUNADI>Kadın Yan Düğmeli Poliviskon Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Yan Düğmeli Poliviskon Pantolon</FATURA_ADI>
-        <FIYAT>454.35000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKTYO10006_04</KOD>
-        <VARKOD>4KKTYO10006_0404M</VARKOD>
-        <SECENEK_DEGERI>4KKTYO10006_04_M</SECENEK_DEGERI>
-        <BARCODE>6000003295209</BARCODE>
-        <URUNADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</URUNADI>
-        <FATURA_ADI>Kadın Yüksek Bel Spondex Kumaş İspanyol Paça Şardonlu Tayt</FATURA_ADI>
-        <FIYAT>181.74000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKS27-5499_TERA_S</SECENEK_DEGERI>
-        <BARCODE>6000003408234</BARCODE>
-        <URUNADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</URUNADI>
-        <FATURA_ADI>Kadın Kalın Ribana Detaylı Fermuarlı Üç İplik Sweatshirt</FATURA_ADI>
-        <FIYAT>408.91000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKC35-5555_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003409439</BARCODE>
-        <URUNADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</URUNADI>
-        <FATURA_ADI>Kadın Yakalı Dört Düğmeli Diagonel Kısa Kaşe Ceket</FATURA_ADI>
-        <FIYAT>772.39000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKGMMP4903_09</KOD>
-        <VARKOD>4KKGMMP4903_0909STD</VARKOD>
-        <SECENEK_DEGERI>4KKGMMP4903_09_STD</SECENEK_DEGERI>
-        <URUNADI>Kadın Çizgili Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Çizgili Gömlek</FATURA_ADI>
-        <FIYAT>272.61000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
