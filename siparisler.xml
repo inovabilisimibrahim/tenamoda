@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-14T15:03:17 -->
+﻿<!-- generated:2026-02-14T15:08:29 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -1497,78 +1497,6 @@
         <URUNADI>Kadın Bisiklet Yaka Cepli İspanyol Pantolonlu Jean Takım</URUNADI>
         <FATURA_ADI>Kadın Bisiklet Yaka Cepli İspanyol Pantolonlu Jean Takım</FATURA_ADI>
         <FIYAT>900.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2757</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>21287568380</tcno>
-    <POSTA>asli.arslan@hotmail.com</POSTA>
-    <TARIH>2026-02-04</TARIH>
-    <sipariszaman>15:07:03</sipariszaman>
-    <NET_TOPLAM>300.00000000</NET_TOPLAM>
-    <TeslimAlici>Aslı Ekinci</TeslimAlici>
-    <TeslimAdresi>Güzelyalı mah.bülent ecevit bul.no 336.kat 2</TeslimAdresi>
-    <TeslimTelefon>05445315586</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>52100</teslimPostaKodu>
-    <teslimil>Ordu</teslimil>
-    <teslimilce>Altınordu</teslimilce>
-    <faturaalici>Aslı Ekinci</faturaalici>
-    <faturaAdresi>Güzelyalı mah.bülent ecevit bul.no 336.kat 2</faturaAdresi>
-    <faturaTelefon>05445315586</faturaTelefon>
-    <faturavergino>21287568380</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>52100</faturaPostaKodu>
-    <faturail>Ordu</faturail>
-    <faturailce>Altınordu</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827571</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>2KKTRTN7055_09</KOD>
-        <VARKOD>2KKTRTN7055_0909STN</VARKOD>
-        <SECENEK_DEGERI>2KKTRTN7055_09_STN</SECENEK_DEGERI>
-        <BARCODE>6000002882899</BARCODE>
-        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
-        <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
