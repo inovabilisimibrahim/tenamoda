@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-14T10:46:48 -->
+﻿<!-- generated:2026-02-14T10:51:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2785</SIPARIS_NO>
@@ -1681,93 +1681,6 @@
         <BARCODE>6000002882899</BARCODE>
         <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
-        <FIYAT>200.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2756</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>eda55ufuk@gmail.com</POSTA>
-    <TARIH>2026-02-04</TARIH>
-    <sipariszaman>10:50:15</sipariszaman>
-    <NET_TOPLAM>500.00000000</NET_TOPLAM>
-    <TeslimAlici>Eda Durmuş</TeslimAlici>
-    <TeslimAdresi>Çatalarmut Mahallesi 30 Ağustos Caddesi No 288 Kat 2 Daire 4</TeslimAdresi>
-    <TeslimTelefon>5434940821</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>55040</teslimPostaKodu>
-    <teslimil>Samsun</teslimil>
-    <teslimilce>İlkadım</teslimilce>
-    <faturaalici>Eda Durmuş</faturaalici>
-    <faturaAdresi>Çatalarmut Mahallesi 30 Ağustos Caddesi No 288 Kat 2 Daire 4</faturaAdresi>
-    <faturaTelefon>5434940821</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>55040</faturaPostaKodu>
-    <faturail>Samsun</faturail>
-    <faturailce>İlkadım</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827561</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKTRTN9074_46</KOD>
-        <VARKOD>5KKTRTN9074_4646STN</VARKOD>
-        <SECENEK_DEGERI>5KKTRTN9074_46_STN</SECENEK_DEGERI>
-        <BARCODE>6000003386693</BARCODE>
-        <URUNADI>Kadın V Yaka Yanları Yırtmaçlı Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Yanları Yırtmaçlı Triko Kazak</FATURA_ADI>
-        <FIYAT>200.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>2KKTRTN8055_05</KOD>
-        <VARKOD>2KKTRTN8055_0505STN</VARKOD>
-        <SECENEK_DEGERI>2KKTRTN8055_05_STN</SECENEK_DEGERI>
-        <BARCODE>6000002861597</BARCODE>
-        <URUNADI>Kadın Önü Pencereli Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Önü Pencereli Triko Kazak</FATURA_ADI>
         <FIYAT>200.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
