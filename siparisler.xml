@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-17T18:52:22 -->
+﻿<!-- generated:2026-02-17T18:57:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2788</SIPARIS_NO>
@@ -988,8 +988,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKG16-1789_60</KOD>
-        <VARKOD>5YKG16-1789_6060M</VARKOD>
         <SECENEK_DEGERI>5YKG16-1789_60_M</SECENEK_DEGERI>
         <BARCODE>6000003365001</BARCODE>
         <URUNADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</URUNADI>
@@ -1001,8 +999,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKG16-1789_18</KOD>
-        <VARKOD>5YKG16-1789_1818M</VARKOD>
         <SECENEK_DEGERI>5YKG16-1789_18_M</SECENEK_DEGERI>
         <BARCODE>6000003364974</BARCODE>
         <URUNADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</URUNADI>
