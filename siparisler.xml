@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-17T11:49:21 -->
+﻿<!-- generated:2026-02-17T11:54:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2788</SIPARIS_NO>
@@ -740,78 +740,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2775</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>37549186070</tcno>
-    <POSTA>semra.aytekin67@gmail.com</POSTA>
-    <TARIH>2026-02-07</TARIH>
-    <sipariszaman>11:53:05</sipariszaman>
-    <NET_TOPLAM>1549.99000000</NET_TOPLAM>
-    <TeslimAlici>Semra Aytekin</TeslimAlici>
-    <TeslimAdresi>Murat reis mahallesi 242 sokak no 27 daire 1 Ata apartmanı Konak İzmir  Ata apartmanı no 27 daire 1 </TeslimAdresi>
-    <TeslimTelefon>+905366116898</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35284</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Konak</teslimilce>
-    <faturaalici>Semra Aytekin</faturaalici>
-    <faturaAdresi>Murat reis mahallesi 242 sokak no 27 daire 1 Ata apartmanı Konak İzmir  Ata apartmanı no 27 daire 1 </faturaAdresi>
-    <faturaTelefon>+905366116898</faturaTelefon>
-    <faturavergino>37549186070</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35284</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Konak</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827751</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YK18-10580_18</KOD>
-        <VARKOD>6YK18-10580_1818L</VARKOD>
-        <SECENEK_DEGERI>6YK18-10580_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003489301</BARCODE>
-        <URUNADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</URUNADI>
-        <FATURA_ADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</FATURA_ADI>
-        <FIYAT>1499.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
