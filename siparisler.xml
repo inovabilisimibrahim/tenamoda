@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-19T06:37:17 -->
+﻿<!-- generated:2026-02-19T06:42:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2788</SIPARIS_NO>
@@ -789,6 +789,19 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>3KKTRTN9055_02</KOD>
+        <VARKOD>3KKTRTN9055_0202STN</VARKOD>
+        <SECENEK_DEGERI>3KKTRTN9055_02_STN</SECENEK_DEGERI>
+        <BARCODE>6000003016347</BARCODE>
+        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>192.16000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
         <KOD>2KKTRTN7055_04</KOD>
         <VARKOD>2KKTRTN7055_0404STN</VARKOD>
         <SECENEK_DEGERI>2KKTRTN7055_04_STN</SECENEK_DEGERI>
@@ -857,14 +870,6 @@
         <URUNADI>Kadın Degaje Yaka Fitilli Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın Degaje Yaka Fitilli Triko Kazak</FATURA_ADI>
         <FIYAT>432.35000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>3KKTRTN9055_02_STN</SECENEK_DEGERI>
-        <FIYAT>192.16000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
