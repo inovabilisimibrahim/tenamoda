@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-20T15:58:31 -->
+﻿<!-- generated:2026-02-20T16:03:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2789</SIPARIS_NO>
@@ -700,6 +700,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKT18-5311_RNSYK</KOD>
+        <VARKOD>5KKT18-5311_RNSYKRNSYK36</VARKOD>
         <SECENEK_DEGERI>5KKT18-5311_RNSYK_36</SECENEK_DEGERI>
         <BARCODE>6000003402560</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Cepli İspanyol Pantolonlu Jean Takım</URUNADI>
