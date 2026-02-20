@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-20T03:01:18 -->
+﻿<!-- generated:2026-02-20T03:06:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2789</SIPARIS_NO>
@@ -858,6 +858,169 @@
         <URUNADI>Kadın Kadife Yakalı Çift Kapak Cepli Jean Ceket</URUNADI>
         <FATURA_ADI>Kadın Kadife Yakalı Çift Kapak Cepli Jean Ceket</FATURA_ADI>
         <FIYAT>800.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2743</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>zehraaykutseven66@gmail.com</POSTA>
+    <TARIH>2026-02-20</TARIH>
+    <sipariszaman>03:04:30</sipariszaman>
+    <NET_TOPLAM>2534.97000000</NET_TOPLAM>
+    <TeslimAlici>Zehra Seven  Seven</TeslimAlici>
+    <TeslimAdresi>Mermerdelen Mahallesi Tomurcuk Sokak Şar City B Blok Kat No15</TeslimAdresi>
+    <TeslimTelefon>05334880188</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>53100</teslimPostaKodu>
+    <teslimil>Rize</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Zehra Seven  Seven</faturaalici>
+    <faturaAdresi>Mermerdelen Mahallesi Tomurcuk Sokak Şar City B Blok Kat No15</faturaAdresi>
+    <faturaTelefon>05334880188</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>53100</faturaPostaKodu>
+    <faturail>Rize</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827431</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>3KKTRTN1055_GZ4_STN</SECENEK_DEGERI>
+        <BARCODE>6000003060005</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Üç Renk Çizgili Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Üç Renk Çizgili Triko Kazak</FATURA_ADI>
+        <FIYAT>359.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>2KKSWTN0001_BEJ</KOD>
+        <VARKOD>2KKSWTN0001_BEJBEJM</VARKOD>
+        <SECENEK_DEGERI>2KKSWTN0001_BEJ_M</SECENEK_DEGERI>
+        <BARCODE>6000002882141</BARCODE>
+        <URUNADI>Kadın Kapüşonlu Oversize Fermuarlı Sweatshirt</URUNADI>
+        <FATURA_ADI>Kadın Kapüşonlu Oversize Fermuarlı Sweatshirt</FATURA_ADI>
+        <FIYAT>909.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5KKK53-5334_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003402171</BARCODE>
+        <URUNADI>Kadın Baklava Desenli Şardonlu Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Baklava Desenli Şardonlu Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>1009.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>2KKTRTN8055_13_STN</SECENEK_DEGERI>
+        <FIYAT>255.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2742</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>selmakocas24@gmail.com</POSTA>
+    <TARIH>2026-02-20</TARIH>
+    <sipariszaman>03:04:13</sipariszaman>
+    <NET_TOPLAM>769.49000000</NET_TOPLAM>
+    <TeslimAlici>Selma Koçaş</TeslimAlici>
+    <TeslimAdresi>Atatürk caddesi Dizdaroğlu sk no:5 ticaret ve sanayi odası  5</TeslimAdresi>
+    <TeslimTelefon>+905412629045</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>57000</teslimPostaKodu>
+    <teslimil>Sinop</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Selma Koçaş</faturaalici>
+    <faturaAdresi>Atatürk caddesi Dizdaroğlu sk no:5 ticaret ve sanayi odası  5</faturaAdresi>
+    <faturaTelefon>+905412629045</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>57000</faturaPostaKodu>
+    <faturail>Sinop</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827421</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKPNT36153_05</KOD>
+        <VARKOD>4YKPNT36153_0505M</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36153_05_M</SECENEK_DEGERI>
+        <BARCODE>6000003099005</BARCODE>
+        <URUNADI>Kadın Kısa Palazzo Poplin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Kısa Palazzo Poplin Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_09</KOD>
+        <VARKOD>5YKETYE4450_0909M</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003348554</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>769.49000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
