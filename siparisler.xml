@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-02-22T17:04:14 -->
+﻿<!-- generated:2026-02-22T17:09:22 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2790</SIPARIS_NO>
@@ -512,68 +512,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2783</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>hazan_ozalp@hotmail.com</POSTA>
-    <TARIH>2026-02-12</TARIH>
-    <sipariszaman>17:06:10</sipariszaman>
-    <NET_TOPLAM>570.00000000</NET_TOPLAM>
-    <TeslimAlici>Hazan  Özalp </TeslimAlici>
-    <TeslimAdresi>63/5 sokak no:4 kat:1 Açelya apartmanı daire:2</TeslimAdresi>
-    <TeslimTelefon>+905545302077</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35390</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Hazan  Özalp </faturaalici>
-    <faturaAdresi>63/5 sokak no:4 kat:1 Açelya apartmanı daire:2</faturaAdresi>
-    <faturaTelefon>+905545302077</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35390</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827831</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKH53-5330_18</KOD>
-        <VARKOD>5KKH53-5330_1818STD</VARKOD>
-        <SECENEK_DEGERI>5KKH53-5330_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000003402010</BARCODE>
-        <URUNADI>Kadın Dik Yakalı Dışardan Dkişli Fermuarlı Hırka</URUNADI>
-        <FATURA_ADI>Kadın Dik Yakalı Dışardan Dkişli Fermuarlı Hırka</FATURA_ADI>
-        <FIYAT>570.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
