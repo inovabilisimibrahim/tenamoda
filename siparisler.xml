@@ -1,5 +1,188 @@
-﻿<!-- generated:2026-02-23T09:00:35 -->
+﻿<!-- generated:2026-02-23T09:05:46 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2792</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>ozerkardelen87@gmail.com</POSTA>
+    <TARIH>2026-02-23</TARIH>
+    <sipariszaman>09:02:16</sipariszaman>
+    <NET_TOPLAM>1500.00000000</NET_TOPLAM>
+    <TeslimAlici>Kardelen Özer</TeslimAlici>
+    <TeslimAdresi>Yeşil pınar mahallesi 9304 sokak no 9 No9</TeslimAdresi>
+    <TeslimTelefon>+905304472964</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Menemen</teslimilce>
+    <faturaalici>Kardelen Özer</faturaalici>
+    <faturaAdresi>Yeşil pınar mahallesi 9304 sokak no 9 No9</faturaAdresi>
+    <faturaTelefon>+905304472964</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Menemen</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827921</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK35-5557_18</KOD>
+        <VARKOD>5KKK35-5557_1818M</VARKOD>
+        <SECENEK_DEGERI>5KKK35-5557_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003409842</BARCODE>
+        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
+        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
+        <FIYAT>1309.68000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>0YBCRTN2004_18</KOD>
+        <VARKOD>0YBCRTN2004_1818STN</VARKOD>
+        <SECENEK_DEGERI>0YBCRTN2004_18_STN</SECENEK_DEGERI>
+        <BARCODE>6000002442147</BARCODE>
+        <URUNADI>Kadın 3'lü Slikonlu Babet Çorap</URUNADI>
+        <FATURA_ADI>Kadın 3'lü Slikonlu Babet Çorap</FATURA_ADI>
+        <FIYAT>70.16000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>2.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2791</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>emel.cuhaci@yahoo.com</POSTA>
+    <TARIH>2026-02-23</TARIH>
+    <sipariszaman>09:02:16</sipariszaman>
+    <NET_TOPLAM>1349.99000000</NET_TOPLAM>
+    <TeslimAlici>Emel Çuhacı</TeslimAlici>
+    <TeslimAdresi>Barbaros Mahallesi Açelya Sokak, Ağaoğlu Moontown Sitesi, A 1/2 Blok, Daire 13</TeslimAdresi>
+    <TeslimTelefon>+905323717343</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34746</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Ataşehir</teslimilce>
+    <faturaalici>Emel Çuhacı</faturaalici>
+    <faturaAdresi>Barbaros Mahallesi Açelya Sokak, Ağaoğlu Moontown Sitesi, A 1/2 Blok, Daire 13</faturaAdresi>
+    <faturaTelefon>+905323717343</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34746</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Ataşehir</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827911</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKP66-9832_18</KOD>
+        <VARKOD>5KKP66-9832_1818S</VARKOD>
+        <SECENEK_DEGERI>5KKP66-9832_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003444881</BARCODE>
+        <URUNADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</URUNADI>
+        <FATURA_ADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5KKH35-9857_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003429024</BARCODE>
+        <URUNADI>Kadın 8949 Gömlek Yaka Gold Düğmeli̇ Sakal Hirka</URUNADI>
+        <FATURA_ADI>Kadın 8949 Gömlek Yaka Gold Düğmeli̇ Sakal Hirka</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKSPPYZ027_18</KOD>
+        <VARKOD>5YKSPPYZ027_1818STN</VARKOD>
+        <SECENEK_DEGERI>5YKSPPYZ027_18_STN</SECENEK_DEGERI>
+        <BARCODE>6000003403673</BARCODE>
+        <URUNADI>Kadın Yazılı ve Baskılı Yıkamalı Kep Şapka</URUNADI>
+        <FATURA_ADI>Kadın Yazılı ve Baskılı Yıkamalı Kep Şapka</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2790</SIPARIS_NO>
     <CariHesapKodu>
