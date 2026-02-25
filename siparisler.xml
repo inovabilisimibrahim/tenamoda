@@ -1,5 +1,105 @@
-﻿<!-- generated:2026-02-25T09:16:50 -->
+﻿<!-- generated:2026-02-25T09:22:02 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2793</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>mehtap197861@gmail.com</POSTA>
+    <TARIH>2026-02-25</TARIH>
+    <sipariszaman>09:19:11</sipariszaman>
+    <NET_TOPLAM>1100.00000000</NET_TOPLAM>
+    <TeslimAlici>Mehtap Pala</TeslimAlici>
+    <TeslimAdresi>Kemerkaya mah yerlice sok halkegitim merkezi No 7</TeslimAdresi>
+    <TeslimTelefon>05313418256</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>61000</teslimPostaKodu>
+    <teslimil>Trabzon</teslimil>
+    <teslimilce>Ortahisar</teslimilce>
+    <faturaalici>Mehtap Pala</faturaalici>
+    <faturaAdresi>Kemerkaya mah yerlice sok halkegitim merkezi No 7</faturaAdresi>
+    <faturaTelefon>05313418256</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>61000</faturaPostaKodu>
+    <faturail>Trabzon</faturail>
+    <faturailce>Ortahisar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827931</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKP66-9832_670</KOD>
+        <VARKOD>5KKP66-9832_670670L</VARKOD>
+        <SECENEK_DEGERI>5KKP66-9832_670_L</SECENEK_DEGERI>
+        <BARCODE>6000003454811</BARCODE>
+        <URUNADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</URUNADI>
+        <FATURA_ADI>Kadın İçten Kemerli Bol Paça Yün Efekt Pantolon</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>3YKKZBS3881_22</KOD>
+        <VARKOD>3YKKZBS3881_2222STN</VARKOD>
+        <SECENEK_DEGERI>3YKKZBS3881_22_STN</SECENEK_DEGERI>
+        <BARCODE>6000002991294</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Yarım Kol Düz Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Yarım Kol Düz Triko Kazak</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKE29-9827_18</KOD>
+        <VARKOD>5KKE29-9827_1818M</VARKOD>
+        <SECENEK_DEGERI>5KKE29-9827_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003436411</BARCODE>
+        <URUNADI>Kadın Içi Mini Etekli Dilimli Tül Etek</URUNADI>
+        <FATURA_ADI>Kadın Içi Mini Etekli Dilimli Tül Etek</FATURA_ADI>
+        <FIYAT>450.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2792</SIPARIS_NO>
     <CariHesapKodu>
