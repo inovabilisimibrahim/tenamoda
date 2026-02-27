@@ -1,5 +1,77 @@
-﻿<!-- generated:2026-02-27T12:54:30 -->
+﻿<!-- generated:2026-02-27T12:59:46 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2795</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>60526390450</tcno>
+    <POSTA>nurcankarakas21@gmail.com</POSTA>
+    <TARIH>2026-02-27</TARIH>
+    <sipariszaman>12:53:52</sipariszaman>
+    <NET_TOPLAM>1450.00000000</NET_TOPLAM>
+    <TeslimAlici>Nurcan  Karakaş</TeslimAlici>
+    <TeslimAdresi>6007/10 sokak no 22 kat 4 daire 5</TeslimAdresi>
+    <TeslimTelefon>+905342745991</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35560</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karşıyaka</teslimilce>
+    <faturaalici>Nurcan Karakaş</faturaalici>
+    <faturaAdresi>6007/10 sokak no 22 kat 4 daire 5</faturaAdresi>
+    <faturaTelefon>+905342745991</faturaTelefon>
+    <faturavergino>60526390450</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35560</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karşıyaka</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827951</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK35-5557_18</KOD>
+        <VARKOD>5KKK35-5557_1818M</VARKOD>
+        <SECENEK_DEGERI>5KKK35-5557_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003409842</BARCODE>
+        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
+        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
+        <FIYAT>1400.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2794</SIPARIS_NO>
     <CariHesapKodu>
