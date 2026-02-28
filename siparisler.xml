@@ -1,5 +1,175 @@
-﻿<!-- generated:2026-02-28T09:01:10 -->
+﻿<!-- generated:2026-02-28T09:06:24 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2797</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>43963728406</tcno>
+    <POSTA>feridekesmez1965@hotmail.com</POSTA>
+    <TARIH>2026-02-28</TARIH>
+    <sipariszaman>09:02:09</sipariszaman>
+    <NET_TOPLAM>299.99000000</NET_TOPLAM>
+    <TeslimAlici>Feride Kesmez</TeslimAlici>
+    <TeslimAdresi>2.inönü mah. Musaanter sok. Emek apt. No52 kat4daire10 Narlıdere /İzmir Emek apt Daire10</TeslimAdresi>
+    <TeslimTelefon>+905054522774</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Narlıdere</teslimilce>
+    <faturaalici>Feride Kesmez</faturaalici>
+    <faturaAdresi>2.inönü mah. Musaanter sok. Emek apt. No52 kat4daire10 Narlıdere /İzmir Emek apt Daire10</faturaAdresi>
+    <faturaTelefon>+905054522774</faturaTelefon>
+    <faturavergino>43963728406</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Narlıdere</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827971</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>3KKTRTN9055_90</KOD>
+        <VARKOD>3KKTRTN9055_9090STN</VARKOD>
+        <SECENEK_DEGERI>3KKTRTN9055_90_STN</SECENEK_DEGERI>
+        <BARCODE>6000003386242</BARCODE>
+        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2796</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>akbmerveemine@gmail.com</POSTA>
+    <TARIH>2026-02-28</TARIH>
+    <sipariszaman>09:02:09</sipariszaman>
+    <NET_TOPLAM>2275.00000000</NET_TOPLAM>
+    <TeslimAlici>Merve  Akbay</TeslimAlici>
+    <TeslimAdresi>9068 sokak No:27 D:3 Akbay apartmanı Vatan mahallesi Yeşilyurt karabağlar İzmir</TeslimAdresi>
+    <TeslimTelefon>+905077251026</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35160</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Merve  Akbay</faturaalici>
+    <faturaAdresi>9068 sokak No:27 D:3 Akbay apartmanı Vatan mahallesi Yeşilyurt karabağlar İzmir</faturaAdresi>
+    <faturaTelefon>+905077251026</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35160</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914827961</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKHR251004_18</KOD>
+        <VARKOD>5KKHR251004_1818STD</VARKOD>
+        <SECENEK_DEGERI>5KKHR251004_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003467675</BARCODE>
+        <URUNADI>Kadın Siyah Fular Detaylı Hırka</URUNADI>
+        <FATURA_ADI>Kadın Siyah Fular Detaylı Hırka</FATURA_ADI>
+        <FIYAT>574.74000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KK28-10195_SA2</KOD>
+        <VARKOD>5KK28-10195_SA2SA2L</VARKOD>
+        <SECENEK_DEGERI>5KK28-10195_SA2_L</SECENEK_DEGERI>
+        <BARCODE>6000003447691</BARCODE>
+        <URUNADI>Kadın TN026 Yaka Bağlamalı Desenli Uzun Şifon Elbise</URUNADI>
+        <FATURA_ADI>Kadın TN026 Yaka Bağlamalı Desenli Uzun Şifon Elbise</FATURA_ADI>
+        <FIYAT>622.63000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTNT106_18</KOD>
+        <VARKOD>5YETSTNT106_1818XL</VARKOD>
+        <SECENEK_DEGERI>5YETSTNT106_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003330979</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</FATURA_ADI>
+        <FIYAT>239.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1789_04</KOD>
+        <VARKOD>5YKG16-1789_0404L</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1789_04_L</SECENEK_DEGERI>
+        <BARCODE>6000003380448</BARCODE>
+        <URUNADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</FATURA_ADI>
+        <FIYAT>478.95000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKY37-9856_18</KOD>
+        <VARKOD>5KKY37-9856_1818STD</VARKOD>
+        <SECENEK_DEGERI>5KKY37-9856_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003428966</BARCODE>
+        <URUNADI>Kadın 8952 Gömlek Yaka Önü Bağlamali Sakal  Yelek</URUNADI>
+        <FATURA_ADI>Kadın 8952 Gömlek Yaka Önü Bağlamali Sakal  Yelek</FATURA_ADI>
+        <FIYAT>359.21000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2795</SIPARIS_NO>
     <CariHesapKodu>
