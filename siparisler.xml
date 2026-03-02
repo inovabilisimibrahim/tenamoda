@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-02T03:06:34 -->
+﻿<!-- generated:2026-03-02T03:11:44 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2797</SIPARIS_NO>
@@ -724,6 +724,232 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2759</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>gulalpata@gmail.com</POSTA>
+    <TARIH>2026-03-02</TARIH>
+    <sipariszaman>03:08:05</sipariszaman>
+    <NET_TOPLAM>550.00000000</NET_TOPLAM>
+    <TeslimAlici>Gül Alpata</TeslimAlici>
+    <TeslimAdresi>Caddebostan Mahallesi Ethemefendi Caddesi Kayserililer Apt. No 9 Kat 2 Daire 4</TeslimAdresi>
+    <TeslimTelefon>+905322723273</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34728</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Kadıköy</teslimilce>
+    <faturaalici>Gül Alpata</faturaalici>
+    <faturaAdresi>Caddebostan Mahallesi Ethemefendi Caddesi Kayserililer Apt. No 9 Kat 2 Daire 4</faturaAdresi>
+    <faturaTelefon>+905322723273</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34728</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Kadıköy</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827591</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKY37-5254_05</KOD>
+        <VARKOD>5KKY37-5254_0505STD</VARKOD>
+        <SECENEK_DEGERI>5KKY37-5254_05_STD</SECENEK_DEGERI>
+        <BARCODE>6000003400535</BARCODE>
+        <URUNADI>Kadın Fermarlı Buklet Yelek</URUNADI>
+        <FATURA_ADI>Kadın Fermarlı Buklet Yelek</FATURA_ADI>
+        <FIYAT>450.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2757</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>21287568380</tcno>
+    <POSTA>asli.arslan@hotmail.com</POSTA>
+    <TARIH>2026-03-02</TARIH>
+    <sipariszaman>03:07:05</sipariszaman>
+    <NET_TOPLAM>300.00000000</NET_TOPLAM>
+    <TeslimAlici>Aslı Ekinci</TeslimAlici>
+    <TeslimAdresi>Güzelyalı mah.bülent ecevit bul.no 336.kat 2</TeslimAdresi>
+    <TeslimTelefon>05445315586</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>52100</teslimPostaKodu>
+    <teslimil>Ordu</teslimil>
+    <teslimilce>Altınordu</teslimilce>
+    <faturaalici>Aslı Ekinci</faturaalici>
+    <faturaAdresi>Güzelyalı mah.bülent ecevit bul.no 336.kat 2</faturaAdresi>
+    <faturaTelefon>05445315586</faturaTelefon>
+    <faturavergino>21287568380</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>52100</faturaPostaKodu>
+    <faturail>Ordu</faturail>
+    <faturailce>Altınordu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827571</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>2KKTRTN7055_09_STN</SECENEK_DEGERI>
+        <BARCODE>6000002882899</BARCODE>
+        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
+        <FIYAT>200.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2756</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>eda55ufuk@gmail.com</POSTA>
+    <TARIH>2026-03-02</TARIH>
+    <sipariszaman>03:06:45</sipariszaman>
+    <NET_TOPLAM>500.00000000</NET_TOPLAM>
+    <TeslimAlici>Eda Durmuş</TeslimAlici>
+    <TeslimAdresi>Çatalarmut Mahallesi 30 Ağustos Caddesi No 288 Kat 2 Daire 4</TeslimAdresi>
+    <TeslimTelefon>5434940821</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>55040</teslimPostaKodu>
+    <teslimil>Samsun</teslimil>
+    <teslimilce>İlkadım</teslimilce>
+    <faturaalici>Eda Durmuş</faturaalici>
+    <faturaAdresi>Çatalarmut Mahallesi 30 Ağustos Caddesi No 288 Kat 2 Daire 4</faturaAdresi>
+    <faturaTelefon>5434940821</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>55040</faturaPostaKodu>
+    <faturail>Samsun</faturail>
+    <faturailce>İlkadım</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914827561</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKTRTN9074_46</KOD>
+        <VARKOD>5KKTRTN9074_4646STN</VARKOD>
+        <SECENEK_DEGERI>5KKTRTN9074_46_STN</SECENEK_DEGERI>
+        <BARCODE>6000003386693</BARCODE>
+        <URUNADI>Kadın V Yaka Yanları Yırtmaçlı Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Yanları Yırtmaçlı Triko Kazak</FATURA_ADI>
+        <FIYAT>200.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>2KKTRTN8055_05_STN</SECENEK_DEGERI>
+        <FIYAT>200.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
