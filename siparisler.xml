@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-10T15:50:36 -->
+﻿<!-- generated:2026-03-10T15:55:54 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2814</SIPARIS_NO>
@@ -236,8 +236,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKCKTN3327_02</KOD>
-        <VARKOD>5YKCKTN3327_020240</VARKOD>
         <SECENEK_DEGERI>5YKCKTN3327_02_40</SECENEK_DEGERI>
         <BARCODE>6000003367432</BARCODE>
         <URUNADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</URUNADI>
@@ -262,8 +260,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5KKH53-5353_70</KOD>
-        <VARKOD>5KKH53-5353_7070STD</VARKOD>
         <SECENEK_DEGERI>5KKH53-5353_70_STD</SECENEK_DEGERI>
         <BARCODE>6000003402140</BARCODE>
         <URUNADI>Kadın V Yaka Basic Hırka</URUNADI>
