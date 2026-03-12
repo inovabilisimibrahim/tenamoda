@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-12T09:12:16 -->
+﻿<!-- generated:2026-03-12T09:17:31 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2822</SIPARIS_NO>
@@ -10,7 +10,7 @@
     </tcno>
     <POSTA>ipektensibel@gmail.com</POSTA>
     <TARIH>2026-03-12</TARIH>
-    <sipariszaman>09:09:18</sipariszaman>
+    <sipariszaman>09:10:56</sipariszaman>
     <NET_TOPLAM>1940.01000000</NET_TOPLAM>
     <TeslimAlici>Sibel Füsun İpekten</TeslimAlici>
     <TeslimAdresi>BOSNA BULVARI ATA 2 SİT.ERGUVAN CAD.NO.11 ÇENGELKÖY-ÜSKÜDAR</TeslimAdresi>
@@ -124,11 +124,16 @@
     </tcno>
     <POSTA>elifmutlu5441@gmail.com</POSTA>
     <TARIH>2026-03-12</TARIH>
-    <sipariszaman>09:09:15</sipariszaman>
+    <sipariszaman>09:10:56</sipariszaman>
     <NET_TOPLAM>999.99000000</NET_TOPLAM>
-    <TeslimAdresi>
-    </TeslimAdresi>
+    <TeslimAlici>Elif Mutlu</TeslimAlici>
+    <TeslimAdresi>Atistir ızgara. Rüstem paşa mahallesi kanuncu rıza sokak no 4 54600</TeslimAdresi>
+    <TeslimTelefon>+905439420586</TeslimTelefon>
     <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>54600</teslimPostaKodu>
+    <teslimil>Sakarya</teslimil>
+    <teslimilce>Sapanca</teslimilce>
     <faturaalici>Elif Mutlu</faturaalici>
     <faturaAdresi>Atistir ızgara. Rüstem paşa mahallesi kanuncu rıza sokak no 4 54600</faturaAdresi>
     <faturaTelefon>+905439420586</faturaTelefon>
@@ -155,6 +160,33 @@
     <ODEME_SEKLI>2</ODEME_SEKLI>
     <not>
     </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKELD90519_MT5</KOD>
+        <VARKOD>4YKELD90519_MT5MT534</VARKOD>
+        <SECENEK_DEGERI>4YKELD90519_MT5_34</SECENEK_DEGERI>
+        <BARCODE>6000003169159</BARCODE>
+        <URUNADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</FATURA_ADI>
+        <FIYAT>899.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2820</SIPARIS_NO>
