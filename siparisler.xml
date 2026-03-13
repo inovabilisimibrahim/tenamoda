@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-13T17:48:27 -->
+﻿<!-- generated:2026-03-13T17:53:35 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2823</SIPARIS_NO>
@@ -159,6 +159,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKS27-5504_G03</KOD>
+        <VARKOD>5KKS27-5504_G03G03M</VARKOD>
         <SECENEK_DEGERI>5KKS27-5504_G03_M</SECENEK_DEGERI>
         <BARCODE>6000003408883</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Kolları Çıtçıtlı Düşük Omuzlu Sweatshirt</URUNADI>
@@ -416,6 +418,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5KKE28-9828_09</KOD>
+        <VARKOD>5KKE28-9828_0909L</VARKOD>
         <SECENEK_DEGERI>5KKE28-9828_09_L</SECENEK_DEGERI>
         <BARCODE>6000003440135</BARCODE>
         <URUNADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</URUNADI>
