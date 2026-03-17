@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-17T15:34:05 -->
+﻿<!-- generated:2026-03-17T15:39:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2831</SIPARIS_NO>
@@ -1816,78 +1816,6 @@
         <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
         <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
         <FIYAT>299.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2807</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>busekundakcioglu1@icloud.com</POSTA>
-    <TARIH>2026-03-07</TARIH>
-    <sipariszaman>15:35:58</sipariszaman>
-    <NET_TOPLAM>600.00000000</NET_TOPLAM>
-    <TeslimAlici>Buse Kundakcıoğlu</TeslimAlici>
-    <TeslimAdresi>Anadolu mahallesi mücevher sokak no 4A Dükkan</TeslimAdresi>
-    <TeslimTelefon>+905318989544</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Arnavutköy</teslimilce>
-    <faturaalici>Buse Kundakcıoğlu</faturaalici>
-    <faturaAdresi>Anadolu mahallesi mücevher sokak no 4A Dükkan</faturaAdresi>
-    <faturaTelefon>+905318989544</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Arnavutköy</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828071</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKE28-9828_09</KOD>
-        <VARKOD>5KKE28-9828_0909M</VARKOD>
-        <SECENEK_DEGERI>5KKE28-9828_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003440142</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Desenli Volanlı Elbise(111)</FATURA_ADI>
-        <FIYAT>500.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
