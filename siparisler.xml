@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-17T17:56:03 -->
+﻿<!-- generated:2026-03-17T18:01:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2831</SIPARIS_NO>
@@ -1721,8 +1721,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YK18-10580_18</KOD>
-        <VARKOD>6YK18-10580_1818L</VARKOD>
         <SECENEK_DEGERI>6YK18-10580_18_L</SECENEK_DEGERI>
         <BARCODE>6000003489301</BARCODE>
         <URUNADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</URUNADI>
@@ -2023,8 +2021,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YK18-10580_18</KOD>
-        <VARKOD>6YK18-10580_1818L</VARKOD>
         <SECENEK_DEGERI>6YK18-10580_18_L</SECENEK_DEGERI>
         <BARCODE>6000003489301</BARCODE>
         <URUNADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</URUNADI>
@@ -2094,8 +2090,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>4YEG12-8308_08</KOD>
-        <VARKOD>4YEG12-8308_0808XL</VARKOD>
         <SECENEK_DEGERI>4YEG12-8308_08_XL</SECENEK_DEGERI>
         <BARCODE>6000003084759</BARCODE>
         <URUNADI>Erkek Uzun Kollu Tek Cepli Basic Gömlek</URUNADI>
