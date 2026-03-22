@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-22T20:18:30 -->
+﻿<!-- generated:2026-03-22T20:23:36 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2831</SIPARIS_NO>
@@ -1086,97 +1086,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2812</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>birikimmimarlik@gmail.com</POSTA>
-    <TARIH>2026-03-12</TARIH>
-    <sipariszaman>20:19:44</sipariszaman>
-    <NET_TOPLAM>2049.99000000</NET_TOPLAM>
-    <TeslimAlici>Ruken Yıldırım</TeslimAlici>
-    <TeslimAdresi>Yeşilyurt Mahallesi Abı Hayat Sokak 8/22</TeslimAdresi>
-    <TeslimTelefon>+905424016500</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>46300</teslimPostaKodu>
-    <teslimil>Kahramanmaraş</teslimil>
-    <teslimilce>Elbistan</teslimilce>
-    <faturaalici>Ruken Yıldırım</faturaalici>
-    <faturaAdresi>Yeşilyurt Mahallesi Abı Hayat Sokak 8/22</faturaAdresi>
-    <faturaTelefon>+905424016500</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>46300</faturaPostaKodu>
-    <faturail>Kahramanmaraş</faturail>
-    <faturailce>Elbistan</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914828121</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>3KKTRTN9055_04_STN</SECENEK_DEGERI>
-        <BARCODE>6000003386211</BARCODE>
-        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
-        <FIYAT>286.04000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKCKTN3327_02_40</SECENEK_DEGERI>
-        <BARCODE>6000003367432</BARCODE>
-        <URUNADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</URUNADI>
-        <FATURA_ADI>Kadın Önü Bağlamalı Fleto Cepli Keten Blazer Ceket</FATURA_ADI>
-        <FIYAT>667.44000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKCK3243-1_08_38</SECENEK_DEGERI>
-        <BARCODE>6000003366572</BARCODE>
-        <URUNADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</URUNADI>
-        <FATURA_ADI>Kadın Çift Düğmeli Kapak Cepli Keten Blazer Ceket</FATURA_ADI>
-        <FIYAT>667.44000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKH53-5353_70_STD</SECENEK_DEGERI>
-        <BARCODE>6000003402140</BARCODE>
-        <URUNADI>Kadın V Yaka Basic Hırka</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Basic Hırka</FATURA_ADI>
-        <FIYAT>429.07000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
