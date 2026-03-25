@@ -1,5 +1,75 @@
-﻿<!-- generated:2026-03-25T15:48:07 -->
+﻿<!-- generated:2026-03-25T15:53:20 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2841</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>10711254708</tcno>
+    <POSTA>ozgekilic1978@gmail.com</POSTA>
+    <TARIH>2026-03-25</TARIH>
+    <sipariszaman>15:48:59</sipariszaman>
+    <NET_TOPLAM>550.00000000</NET_TOPLAM>
+    <TeslimAlici>Özge Kılıç</TeslimAlici>
+    <TeslimAdresi>Mansuroğlu mah.Ankara cad.No:71  Gümüş plaza Kat:1 daire:4</TeslimAdresi>
+    <TeslimTelefon>5325633150</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bayraklı</teslimilce>
+    <faturaalici>Özge Kılıç</faturaalici>
+    <faturaAdresi>Mansuroğlu mah.Ankara cad.No:71  Gümüş plaza Kat:1 daire:4</faturaAdresi>
+    <faturaTelefon>5325633150</faturaTelefon>
+    <faturavergino>10711254708</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Bayraklı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828411</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKK53-5344_18</KOD>
+        <VARKOD>5KKK53-5344_1818STD</VARKOD>
+        <SECENEK_DEGERI>5KKK53-5344_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003402478</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
+        <FIYAT>450.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2840</SIPARIS_NO>
     <CariHesapKodu>
