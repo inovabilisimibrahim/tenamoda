@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-03-30T11:56:48 -->
+﻿<!-- generated:2026-03-30T12:02:01 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2847</SIPARIS_NO>
@@ -57,6 +57,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKT18-5256_09</KOD>
+        <VARKOD>5KKT18-5256_0909STD</VARKOD>
         <SECENEK_DEGERI>5KKT18-5256_09_STD</SECENEK_DEGERI>
         <BARCODE>6000003400610</BARCODE>
         <URUNADI>Kadın Saç Örgülü Etek Kazak Takım</URUNADI>
