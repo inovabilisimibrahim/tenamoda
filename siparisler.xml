@@ -1,5 +1,90 @@
-﻿<!-- generated:2026-04-01T14:24:26 -->
+﻿<!-- generated:2026-04-01T14:29:43 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2849</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>25876691688</tcno>
+    <POSTA>vdemirci03@gmail.com</POSTA>
+    <TARIH>2026-04-01</TARIH>
+    <sipariszaman>14:25:13</sipariszaman>
+    <NET_TOPLAM>1099.98000000</NET_TOPLAM>
+    <TeslimAlici>Volkan Demirci</TeslimAlici>
+    <TeslimAdresi>946 sk No27 Daire3 Atatürk mh Bornova/izmir No 27,,D3</TeslimAdresi>
+    <TeslimTelefon>+905303867531</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35600</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bornova</teslimilce>
+    <faturaalici>Volkan Demirci</faturaalici>
+    <faturaAdresi>946 sk No27 Daire3 Atatürk mh Bornova/izmir No 27,,D3</faturaAdresi>
+    <faturaTelefon>+905303867531</faturaTelefon>
+    <faturavergino>25876691688</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35600</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bornova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828491</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSTNNWP4_010</KOD>
+        <VARKOD>6YETSTNNWP4_010010L</VARKOD>
+        <SECENEK_DEGERI>6YETSTNNWP4_010_L</SECENEK_DEGERI>
+        <BARCODE>6000003494206</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSTNNWP4_18</KOD>
+        <VARKOD>6YETSTNNWP4_1818L</VARKOD>
+        <SECENEK_DEGERI>6YETSTNNWP4_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003494626</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2848</SIPARIS_NO>
     <CariHesapKodu>
