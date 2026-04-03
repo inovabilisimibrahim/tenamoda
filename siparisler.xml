@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-03T03:06:51 -->
+﻿<!-- generated:2026-04-03T03:12:12 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2849</SIPARIS_NO>
@@ -1613,6 +1613,64 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2805</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>purchasing@btobturk.com</POSTA>
+    <TARIH>2026-04-03</TARIH>
+    <sipariszaman>03:07:11</sipariszaman>
+    <NET_TOPLAM>560.00000000</NET_TOPLAM>
+    <TeslimAlici>Barış  Lojistik</TeslimAlici>
+    <TeslimAdresi> Mehmet Nesih Özmen Mahallesi Fatih Caddesi, Yıldırım Sk. No:21, 34173 Güngören/İstanbul</TeslimAdresi>
+    <TeslimTelefon>+905432042335</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Güngören</teslimilce>
+    <faturaalici>Hazal  Cankul</faturaalici>
+    <faturaAdresi>NOVUS TOWER, Adalet, Şht. Polis Fethi Sekin Cd No: 4 D:321, 35530 Bayraklı/İzmir</faturaAdresi>
+    <faturaTelefon>+905432042335</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Bayraklı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828051</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKCKTN3338_B02_S</SECENEK_DEGERI>
+        <BARCODE>6000003302921</BARCODE>
+        <URUNADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</URUNADI>
+        <FATURA_ADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</FATURA_ADI>
+        <FIYAT>560.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2802</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -2259,89 +2317,6 @@
         <FIYAT>450.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2792</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>ozerkardelen87@gmail.com</POSTA>
-    <TARIH>2026-03-24</TARIH>
-    <sipariszaman>03:11:20</sipariszaman>
-    <NET_TOPLAM>1500.00000000</NET_TOPLAM>
-    <TeslimAlici>Kardelen Özer</TeslimAlici>
-    <TeslimAdresi>Yeşil pınar mahallesi 9304 sokak no 9 No9</TeslimAdresi>
-    <TeslimTelefon>+905304472964</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Menemen</teslimilce>
-    <faturaalici>Kardelen Özer</faturaalici>
-    <faturaAdresi>Yeşil pınar mahallesi 9304 sokak no 9 No9</faturaAdresi>
-    <faturaTelefon>+905304472964</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Menemen</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914827921</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5KKK35-5557_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003409842</BARCODE>
-        <URUNADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</URUNADI>
-        <FATURA_ADI>Kadın İki Düğmeli Kol Apoletli Oversize Uzun Kaban</FATURA_ADI>
-        <FIYAT>1309.68000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>0YBCRTN2004_18</KOD>
-        <VARKOD>0YBCRTN2004_1818STN</VARKOD>
-        <SECENEK_DEGERI>0YBCRTN2004_18_STN</SECENEK_DEGERI>
-        <BARCODE>6000002442147</BARCODE>
-        <URUNADI>Kadın 3'lü Slikonlu Babet Çorap</URUNADI>
-        <FATURA_ADI>Kadın 3'lü Slikonlu Babet Çorap</FATURA_ADI>
-        <FIYAT>70.16000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>2.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
       </SATIR>
