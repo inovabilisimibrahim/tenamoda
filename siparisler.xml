@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-07T16:55:38 -->
+﻿<!-- generated:2026-04-07T17:01:01 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2853</SIPARIS_NO>
@@ -1211,6 +1211,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKY37-5254_05</KOD>
+        <VARKOD>5KKY37-5254_0505STD</VARKOD>
         <SECENEK_DEGERI>5KKY37-5254_05_STD</SECENEK_DEGERI>
         <BARCODE>6000003400535</BARCODE>
         <URUNADI>Kadın Fermarlı Buklet Yelek</URUNADI>
