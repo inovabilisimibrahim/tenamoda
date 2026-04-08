@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-08T14:22:20 -->
+﻿<!-- generated:2026-04-08T14:27:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2855</SIPARIS_NO>
@@ -98,8 +98,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>4KKGMMP4903_09</KOD>
-        <VARKOD>4KKGMMP4903_0909STD</VARKOD>
         <SECENEK_DEGERI>4KKGMMP4903_09_STD</SECENEK_DEGERI>
         <URUNADI>Kadın Çizgili Gömlek</URUNADI>
         <FATURA_ADI>Kadın Çizgili Gömlek</FATURA_ADI>
