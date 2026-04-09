@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-09T14:54:40 -->
+﻿<!-- generated:2026-04-09T14:59:49 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2858</SIPARIS_NO>
@@ -134,7 +134,10 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <SECENEK_DEGERI>6YE12-10234_Y48_XL</SECENEK_DEGERI>
+        <SECENEK_DEGERI>6YE12-10234_24_XL</SECENEK_DEGERI>
+        <BARCODE>6000003459069</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
         <FIYAT>599.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -142,7 +145,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>6YE12-10234_24_XL</SECENEK_DEGERI>
+        <KOD>6YE12-10234_Y48</KOD>
+        <VARKOD>6YE12-10234_Y48Y48XL</VARKOD>
+        <SECENEK_DEGERI>6YE12-10234_Y48_XL</SECENEK_DEGERI>
+        <BARCODE>6000003459519</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
         <FIYAT>599.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -208,7 +216,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YE12-10234_01</KOD>
+        <VARKOD>6YE12-10234_0101L</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_01_L</SECENEK_DEGERI>
+        <BARCODE>6000003459182</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
         <FIYAT>599.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -481,7 +494,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YE12-10234_06</KOD>
+        <VARKOD>6YE12-10234_0606M</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_06_M</SECENEK_DEGERI>
+        <BARCODE>6000003459243</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
         <FIYAT>599.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -489,7 +507,12 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YE12-10234_Y48</KOD>
+        <VARKOD>6YE12-10234_Y48Y48M</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_Y48_M</SECENEK_DEGERI>
+        <BARCODE>6000003459496</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
         <FIYAT>599.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
