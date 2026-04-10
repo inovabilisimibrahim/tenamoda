@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-10T03:07:46 -->
+﻿<!-- generated:2026-04-10T03:12:57 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2858</SIPARIS_NO>
@@ -1060,6 +1060,80 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2821</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>elifmutlu5441@gmail.com</POSTA>
+    <TARIH>2026-04-10</TARIH>
+    <sipariszaman>03:08:51</sipariszaman>
+    <NET_TOPLAM>999.99000000</NET_TOPLAM>
+    <TeslimAlici>Elif Mutlu</TeslimAlici>
+    <TeslimAdresi>Atistir ızgara. Rüstem paşa mahallesi kanuncu rıza sokak no 4 54600</TeslimAdresi>
+    <TeslimTelefon>+905439420586</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>54600</teslimPostaKodu>
+    <teslimil>Sakarya</teslimil>
+    <teslimilce>Sapanca</teslimilce>
+    <faturaalici>Elif Mutlu</faturaalici>
+    <faturaAdresi>Atistir ızgara. Rüstem paşa mahallesi kanuncu rıza sokak no 4 54600</faturaAdresi>
+    <faturaTelefon>+905439420586</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>54600</faturaPostaKodu>
+    <faturail>Sakarya</faturail>
+    <faturailce>Sapanca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828211</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKELD90519_MT5</KOD>
+        <VARKOD>4YKELD90519_MT5MT534</VARKOD>
+        <SECENEK_DEGERI>4YKELD90519_MT5_34</SECENEK_DEGERI>
+        <BARCODE>6000003169159</BARCODE>
+        <URUNADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</FATURA_ADI>
+        <FIYAT>899.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -2400,80 +2474,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2801</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>sirinyurekli@hotmail.com</POSTA>
-    <TARIH>2026-03-31</TARIH>
-    <sipariszaman>03:09:07</sipariszaman>
-    <NET_TOPLAM>550.00000000</NET_TOPLAM>
-    <TeslimAlici>Şirin Yürekli</TeslimAlici>
-    <TeslimAdresi>Öveçler mh. Mimar cd. No:46/A</TeslimAdresi>
-    <TeslimTelefon>05344670125</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>06460</teslimPostaKodu>
-    <teslimil>Ankara</teslimil>
-    <teslimilce>Çankaya</teslimilce>
-    <faturaalici>Şirin Yürekli</faturaalici>
-    <faturaAdresi>Öveçler mh. Mimar cd. No:46/A</faturaAdresi>
-    <faturaTelefon>05344670125</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>06460</faturaPostaKodu>
-    <faturail>Ankara</faturail>
-    <faturailce>Çankaya</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828011</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5KKK53-5344_18</KOD>
-        <VARKOD>5KKK53-5344_1818STD</VARKOD>
-        <SECENEK_DEGERI>5KKK53-5344_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000003402478</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Basic Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Basic Triko Kazak</FATURA_ADI>
-        <FIYAT>450.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
