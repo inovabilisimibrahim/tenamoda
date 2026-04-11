@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-11T03:04:06 -->
+﻿<!-- generated:2026-04-11T03:09:20 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2859</SIPARIS_NO>
@@ -1049,6 +1049,78 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2823</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>g.ktas@hotmail.com</POSTA>
+    <TARIH>2026-04-11</TARIH>
+    <sipariszaman>03:06:04</sipariszaman>
+    <NET_TOPLAM>550.00000000</NET_TOPLAM>
+    <TeslimAlici>GULAY Kiziltas</TeslimAlici>
+    <TeslimAdresi>MOLLA gürani mah Şehit nedim sok masatçı pasajı no 9 178  nolu ganyan bayii</TeslimAdresi>
+    <TeslimTelefon>5326833446</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Fatih</teslimilce>
+    <faturaalici>GULAY Kiziltas</faturaalici>
+    <faturaAdresi>MOLLA gürani mah Şehit nedim sok masatçı pasajı no 9 178  nolu ganyan bayii</faturaAdresi>
+    <faturaTelefon>5326833446</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Fatih</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828231</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4KKTR231075_60</KOD>
+        <VARKOD>4KKTR231075_6060STN</VARKOD>
+        <SECENEK_DEGERI>4KKTR231075_60_STN</SECENEK_DEGERI>
+        <BARCODE>6000003326613</BARCODE>
+        <URUNADI>Kadın Degaje Yaka Fitilli Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Degaje Yaka Fitilli Triko Kazak</FATURA_ADI>
+        <FIYAT>450.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
