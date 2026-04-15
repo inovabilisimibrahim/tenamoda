@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-15T16:32:27 -->
+﻿<!-- generated:2026-04-15T16:37:44 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2864</SIPARIS_NO>
@@ -44,8 +44,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YE12-10234_24</KOD>
-        <VARKOD>6YE12-10234_2424L</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_24_L</SECENEK_DEGERI>
         <BARCODE>6000003459038</BARCODE>
         <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
@@ -333,8 +331,8 @@
     <tcno>
     </tcno>
     <POSTA>evrenpinar@hotmail.com</POSTA>
-    <TARIH>2026-04-14</TARIH>
-    <sipariszaman>16:50:24</sipariszaman>
+    <TARIH>2026-04-15</TARIH>
+    <sipariszaman>16:35:07</sipariszaman>
     <NET_TOPLAM>1000.00000000</NET_TOPLAM>
     <TeslimAlici>EVREN PINAR DOĞAN</TeslimAlici>
     <TeslimAdresi>1490sok ANDE sitesi B blok N:1/42 100.yıl Ande sitesi</TeslimAdresi>
