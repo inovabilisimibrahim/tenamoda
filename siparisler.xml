@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-20T11:31:23 -->
+﻿<!-- generated:2026-04-20T11:36:41 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2865</SIPARIS_NO>
@@ -678,87 +678,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2856</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>31760143522</tcno>
-    <POSTA>ilhangenc5@msn.com</POSTA>
-    <TARIH>2026-04-10</TARIH>
-    <sipariszaman>11:36:10</sipariszaman>
-    <NET_TOPLAM>1349.98000000</NET_TOPLAM>
-    <TeslimAlici>İlhan Genç</TeslimAlici>
-    <TeslimAdresi>İzmirgaz ilkokulu Atatürk mh.Türkay cad. No :70</TeslimAdresi>
-    <TeslimTelefon>+905055665494</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>İlhan Genç</faturaalici>
-    <faturaAdresi>İzmirgaz ilkokulu Atatürk mh.Türkay cad. No :70</faturaAdresi>
-    <faturaTelefon>+905055665494</faturaTelefon>
-    <faturavergino>31760143522</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828561</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YE12-10151_670</KOD>
-        <VARKOD>6YE12-10151_670670L</VARKOD>
-        <SECENEK_DEGERI>6YE12-10151_670_L</SECENEK_DEGERI>
-        <BARCODE>6000003458185</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>6YE12-10234_01_L</SECENEK_DEGERI>
-        <BARCODE>6000003459182</BARCODE>
-        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
-        <FIYAT>599.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
