@@ -1,5 +1,91 @@
-﻿<!-- generated:2026-04-24T09:04:02 -->
+﻿<!-- generated:2026-04-24T09:09:12 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2868</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>35302575482</tcno>
+    <POSTA>esatahmet415@gmail.com</POSTA>
+    <TARIH>2026-04-24</TARIH>
+    <sipariszaman>09:04:40</sipariszaman>
+    <NET_TOPLAM>1449.97000000</NET_TOPLAM>
+    <TeslimAlici>Ahmet Esat  Akçadağ </TeslimAlici>
+    <TeslimAdresi>Mimar sinan mahallesi 48017. Sokak bina no:6 kat:4 daire no:9 Turfan sitesi B blok</TeslimAdresi>
+    <TeslimTelefon>+905061703326</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>46000</teslimPostaKodu>
+    <teslimil>Kahramanmaraş</teslimil>
+    <teslimilce>Onikişubat</teslimilce>
+    <faturaalici>Ahmet Esat  Akçadağ </faturaalici>
+    <faturaAdresi>Mimar sinan mahallesi 48017. Sokak bina no:6 kat:4 daire no:9 Turfan sitesi B blok</faturaAdresi>
+    <faturaTelefon>+905061703326</faturaTelefon>
+    <faturavergino>35302575482</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>46000</faturaPostaKodu>
+    <faturail>Kahramanmaraş</faturail>
+    <faturailce>Onikişubat</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828681</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSCL4837_18</KOD>
+        <VARKOD>6YETSCL4837_1818M</VARKOD>
+        <SECENEK_DEGERI>6YETSCL4837_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003517950</BARCODE>
+        <URUNADI>Erkek Ayaklı Çıtçıtlı Yaka Pike Modal Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Çıtçıtlı Yaka Pike Modal Tişört</FATURA_ADI>
+        <FIYAT>654.83000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSTNNWP4_18</KOD>
+        <VARKOD>6YETSTNNWP4_1818M</VARKOD>
+        <SECENEK_DEGERI>6YETSTNNWP4_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003494633</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</FATURA_ADI>
+        <FIYAT>467.73000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YETSTN2512_18</KOD>
+        <VARKOD>5YETSTN2512_1818M</VARKOD>
+        <SECENEK_DEGERI>5YETSTN2512_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003299153</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Kol ve Etek Kendinden Manşetli Oxfort Tişört</FATURA_ADI>
+        <FIYAT>327.41000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2867</SIPARIS_NO>
     <CariHesapKodu>
