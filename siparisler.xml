@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-26T03:04:48 -->
+﻿<!-- generated:2026-04-26T03:09:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2868</SIPARIS_NO>
@@ -547,6 +547,88 @@
         <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
         <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
         <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2846</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>olcaytosun2@hotmail.com</POSTA>
+    <TARIH>2026-04-26</TARIH>
+    <sipariszaman>03:05:56</sipariszaman>
+    <NET_TOPLAM>1699.98000000</NET_TOPLAM>
+    <TeslimAlici>Olcay Tosun</TeslimAlici>
+    <TeslimAdresi>206/16 Sokak No:28 Daire:3</TeslimAdresi>
+    <TeslimTelefon>+905377293608</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Buca</teslimilce>
+    <faturaalici>Olcay Tosun</faturaalici>
+    <faturaAdresi>206/16 Sokak No:28 Daire:3</faturaAdresi>
+    <faturaTelefon>+905377293608</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Buca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828461</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>6YE12-10234_09_XL</SECENEK_DEGERI>
+        <BARCODE>6000003459366</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
+        <FIYAT>566.66000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>6YE12-10234_24_XL</SECENEK_DEGERI>
+        <BARCODE>6000003459069</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
+        <FIYAT>566.66000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YE12-10234_134</KOD>
+        <VARKOD>6YE12-10234_134134XL</VARKOD>
+        <SECENEK_DEGERI>6YE12-10234_134_XL</SECENEK_DEGERI>
+        <BARCODE>6000003458963</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
+        <FIYAT>566.66000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -1717,105 +1799,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2831</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>11111111111</tcno>
-    <POSTA>tdemirtuna@gmail.com</POSTA>
-    <TARIH>2026-04-16</TARIH>
-    <sipariszaman>03:05:59</sipariszaman>
-    <NET_TOPLAM>799.99000000</NET_TOPLAM>
-    <TeslimAlici>Tuğçe Özer</TeslimAlici>
-    <TeslimAdresi>Fikri Altay Mh. 6231 SK.  No:10 Acar Apartmanı Kat.5 D:9</TeslimAdresi>
-    <TeslimTelefon>+905305834196</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35560</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karşıyaka</teslimilce>
-    <faturaalici>Tuğçe Özer</faturaalici>
-    <faturaAdresi>Fikri Altay Mh. 6231 SK.  No:10 Acar Apartmanı Kat.5 D:9</faturaAdresi>
-    <faturaTelefon>+905305834196</faturaTelefon>
-    <faturavergino>11111111111</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35560</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karşıyaka</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828311</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YESWTRZ051_18</KOD>
-        <VARKOD>6YESWTRZ051_1818XL</VARKOD>
-        <SECENEK_DEGERI>6YESWTRZ051_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003530171</BARCODE>
-        <URUNADI>Erkek Kapüşonlu Üç İplik  Basic Sweatshirt</URUNADI>
-        <FATURA_ADI>Erkek Kapüşonlu Üç İplik  Basic Sweatshirt</FATURA_ADI>
-        <FIYAT>400.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YKATTN4215_18</KOD>
-        <VARKOD>3YKATTN4215_1818STD</VARKOD>
-        <SECENEK_DEGERI>3YKATTN4215_18_STD</SECENEK_DEGERI>
-        <BARCODE>6000002948410</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YKATTN4215_72</KOD>
-        <VARKOD>3YKATTN4215_7272STD</VARKOD>
-        <SECENEK_DEGERI>3YKATTN4215_72_STD</SECENEK_DEGERI>
-        <BARCODE>6000002948434</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Kolsuz Kaşkorse Atlet</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4KKTRTN9061_02</KOD>
-        <VARKOD>4KKTRTN9061_0202STN</VARKOD>
-        <SECENEK_DEGERI>4KKTRTN9061_02_STN</SECENEK_DEGERI>
-        <BARCODE>6000003188853</BARCODE>
-        <URUNADI>Kadın Gömlek Yaka Basic Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın Gömlek Yaka Basic Triko Kazak</FATURA_ADI>
-        <FIYAT>299.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
