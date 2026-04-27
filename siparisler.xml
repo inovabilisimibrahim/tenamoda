@@ -1,5 +1,149 @@
-﻿<!-- generated:2026-04-27T10:02:14 -->
+﻿<!-- generated:2026-04-27T10:07:28 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2870</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>10493786234</tcno>
+    <POSTA>kbraltn0@gmail.com</POSTA>
+    <TARIH>2026-04-27</TARIH>
+    <sipariszaman>10:01:24</sipariszaman>
+    <NET_TOPLAM>300.00000000</NET_TOPLAM>
+    <TeslimAlici>Kubra Altın</TeslimAlici>
+    <TeslimAdresi>Aydın kalfaköy mahallesi 152. Cadde no 22 A aydın merkez kampüs yeni acılan aydın öğrenci yurdu 1</TeslimAdresi>
+    <TeslimTelefon>+905526596250</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>09000</teslimPostaKodu>
+    <teslimil>Aydın</teslimil>
+    <teslimilce>Efeler</teslimilce>
+    <faturaalici>Kubra Altın</faturaalici>
+    <faturaAdresi>Aydın kalfaköy mahallesi 152. Cadde no 22 A aydın merkez kampüs yeni acılan aydın öğrenci yurdu 1</faturaAdresi>
+    <faturaTelefon>+905526596250</faturaTelefon>
+    <faturavergino>10493786234</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>09000</faturaPostaKodu>
+    <faturail>Aydın</faturail>
+    <faturailce>Efeler</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828701</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELTN1000_18</KOD>
+        <VARKOD>5YKELTN1000_1818M</VARKOD>
+        <SECENEK_DEGERI>5YKELTN1000_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003355620</BARCODE>
+        <URUNADI>Kadın Tek Omuz Yanı Drapeli Sandy Elbise</URUNADI>
+        <FATURA_ADI>Kadın Tek Omuz Yanı Drapeli Sandy Elbise</FATURA_ADI>
+        <FIYAT>200.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2869</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>27355965990</tcno>
+    <POSTA>obariskin@gmail.com</POSTA>
+    <TARIH>2026-04-27</TARIH>
+    <sipariszaman>10:01:21</sipariszaman>
+    <NET_TOPLAM>699.99000000</NET_TOPLAM>
+    <TeslimAlici>Özge Satıcı</TeslimAlici>
+    <TeslimAdresi>Türkoba mh.tepekent villaları kırlangıc sok no 5:1 5:1</TeslimAdresi>
+    <TeslimTelefon>+905324182409</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34320</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Büyükçekmece</teslimilce>
+    <faturaalici>Özge Satıcı</faturaalici>
+    <faturaAdresi>Türkoba mh.tepekent villaları kırlangıc sok no 5:1 5:1</faturaAdresi>
+    <faturaTelefon>+905324182409</faturaTelefon>
+    <faturavergino>27355965990</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34320</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Büyükçekmece</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828691</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKP66-5400_14</KOD>
+        <VARKOD>5KKP66-5400_1414S</VARKOD>
+        <SECENEK_DEGERI>5KKP66-5400_14_S</SECENEK_DEGERI>
+        <BARCODE>6000003424364</BARCODE>
+        <URUNADI>Kadın Beli Düğmeli Çift Dikişli Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Beli Düğmeli Çift Dikişli Pantolon</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2868</SIPARIS_NO>
     <CariHesapKodu>
