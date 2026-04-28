@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-28T03:04:59 -->
+﻿<!-- generated:2026-04-28T03:10:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2869</SIPARIS_NO>
@@ -483,6 +483,102 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2847</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>19486456676</tcno>
+    <POSTA>drpakize@gmail.com</POSTA>
+    <TARIH>2026-04-28</TARIH>
+    <sipariszaman>03:05:06</sipariszaman>
+    <NET_TOPLAM>1600.00000000</NET_TOPLAM>
+    <TeslimAlici>Pakize Özçiftci yılmaz</TeslimAlici>
+    <TeslimAdresi>Girne mah 2187 sokak Doktorlar sitesi no.2e efeler aydın 2e</TeslimAdresi>
+    <TeslimTelefon>+905063006761</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Aydın</teslimil>
+    <teslimilce>Efeler</teslimilce>
+    <faturaalici>Pakize Özçiftci yılmaz</faturaalici>
+    <faturaAdresi>Girne mah 2187 sokak Doktorlar sitesi no.2e efeler aydın 2e</faturaAdresi>
+    <faturaTelefon>+905063006761</faturaTelefon>
+    <faturavergino>19486456676</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Aydın</faturail>
+    <faturailce>Efeler</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828471</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKKZTN1897_70</KOD>
+        <VARKOD>5KKKZTN1897_7070STD</VARKOD>
+        <SECENEK_DEGERI>5KKKZTN1897_70_STD</SECENEK_DEGERI>
+        <BARCODE>6000003406469</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Kalın Manşetli Basic Kısa Şardonlu Triko Kazak</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Kalın Manşetli Basic Kısa Şardonlu Triko Kazak</FATURA_ADI>
+        <FIYAT>350.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKT18-5256_09</KOD>
+        <VARKOD>5KKT18-5256_0909STD</VARKOD>
+        <SECENEK_DEGERI>5KKT18-5256_09_STD</SECENEK_DEGERI>
+        <BARCODE>6000003400610</BARCODE>
+        <URUNADI>Kadın Saç Örgülü Etek Kazak Takım</URUNADI>
+        <FATURA_ADI>Kadın Saç Örgülü Etek Kazak Takım</FATURA_ADI>
+        <FIYAT>600.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KKT18-5256_18</KOD>
+        <VARKOD>5KKT18-5256_1818STD</VARKOD>
+        <SECENEK_DEGERI>5KKT18-5256_18_STD</SECENEK_DEGERI>
+        <BARCODE>6000003400627</BARCODE>
+        <URUNADI>Kadın Saç Örgülü Etek Kazak Takım</URUNADI>
+        <FATURA_ADI>Kadın Saç Örgülü Etek Kazak Takım</FATURA_ADI>
+        <FIYAT>600.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
