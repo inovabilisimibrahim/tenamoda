@@ -1,5 +1,90 @@
-﻿<!-- generated:2026-04-29T09:04:59 -->
+﻿<!-- generated:2026-04-29T09:10:07 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2871</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>23447369042</tcno>
+    <POSTA>onurimer@pomzaexport.com</POSTA>
+    <TARIH>2026-04-29</TARIH>
+    <sipariszaman>09:05:43</sipariszaman>
+    <NET_TOPLAM>899.98000000</NET_TOPLAM>
+    <TeslimAlici>Onur İMER</TeslimAlici>
+    <TeslimAdresi>SAĞLIK MAH.GÖKÇEPINAR CAD.YENİKENT SİTESi B blok No:2/6</TeslimAdresi>
+    <TeslimTelefon>+905322258171</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>45310</teslimPostaKodu>
+    <teslimil>Manisa</teslimil>
+    <teslimilce>Salihli</teslimilce>
+    <faturaalici>Onur İMER</faturaalici>
+    <faturaAdresi>SAĞLIK MAH.GÖKÇEPINAR CAD.YENİKENT SİTESi B blok No:2/6</faturaAdresi>
+    <faturaTelefon>+905322258171</faturaTelefon>
+    <faturavergino>23447369042</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>45310</faturaPostaKodu>
+    <faturail>Manisa</faturail>
+    <faturailce>Salihli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828711</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSTUR191_53</KOD>
+        <VARKOD>6YETSTUR191_5353XL</VARKOD>
+        <SECENEK_DEGERI>6YETSTUR191_53_XL</SECENEK_DEGERI>
+        <BARCODE>6000003512801</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Modal Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Modal Basic Tişört</FATURA_ADI>
+        <FIYAT>399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSTUR191_08</KOD>
+        <VARKOD>6YETSTUR191_0808XL</VARKOD>
+        <SECENEK_DEGERI>6YETSTUR191_08_XL</SECENEK_DEGERI>
+        <BARCODE>6000003512689</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Modal Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Modal Basic Tişört</FATURA_ADI>
+        <FIYAT>399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2869</SIPARIS_NO>
     <CariHesapKodu>
