@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-30T16:49:28 -->
+﻿<!-- generated:2026-04-30T16:54:42 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2871</SIPARIS_NO>
@@ -356,99 +356,6 @@
         <URUNADI>Kadın Boyundan Geçmeli Modal Ribana Atlet</URUNADI>
         <FATURA_ADI>Kadın Boyundan Geçmeli Modal Ribana Atlet</FATURA_ADI>
         <FIYAT>299.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2861</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>26491865270</tcno>
-    <POSTA>dismustafa@gmail.com</POSTA>
-    <TARIH>2026-04-20</TARIH>
-    <sipariszaman>16:50:31</sipariszaman>
-    <NET_TOPLAM>2699.96000000</NET_TOPLAM>
-    <TeslimAlici>Mustafa Diş</TeslimAlici>
-    <TeslimAdresi>Yirmiikigün Mah. 91010. Sok. Ulus Sts. A Blok BlokNo:2A Kat:2 Daire:3</TeslimAdresi>
-    <TeslimTelefon>+905412101717</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>46050</teslimPostaKodu>
-    <teslimil>Kahramanmaraş</teslimil>
-    <teslimilce>Onikişubat</teslimilce>
-    <faturaalici>Mustafa Diş</faturaalici>
-    <faturaAdresi>Yirmiikigün Mah. 91010. Sok. Ulus Sts. A Blok BlokNo:2A Kat:2 Daire:3</faturaAdresi>
-    <faturaTelefon>+905412101717</faturaTelefon>
-    <faturavergino>26491865270</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>46050</faturaPostaKodu>
-    <faturail>Kahramanmaraş</faturail>
-    <faturailce>Onikişubat</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>6048929311588</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>6YE12-10151_B23_L</SECENEK_DEGERI>
-        <BARCODE>6000003458536</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>674.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YE12-10151_02</KOD>
-        <VARKOD>6YE12-10151_0202L</VARKOD>
-        <SECENEK_DEGERI>6YE12-10151_02_L</SECENEK_DEGERI>
-        <BARCODE>6000003458437</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>674.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>6YE12-10151_670_L</SECENEK_DEGERI>
-        <BARCODE>6000003458185</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>674.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YE12-10151_B02</KOD>
-        <VARKOD>6YE12-10151_B02B02L</VARKOD>
-        <SECENEK_DEGERI>6YE12-10151_B02_L</SECENEK_DEGERI>
-        <BARCODE>6000003458581</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>674.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
