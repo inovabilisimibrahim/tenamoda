@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-04-30T03:03:29 -->
+﻿<!-- generated:2026-04-30T03:08:50 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2871</SIPARIS_NO>
@@ -566,6 +566,104 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2848</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>62428447782</tcno>
+    <POSTA>mr.memodyy@gmail.com</POSTA>
+    <TARIH>2026-04-30</TARIH>
+    <sipariszaman>03:05:40</sipariszaman>
+    <NET_TOPLAM>1499.96000000</NET_TOPLAM>
+    <TeslimAlici>Mehmet Doğanyıldız</TeslimAlici>
+    <TeslimAdresi>5685/1 sokak no:16 kat:3 sarıyer mah Ev</TeslimAdresi>
+    <TeslimTelefon>+905445670070</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35110</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Mehmet Doğanyıldız</faturaalici>
+    <faturaAdresi>5685/1 sokak no:16 kat:3 sarıyer mah Ev</faturaAdresi>
+    <faturaTelefon>+905445670070</faturaTelefon>
+    <faturavergino>62428447782</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35110</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828481</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSCL4838_01</KOD>
+        <VARKOD>6YETSCL4838_0101L</VARKOD>
+        <SECENEK_DEGERI>6YETSCL4838_01_L</SECENEK_DEGERI>
+        <BARCODE>6000003518728</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
+        <FIYAT>483.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSCL4838_010</KOD>
+        <VARKOD>6YETSCL4838_010010L</VARKOD>
+        <SECENEK_DEGERI>6YETSCL4838_010_L</SECENEK_DEGERI>
+        <BARCODE>6000003518780</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
+        <FIYAT>483.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSCL4838_18</KOD>
+        <VARKOD>6YETSCL4838_1818L</VARKOD>
+        <SECENEK_DEGERI>6YETSCL4838_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003518841</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
+        <FIYAT>483.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
