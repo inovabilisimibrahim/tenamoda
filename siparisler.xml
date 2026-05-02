@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-02T12:22:35 -->
+﻿<!-- generated:2026-05-02T12:27:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2874</SIPARIS_NO>
@@ -1157,6 +1157,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>9YETS2002-0_18</KOD>
+        <VARKOD>9YETS2002-0_1818XL</VARKOD>
         <SECENEK_DEGERI>9YETS2002-0_18_XL</SECENEK_DEGERI>
         <BARCODE>6000002060839</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
