@@ -1,5 +1,93 @@
-﻿<!-- generated:2026-05-04T09:06:46 -->
+﻿<!-- generated:2026-05-04T09:12:02 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2875</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>burakersin678@gmail.com</POSTA>
+    <TARIH>2026-05-04</TARIH>
+    <sipariszaman>09:09:15</sipariszaman>
+    <NET_TOPLAM>1099.97000000</NET_TOPLAM>
+    <TeslimAlici>Burak Ersin</TeslimAlici>
+    <TeslimAdresi>Imbatli mahallesi 6070 sokak no22 1. Giris ,kat:9 daire no:141 ,umsan yalcinlar apartmani</TeslimAdresi>
+    <TeslimTelefon>+905510671988</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35575</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karşıyaka</teslimilce>
+    <faturaalici>Burak Ersin</faturaalici>
+    <faturaAdresi>Imbatli mahallesi 6070 sokak no22 1. Giris ,kat:9 daire no:141 ,umsan yalcinlar apartmani</faturaAdresi>
+    <faturaTelefon>+905510671988</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35575</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karşıyaka</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828751</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSTNNWP4_18</KOD>
+        <VARKOD>6YETSTNNWP4_1818L</VARKOD>
+        <SECENEK_DEGERI>6YETSTNNWP4_18_L</SECENEK_DEGERI>
+        <BARCODE>6000003494626</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Basic Ay Parçası Yırtmaçlı İki Düğmeli Tişört</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETS4065-1_02</KOD>
+        <VARKOD>6YETS4065-1_0202L</VARKOD>
+        <SECENEK_DEGERI>6YETS4065-1_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003479968</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETSWL2112_01</KOD>
+        <VARKOD>6YETSWL2112_0101L</VARKOD>
+        <SECENEK_DEGERI>6YETSWL2112_01_L</SECENEK_DEGERI>
+        <BARCODE>6000003480063</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Ottoman Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Ottoman Basic Tişört</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2874</SIPARIS_NO>
     <CariHesapKodu>
