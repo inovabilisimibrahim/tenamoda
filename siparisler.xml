@@ -1,5 +1,128 @@
-﻿<!-- generated:2026-05-06T09:04:16 -->
+﻿<!-- generated:2026-05-06T09:09:25 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2876</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>15721266314</tcno>
+    <POSTA>gursesmeral0@gmail.com</POSTA>
+    <TARIH>2026-05-06</TARIH>
+    <sipariszaman>09:05:51</sipariszaman>
+    <NET_TOPLAM>3999.94000000</NET_TOPLAM>
+    <TeslimAlici>Viranşehir  mah .34308 sokak no. 5  beydağ apt. Kat.3 Gürses</TeslimAlici>
+    <TeslimAdresi>Viranşehir, 34308. Sk. Beydağı</TeslimAdresi>
+    <TeslimTelefon>+905355089372</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>33340</teslimPostaKodu>
+    <teslimil>Mersin</teslimil>
+    <teslimilce>Mezitli</teslimilce>
+    <faturaalici>Viranşehir  mah .34308 sokak no. 5  beydağ apt. Kat.3 Gürses</faturaalici>
+    <faturaAdresi>Viranşehir, 34308. Sk. Beydağı</faturaAdresi>
+    <faturaTelefon>+905355089372</faturaTelefon>
+    <faturavergino>15721266314</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>33340</faturaPostaKodu>
+    <faturail>Mersin</faturail>
+    <faturailce>Mezitli</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914828761</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKYLT39043_U01</KOD>
+        <VARKOD>4YKYLT39043_U01U01S</VARKOD>
+        <SECENEK_DEGERI>4YKYLT39043_U01_S</SECENEK_DEGERI>
+        <BARCODE>6000003075672</BARCODE>
+        <URUNADI>Kadın Balık Sırtı Gabardin Kumaş Önü Düğmeli Yelek</URUNADI>
+        <FATURA_ADI>Kadın Balık Sırtı Gabardin Kumaş Önü Düğmeli Yelek</FATURA_ADI>
+        <FIYAT>292.67000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKB17-1290_18</KOD>
+        <VARKOD>5YKB17-1290_1818S</VARKOD>
+        <SECENEK_DEGERI>5YKB17-1290_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003285057</BARCODE>
+        <URUNADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</URUNADI>
+        <FATURA_ADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</FATURA_ADI>
+        <FIYAT>97.56000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YK37-10762_58</KOD>
+        <VARKOD>6YK37-10762_5858S</VARKOD>
+        <SECENEK_DEGERI>6YK37-10762_58_S</SECENEK_DEGERI>
+        <BARCODE>6000003492172</BARCODE>
+        <URUNADI>Gold Tek Düğmeli Floş Saten Ceket</URUNADI>
+        <FATURA_ADI>Gold Tek Düğmeli Floş Saten Ceket</FATURA_ADI>
+        <FIYAT>1365.84000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YK66-10763_58</KOD>
+        <VARKOD>6YK66-10763_5858S</VARKOD>
+        <SECENEK_DEGERI>6YK66-10763_58_S</SECENEK_DEGERI>
+        <BARCODE>6000003492448</BARCODE>
+        <URUNADI>Beli Fular Kemerli Floş Saten Bol Paça Pantolon</URUNADI>
+        <FATURA_ADI>Beli Fular Kemerli Floş Saten Bol Paça Pantolon</FATURA_ADI>
+        <FIYAT>1365.84000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNT36127_U01</KOD>
+        <VARKOD>4YKPNT36127_U01U01M</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36127_U01_M</SECENEK_DEGERI>
+        <BARCODE>6000003077577</BARCODE>
+        <URUNADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Paça Pileli Bel Cep Detaylı Balıksırtı Gabardin Pantolon</FATURA_ADI>
+        <FIYAT>292.67000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKELD90519_MT5</KOD>
+        <VARKOD>4YKELD90519_MT5MT536</VARKOD>
+        <SECENEK_DEGERI>4YKELD90519_MT5_36</SECENEK_DEGERI>
+        <BARCODE>6000003169166</BARCODE>
+        <URUNADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</FATURA_ADI>
+        <FIYAT>585.36000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2875</SIPARIS_NO>
     <CariHesapKodu>
