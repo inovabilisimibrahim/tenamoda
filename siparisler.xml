@@ -1,5 +1,174 @@
-﻿<!-- generated:2026-05-07T09:20:35 -->
+﻿<!-- generated:2026-05-07T09:25:50 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2878</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>canmerve729@gmail.com</POSTA>
+    <TARIH>2026-05-07</TARIH>
+    <sipariszaman>09:22:59</sipariszaman>
+    <NET_TOPLAM>2199.97000000</NET_TOPLAM>
+    <TeslimAlici>Merve Kesici</TeslimAlici>
+    <TeslimAdresi>Basınsitesi mahallesi 175/4 sokak no.2 daire.11 Karabağlar/izmir</TeslimAdresi>
+    <TeslimTelefon>+905533159559</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Merve Kesici</faturaalici>
+    <faturaAdresi>Basınsitesi mahallesi 175/4 sokak no.2 daire.11 Karabağlar/izmir</faturaAdresi>
+    <faturaTelefon>+905533159559</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914828781</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YE12-10151_02</KOD>
+        <VARKOD>6YE12-10151_0202XL</VARKOD>
+        <SECENEK_DEGERI>6YE12-10151_02_XL</SECENEK_DEGERI>
+        <BARCODE>6000003458468</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YE12-10151_B02</KOD>
+        <VARKOD>6YE12-10151_B02B02L</VARKOD>
+        <SECENEK_DEGERI>6YE12-10151_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003458581</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNT36153_05</KOD>
+        <VARKOD>4YKPNT36153_0505M</VARKOD>
+        <SECENEK_DEGERI>4YKPNT36153_05_M</SECENEK_DEGERI>
+        <BARCODE>6000003099005</BARCODE>
+        <URUNADI>Kadın Kısa Palazzo Poplin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Kısa Palazzo Poplin Pantolon</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1789_08</KOD>
+        <VARKOD>5YKG16-1789_0808S</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1789_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003364950</BARCODE>
+        <URUNADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Bel Oturtmalı Bel Düğme Detaylı Gömlek</FATURA_ADI>
+        <FIYAT>500.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2877</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>24094672936</tcno>
+    <POSTA>pinarkezer21@icloud.com</POSTA>
+    <TARIH>2026-05-07</TARIH>
+    <sipariszaman>09:21:57</sipariszaman>
+    <NET_TOPLAM>850.00000000</NET_TOPLAM>
+    <TeslimAlici>Pınar  Kezer</TeslimAlici>
+    <TeslimAdresi>Diyarbakır/ yenişehir Adalet ap. Kat:3 daireno:13 Yenişehir mahallesi lise cd. 2.sokak </TeslimAdresi>
+    <TeslimTelefon>+905301121721</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>00021</teslimPostaKodu>
+    <teslimil>Diyarbakır</teslimil>
+    <teslimilce>Yenişehir</teslimilce>
+    <faturaalici>Pınar  Kezer</faturaalici>
+    <faturaAdresi>Diyarbakır/ yenişehir Adalet ap. Kat:3 daireno:13 Yenişehir mahallesi lise cd. 2.sokak </faturaAdresi>
+    <faturaTelefon>+905301121721</faturaTelefon>
+    <faturavergino>24094672936</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>00021</faturaPostaKodu>
+    <faturail>Diyarbakır</faturail>
+    <faturailce>Yenişehir</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828771</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKTKTN2533_DLC</KOD>
+        <VARKOD>5YKTKTN2533_DLCDLCM</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2533_DLC_M</SECENEK_DEGERI>
+        <BARCODE>6000003297289</BARCODE>
+        <URUNADI>Kadın Şifon Bluz Saten Pantolon Takım</URUNADI>
+        <FATURA_ADI>Kadın Şifon Bluz Saten Pantolon Takım</FATURA_ADI>
+        <FIYAT>750.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2876</SIPARIS_NO>
     <CariHesapKodu>
