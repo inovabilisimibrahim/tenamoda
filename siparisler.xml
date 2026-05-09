@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-09T03:02:24 -->
+﻿<!-- generated:2026-05-09T03:07:42 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2878</SIPARIS_NO>
@@ -611,6 +611,171 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2859</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>21082971224</tcno>
+    <POSTA>kilicoglu06@hotmail.com</POSTA>
+    <TARIH>2026-05-09</TARIH>
+    <sipariszaman>03:05:15</sipariszaman>
+    <NET_TOPLAM>1449.98000000</NET_TOPLAM>
+    <TeslimAlici>mehmet kılıçoğlu</TeslimAlici>
+    <TeslimAdresi>Atakent mahallesi 219.sk istanbul lounge 1 sitesi b1 blok daire:28 Istanbul lounge 1</TeslimAdresi>
+    <TeslimTelefon>+905055653953</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>34307</teslimPostaKodu>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Küçükçekmece</teslimilce>
+    <faturaalici>mehmet kılıçoğlu</faturaalici>
+    <faturaAdresi>Atakent mahallesi 219.sk istanbul lounge 1 sitesi b1 blok daire:28 Istanbul lounge 1</faturaAdresi>
+    <faturaTelefon>+905055653953</faturaTelefon>
+    <faturavergino>21082971224</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>34307</faturaPostaKodu>
+    <faturail>İstanbul</faturail>
+    <faturailce>Küçükçekmece</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828591</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>6YE12-10234_134_XL</SECENEK_DEGERI>
+        <BARCODE>6000003458963</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>6YE12-10234_Y48_XL</SECENEK_DEGERI>
+        <BARCODE>6000003459519</BARCODE>
+        <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2858</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>islmdmr47@gmail.com</POSTA>
+    <TARIH>2026-05-09</TARIH>
+    <sipariszaman>03:02:56</sipariszaman>
+    <NET_TOPLAM>2699.96000000</NET_TOPLAM>
+    <TeslimAlici>İslam Demir</TeslimAlici>
+    <TeslimAdresi>Seyitler Yılmaz güney cad. No :27\7 Bülbül apt</TeslimAdresi>
+    <TeslimTelefon>+905344158272</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>47500</teslimPostaKodu>
+    <teslimil>Mardin</teslimil>
+    <teslimilce>Midyat</teslimilce>
+    <faturaalici>İslam Demir</faturaalici>
+    <faturaAdresi>Seyitler Yılmaz güney cad. No :27\7 Bülbül apt</faturaAdresi>
+    <faturaTelefon>+905344158272</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>47500</faturaPostaKodu>
+    <faturail>Mardin</faturail>
+    <faturailce>Midyat</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914828581</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>6YE12-10151_B23_M</SECENEK_DEGERI>
+        <BARCODE>6000003458543</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YE12-10151_18</KOD>
+        <VARKOD>6YE12-10151_1818M</VARKOD>
+        <SECENEK_DEGERI>6YE12-10151_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003458246</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>2.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YE12-10151_B02</KOD>
+        <VARKOD>6YE12-10151_B02B02M</VARKOD>
+        <SECENEK_DEGERI>6YE12-10151_B02_M</SECENEK_DEGERI>
+        <BARCODE>6000003458598</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
