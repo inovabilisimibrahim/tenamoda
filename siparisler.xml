@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-11T15:51:06 -->
+﻿<!-- generated:2026-05-11T15:56:15 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2880</SIPARIS_NO>
@@ -1087,6 +1087,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKGMT34147_U01</KOD>
+        <VARKOD>4YKGMT34147_U01U01L</VARKOD>
         <SECENEK_DEGERI>4YKGMT34147_U01_L</SECENEK_DEGERI>
         <BARCODE>6000003075689</BARCODE>
         <URUNADI>Kadın Oversize Basic Balık Sırtı Gabardin Gömlek</URUNADI>
