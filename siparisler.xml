@@ -1,5 +1,92 @@
-﻿<!-- generated:2026-05-12T10:07:44 -->
+﻿<!-- generated:2026-05-12T10:12:56 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2883</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>osmanyildiz18@gmail.com</POSTA>
+    <TARIH>2026-05-12</TARIH>
+    <sipariszaman>10:07:44</sipariszaman>
+    <NET_TOPLAM>1349.99000000</NET_TOPLAM>
+    <TeslimAlici>Osman YILDIZ</TeslimAlici>
+    <TeslimAdresi>Mehmet Akif Ersoy Mahallesi 152 Sokak No:14 Daire:2</TeslimAdresi>
+    <TeslimTelefon>+905372371809</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35700</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Kemalpaşa</teslimilce>
+    <faturaalici>Osman YILDIZ</faturaalici>
+    <faturaAdresi>Mehmet Akif Ersoy Mahallesi 152 Sokak No:14 Daire:2</faturaAdresi>
+    <faturaTelefon>+905372371809</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35700</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Kemalpaşa</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828831</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YE12-10151_09</KOD>
+        <VARKOD>6YE12-10151_0909XL</VARKOD>
+        <SECENEK_DEGERI>6YE12-10151_09_XL</SECENEK_DEGERI>
+        <BARCODE>6000003458314</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5KEHRTNE204_X23</KOD>
+        <VARKOD>5KEHRTNE204_X23X23XL</VARKOD>
+        <SECENEK_DEGERI>5KEHRTNE204_X23_XL</SECENEK_DEGERI>
+        <BARCODE>6000003404038</BARCODE>
+        <URUNADI>Erkek Double Face Akrilik Fermuarlı Hırka</URUNADI>
+        <FATURA_ADI>Erkek Double Face Akrilik Fermuarlı Hırka</FATURA_ADI>
+        <FIYAT>600.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2882</SIPARIS_NO>
     <CariHesapKodu>
