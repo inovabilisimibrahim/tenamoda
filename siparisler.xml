@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-15T14:44:03 -->
+﻿<!-- generated:2026-05-15T14:49:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2887</SIPARIS_NO>
@@ -302,6 +302,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YETS2123-1_18</KOD>
+        <VARKOD>6YETS2123-1_1818XL</VARKOD>
         <SECENEK_DEGERI>6YETS2123-1_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003477940</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka OVERDOSE Baskılı Modal Tişört</URUNADI>
