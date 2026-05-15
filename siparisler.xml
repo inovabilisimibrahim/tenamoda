@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-15T10:38:31 -->
+﻿<!-- generated:2026-05-15T10:43:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2887</SIPARIS_NO>
@@ -923,77 +923,6 @@
         <URUNADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</URUNADI>
         <FATURA_ADI>Kadın Önü Ve Arkası Açık Uzun Denim Elbise</FATURA_ADI>
         <FIYAT>585.36000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2873</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>40807061040</tcno>
-    <POSTA>sencerkazak@hotmail.com</POSTA>
-    <TARIH>2026-05-05</TARIH>
-    <sipariszaman>10:39:00</sipariszaman>
-    <NET_TOPLAM>1329.98000000</NET_TOPLAM>
-    <TeslimAlici>Fatih  Kazak</TeslimAlici>
-    <TeslimAdresi>Fatih mahallesi 1948-2 sokak no.42 </TeslimAdresi>
-    <TeslimTelefon>+905063306845</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>Denizli</teslimil>
-    <teslimilce>Pamukkale</teslimilce>
-    <faturaalici>Fatih  Kazak</faturaalici>
-    <faturaAdresi>Fatih mahallesi 1948-2 sokak no.42 </faturaAdresi>
-    <faturaTelefon>+905063306845</faturaTelefon>
-    <faturavergino>40807061040</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>Denizli</faturail>
-    <faturailce>Pamukkale</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
-    <tasiyicifirma>mng</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>6052503095377</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YE12-10151_02</KOD>
-        <VARKOD>6YE12-10151_0202XL</VARKOD>
-        <SECENEK_DEGERI>6YE12-10151_02_XL</SECENEK_DEGERI>
-        <BARCODE>6000003458468</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>664.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YE12-10151_670</KOD>
-        <VARKOD>6YE12-10151_670670XL</VARKOD>
-        <SECENEK_DEGERI>6YE12-10151_670_XL</SECENEK_DEGERI>
-        <BARCODE>6000003458215</BARCODE>
-        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
-        <FIYAT>664.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
