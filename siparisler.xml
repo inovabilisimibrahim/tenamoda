@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-18T09:31:16 -->
+﻿<!-- generated:2026-05-18T09:36:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2891</SIPARIS_NO>
@@ -140,8 +140,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YE12-10151_B02</KOD>
-        <VARKOD>6YE12-10151_B02B02S</VARKOD>
         <SECENEK_DEGERI>6YE12-10151_B02_S</SECENEK_DEGERI>
         <BARCODE>6000003458604</BARCODE>
         <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
@@ -614,8 +612,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YETS2123-1_18</KOD>
-        <VARKOD>6YETS2123-1_1818XL</VARKOD>
         <SECENEK_DEGERI>6YETS2123-1_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003477940</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka OVERDOSE Baskılı Modal Tişört</URUNADI>
@@ -1401,8 +1397,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YE12-10234_24</KOD>
-        <VARKOD>6YE12-10234_2424L</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_24_L</SECENEK_DEGERI>
         <BARCODE>6000003459038</BARCODE>
         <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
