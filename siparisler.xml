@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-22T15:19:24 -->
+﻿<!-- generated:2026-05-22T15:24:37 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2896</SIPARIS_NO>
@@ -992,78 +992,6 @@
         <URUNADI>V Yaka Basic Gömlek</URUNADI>
         <FATURA_ADI>V Yaka Basic Gömlek</FATURA_ADI>
         <FIYAT>664.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2880</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>binnurcemcem@gmail.com</POSTA>
-    <TARIH>2026-05-12</TARIH>
-    <sipariszaman>15:21:20</sipariszaman>
-    <NET_TOPLAM>999.99000000</NET_TOPLAM>
-    <TeslimAlici>Binnur Çınar</TeslimAlici>
-    <TeslimAdresi>Şemikler mah. 6182 sok. No 27 yılmaz apt. Da4 karşıyaka/izmir No 27 yılmaz apt. Da 4</TeslimAdresi>
-    <TeslimTelefon>+905404504044</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35600</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karşıyaka</teslimilce>
-    <faturaalici>Binnur Çınar</faturaalici>
-    <faturaAdresi>Şemikler mah. 6182 sok. No 27 yılmaz apt. Da4 karşıyaka/izmir No 27 yılmaz apt. Da 4</faturaAdresi>
-    <faturaTelefon>+905404504044</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35600</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karşıyaka</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828801</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YESRT102VF_05_36</SECENEK_DEGERI>
-        <BARCODE>6000003308244</BARCODE>
-        <URUNADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
