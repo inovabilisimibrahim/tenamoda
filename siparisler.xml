@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-22T12:53:05 -->
+﻿<!-- generated:2026-05-22T12:58:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2896</SIPARIS_NO>
@@ -699,6 +699,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKBLTN5780_18</KOD>
+        <VARKOD>4YKBLTN5780_1818S</VARKOD>
         <SECENEK_DEGERI>4YKBLTN5780_18_S</SECENEK_DEGERI>
         <BARCODE>6000003150317</BARCODE>
         <URUNADI>Kadın Gömlek Yaka Düşük Kol Bluz</URUNADI>
