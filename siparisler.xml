@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-29T13:56:49 -->
+﻿<!-- generated:2026-05-29T14:01:59 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2896</SIPARIS_NO>
@@ -479,77 +479,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2888</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>27998024696</tcno>
-    <POSTA>esra35culum@gmail.com</POSTA>
-    <TARIH>2026-05-19</TARIH>
-    <sipariszaman>14:00:36</sipariszaman>
-    <NET_TOPLAM>1199.98000000</NET_TOPLAM>
-    <TeslimAlici>Ayşe Küçük</TeslimAlici>
-    <TeslimAdresi>479 sokak no 7 daire1 özcan apartmanı hürriyet mahallesi buca izmir  Özcan apartmanı</TeslimAdresi>
-    <TeslimTelefon>+905428456504</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35370</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Ayşe Küçük</faturaalici>
-    <faturaAdresi>479 sokak no 7 daire1 özcan apartmanı hürriyet mahallesi buca izmir  Özcan apartmanı</faturaAdresi>
-    <faturaTelefon>+905428456504</faturaTelefon>
-    <faturavergino>27998024696</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35370</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828881</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>4YKPNTN4228_05_XL</SECENEK_DEGERI>
-        <BARCODE>6000003078871</BARCODE>
-        <URUNADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>599.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>4YKPNTN4228_08</KOD>
-        <VARKOD>4YKPNTN4228_0808XL</VARKOD>
-        <SECENEK_DEGERI>4YKPNTN4228_08_XL</SECENEK_DEGERI>
-        <BARCODE>6000003078970</BARCODE>
-        <URUNADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</URUNADI>
-        <FATURA_ADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</FATURA_ADI>
-        <FIYAT>599.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
