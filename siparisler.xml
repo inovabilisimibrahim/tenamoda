@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-05-31T13:00:47 -->
+﻿<!-- generated:2026-05-31T13:06:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2896</SIPARIS_NO>
@@ -240,76 +240,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2893</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>36091451650</tcno>
-    <POSTA>ilaydacakirr320@gmail.com</POSTA>
-    <TARIH>2026-05-21</TARIH>
-    <sipariszaman>13:01:47</sipariszaman>
-    <NET_TOPLAM>1249.99000000</NET_TOPLAM>
-    <TeslimAlici>İlayda  Çakır</TeslimAlici>
-    <TeslimAdresi>Bostanlı Mah. İsmet Yazar Sok. No:23 D:2 Durusoy Apt. Daire girişi binanın sağında</TeslimAdresi>
-    <TeslimTelefon>+905448940594</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35590</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karşıyaka</teslimilce>
-    <faturaalici>İlayda  Çakır</faturaalici>
-    <faturaAdresi>Bostanlı Mah. İsmet Yazar Sok. No:23 D:2 Durusoy Apt. Daire girişi binanın sağında</faturaAdresi>
-    <faturaTelefon>+905448940594</faturaTelefon>
-    <faturavergino>36091451650</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35590</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Karşıyaka</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828931</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>6YK18-10586_123_S</SECENEK_DEGERI>
-        <BARCODE>6000003489868</BARCODE>
-        <URUNADI>171 Yaka Boncuk Aksesuarlı Bol Paça Pantolonlu Modal Takım</URUNADI>
-        <FATURA_ADI>171 Yaka Boncuk Aksesuarlı Bol Paça Pantolonlu Modal Takım</FATURA_ADI>
-        <FIYAT>1199.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
