@@ -1,5 +1,163 @@
-﻿<!-- generated:2026-06-06T16:27:51 -->
+﻿<!-- generated:2026-06-06T16:33:11 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2913</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>40231810054</tcno>
+    <POSTA>y.dgrr3573@gmail.com</POSTA>
+    <TARIH>2026-06-06</TARIH>
+    <sipariszaman>16:31:35</sipariszaman>
+    <NET_TOPLAM>1399.98000000</NET_TOPLAM>
+    <TeslimAlici>yusuf doğru</TeslimAlici>
+    <TeslimAdresi>6058 sokak no 10 egemenlik mah Işıkkent Bornova İzmir  Müstakil </TeslimAdresi>
+    <TeslimTelefon>+905442115979</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35075</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bornova</teslimilce>
+    <faturaalici>yusuf doğru</faturaalici>
+    <faturaAdresi>6058 sokak no 10 egemenlik mah Işıkkent Bornova İzmir  Müstakil </faturaAdresi>
+    <faturaTelefon>+905442115979</faturaTelefon>
+    <faturavergino>40231810054</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35075</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bornova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829131</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YESFEAT105_010</KOD>
+        <VARKOD>5YESFEAT105_010010L</VARKOD>
+        <SECENEK_DEGERI>5YESFEAT105_010_L</SECENEK_DEGERI>
+        <BARCODE>6000003253544</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YESFEAT105_07</KOD>
+        <VARKOD>5YESFEAT105_0707L</VARKOD>
+        <SECENEK_DEGERI>5YESFEAT105_07_L</SECENEK_DEGERI>
+        <BARCODE>6000003253643</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2912</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>dondugumus5252@gmail.com</POSTA>
+    <TARIH>2026-06-06</TARIH>
+    <sipariszaman>16:31:33</sipariszaman>
+    <NET_TOPLAM>1399.98000000</NET_TOPLAM>
+    <TeslimAlici>Döndü Gümüş</TeslimAlici>
+    <TeslimAdresi>Sahincilli mah 534 skk no 20 Selçuklu sitesi A bilok daire 1 kat 1</TeslimAdresi>
+    <TeslimTelefon>+905425437285</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Ordu</teslimil>
+    <teslimilce>Altınordu</teslimilce>
+    <faturaalici>Döndü Gümüş</faturaalici>
+    <faturaAdresi>Sahincilli mah 534 skk no 20 Selçuklu sitesi A bilok daire 1 kat 1</faturaAdresi>
+    <faturaTelefon>+905425437285</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Ordu</faturail>
+    <faturailce>Altınordu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829121</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKETYE4450_14</KOD>
+        <VARKOD>5YKETYE4450_1414M</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_14_M</SECENEK_DEGERI>
+        <BARCODE>6000003348585</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_08</KOD>
+        <VARKOD>5YKETYE4450_0808M</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_08_M</SECENEK_DEGERI>
+        <BARCODE>6000003348523</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>674.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2911</SIPARIS_NO>
     <CariHesapKodu>
