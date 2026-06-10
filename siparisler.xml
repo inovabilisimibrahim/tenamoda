@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-10T03:00:28 -->
+﻿<!-- generated:2026-06-10T03:05:45 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2913</SIPARIS_NO>
@@ -930,6 +930,78 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2880</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>binnurcemcem@gmail.com</POSTA>
+    <TARIH>2026-06-10</TARIH>
+    <sipariszaman>03:03:02</sipariszaman>
+    <NET_TOPLAM>999.99000000</NET_TOPLAM>
+    <TeslimAlici>Binnur Çınar</TeslimAlici>
+    <TeslimAdresi>Şemikler mah. 6182 sok. No 27 yılmaz apt. Da4 karşıyaka/izmir No 27 yılmaz apt. Da 4</TeslimAdresi>
+    <TeslimTelefon>+905404504044</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35600</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karşıyaka</teslimilce>
+    <faturaalici>Binnur Çınar</faturaalici>
+    <faturaAdresi>Şemikler mah. 6182 sok. No 27 yılmaz apt. Da4 karşıyaka/izmir No 27 yılmaz apt. Da 4</faturaAdresi>
+    <faturaTelefon>+905404504044</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35600</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karşıyaka</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828801</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>5YESRT102VF_05_36</SECENEK_DEGERI>
+        <BARCODE>6000003308244</BARCODE>
+        <URUNADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</URUNADI>
+        <FATURA_ADI>Erkek Beli Ribanalı Örme Parça Boya Kargo Şort</FATURA_ADI>
+        <FIYAT>899.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2879</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -1092,76 +1164,6 @@
         <URUNADI>Kadın Şifon Bluz Saten Pantolon Takım</URUNADI>
         <FATURA_ADI>Kadın Şifon Bluz Saten Pantolon Takım</FATURA_ADI>
         <FIYAT>750.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2874</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>dilaraok65@gmail.com</POSTA>
-    <TARIH>2026-05-31</TARIH>
-    <sipariszaman>03:03:22</sipariszaman>
-    <NET_TOPLAM>399.99000000</NET_TOPLAM>
-    <TeslimAlici>Dilara Ok</TeslimAlici>
-    <TeslimAdresi>Akasyalar sk.Kale apt.No 14.d.15 silivri istanbul Kale apt..No 12.daire 15</TeslimAdresi>
-    <TeslimTelefon>+905395040585</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Silivri</teslimilce>
-    <faturaalici>Dilara Ok</faturaalici>
-    <faturaAdresi>Akasyalar sk.Kale apt.No 14.d.15 silivri istanbul Kale apt..No 12.daire 15</faturaAdresi>
-    <faturaTelefon>+905395040585</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Silivri</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828741</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>2KKTRTN7055_08_STN</SECENEK_DEGERI>
-        <BARCODE>6000002861429</BARCODE>
-        <URUNADI>Kadın V Yaka Salaş Triko Kazak</URUNADI>
-        <FATURA_ADI>Kadın V Yaka Salaş Triko Kazak</FATURA_ADI>
-        <FIYAT>299.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
