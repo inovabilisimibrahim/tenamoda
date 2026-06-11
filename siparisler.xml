@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-11T14:53:50 -->
+﻿<!-- generated:2026-06-11T14:59:02 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2920</SIPARIS_NO>
@@ -922,8 +922,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <SECENEK_DEGERI>5YK67-10298_09_L</SECENEK_DEGERI>
-        <BARCODE>6000003452732</BARCODE>
+        <SECENEK_DEGERI>5YK67-10298_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003452336</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
         <FATURA_ADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</FATURA_ADI>
         <FIYAT>749.99000000</FIYAT>
@@ -933,8 +933,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <SECENEK_DEGERI>5YK67-10298_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003452336</BARCODE>
+        <SECENEK_DEGERI>5YK67-10298_09_L</SECENEK_DEGERI>
+        <BARCODE>6000003452732</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
         <FATURA_ADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</FATURA_ADI>
         <FIYAT>749.99000000</FIYAT>
@@ -1107,10 +1107,10 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YK67-10298_09</KOD>
-        <VARKOD>5YK67-10298_0909S</VARKOD>
-        <SECENEK_DEGERI>5YK67-10298_09_S</SECENEK_DEGERI>
-        <BARCODE>6000003452756</BARCODE>
+        <KOD>5YK67-10298_08</KOD>
+        <VARKOD>5YK67-10298_0808S</VARKOD>
+        <SECENEK_DEGERI>5YK67-10298_08_S</SECENEK_DEGERI>
+        <BARCODE>6000003452350</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
         <FATURA_ADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</FATURA_ADI>
         <FIYAT>749.99000000</FIYAT>
@@ -1120,10 +1120,10 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YK67-10298_08</KOD>
-        <VARKOD>5YK67-10298_0808S</VARKOD>
-        <SECENEK_DEGERI>5YK67-10298_08_S</SECENEK_DEGERI>
-        <BARCODE>6000003452350</BARCODE>
+        <KOD>5YK67-10298_09</KOD>
+        <VARKOD>5YK67-10298_0909S</VARKOD>
+        <SECENEK_DEGERI>5YK67-10298_09_S</SECENEK_DEGERI>
+        <BARCODE>6000003452756</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
         <FATURA_ADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</FATURA_ADI>
         <FIYAT>749.99000000</FIYAT>
