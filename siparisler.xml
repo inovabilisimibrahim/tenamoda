@@ -1,5 +1,80 @@
-﻿<!-- generated:2026-06-11T10:57:17 -->
+﻿<!-- generated:2026-06-11T11:02:32 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2920</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>belgin.karav@hotmail.com</POSTA>
+    <TARIH>2026-06-11</TARIH>
+    <sipariszaman>10:56:05</sipariszaman>
+    <NET_TOPLAM>799.99000000</NET_TOPLAM>
+    <TeslimAlici>Belgin Karav</TeslimAlici>
+    <TeslimAdresi>Cengiz topel cd no 30 A ŞARA TUR</TeslimAdresi>
+    <TeslimTelefon>+905453968687</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>26130</teslimPostaKodu>
+    <teslimil>Eskişehir</teslimil>
+    <teslimilce>Tepebaşı</teslimilce>
+    <faturaalici>Belgin Karav</faturaalici>
+    <faturaAdresi>Cengiz topel cd no 30 A ŞARA TUR</faturaAdresi>
+    <faturaTelefon>+905453968687</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>26130</faturaPostaKodu>
+    <faturail>Eskişehir</faturail>
+    <faturailce>Tepebaşı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>Mng Kargo</tasiyicifirma_tanim>
+    <tasiyicifirma>mng</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>
+    </kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKG16-1842_14</KOD>
+        <VARKOD>5YKG16-1842_1414L</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1842_14_L</SECENEK_DEGERI>
+        <BARCODE>6000003364073</BARCODE>
+        <URUNADI>Kadın Oversize Keten Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Oversize Keten Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2919</SIPARIS_NO>
     <CariHesapKodu>
@@ -81,7 +156,7 @@
     </tcno>
     <POSTA>cangul0891@gmail.com</POSTA>
     <TARIH>2026-06-11</TARIH>
-    <sipariszaman>08:41:47</sipariszaman>
+    <sipariszaman>10:55:10</sipariszaman>
     <NET_TOPLAM>649.99000000</NET_TOPLAM>
     <TeslimAlici>Cangül Çavdar</TeslimAlici>
     <TeslimAdresi>Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir</TeslimAdresi>
