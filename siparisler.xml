@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-15T03:07:17 -->
+﻿<!-- generated:2026-06-15T03:12:29 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2922</SIPARIS_NO>
@@ -919,6 +919,77 @@
     </SATIRLAR>
   </SIPARIS>
   <SIPARIS>
+    <SIPARIS_NO>2888</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>27998024696</tcno>
+    <POSTA>esra35culum@gmail.com</POSTA>
+    <TARIH>2026-06-15</TARIH>
+    <sipariszaman>03:06:08</sipariszaman>
+    <NET_TOPLAM>1199.98000000</NET_TOPLAM>
+    <TeslimAlici>Ayşe Küçük</TeslimAlici>
+    <TeslimAdresi>479 sokak no 7 daire1 özcan apartmanı hürriyet mahallesi buca izmir  Özcan apartmanı</TeslimAdresi>
+    <TeslimTelefon>+905428456504</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35370</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Buca</teslimilce>
+    <faturaalici>Ayşe Küçük</faturaalici>
+    <faturaAdresi>479 sokak no 7 daire1 özcan apartmanı hürriyet mahallesi buca izmir  Özcan apartmanı</faturaAdresi>
+    <faturaTelefon>+905428456504</faturaTelefon>
+    <faturavergino>27998024696</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35370</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Buca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914828881</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <SECENEK_DEGERI>4YKPNTN4228_05_XL</SECENEK_DEGERI>
+        <BARCODE>6000003078871</BARCODE>
+        <URUNADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKPNTN4228_08</KOD>
+        <VARKOD>4YKPNTN4228_0808XL</VARKOD>
+        <SECENEK_DEGERI>4YKPNTN4228_08_XL</SECENEK_DEGERI>
+        <BARCODE>6000003078970</BARCODE>
+        <URUNADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</URUNADI>
+        <FATURA_ADI>Kadın (6813) Paça Pis Dikişli Gabardin Pantolon</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
     <SIPARIS_NO>2887</SIPARIS_NO>
     <CariHesapKodu>
     </CariHesapKodu>
@@ -1549,78 +1620,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2877</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>24094672936</tcno>
-    <POSTA>pinarkezer21@icloud.com</POSTA>
-    <TARIH>2026-06-05</TARIH>
-    <sipariszaman>03:07:41</sipariszaman>
-    <NET_TOPLAM>850.00000000</NET_TOPLAM>
-    <TeslimAlici>Pınar  Kezer</TeslimAlici>
-    <TeslimAdresi>Diyarbakır/ yenişehir Adalet ap. Kat:3 daireno:13 Yenişehir mahallesi lise cd. 2.sokak </TeslimAdresi>
-    <TeslimTelefon>+905301121721</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>00021</teslimPostaKodu>
-    <teslimil>Diyarbakır</teslimil>
-    <teslimilce>Yenişehir</teslimilce>
-    <faturaalici>Pınar  Kezer</faturaalici>
-    <faturaAdresi>Diyarbakır/ yenişehir Adalet ap. Kat:3 daireno:13 Yenişehir mahallesi lise cd. 2.sokak </faturaAdresi>
-    <faturaTelefon>+905301121721</faturaTelefon>
-    <faturavergino>24094672936</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>00021</faturaPostaKodu>
-    <faturail>Diyarbakır</faturail>
-    <faturailce>Yenişehir</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914828771</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKTKTN2533_DLC</KOD>
-        <VARKOD>5YKTKTN2533_DLCDLCM</VARKOD>
-        <SECENEK_DEGERI>5YKTKTN2533_DLC_M</SECENEK_DEGERI>
-        <BARCODE>6000003297289</BARCODE>
-        <URUNADI>Kadın Şifon Bluz Saten Pantolon Takım</URUNADI>
-        <FATURA_ADI>Kadın Şifon Bluz Saten Pantolon Takım</FATURA_ADI>
-        <FIYAT>750.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
