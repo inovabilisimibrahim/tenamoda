@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-16T13:34:17 -->
+﻿<!-- generated:2026-06-16T13:39:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2922</SIPARIS_NO>
@@ -655,91 +655,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2911</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>10329053632</tcno>
-    <POSTA>nursena.61.b@icloud.com</POSTA>
-    <TARIH>2026-06-06</TARIH>
-    <sipariszaman>13:34:22</sipariszaman>
-    <NET_TOPLAM>849.98000000</NET_TOPLAM>
-    <TeslimAlici>Nursena Bektaş</TeslimAlici>
-    <TeslimAdresi>293/65 Sokak No:7 Çamlıpınar Mah. Buca-İzmir (Elmas Kız Öğrenci Yurdu)</TeslimAdresi>
-    <TeslimTelefon>+905383277915</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35390</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Buca</teslimilce>
-    <faturaalici>Nursena Bektaş</faturaalici>
-    <faturaAdresi>293/65 Sokak No:7 Çamlıpınar Mah. Buca-İzmir (Elmas Kız Öğrenci Yurdu)</faturaAdresi>
-    <faturaTelefon>+905383277915</faturaTelefon>
-    <faturavergino>10329053632</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35390</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Buca</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829111</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YKBDTN6802_18</KOD>
-        <VARKOD>6YKBDTN6802_1818L</VARKOD>
-        <SECENEK_DEGERI>6YKBDTN6802_18_L</SECENEK_DEGERI>
-        <BARCODE>6000003476356</BARCODE>
-        <URUNADI>Kadın Bisiklet Yaka Kısa Kollu Licralı Body</URUNADI>
-        <FATURA_ADI>Kadın Bisiklet Yaka Kısa Kollu Licralı Body</FATURA_ADI>
-        <FIYAT>249.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETTNGR25_90</KOD>
-        <VARKOD>5YKETTNGR25_9090L</VARKOD>
-        <SECENEK_DEGERI>5YKETTNGR25_90_L</SECENEK_DEGERI>
-        <BARCODE>6000003375192</BARCODE>
-        <URUNADI>Kadın Balon Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Balon Şort Etek</FATURA_ADI>
-        <FIYAT>499.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
