@@ -1,5 +1,175 @@
-﻿<!-- generated:2026-06-18T09:04:21 -->
+﻿<!-- generated:2026-06-18T09:09:35 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2924</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>zahiyahabdullahjamoum@gmail.com</POSTA>
+    <TARIH>2026-06-18</TARIH>
+    <sipariszaman>09:05:20</sipariszaman>
+    <NET_TOPLAM>1349.99000000</NET_TOPLAM>
+    <TeslimAlici>ZAHIYAH JAMOUM</TeslimAlici>
+    <TeslimAdresi>Yeşilkent, Nazım Hikmet Bulvarı Evin yüksek dağ A1, 89</TeslimAdresi>
+    <TeslimTelefon>+905376929313</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Esenyurt</teslimilce>
+    <faturaalici>ZAHIYAH JAMOUM</faturaalici>
+    <faturaAdresi>Yeşilkent, Nazım Hikmet Bulvarı Evin yüksek dağ A1, 89</faturaAdresi>
+    <faturaTelefon>+905376929313</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Esenyurt</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829241</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YK29-10743_18</KOD>
+        <VARKOD>6YK29-10743_1818M</VARKOD>
+        <SECENEK_DEGERI>6YK29-10743_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003491809</BARCODE>
+        <URUNADI>Kadın 3499 Beli Kemerli Saten Uzun Etek</URUNADI>
+        <FATURA_ADI>Kadın 3499 Beli Kemerli Saten Uzun Etek</FATURA_ADI>
+        <FIYAT>1299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2923</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>16799279022</tcno>
+    <POSTA>ozgen7573@gmail.com</POSTA>
+    <TARIH>2026-06-18</TARIH>
+    <sipariszaman>09:05:30</sipariszaman>
+    <NET_TOPLAM>1899.97000000</NET_TOPLAM>
+    <TeslimAlici>özgen karadaş</TeslimAlici>
+    <TeslimAdresi>ATATÜRK DEVLET HASTANESİ ECZANE BİRİMİ KURTULUŞ MAH. VALİ KONAĞI BUL. NO:61</TeslimAdresi>
+    <TeslimTelefon>+905303416200</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>09020</teslimPostaKodu>
+    <teslimil>Aydın</teslimil>
+    <teslimilce>Efeler</teslimilce>
+    <faturaalici>özgen karadaş</faturaalici>
+    <faturaAdresi>ATATÜRK DEVLET HASTANESİ ECZANE BİRİMİ KURTULUŞ MAH. VALİ KONAĞI BUL. NO:61</faturaAdresi>
+    <faturaTelefon>+905303416200</faturaTelefon>
+    <faturavergino>16799279022</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>09020</faturaPostaKodu>
+    <faturail>Aydın</faturail>
+    <faturailce>Efeler</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829231</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKPNTN5335_18</KOD>
+        <VARKOD>5YKPNTN5335_1818XL</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN5335_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003269590</BARCODE>
+        <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</FATURA_ADI>
+        <FIYAT>554.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YKP66-5575_02</KOD>
+        <VARKOD>6YKP66-5575_0202L</VARKOD>
+        <SECENEK_DEGERI>6YKP66-5575_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003505384</BARCODE>
+        <URUNADI>İçi Astarlı Bel Bağlamalı Pantolon</URUNADI>
+        <FATURA_ADI>İçi Astarlı Bel Bağlamalı Pantolon</FATURA_ADI>
+        <FIYAT>647.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1449_010</KOD>
+        <VARKOD>5YKG16-1449_010010M</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1449_010_M</SECENEK_DEGERI>
+        <BARCODE>6000003295865</BARCODE>
+        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
+        <FIYAT>647.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2922</SIPARIS_NO>
     <CariHesapKodu>
