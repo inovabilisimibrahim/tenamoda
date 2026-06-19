@@ -1,5 +1,93 @@
-﻿<!-- generated:2026-06-19T09:17:37 -->
+﻿<!-- generated:2026-06-19T09:22:50 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2925</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>elvanmeyra@gmail.com</POSTA>
+    <TARIH>2026-06-19</TARIH>
+    <sipariszaman>09:17:25</sipariszaman>
+    <NET_TOPLAM>1579.96000000</NET_TOPLAM>
+    <TeslimAlici>ELVAN ÇAĞIN</TeslimAlici>
+    <TeslimAdresi>YILDIZ CD. DOĞANAY MH. KÜPELİ APT. NO:26 K:1 D:2 KÜPELİ</TeslimAdresi>
+    <TeslimTelefon>+905068392938</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35160</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>ELVAN ÇAĞIN</faturaalici>
+    <faturaAdresi>YILDIZ CD. DOĞANAY MH. KÜPELİ APT. NO:26 K:1 D:2 KÜPELİ</faturaAdresi>
+    <faturaTelefon>+905068392938</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35160</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829251</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YKBDTN6777_18</KOD>
+        <VARKOD>6YKBDTN6777_1818M</VARKOD>
+        <SECENEK_DEGERI>6YKBDTN6777_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003475946</BARCODE>
+        <URUNADI>Kadın V Yaka Kolsuz Licralı Ribana Body</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Kolsuz Licralı Ribana Body</FATURA_ADI>
+        <FIYAT>263.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YK66-10294_09</KOD>
+        <VARKOD>5YK66-10294_0909M</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003452664</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>658.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YK66-10294_670</KOD>
+        <VARKOD>5YK66-10294_670670M</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_670_M</SECENEK_DEGERI>
+        <BARCODE>6000003453661</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>658.32000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2924</SIPARIS_NO>
     <CariHesapKodu>
