@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-19T10:56:48 -->
+﻿<!-- generated:2026-06-19T11:02:04 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2925</SIPARIS_NO>
@@ -759,77 +759,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2913</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>40231810054</tcno>
-    <POSTA>y.dgrr3573@gmail.com</POSTA>
-    <TARIH>2026-06-09</TARIH>
-    <sipariszaman>10:57:52</sipariszaman>
-    <NET_TOPLAM>1399.98000000</NET_TOPLAM>
-    <TeslimAlici>yusuf doğru</TeslimAlici>
-    <TeslimAdresi>6058 sokak no 10 egemenlik mah Işıkkent Bornova İzmir  Müstakil </TeslimAdresi>
-    <TeslimTelefon>+905442115979</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>35075</teslimPostaKodu>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>yusuf doğru</faturaalici>
-    <faturaAdresi>6058 sokak no 10 egemenlik mah Işıkkent Bornova İzmir  Müstakil </faturaAdresi>
-    <faturaTelefon>+905442115979</faturaTelefon>
-    <faturavergino>40231810054</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>35075</faturaPostaKodu>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829131</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YESFEAT105_010_L</SECENEK_DEGERI>
-        <BARCODE>6000003253544</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YESFEAT105_07</KOD>
-        <VARKOD>5YESFEAT105_0707L</VARKOD>
-        <SECENEK_DEGERI>5YESFEAT105_07_L</SECENEK_DEGERI>
-        <BARCODE>6000003253643</BARCODE>
-        <URUNADI>Erkek Beli Yarım Lastikli Gold Şort</URUNADI>
-        <FATURA_ADI>Erkek Beli Yarım Lastikli Gold Şort</FATURA_ADI>
-        <FIYAT>699.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
