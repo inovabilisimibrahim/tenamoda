@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-22T19:22:47 -->
+﻿<!-- generated:2026-06-22T19:27:59 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -576,8 +576,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YE12-10151_09</KOD>
-        <VARKOD>6YE12-10151_0909XL</VARKOD>
         <SECENEK_DEGERI>6YE12-10151_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003458314</BARCODE>
         <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
@@ -952,6 +950,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>3YKPNTN4760_09</KOD>
+        <VARKOD>3YKPNTN4760_0909XL</VARKOD>
         <SECENEK_DEGERI>3YKPNTN4760_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003453913</BARCODE>
         <URUNADI>Kadın Beli Bağlamalı Geniş Piş Dikişli Paça Pantolon</URUNADI>
