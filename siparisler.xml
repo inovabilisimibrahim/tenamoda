@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-22T12:49:16 -->
+﻿<!-- generated:2026-06-22T12:54:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -375,76 +375,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2918</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>cangul0891@gmail.com</POSTA>
-    <TARIH>2026-06-12</TARIH>
-    <sipariszaman>12:51:55</sipariszaman>
-    <NET_TOPLAM>649.99000000</NET_TOPLAM>
-    <TeslimAlici>Cangül Çavdar</TeslimAlici>
-    <TeslimAdresi>Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir</TeslimAdresi>
-    <TeslimTelefon>+905300981103</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Kemalpaşa</teslimilce>
-    <faturaalici>Cangül Çavdar</faturaalici>
-    <faturaAdresi>Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir Kemalpaşa osb istiklal mahallesi 19.sokak no 15 Kemalpaşa İzmir</faturaAdresi>
-    <faturaTelefon>+905300981103</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Kemalpaşa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829181</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKT18-1455_14_S</SECENEK_DEGERI>
-        <BARCODE>6000003295483</BARCODE>
-        <URUNADI>Kadın Crop Bluz Şort Keten Takım</URUNADI>
-        <FATURA_ADI>Kadın Crop Bluz Şort Keten Takım</FATURA_ADI>
-        <FIYAT>549.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
