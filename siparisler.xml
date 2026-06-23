@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-23T09:57:37 -->
+﻿<!-- generated:2026-06-23T10:02:57 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -44,6 +44,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YEGMLTN401_18</KOD>
+        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
         <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003303812</BARCODE>
         <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
@@ -55,6 +57,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEGMLTN401_18</KOD>
+        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
         <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003303812</BARCODE>
         <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
@@ -280,6 +284,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKTKTN2534_02</KOD>
+        <VARKOD>5YKTKTN2534_0202L</VARKOD>
         <SECENEK_DEGERI>5YKTKTN2534_02_L</SECENEK_DEGERI>
         <BARCODE>6000003328846</BARCODE>
         <URUNADI>Kadın Kruveze Yaka Bağlamalı Müslin Takım</URUNADI>
@@ -636,6 +642,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YETSTNT106_02</KOD>
+        <VARKOD>5YETSTNT106_0202L</VARKOD>
         <SECENEK_DEGERI>5YETSTNT106_02_L</SECENEK_DEGERI>
         <BARCODE>6000003330795</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
@@ -1090,6 +1098,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YE11-10313_02</KOD>
+        <VARKOD>6YE11-10313_0202L</VARKOD>
         <SECENEK_DEGERI>6YE11-10313_02_L</SECENEK_DEGERI>
         <BARCODE>6000003457881</BARCODE>
         <URUNADI>Erkek Uzun Kol Ripaş Dalgıç Slim Fit Gömlek</URUNADI>
