@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-23T09:31:23 -->
+﻿<!-- generated:2026-06-23T09:36:34 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -938,6 +938,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>3YKPNTN4760_09</KOD>
+        <VARKOD>3YKPNTN4760_0909XL</VARKOD>
         <SECENEK_DEGERI>3YKPNTN4760_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003453913</BARCODE>
         <URUNADI>Kadın Beli Bağlamalı Geniş Piş Dikişli Paça Pantolon</URUNADI>
@@ -962,6 +964,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3YKPNTN4760_14</KOD>
+        <VARKOD>3YKPNTN4760_1414XL</VARKOD>
         <SECENEK_DEGERI>3YKPNTN4760_14_XL</SECENEK_DEGERI>
         <BARCODE>6000002993397</BARCODE>
         <URUNADI>Kadın Beli Bağlamalı Geniş Piş Dikişli Paça Pantolon</URUNADI>
