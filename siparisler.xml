@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-23T16:05:37 -->
+﻿<!-- generated:2026-06-23T16:10:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -142,6 +142,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YK29-10743_18</KOD>
+        <VARKOD>6YK29-10743_1818M</VARKOD>
         <SECENEK_DEGERI>6YK29-10743_18_M</SECENEK_DEGERI>
         <BARCODE>6000003491809</BARCODE>
         <URUNADI>Kadın 3499 Beli Kemerli Saten Uzun Etek</URUNADI>
@@ -286,6 +288,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YK29-10743_59</KOD>
+        <VARKOD>6YK29-10743_5959M</VARKOD>
         <SECENEK_DEGERI>6YK29-10743_59_M</SECENEK_DEGERI>
         <BARCODE>6000003491892</BARCODE>
         <URUNADI>Kadın 3499 Beli Kemerli Saten Uzun Etek</URUNADI>
