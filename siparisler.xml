@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-06-23T16:10:55 -->
+﻿<!-- generated:2026-06-23T16:16:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2926</SIPARIS_NO>
@@ -434,6 +434,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YE12-10151_09</KOD>
+        <VARKOD>6YE12-10151_0909XL</VARKOD>
         <SECENEK_DEGERI>6YE12-10151_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003458314</BARCODE>
         <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
@@ -808,8 +810,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>3YKPNTN4760_09</KOD>
-        <VARKOD>3YKPNTN4760_0909XL</VARKOD>
         <SECENEK_DEGERI>3YKPNTN4760_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003453913</BARCODE>
         <URUNADI>Kadın Beli Bağlamalı Geniş Piş Dikişli Paça Pantolon</URUNADI>
@@ -834,8 +834,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>3YKPNTN4760_14</KOD>
-        <VARKOD>3YKPNTN4760_1414XL</VARKOD>
         <SECENEK_DEGERI>3YKPNTN4760_14_XL</SECENEK_DEGERI>
         <BARCODE>6000002993397</BARCODE>
         <URUNADI>Kadın Beli Bağlamalı Geniş Piş Dikişli Paça Pantolon</URUNADI>
@@ -973,6 +971,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YEPNFEAT23_18</KOD>
+        <VARKOD>6YEPNFEAT23_1818L</VARKOD>
         <SECENEK_DEGERI>6YEPNFEAT23_18_L</SECENEK_DEGERI>
         <BARCODE>6000003464506</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Mendi Örme Jakar Pantolon</URUNADI>
@@ -984,6 +984,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YEPNFEAT23_670</KOD>
+        <VARKOD>6YEPNFEAT23_670670L</VARKOD>
         <SECENEK_DEGERI>6YEPNFEAT23_670_L</SECENEK_DEGERI>
         <BARCODE>6000003464568</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli Mendi Örme Jakar Pantolon</URUNADI>
@@ -1044,6 +1046,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YK66-10550_18</KOD>
+        <VARKOD>6YK66-10550_1818M</VARKOD>
         <SECENEK_DEGERI>6YK66-10550_18_M</SECENEK_DEGERI>
         <BARCODE>6000003488687</BARCODE>
         <URUNADI>Kadın 2039 Beli Kemerli Bol Paça Pantolon</URUNADI>
@@ -1055,6 +1059,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YK66-10550_09</KOD>
+        <VARKOD>6YK66-10550_0909M</VARKOD>
         <SECENEK_DEGERI>6YK66-10550_09_M</SECENEK_DEGERI>
         <BARCODE>6000003488656</BARCODE>
         <URUNADI>Kadın 2039 Beli Kemerli Bol Paça Pantolon</URUNADI>
