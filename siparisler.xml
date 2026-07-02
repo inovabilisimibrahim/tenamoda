@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-02T15:10:19 -->
+﻿<!-- generated:2026-07-02T15:15:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2929</SIPARIS_NO>
@@ -46,6 +46,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKELTNGRZ4_14</KOD>
+        <VARKOD>5YKELTNGRZ4_1414STD</VARKOD>
         <SECENEK_DEGERI>5YKELTNGRZ4_14_STD</SECENEK_DEGERI>
         <BARCODE>6000003380486</BARCODE>
         <URUNADI>Kadın Düşük Kol Beli Tünel Kemerli Keten Uzun Elbise</URUNADI>
@@ -104,6 +106,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>4YKYLT39043_U01</KOD>
+        <VARKOD>4YKYLT39043_U01U01M</VARKOD>
         <SECENEK_DEGERI>4YKYLT39043_U01_M</SECENEK_DEGERI>
         <BARCODE>6000003075665</BARCODE>
         <URUNADI>Kadın Balık Sırtı Gabardin Kumaş Önü Düğmeli Yelek</URUNADI>
@@ -115,6 +119,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKP66-9831_B02</KOD>
+        <VARKOD>5KKP66-9831_B02B02S</VARKOD>
         <SECENEK_DEGERI>5KKP66-9831_B02_S</SECENEK_DEGERI>
         <BARCODE>6000003436152</BARCODE>
         <URUNADI>Kadın Beli Kalın Kemer Palazzo Pantolon</URUNADI>
@@ -126,6 +132,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKP66-5127_90</KOD>
+        <VARKOD>5YKP66-5127_9090S</VARKOD>
         <SECENEK_DEGERI>5YKP66-5127_90_S</SECENEK_DEGERI>
         <BARCODE>6000003382800</BARCODE>
         <URUNADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</URUNADI>
@@ -137,10 +145,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -190,6 +204,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>0YBBLTN2000_08</KOD>
+        <VARKOD>0YBBLTN2000_0808L</VARKOD>
         <SECENEK_DEGERI>0YBBLTN2000_08_L</SECENEK_DEGERI>
         <BARCODE>6000002765338</BARCODE>
         <URUNADI>Kadın V Yaka Geniş Salaş Tişört</URUNADI>
@@ -279,6 +295,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YEGMLTN401_18</KOD>
+        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
         <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003303812</BARCODE>
         <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
@@ -290,6 +308,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YEGMLTN401_18</KOD>
+        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
         <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003303812</BARCODE>
         <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
@@ -301,6 +321,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>3YE2002-144_18</KOD>
+        <VARKOD>3YE2002-144_1818XL</VARKOD>
         <SECENEK_DEGERI>3YE2002-144_18_XL</SECENEK_DEGERI>
         <BARCODE>6000002930040</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Cavalıer Baskılı Tişört</URUNADI>
@@ -312,10 +334,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -367,6 +395,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>1YKBSSH5070_08</KOD>
+        <VARKOD>1YKBSSH5070_0808L</VARKOD>
         <SECENEK_DEGERI>1YKBSSH5070_08_L</SECENEK_DEGERI>
         <BARCODE>6000002647054</BARCODE>
         <URUNADI>Kadın Ayrobin Bustiyer</URUNADI>
@@ -389,6 +419,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKTKTN2505_02</KOD>
+        <VARKOD>5YKTKTN2505_0202L</VARKOD>
         <SECENEK_DEGERI>5YKTKTN2505_02_L</SECENEK_DEGERI>
         <BARCODE>6000003276505</BARCODE>
         <URUNADI>Kadın Bağlama Bluzlu Uzun Etekli Müslin Takım</URUNADI>
@@ -400,6 +432,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5KKP66-5317_RNSYK</KOD>
+        <VARKOD>5KKP66-5317_RNSYKRNSYK40</VARKOD>
         <SECENEK_DEGERI>5KKP66-5317_RNSYK_40</SECENEK_DEGERI>
         <BARCODE>6000003402706</BARCODE>
         <URUNADI>Kadın Beş Cepli Palazzo Jean Pantolon</URUNADI>
@@ -458,6 +492,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YK67-10298_08</KOD>
+        <VARKOD>5YK67-10298_0808L</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_08_L</SECENEK_DEGERI>
         <BARCODE>6000003452336</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
@@ -469,6 +505,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YK67-10298_09</KOD>
+        <VARKOD>5YK67-10298_0909L</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_09_L</SECENEK_DEGERI>
         <BARCODE>6000003452732</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
@@ -480,10 +518,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -531,6 +575,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>6YETSTUR191_02</KOD>
+        <VARKOD>6YETSTUR191_0202L</VARKOD>
         <SECENEK_DEGERI>6YETSTUR191_02_L</SECENEK_DEGERI>
         <BARCODE>6000003512535</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Modal Basic Tişört</URUNADI>
@@ -553,6 +599,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YETSTUR191_18</KOD>
+        <VARKOD>6YETSTUR191_1818M</VARKOD>
         <SECENEK_DEGERI>6YETSTUR191_18_M</SECENEK_DEGERI>
         <BARCODE>6000003512726</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Modal Basic Tişört</URUNADI>
@@ -564,6 +612,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YETSTUR191_18</KOD>
+        <VARKOD>6YETSTUR191_1818L</VARKOD>
         <SECENEK_DEGERI>6YETSTUR191_18_L</SECENEK_DEGERI>
         <BARCODE>6000003512719</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Modal Basic Tişört</URUNADI>
@@ -575,6 +625,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YETSTNT106_18</KOD>
+        <VARKOD>5YETSTNT106_1818L</VARKOD>
         <SECENEK_DEGERI>5YETSTNT106_18_L</SECENEK_DEGERI>
         <BARCODE>6000003330948</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Etek Yırtmaçlı Triko Tişört</URUNADI>
@@ -631,6 +683,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YK67-10298_08</KOD>
+        <VARKOD>5YK67-10298_0808S</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_08_S</SECENEK_DEGERI>
         <BARCODE>6000003452350</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
@@ -642,6 +696,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YK67-10298_09</KOD>
+        <VARKOD>5YK67-10298_0909S</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_09_S</SECENEK_DEGERI>
         <BARCODE>6000003452756</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
@@ -653,10 +709,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -717,10 +779,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
@@ -790,10 +858,16 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>30.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
