@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-02T15:15:30 -->
+﻿<!-- generated:2026-07-02T15:20:46 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2929</SIPARIS_NO>
@@ -217,6 +217,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5424_08</KOD>
+        <VARKOD>5YKPNTN5424_0808XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5424_08_XL</SECENEK_DEGERI>
         <BARCODE>6000003419537</BARCODE>
         <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
@@ -228,6 +230,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5424_09</KOD>
+        <VARKOD>5YKPNTN5424_0909XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5424_09_XL</SECENEK_DEGERI>
         <BARCODE>6000003422643</BARCODE>
         <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
@@ -239,6 +243,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5424_14</KOD>
+        <VARKOD>5YKPNTN5424_1414XL</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5424_14_XL</SECENEK_DEGERI>
         <BARCODE>6000003422681</BARCODE>
         <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
