@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-03T14:59:24 -->
+﻿<!-- generated:2026-07-03T15:04:38 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2929</SIPARIS_NO>
@@ -254,102 +254,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2926</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>58174016822</tcno>
-    <POSTA>fiskinyalcin@hotmail.com</POSTA>
-    <TARIH>2026-06-23</TARIH>
-    <sipariszaman>15:00:42</sipariszaman>
-    <NET_TOPLAM>1070.57000000</NET_TOPLAM>
-    <TeslimAlici>Yalçın Fışkın</TeslimAlici>
-    <TeslimAdresi>Bahar Mh 2948 Sk No.2 D.3 Ergün Apartmanı</TeslimAdresi>
-    <TeslimTelefon>+905052327443</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Karabağlar</teslimilce>
-    <faturaalici>Yalçın Fışkın</faturaalici>
-    <faturaAdresi>Bahar Mh 2948 Sk No.2 D.3 Ergün Apartmanı</faturaAdresi>
-    <faturaTelefon>+905052327443</faturaTelefon>
-    <faturavergino>58174016822</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Karabağlar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829261</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YEGMLTN401_18</KOD>
-        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
-        <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003303812</BARCODE>
-        <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Kısa Kol Pamuk Triko Gömlek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YEGMLTN401_18</KOD>
-        <VARKOD>5YEGMLTN401_1818XL</VARKOD>
-        <SECENEK_DEGERI>5YEGMLTN401_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000003303812</BARCODE>
-        <URUNADI>Erkek Kısa Kol Pamuk Triko Gömlek</URUNADI>
-        <FATURA_ADI>Erkek Kısa Kol Pamuk Triko Gömlek</FATURA_ADI>
-        <FIYAT>679.40000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>3YE2002-144_18</KOD>
-        <VARKOD>3YE2002-144_1818XL</VARKOD>
-        <SECENEK_DEGERI>3YE2002-144_18_XL</SECENEK_DEGERI>
-        <BARCODE>6000002930040</BARCODE>
-        <URUNADI>Erkek Bisiklet Yaka Cavalıer Baskılı Tişört</URUNADI>
-        <FATURA_ADI>Erkek Bisiklet Yaka Cavalıer Baskılı Tişört</FATURA_ADI>
-        <FIYAT>291.17000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
