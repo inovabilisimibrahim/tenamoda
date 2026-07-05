@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-05T12:47:06 -->
+﻿<!-- generated:2026-07-05T12:52:23 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2929</SIPARIS_NO>
@@ -57,104 +57,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2928</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>simalim-81@hotmail.com</POSTA>
-    <TARIH>2026-06-25</TARIH>
-    <sipariszaman>12:48:53</sipariszaman>
-    <NET_TOPLAM>1712.48000000</NET_TOPLAM>
-    <TeslimAlici>Funda Öztürk</TeslimAlici>
-    <TeslimAdresi>Yalı mahallesi 127 sk plajlar 6/3 Aliağa/ İzmir</TeslimAdresi>
-    <TeslimTelefon>+905366888890</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Aliağa</teslimilce>
-    <faturaalici>Funda Öztürk</faturaalici>
-    <faturaAdresi>Yalı mahallesi 127 sk plajlar 6/3 Aliağa/ İzmir</faturaAdresi>
-    <faturaTelefon>+905366888890</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Aliağa</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829281</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>4YKYLT39043_U01</KOD>
-        <VARKOD>4YKYLT39043_U01U01M</VARKOD>
-        <SECENEK_DEGERI>4YKYLT39043_U01_M</SECENEK_DEGERI>
-        <BARCODE>6000003075665</BARCODE>
-        <URUNADI>Kadın Balık Sırtı Gabardin Kumaş Önü Düğmeli Yelek</URUNADI>
-        <FATURA_ADI>Kadın Balık Sırtı Gabardin Kumaş Önü Düğmeli Yelek</FATURA_ADI>
-        <FIYAT>262.49000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5KKP66-9831_B02</KOD>
-        <VARKOD>5KKP66-9831_B02B02S</VARKOD>
-        <SECENEK_DEGERI>5KKP66-9831_B02_S</SECENEK_DEGERI>
-        <BARCODE>6000003436152</BARCODE>
-        <URUNADI>Kadın Beli Kalın Kemer Palazzo Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Kalın Kemer Palazzo Pantolon</FATURA_ADI>
-        <FIYAT>525.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKP66-5127_90</KOD>
-        <VARKOD>5YKP66-5127_9090S</VARKOD>
-        <SECENEK_DEGERI>5YKP66-5127_90_S</SECENEK_DEGERI>
-        <BARCODE>6000003382800</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Bol Paça Kırışık Pantolon</FATURA_ADI>
-        <FIYAT>874.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
