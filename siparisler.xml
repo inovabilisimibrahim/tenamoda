@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-07T12:56:44 -->
+﻿<!-- generated:2026-07-07T13:01:55 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2931</SIPARIS_NO>
@@ -623,6 +623,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YK67-10298_08</KOD>
+        <VARKOD>5YK67-10298_0808L</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_08_L</SECENEK_DEGERI>
         <BARCODE>6000003452336</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
@@ -634,6 +636,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YK67-10298_09</KOD>
+        <VARKOD>5YK67-10298_0909L</VARKOD>
         <SECENEK_DEGERI>5YK67-10298_09_L</SECENEK_DEGERI>
         <BARCODE>6000003452732</BARCODE>
         <URUNADI>Kadın Beli Kemerli Licralı Gabardin Midi Şort</URUNADI>
