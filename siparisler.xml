@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-11T03:02:42 -->
+﻿<!-- generated:2026-07-11T03:08:07 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2937</SIPARIS_NO>
@@ -438,6 +438,80 @@
         <BARCODE>6000003348578</BARCODE>
         <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
         <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2920</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>belgin.karav@hotmail.com</POSTA>
+    <TARIH>2026-07-11</TARIH>
+    <sipariszaman>03:05:56</sipariszaman>
+    <NET_TOPLAM>799.99000000</NET_TOPLAM>
+    <TeslimAlici>Belgin Karav</TeslimAlici>
+    <TeslimAdresi>Cengiz topel cd no 30 A ŞARA TUR</TeslimAdresi>
+    <TeslimTelefon>+905453968687</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>26130</teslimPostaKodu>
+    <teslimil>Eskişehir</teslimil>
+    <teslimilce>Tepebaşı</teslimilce>
+    <faturaalici>Belgin Karav</faturaalici>
+    <faturaAdresi>Cengiz topel cd no 30 A ŞARA TUR</faturaAdresi>
+    <faturaTelefon>+905453968687</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>26130</faturaPostaKodu>
+    <faturail>Eskişehir</faturail>
+    <faturailce>Tepebaşı</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829201</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKG16-1842_14</KOD>
+        <VARKOD>5YKG16-1842_1414L</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1842_14_L</SECENEK_DEGERI>
+        <BARCODE>6000003364073</BARCODE>
+        <URUNADI>Kadın Oversize Keten Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Oversize Keten Gömlek</FATURA_ADI>
         <FIYAT>699.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -1143,105 +1217,6 @@
         <URUNADI>Erkek 3'lü Pike Sneakers Basic Çorap</URUNADI>
         <FATURA_ADI>Erkek 3'lü Pike Sneakers Basic Çorap</FATURA_ADI>
         <FIYAT>140.90000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2908</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>irem768@hotmail.com</POSTA>
-    <TARIH>2026-07-01</TARIH>
-    <sipariszaman>03:06:25</sipariszaman>
-    <NET_TOPLAM>1589.98000000</NET_TOPLAM>
-    <TeslimAlici>İrem Pehlivan</TeslimAlici>
-    <TeslimAdresi>Atakent Mahallesi Atatürk Caddesi Soyak Olimpiakent Sitesi 11/2 bölgeH9 Blok No 46</TeslimAdresi>
-    <TeslimTelefon>5342779714</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34307</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Küçükçekmece</teslimilce>
-    <faturaalici>İrem Pehlivan</faturaalici>
-    <faturaAdresi>Atakent Mahallesi Atatürk Caddesi Soyak Olimpiakent Sitesi 11/2 bölgeH9 Blok No 46</faturaAdresi>
-    <faturaTelefon>5342779714</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34307</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Küçükçekmece</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829081</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>1YKBSSH5070_08</KOD>
-        <VARKOD>1YKBSSH5070_0808L</VARKOD>
-        <SECENEK_DEGERI>1YKBSSH5070_08_L</SECENEK_DEGERI>
-        <BARCODE>6000002647054</BARCODE>
-        <URUNADI>Kadın Ayrobin Bustiyer</URUNADI>
-        <FATURA_ADI>Kadın Ayrobin Bustiyer</FATURA_ADI>
-        <FIYAT>84.67000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKP66-1841_50_M</SECENEK_DEGERI>
-        <BARCODE>6000003363755</BARCODE>
-        <URUNADI>Kadın Beli Lastikli Palazzo Keten Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastikli Palazzo Keten Pantolon</FATURA_ADI>
-        <FIYAT>658.57000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKTKTN2505_02</KOD>
-        <VARKOD>5YKTKTN2505_0202L</VARKOD>
-        <SECENEK_DEGERI>5YKTKTN2505_02_L</SECENEK_DEGERI>
-        <BARCODE>6000003276505</BARCODE>
-        <URUNADI>Kadın Bağlama Bluzlu Uzun Etekli Müslin Takım</URUNADI>
-        <FATURA_ADI>Kadın Bağlama Bluzlu Uzun Etekli Müslin Takım</FATURA_ADI>
-        <FIYAT>423.37000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5KKP66-5317_RNSYK</KOD>
-        <VARKOD>5KKP66-5317_RNSYKRNSYK40</VARKOD>
-        <SECENEK_DEGERI>5KKP66-5317_RNSYK_40</SECENEK_DEGERI>
-        <BARCODE>6000003402706</BARCODE>
-        <URUNADI>Kadın Beş Cepli Palazzo Jean Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beş Cepli Palazzo Jean Pantolon</FATURA_ADI>
-        <FIYAT>423.37000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
