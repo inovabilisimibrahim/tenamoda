@@ -1,5 +1,102 @@
-﻿<!-- generated:2026-07-15T10:04:03 -->
+﻿<!-- generated:2026-07-15T10:09:22 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2942</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>10096254478</tcno>
+    <POSTA>bayramsevgi1979@gmail.com</POSTA>
+    <TARIH>2026-07-15</TARIH>
+    <sipariszaman>10:06:08</sipariszaman>
+    <NET_TOPLAM>2049.96000000</NET_TOPLAM>
+    <TeslimAlici>Sevgi Bayram</TeslimAlici>
+    <TeslimAdresi>Karşıyaka mahallesi 138830. SK 26/A kumru apt no 26 Kat 4 daire 15 kulu konya Kumru apt. A blok kat 4 daire 15</TeslimAdresi>
+    <TeslimTelefon>+905332622540</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>42270</teslimPostaKodu>
+    <teslimil>Konya</teslimil>
+    <teslimilce>Kulu</teslimilce>
+    <faturaalici>Sevgi Bayram</faturaalici>
+    <faturaAdresi>Karşıyaka mahallesi 138830. SK 26/A kumru apt no 26 Kat 4 daire 15 kulu konya Kumru apt. A blok kat 4 daire 15</faturaAdresi>
+    <faturaTelefon>+905332622540</faturaTelefon>
+    <faturavergino>10096254478</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>42270</faturaPostaKodu>
+    <faturail>Konya</faturail>
+    <faturailce>Kulu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914829421</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETSCL4838_01</KOD>
+        <VARKOD>6YETSCL4838_0101L</VARKOD>
+        <SECENEK_DEGERI>6YETSCL4838_01_L</SECENEK_DEGERI>
+        <BARCODE>6000003518728</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Basic Tişört</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YK66-10294_09</KOD>
+        <VARKOD>5YK66-10294_0909XL</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_09_XL</SECENEK_DEGERI>
+        <BARCODE>6000003452688</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YK66-10294_670</KOD>
+        <VARKOD>5YK66-10294_670670M</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_670_M</SECENEK_DEGERI>
+        <BARCODE>6000003453661</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKKMRZK866_B02</KOD>
+        <VARKOD>5YKKMRZK866_B02B02100</VARKOD>
+        <SECENEK_DEGERI>5YKKMRZK866_B02_100</SECENEK_DEGERI>
+        <BARCODE>6000003373105</BARCODE>
+        <URUNADI>Kadın 2.5 Cm Köprü Detaylı Kemer</URUNADI>
+        <FATURA_ADI>Kadın 2.5 Cm Köprü Detaylı Kemer</FATURA_ADI>
+        <FIYAT>149.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2941</SIPARIS_NO>
     <CariHesapKodu>
