@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-07-29T19:21:40 -->
+﻿<!-- generated:2026-07-29T19:26:51 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2953</SIPARIS_NO>
@@ -230,103 +230,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2950</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>esatahmet415@gmail.com</POSTA>
-    <TARIH>2026-07-29</TARIH>
-    <sipariszaman>09:40:45</sipariszaman>
-    <NET_TOPLAM>2449.96000000</NET_TOPLAM>
-    <TeslimAlici>Ahmet Esat  Akçadağ </TeslimAlici>
-    <TeslimAdresi>Mimar Sinan Mah. 48022. Sokak Bina no:8/1 kat:2 daire:3</TeslimAdresi>
-    <TeslimTelefon>+905061703326</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>46050</teslimPostaKodu>
-    <teslimil>Kahramanmaraş</teslimil>
-    <teslimilce>Onikişubat</teslimilce>
-    <faturaalici>Ahmet Esat  Akçadağ </faturaalici>
-    <faturaAdresi>Mimar Sinan Mah. 48022. Sokak Bina no:8/1 kat:2 daire:3</faturaAdresi>
-    <faturaTelefon>+905061703326</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>46050</faturaPostaKodu>
-    <faturail>Kahramanmaraş</faturail>
-    <faturailce>Onikişubat</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914829501</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YK16-10532_14</KOD>
-        <VARKOD>6YK16-10532_1414M</VARKOD>
-        <SECENEK_DEGERI>6YK16-10532_14_M</SECENEK_DEGERI>
-        <BARCODE>6000003481718</BARCODE>
-        <URUNADI>Kadın Önü Kısa Arkası Uzun Oversize Poplin Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Önü Kısa Arkası Uzun Oversize Poplin Gömlek</FATURA_ADI>
-        <FIYAT>685.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YKG16-5441_09</KOD>
-        <VARKOD>6YKG16-5441_0909M</VARKOD>
-        <SECENEK_DEGERI>6YKG16-5441_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003507869</BARCODE>
-        <URUNADI>V Yaka Basic Gömlek</URUNADI>
-        <FATURA_ADI>V Yaka Basic Gömlek</FATURA_ADI>
-        <FIYAT>685.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YKP66-5575_09</KOD>
-        <VARKOD>6YKP66-5575_0909M</VARKOD>
-        <SECENEK_DEGERI>6YKP66-5575_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003505421</BARCODE>
-        <URUNADI>İçi Astarlı Bel Bağlamalı Pantolon</URUNADI>
-        <FATURA_ADI>İçi Astarlı Bel Bağlamalı Pantolon</FATURA_ADI>
-        <FIYAT>685.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKG16-1449_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003295896</BARCODE>
-        <URUNADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Düşük Kol Önü Patlı Salaş Kesim Gömlek</FATURA_ADI>
-        <FIYAT>391.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
