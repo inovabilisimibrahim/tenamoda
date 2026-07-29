@@ -1,5 +1,92 @@
-﻿<!-- generated:2026-07-29T13:50:43 -->
+﻿<!-- generated:2026-07-29T13:55:57 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2953</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>beyazpembegulum@gmail.com</POSTA>
+    <TARIH>2026-07-29</TARIH>
+    <sipariszaman>13:52:45</sipariszaman>
+    <NET_TOPLAM>1649.98000000</NET_TOPLAM>
+    <TeslimAlici>Esranur Keskin</TeslimAlici>
+    <TeslimAdresi>Yayla mahallesi. 2540 sokak. No, 29  Kat, 1 Daire, 2 İzmir Menemen Yayla mahallesi. 2540 sokak. No, 29  Kat, 1 Daire, 2 İzmir Menemen</TeslimAdresi>
+    <TeslimTelefon>+905305957629</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35660</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Menemen</teslimilce>
+    <faturaalici>Esranur Keskin</faturaalici>
+    <faturaAdresi>Yayla mahallesi. 2540 sokak. No, 29  Kat, 1 Daire, 2 İzmir Menemen Yayla mahallesi. 2540 sokak. No, 29  Kat, 1 Daire, 2 İzmir Menemen</faturaAdresi>
+    <faturaTelefon>+905305957629</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35660</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Menemen</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829531</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YK37-10762_09</KOD>
+        <VARKOD>6YK37-10762_0909M</VARKOD>
+        <SECENEK_DEGERI>6YK37-10762_09_M</SECENEK_DEGERI>
+        <BARCODE>6000003492103</BARCODE>
+        <URUNADI>Gold Tek Düğmeli Floş Saten Ceket</URUNADI>
+        <FATURA_ADI>Gold Tek Düğmeli Floş Saten Ceket</FATURA_ADI>
+        <FIYAT>799.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YK37-10762_58</KOD>
+        <VARKOD>6YK37-10762_5858M</VARKOD>
+        <SECENEK_DEGERI>6YK37-10762_58_M</SECENEK_DEGERI>
+        <BARCODE>6000003492165</BARCODE>
+        <URUNADI>Gold Tek Düğmeli Floş Saten Ceket</URUNADI>
+        <FATURA_ADI>Gold Tek Düğmeli Floş Saten Ceket</FATURA_ADI>
+        <FIYAT>799.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2952</SIPARIS_NO>
     <CariHesapKodu>
