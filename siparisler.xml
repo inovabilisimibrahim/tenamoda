@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-07T14:14:47 -->
+﻿<!-- generated:2026-08-07T14:20:01 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2958</SIPARIS_NO>
@@ -621,80 +621,6 @@
         <URUNADI>Kadın Çiçek Desenli Croplu-Etekli Takım</URUNADI>
         <FATURA_ADI>Kadın Çiçek Desenli Croplu-Etekli Takım</FATURA_ADI>
         <FIYAT>499.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2948</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>burcubaayram123@gmail.com</POSTA>
-    <TARIH>2026-07-28</TARIH>
-    <sipariszaman>14:14:49</sipariszaman>
-    <NET_TOPLAM>499.99000000</NET_TOPLAM>
-    <TeslimAlici>Burcu Bayram</TeslimAlici>
-    <TeslimAdresi>Sultaniye Mah. Ergenekon Cad. 5004 Sk. Akın Vizyon Apt. No:2 İç Kapı No:9 Çiftlikköy/Yalova Akın vizyon</TeslimAdresi>
-    <TeslimTelefon>+905425052003</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>77600</teslimPostaKodu>
-    <teslimil>Yalova</teslimil>
-    <teslimilce>Çiftlikköy</teslimilce>
-    <faturaalici>Burcu Bayram</faturaalici>
-    <faturaAdresi>Sultaniye Mah. Ergenekon Cad. 5004 Sk. Akın Vizyon Apt. No:2 İç Kapı No:9 Çiftlikköy/Yalova Akın vizyon</faturaAdresi>
-    <faturaTelefon>+905425052003</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>77600</faturaPostaKodu>
-    <faturail>Yalova</faturail>
-    <faturailce>Çiftlikköy</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829481</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1838_60</KOD>
-        <VARKOD>5YKG16-1838_6060S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1838_60_S</SECENEK_DEGERI>
-        <BARCODE>6000003365162</BARCODE>
-        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
-        <FIYAT>399.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
