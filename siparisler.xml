@@ -1,5 +1,77 @@
-﻿<!-- generated:2026-08-07T10:47:10 -->
+﻿<!-- generated:2026-08-07T10:52:21 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2958</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>tubaglioglu23@gmail.com</POSTA>
+    <TARIH>2026-08-07</TARIH>
+    <sipariszaman>10:52:52</sipariszaman>
+    <NET_TOPLAM>799.99000000</NET_TOPLAM>
+    <TeslimAlici>Birgül Bağlıoğlu</TeslimAlici>
+    <TeslimAdresi>Rızaiye mahallesi Hacı Hulusi efendi sokak 53/-1 </TeslimAdresi>
+    <TeslimTelefon>+905557541798</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Elazığ</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Birgül Bağlıoğlu</faturaalici>
+    <faturaAdresi>Rızaiye mahallesi Hacı Hulusi efendi sokak 53/-1 </faturaAdresi>
+    <faturaTelefon>+905557541798</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Elazığ</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829581</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YEG22-1026_18</KOD>
+        <VARKOD>6YEG22-1026_1818M</VARKOD>
+        <SECENEK_DEGERI>6YEG22-1026_18_M</SECENEK_DEGERI>
+        <BARCODE>6000003460942</BARCODE>
+        <URUNADI>Erkek Uzun Kol V Ayaklı Yaka Regular Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol V Ayaklı Yaka Regular Müslin Gömlek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2957</SIPARIS_NO>
     <CariHesapKodu>
