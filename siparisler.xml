@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-12T00:56:24 -->
+﻿<!-- generated:2026-08-12T01:01:38 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2958</SIPARIS_NO>
@@ -122,6 +122,8 @@
         <VARKOD>6YE12-10151_1818XXL</VARKOD>
         <SECENEK_DEGERI>6YE12-10151_18_XXL</SECENEK_DEGERI>
         <BARCODE>6000003458277</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
         <FIYAT>699.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -229,6 +231,8 @@
         <VARKOD>6YE12-10151_0202XXL</VARKOD>
         <SECENEK_DEGERI>6YE12-10151_02_XXL</SECENEK_DEGERI>
         <BARCODE>6000003458475</BARCODE>
+        <URUNADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</URUNADI>
+        <FATURA_ADI>Erkek Uzun Kol Regular Basic Müslin Gömlek</FATURA_ADI>
         <FIYAT>699.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
