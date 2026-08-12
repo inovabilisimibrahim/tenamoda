@@ -1,5 +1,149 @@
-﻿<!-- generated:2026-08-12T17:15:49 -->
+﻿<!-- generated:2026-08-12T17:21:02 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2961</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>58294160320</tcno>
+    <POSTA>ebrarys12@gmail.com</POSTA>
+    <TARIH>2026-08-12</TARIH>
+    <sipariszaman>17:18:33</sipariszaman>
+    <NET_TOPLAM>669.99000000</NET_TOPLAM>
+    <TeslimAlici>Aysel Kanyılmaz</TeslimAlici>
+    <TeslimAdresi>Atatürk bulvarı gediz apt kat 1 daire 2 barbie bayan kuaförü Gediz apt</TeslimAdresi>
+    <TeslimTelefon>+905532832658</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>00043</teslimPostaKodu>
+    <teslimil>Kütahya</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Aysel Kanyılmaz</faturaalici>
+    <faturaAdresi>Atatürk bulvarı gediz apt kat 1 daire 2 barbie bayan kuaförü Gediz apt</faturaAdresi>
+    <faturaTelefon>+905532832658</faturaTelefon>
+    <faturavergino>58294160320</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>00043</faturaPostaKodu>
+    <faturail>Kütahya</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829611</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YK67-10554_58</KOD>
+        <VARKOD>6YK67-10554_5858S</VARKOD>
+        <SECENEK_DEGERI>6YK67-10554_58_S</SECENEK_DEGERI>
+        <BARCODE>6000003489233</BARCODE>
+        <URUNADI>Kadın Kalın  Biritli Kemerli Mini Şort</URUNADI>
+        <FATURA_ADI>Kadın Kalın  Biritli Kemerli Mini Şort</FATURA_ADI>
+        <FIYAT>569.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2960</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>pinarincee@hotmail.com</POSTA>
+    <TARIH>2026-08-12</TARIH>
+    <sipariszaman>17:18:17</sipariszaman>
+    <NET_TOPLAM>699.99000000</NET_TOPLAM>
+    <TeslimAlici>Pınar İnce</TeslimAlici>
+    <TeslimAdresi>1202 sokak aydoğdu mahallesi Oyak sitesi 1.etap c2 bolok daire:45 bahçe katı</TeslimAdresi>
+    <TeslimTelefon>+905323605602</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Buca</teslimilce>
+    <faturaalici>Pınar İnce</faturaalici>
+    <faturaAdresi>1202 sokak aydoğdu mahallesi Oyak sitesi 1.etap c2 bolok daire:45 bahçe katı</faturaAdresi>
+    <faturaTelefon>+905323605602</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Buca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829601</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YK67-10554_58</KOD>
+        <VARKOD>6YK67-10554_5858M</VARKOD>
+        <SECENEK_DEGERI>6YK67-10554_58_M</SECENEK_DEGERI>
+        <BARCODE>6000003489226</BARCODE>
+        <URUNADI>Kadın Kalın  Biritli Kemerli Mini Şort</URUNADI>
+        <FATURA_ADI>Kadın Kalın  Biritli Kemerli Mini Şort</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2959</SIPARIS_NO>
     <CariHesapKodu>
