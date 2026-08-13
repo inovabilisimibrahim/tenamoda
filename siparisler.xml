@@ -1,5 +1,102 @@
-﻿<!-- generated:2026-08-13T14:38:08 -->
+﻿<!-- generated:2026-08-13T14:43:17 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2963</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>21601881614</tcno>
+    <POSTA>nurcinkirdi@gmail.com</POSTA>
+    <TARIH>2026-08-13</TARIH>
+    <sipariszaman>14:41:54</sipariszaman>
+    <NET_TOPLAM>1999.97000000</NET_TOPLAM>
+    <TeslimAlici>Nurcin Kirdi</TeslimAlici>
+    <TeslimAdresi>Karaova mah.yazkent sitesi no:5/4 Kusadasi Aydin Yazkent sitesi</TeslimAdresi>
+    <TeslimTelefon>+905306639327</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>09001</teslimPostaKodu>
+    <teslimil>Aydın</teslimil>
+    <teslimilce>Kuşadası</teslimilce>
+    <faturaalici>Nurcin Kirdi</faturaalici>
+    <faturaAdresi>Karaova mah.yazkent sitesi no:5/4 Kusadasi Aydin Yazkent sitesi</faturaAdresi>
+    <faturaTelefon>+905306639327</faturaTelefon>
+    <faturavergino>21601881614</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>09001</faturaPostaKodu>
+    <faturail>Aydın</faturail>
+    <faturailce>Kuşadası</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914829631</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELLV7314_02</KOD>
+        <VARKOD>5YKELLV7314_0202S</VARKOD>
+        <SECENEK_DEGERI>5YKELLV7314_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003264663</BARCODE>
+        <URUNADI>Kadın İp Askılı Yanı Yırtmaçlı Müslin Uzun Elbise</URUNADI>
+        <FATURA_ADI>Kadın İp Askılı Yanı Yırtmaçlı Müslin Uzun Elbise</FATURA_ADI>
+        <FIYAT>857.13000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKTKTN2534_02</KOD>
+        <VARKOD>5YKTKTN2534_0202M</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN2534_02_M</SECENEK_DEGERI>
+        <BARCODE>6000003328853</BARCODE>
+        <URUNADI>Kadın Kruveze Yaka Bağlamalı Müslin Takım</URUNADI>
+        <FATURA_ADI>Kadın Kruveze Yaka Bağlamalı Müslin Takım</FATURA_ADI>
+        <FIYAT>523.81000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKATT25598_ZCC</KOD>
+        <VARKOD>5YKATT25598_ZCCZCCS</VARKOD>
+        <SECENEK_DEGERI>5YKATT25598_ZCC_S</SECENEK_DEGERI>
+        <BARCODE>6000003263536</BARCODE>
+        <URUNADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Çizgili Ribana Atlet</URUNADI>
+        <FATURA_ADI>Kadın Yüzücü Model Bisiklet Yaka Full Licra Çizgili Ribana Atlet</FATURA_ADI>
+        <FIYAT>142.85000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKSRTN3272_02</KOD>
+        <VARKOD>5YKSRTN3272_0202S</VARKOD>
+        <SECENEK_DEGERI>5YKSRTN3272_02_S</SECENEK_DEGERI>
+        <BARCODE>6000003348417</BARCODE>
+        <URUNADI>Kadın Duble Paça Keten Şort</URUNADI>
+        <FATURA_ADI>Kadın Duble Paça Keten Şort</FATURA_ADI>
+        <FIYAT>476.18000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2962</SIPARIS_NO>
     <CariHesapKodu>
