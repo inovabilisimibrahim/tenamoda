@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-24T13:30:21 -->
+﻿<!-- generated:2026-08-24T13:35:32 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2970</SIPARIS_NO>
@@ -471,91 +471,6 @@
         <URUNADI>Erkek Kapüşonlu Üç İplik  Basic Sweatshirt</URUNADI>
         <FATURA_ADI>Erkek Kapüşonlu Üç İplik  Basic Sweatshirt</FATURA_ADI>
         <FIYAT>399.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2962</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>basakaynur@gmail.com</POSTA>
-    <TARIH>2026-08-14</TARIH>
-    <sipariszaman>13:33:30</sipariszaman>
-    <NET_TOPLAM>699.99000000</NET_TOPLAM>
-    <TeslimAlici>aynur başak  kamacı taracar</TeslimAlici>
-    <TeslimAdresi>bağlarbaşı mah tan sok no4 daire2  ağan apt</TeslimAdresi>
-    <TeslimTelefon>+905543021500</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Maltepe</teslimilce>
-    <faturaalici>aynur başak  kamacı taracar</faturaalici>
-    <faturaAdresi>bağlarbaşı mah tan sok no4 daire2  ağan apt</faturaAdresi>
-    <faturaTelefon>+905543021500</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Maltepe</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829621</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKB17-1290_13</KOD>
-        <VARKOD>5YKB17-1290_1313M</VARKOD>
-        <SECENEK_DEGERI>5YKB17-1290_13_M</SECENEK_DEGERI>
-        <BARCODE>6000003285019</BARCODE>
-        <URUNADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</URUNADI>
-        <FATURA_ADI>Kadın Kayık Yaka Yanları Büzgülü Sandy Bluz</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKETTNGR25_90</KOD>
-        <VARKOD>5YKETTNGR25_9090L</VARKOD>
-        <SECENEK_DEGERI>5YKETTNGR25_90_L</SECENEK_DEGERI>
-        <BARCODE>6000003375192</BARCODE>
-        <URUNADI>Kadın Balon Şort Etek</URUNADI>
-        <FATURA_ADI>Kadın Balon Şort Etek</FATURA_ADI>
-        <FIYAT>499.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
