@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-28T11:09:14 -->
+﻿<!-- generated:2026-08-28T11:14:25 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2972</SIPARIS_NO>
@@ -284,64 +284,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2967</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>12632801306</tcno>
-    <POSTA>azataktog0711@gmail.com</POSTA>
-    <TARIH>2026-08-18</TARIH>
-    <sipariszaman>11:13:23</sipariszaman>
-    <NET_TOPLAM>4699.96000000</NET_TOPLAM>
-    <TeslimAlici>Azat Aktoğ</TeslimAlici>
-    <TeslimAdresi>Gölköy Mh. Akdeniz Cd 36, Sokak NO:74/1, 48400 Bodrum/Muğla 1</TeslimAdresi>
-    <TeslimTelefon>+905304588947</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>48400</teslimPostaKodu>
-    <teslimil>Muğla</teslimil>
-    <teslimilce>Bodrum</teslimilce>
-    <faturaalici>Azat Aktoğ</faturaalici>
-    <faturaAdresi>Gölköy Mh. Akdeniz Cd 36, Sokak NO:74/1, 48400 Bodrum/Muğla 1</faturaAdresi>
-    <faturaTelefon>+905304588947</faturaTelefon>
-    <faturavergino>12632801306</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>48400</faturaPostaKodu>
-    <faturail>Muğla</faturail>
-    <faturailce>Bodrum</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
-    <kargo_odemesi>2</kargo_odemesi>
-    <kargokodu>22914829671</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YEPNFEAT25_V002</KOD>
-        <VARKOD>6YEPNFEAT25_V002V002M</VARKOD>
-        <SECENEK_DEGERI>6YEPNFEAT25_V002_M</SECENEK_DEGERI>
-        <BARCODE>6000003464933</BARCODE>
-        <URUNADI>Erkek Yandan Lastikli Keten Efektli Tristan Dokuma Tek Pileli Duble Paça Pantolon</URUNADI>
-        <FATURA_ADI>Erkek Yandan Lastikli Keten Efektli Tristan Dokuma Tek Pileli Duble Paça Pantolon</FATURA_ADI>
-        <FIYAT>1174.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>4.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
