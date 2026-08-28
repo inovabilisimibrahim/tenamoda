@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-28T15:04:09 -->
+﻿<!-- generated:2026-08-28T15:09:19 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2972</SIPARIS_NO>
@@ -212,76 +212,6 @@
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
         <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2966</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>52975109660</tcno>
-    <POSTA>gokce.yikilmaz@gmail.com</POSTA>
-    <TARIH>2026-08-18</TARIH>
-    <sipariszaman>15:06:38</sipariszaman>
-    <NET_TOPLAM>499.99000000</NET_TOPLAM>
-    <TeslimAlici>Gökçe Aksoy</TeslimAlici>
-    <TeslimAdresi>Seyitnizam mah g29 sok no12 daire4 Zeytinburnu istanbul Birlik apartmanı</TeslimAdresi>
-    <TeslimTelefon>+905393080094</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Zeytinburnu</teslimilce>
-    <faturaalici>Gökçe Aksoy</faturaalici>
-    <faturaAdresi>Seyitnizam mah g29 sok no12 daire4 Zeytinburnu istanbul Birlik apartmanı</faturaAdresi>
-    <faturaTelefon>+905393080094</faturaTelefon>
-    <faturavergino>52975109660</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İstanbul</faturail>
-    <faturailce>Zeytinburnu</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829661</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1842_14</KOD>
-        <VARKOD>5YKG16-1842_1414S</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1842_14_S</SECENEK_DEGERI>
-        <BARCODE>6000003364097</BARCODE>
-        <URUNADI>Kadın Oversize Keten Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Oversize Keten Gömlek</FATURA_ADI>
-        <FIYAT>399.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
       </SATIR>
     </SATIRLAR>
   </SIPARIS>
