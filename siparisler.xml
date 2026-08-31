@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-31T15:48:15 -->
+﻿<!-- generated:2026-08-31T15:53:24 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2984</SIPARIS_NO>
@@ -668,8 +668,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YK66-10294_09</KOD>
-        <VARKOD>5YK66-10294_0909L</VARKOD>
         <SECENEK_DEGERI>5YK66-10294_09_L</SECENEK_DEGERI>
         <BARCODE>6000003452657</BARCODE>
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
@@ -741,6 +739,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YK66-10294_MR3</KOD>
+        <VARKOD>5YK66-10294_MR3MR3XL</VARKOD>
         <SECENEK_DEGERI>5YK66-10294_MR3_XL</SECENEK_DEGERI>
         <BARCODE>6000003453760</BARCODE>
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
