@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-31T14:45:48 -->
+﻿<!-- generated:2026-08-31T14:51:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2984</SIPARIS_NO>
@@ -823,6 +823,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YETSTN2089_06</KOD>
+        <VARKOD>4YETSTN2089_0606L</VARKOD>
         <SECENEK_DEGERI>4YETSTN2089_06_L</SECENEK_DEGERI>
         <BARCODE>6000003095274</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
