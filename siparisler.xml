@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-08-31T15:43:05 -->
+﻿<!-- generated:2026-08-31T15:48:15 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2984</SIPARIS_NO>
@@ -259,6 +259,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YKELT35053_B02</KOD>
+        <VARKOD>4YKELT35053_B02B02M</VARKOD>
         <SECENEK_DEGERI>4YKELT35053_B02_M</SECENEK_DEGERI>
         <BARCODE>6000003075542</BARCODE>
         <URUNADI>Kadın Yaka Fırfırlı Önü Düğmeli Kolsuz Poplin Kumaş Uzun Elbise</URUNADI>
@@ -548,6 +550,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YETSTN2089_06</KOD>
+        <VARKOD>4YETSTN2089_0606XL</VARKOD>
         <SECENEK_DEGERI>4YETSTN2089_06_XL</SECENEK_DEGERI>
         <BARCODE>6000003095304</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
