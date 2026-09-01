@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-01T11:28:24 -->
+﻿<!-- generated:2026-09-01T11:33:41 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2988</SIPARIS_NO>
@@ -70,8 +70,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKELTNGR31_B02</KOD>
-        <VARKOD>5YKELTNGR31_B02B02S</VARKOD>
         <SECENEK_DEGERI>5YKELTNGR31_B02_S</SECENEK_DEGERI>
         <BARCODE>6000003374942</BARCODE>
         <URUNADI>Kadın Beli Oturtmalı Gömlek Yaka Elbise</URUNADI>
@@ -83,8 +81,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKELTNGR17_08</KOD>
-        <VARKOD>5YKELTNGR17_0808S</VARKOD>
         <SECENEK_DEGERI>5YKELTNGR17_08_S</SECENEK_DEGERI>
         <BARCODE>6000003367913</BARCODE>
         <URUNADI>Kadın Önü Düğüm Detaylı Kolsuz Elbise</URUNADI>
@@ -153,8 +149,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YEPNFEAT25_V008</KOD>
-        <VARKOD>6YEPNFEAT25_V008V008XL</VARKOD>
         <SECENEK_DEGERI>6YEPNFEAT25_V008_XL</SECENEK_DEGERI>
         <BARCODE>6000003465138</BARCODE>
         <URUNADI>Erkek Yandan Lastikli Keten Efektli Tristan Dokuma Tek Pileli Duble Paça Pantolon</URUNADI>
@@ -1020,8 +1014,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YK66-10294_09</KOD>
-        <VARKOD>5YK66-10294_0909L</VARKOD>
         <SECENEK_DEGERI>5YK66-10294_09_L</SECENEK_DEGERI>
         <BARCODE>6000003452657</BARCODE>
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
