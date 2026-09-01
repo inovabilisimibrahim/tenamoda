@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-01T17:51:12 -->
+﻿<!-- generated:2026-09-01T17:56:22 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2991</SIPARIS_NO>
@@ -142,6 +142,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKSRTN5322_16</KOD>
+        <VARKOD>5YKSRTN5322_1616XL</VARKOD>
         <SECENEK_DEGERI>5YKSRTN5322_16_XL</SECENEK_DEGERI>
         <BARCODE>6000003306813</BARCODE>
         <URUNADI>Kadın Beli Lastikli Paçası Püsküllü Kısa Şort</URUNADI>
