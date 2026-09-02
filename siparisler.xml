@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-02T18:41:53 -->
+﻿<!-- generated:2026-09-02T18:47:18 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2992</SIPARIS_NO>
@@ -352,6 +352,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKG16-1838_04</KOD>
+        <VARKOD>5YKG16-1838_0404M</VARKOD>
         <SECENEK_DEGERI>5YKG16-1838_04_M</SECENEK_DEGERI>
         <BARCODE>6000003381339</BARCODE>
         <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
@@ -446,6 +448,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YE12-10234_24</KOD>
+        <VARKOD>6YE12-10234_2424XXL</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_24_XXL</SECENEK_DEGERI>
         <BARCODE>6000003459076</BARCODE>
         <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
@@ -1373,6 +1377,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YES65-5100_670</KOD>
+        <VARKOD>6YES65-5100_670670XL</VARKOD>
         <SECENEK_DEGERI>6YES65-5100_670_XL</SECENEK_DEGERI>
         <BARCODE>6000003461567</BARCODE>
         <URUNADI>Erkek Baggy Double Paça Müslin Şort</URUNADI>
@@ -1408,6 +1414,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YK66-10176_14</KOD>
+        <VARKOD>6YK66-10176_1414M</VARKOD>
         <SECENEK_DEGERI>6YK66-10176_14_M</SECENEK_DEGERI>
         <BARCODE>6000003488359</BARCODE>
         <URUNADI>Anvelop Model Keten Pantolon</URUNADI>
@@ -1548,6 +1556,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>4YETSTN2089_06</KOD>
+        <VARKOD>4YETSTN2089_0606L</VARKOD>
         <SECENEK_DEGERI>4YETSTN2089_06_L</SECENEK_DEGERI>
         <BARCODE>6000003095274</BARCODE>
         <URUNADI>Erkek Bisiklet Yaka Ringel Mini Waffle Tişört</URUNADI>
