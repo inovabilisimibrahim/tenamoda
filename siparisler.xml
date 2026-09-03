@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-03T20:28:51 -->
+﻿<!-- generated:2026-09-03T20:34:04 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2993</SIPARIS_NO>
@@ -531,6 +531,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YE12-10234_24</KOD>
+        <VARKOD>6YE12-10234_2424XXL</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_24_XXL</SECENEK_DEGERI>
         <BARCODE>6000003459076</BARCODE>
         <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
