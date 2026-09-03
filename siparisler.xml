@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-03T19:16:56 -->
+﻿<!-- generated:2026-09-03T19:22:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2993</SIPARIS_NO>
@@ -531,8 +531,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YE12-10234_24</KOD>
-        <VARKOD>6YE12-10234_2424XXL</VARKOD>
         <SECENEK_DEGERI>6YE12-10234_24_XXL</SECENEK_DEGERI>
         <BARCODE>6000003459076</BARCODE>
         <URUNADI>Erkek Uzun Kol Basic Pamuk Flam Regular Gömlek</URUNADI>
@@ -1495,8 +1493,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YK66-10176_14</KOD>
-        <VARKOD>6YK66-10176_1414M</VARKOD>
         <SECENEK_DEGERI>6YK66-10176_14_M</SECENEK_DEGERI>
         <BARCODE>6000003488359</BARCODE>
         <URUNADI>Anvelop Model Keten Pantolon</URUNADI>
