@@ -1,5 +1,90 @@
-﻿<!-- generated:2026-09-03T09:02:57 -->
+﻿<!-- generated:2026-09-03T09:08:11 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>2993</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>36784237998</tcno>
+    <POSTA>semaakduman02@gmail.com</POSTA>
+    <TARIH>2026-09-03</TARIH>
+    <sipariszaman>09:04:53</sipariszaman>
+    <NET_TOPLAM>399.99000000</NET_TOPLAM>
+    <TeslimAlici>Sema AKDUMAN GÖK</TeslimAlici>
+    <TeslimAdresi>Nusratiye mahallesi uğur mumcu caddesi palmiye apartmanı no 16/20 KAT 2 DAİRE 8 ÇORLU/ TEKİRDAĞ Palmiye Apartmanı</TeslimAdresi>
+    <TeslimTelefon>+905312311362</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>59500</teslimPostaKodu>
+    <teslimil>Tekirdağ</teslimil>
+    <teslimilce>Çorlu</teslimilce>
+    <faturaalici>Sema AKDUMAN GÖK</faturaalici>
+    <faturaAdresi>Nusratiye mahallesi uğur mumcu caddesi palmiye apartmanı no 16/20 KAT 2 DAİRE 8 ÇORLU/ TEKİRDAĞ Palmiye Apartmanı</faturaAdresi>
+    <faturaTelefon>+905312311362</faturaTelefon>
+    <faturavergino>36784237998</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>59500</faturaPostaKodu>
+    <faturail>Tekirdağ</faturail>
+    <faturailce>Çorlu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829931</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKELCM0E74_18</KOD>
+        <VARKOD>4YKELCM0E74_1818S</VARKOD>
+        <SECENEK_DEGERI>4YKELCM0E74_18_S</SECENEK_DEGERI>
+        <BARCODE>6000003111349</BARCODE>
+        <URUNADI>Kadın Çift Astarlı Bürümcük Kumaş Elbise</URUNADI>
+        <FATURA_ADI>Kadın Çift Astarlı Bürümcük Kumaş Elbise</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKELT35061_U01</KOD>
+        <VARKOD>4YKELT35061_U01U01M</VARKOD>
+        <SECENEK_DEGERI>4YKELT35061_U01_M</SECENEK_DEGERI>
+        <BARCODE>6000003075726</BARCODE>
+        <URUNADI>Kadın Önü Fırfırlı Balık Sırtı Gabardin Kumaş Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Fırfırlı Balık Sırtı Gabardin Kumaş Elbise</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2992</SIPARIS_NO>
     <CariHesapKodu>
