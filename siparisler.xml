@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-06T10:29:47 -->
+﻿<!-- generated:2026-09-06T10:35:00 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>2998</SIPARIS_NO>
@@ -2036,80 +2036,6 @@
         <URUNADI>Unisex  Kargo Ücreti</URUNADI>
         <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
         <FIYAT>50.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2972</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>kaplanseymanur06@gmail.com</POSTA>
-    <TARIH>2026-08-27</TARIH>
-    <sipariszaman>10:33:09</sipariszaman>
-    <NET_TOPLAM>499.99000000</NET_TOPLAM>
-    <TeslimAlici>Şeymanur Kaplan</TeslimAlici>
-    <TeslimAdresi>Bitlis hizan Yeşilova mahallesi Hükümet caddesi Ölez apartman kat üç no dört Kat3 no 4</TeslimAdresi>
-    <TeslimTelefon>+905531155952</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>13000</teslimPostaKodu>
-    <teslimil>Bitlis</teslimil>
-    <teslimilce>Hizan</teslimilce>
-    <faturaalici>Şeymanur Kaplan</faturaalici>
-    <faturaAdresi>Bitlis hizan Yeşilova mahallesi Hükümet caddesi Ölez apartman kat üç no dört Kat3 no 4</faturaAdresi>
-    <faturaTelefon>+905531155952</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>13000</faturaPostaKodu>
-    <faturail>Bitlis</faturail>
-    <faturailce>Hizan</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829721</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>5YKG16-1838_04</KOD>
-        <VARKOD>5YKG16-1838_0404L</VARKOD>
-        <SECENEK_DEGERI>5YKG16-1838_04_L</SECENEK_DEGERI>
-        <BARCODE>6000003381322</BARCODE>
-        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
-        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
-        <FIYAT>399.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
