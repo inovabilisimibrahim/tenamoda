@@ -1,5 +1,173 @@
-﻿<!-- generated:2026-09-07T09:13:06 -->
+﻿<!-- generated:2026-09-07T09:18:20 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3000</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>14081852762</tcno>
+    <POSTA>caglaabakircii@outlook.com</POSTA>
+    <TARIH>2026-09-07</TARIH>
+    <sipariszaman>09:16:38</sipariszaman>
+    <NET_TOPLAM>1449.99000000</NET_TOPLAM>
+    <TeslimAlici>Çağla  Güneysu </TeslimAlici>
+    <TeslimAdresi>Zafer mahallesi haramidere yolu caddesi sembol İstanbul rezidans no:28 C blok 516  Sembol İstanbul rezidans c516-517</TeslimAdresi>
+    <TeslimTelefon>+905423184155</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Esenyurt</teslimilce>
+    <faturaalici>Çağla  Güneysu </faturaalici>
+    <faturaAdresi>Zafer mahallesi haramidere yolu caddesi sembol İstanbul rezidans no:28 C blok 516  Sembol İstanbul rezidans c516-517</faturaAdresi>
+    <faturaTelefon>+905423184155</faturaTelefon>
+    <faturavergino>14081852762</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Esenyurt</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830001</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YK18-10580_09</KOD>
+        <VARKOD>6YK18-10580_0909S</VARKOD>
+        <SECENEK_DEGERI>6YK18-10580_09_S</SECENEK_DEGERI>
+        <BARCODE>6000003489295</BARCODE>
+        <URUNADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</URUNADI>
+        <FATURA_ADI>Kadın 172 Düşük Kol Bluzlu Uzun Pike Modal Etekli Takım</FATURA_ADI>
+        <FIYAT>1399.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKTKTN0006_08</KOD>
+        <VARKOD>5YKTKTN0006_0808L</VARKOD>
+        <SECENEK_DEGERI>5YKTKTN0006_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003341524</BARCODE>
+        <URUNADI>Kadın Blazer Ceketli Palozzo Modal Pantolonlu Takım</URUNADI>
+        <FATURA_ADI>Kadın Blazer Ceketli Palozzo Modal Pantolonlu Takım</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>2999</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>35137987788</tcno>
+    <POSTA>nurgularda1988@hotmail.com</POSTA>
+    <TARIH>2026-09-07</TARIH>
+    <sipariszaman>09:16:35</sipariszaman>
+    <NET_TOPLAM>399.99000000</NET_TOPLAM>
+    <TeslimAlici>Nurgül Erhan</TeslimAlici>
+    <TeslimAdresi>9602 sok no 49 d 1 salih omurtak mah D 1</TeslimAdresi>
+    <TeslimTelefon>+905331361925</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35130</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>Nurgül Erhan</faturaalici>
+    <faturaAdresi>9602 sok no 49 d 1 salih omurtak mah D 1</faturaAdresi>
+    <faturaTelefon>+905331361925</faturaTelefon>
+    <faturavergino>35137987788</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35130</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914829991</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6YETS4065-1_02</KOD>
+        <VARKOD>6YETS4065-1_0202XXL</VARKOD>
+        <SECENEK_DEGERI>6YETS4065-1_02_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003480001</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YETS4065-1_18</KOD>
+        <VARKOD>6YETS4065-1_1818XXL</VARKOD>
+        <SECENEK_DEGERI>6YETS4065-1_18_XXL</SECENEK_DEGERI>
+        <BARCODE>6000003480056</BARCODE>
+        <URUNADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</URUNADI>
+        <FATURA_ADI>Erkek Bisiklet Yaka Önü Karyola Waffle Basic Tişört</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>2998</SIPARIS_NO>
     <CariHesapKodu>
