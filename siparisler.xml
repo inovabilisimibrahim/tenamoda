@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-11T12:01:13 -->
+﻿<!-- generated:2026-09-11T12:06:30 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3003</SIPARIS_NO>
@@ -1923,77 +1923,6 @@
         <URUNADI>Anvelop Model Keten Pantolon</URUNADI>
         <FATURA_ADI>Anvelop Model Keten Pantolon</FATURA_ADI>
         <FIYAT>1176.91000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2977</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>12460495876</tcno>
-    <POSTA>gkucukcakin@gmail.com</POSTA>
-    <TARIH>2026-09-01</TARIH>
-    <sipariszaman>12:04:57</sipariszaman>
-    <NET_TOPLAM>749.99000000</NET_TOPLAM>
-    <TeslimAlici>Gülsüm Küçükçakın</TeslimAlici>
-    <TeslimAdresi>İslice mahallesi güven sokak no 6 Uşak</TeslimAdresi>
-    <TeslimTelefon>+905367388682</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>64200</teslimPostaKodu>
-    <teslimil>Uşak</teslimil>
-    <teslimilce>Merkez</teslimilce>
-    <faturaalici>Gülsüm Küçükçakın</faturaalici>
-    <faturaAdresi>İslice mahallesi güven sokak no 6 Uşak</faturaAdresi>
-    <faturaTelefon>+905367388682</faturaTelefon>
-    <faturavergino>12460495876</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>64200</faturaPostaKodu>
-    <faturail>Uşak</faturail>
-    <faturailce>Merkez</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829771</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YK66-10294_MR3_XL</SECENEK_DEGERI>
-        <BARCODE>6000003453760</BARCODE>
-        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
-        <FIYAT>749.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YK66-10294_02</KOD>
-        <VARKOD>5YK66-10294_0202XL</VARKOD>
-        <SECENEK_DEGERI>5YK66-10294_02_XL</SECENEK_DEGERI>
-        <BARCODE>6000003452206</BARCODE>
-        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
