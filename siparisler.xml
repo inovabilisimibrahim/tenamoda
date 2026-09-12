@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-12T15:40:38 -->
+﻿<!-- generated:2026-09-12T15:45:50 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3003</SIPARIS_NO>
@@ -170,6 +170,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5335_18</KOD>
+        <VARKOD>5YKPNTN5335_1818M</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_18_M</SECENEK_DEGERI>
         <BARCODE>6000003269576</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
