@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-13T10:49:03 -->
+﻿<!-- generated:2026-09-13T10:54:14 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3003</SIPARIS_NO>
@@ -888,91 +888,6 @@
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
         <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
         <FIYAT>799.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2991</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>36892685322</tcno>
-    <POSTA>sozer1823@gmail.com</POSTA>
-    <TARIH>2026-09-03</TARIH>
-    <sipariszaman>10:50:46</sipariszaman>
-    <NET_TOPLAM>1099.99000000</NET_TOPLAM>
-    <TeslimAlici>Seda Özer</TeslimAlici>
-    <TeslimAdresi>Ferah mah Irmak sok no 12 daire 8 Üsküdar İstanbul  Çamlıca apt</TeslimAdresi>
-    <TeslimTelefon>+905377400680</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimPostaKodu>34692</teslimPostaKodu>
-    <teslimil>İstanbul</teslimil>
-    <teslimilce>Üsküdar</teslimilce>
-    <faturaalici>Seda Özer</faturaalici>
-    <faturaAdresi>Ferah mah Irmak sok no 12 daire 8 Üsküdar İstanbul  Çamlıca apt</faturaAdresi>
-    <faturaTelefon>+905377400680</faturaTelefon>
-    <faturavergino>36892685322</faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturaPostaKodu>34692</faturaPostaKodu>
-    <faturail>İstanbul</faturail>
-    <faturailce>Üsküdar</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829911</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <KOD>6YK37-10762_09</KOD>
-        <VARKOD>6YK37-10762_0909M</VARKOD>
-        <SECENEK_DEGERI>6YK37-10762_09_M</SECENEK_DEGERI>
-        <BARCODE>6000003492103</BARCODE>
-        <URUNADI>Gold Tek Düğmeli Floş Saten Ceket</URUNADI>
-        <FATURA_ADI>Gold Tek Düğmeli Floş Saten Ceket</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>6YK37-10762_18</KOD>
-        <VARKOD>6YK37-10762_1818M</VARKOD>
-        <SECENEK_DEGERI>6YK37-10762_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003492134</BARCODE>
-        <URUNADI>Gold Tek Düğmeli Floş Saten Ceket</URUNADI>
-        <FATURA_ADI>Gold Tek Düğmeli Floş Saten Ceket</FATURA_ADI>
-        <FIYAT>999.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
