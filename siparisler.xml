@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-13T09:25:55 -->
+﻿<!-- generated:2026-09-13T09:31:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3003</SIPARIS_NO>
@@ -1143,87 +1143,6 @@
         <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
         <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>ticimax.krg01</KOD>
-        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
-        <BARCODE>6000002386717</BARCODE>
-        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
-        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
-        <FIYAT>100.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>20</KDV>
-      </SATIR>
-    </SATIRLAR>
-  </SIPARIS>
-  <SIPARIS>
-    <SIPARIS_NO>2981</SIPARIS_NO>
-    <CariHesapKodu>
-    </CariHesapKodu>
-    <CariHesapOzelKodu>
-    </CariHesapOzelKodu>
-    <tcno>
-    </tcno>
-    <POSTA>sevilay.kesik90@gmail.com</POSTA>
-    <TARIH>2026-09-03</TARIH>
-    <sipariszaman>09:27:34</sipariszaman>
-    <NET_TOPLAM>999.99000000</NET_TOPLAM>
-    <TeslimAlici>Sevilay  Civaş </TeslimAlici>
-    <TeslimAdresi>Kemalpaşa mh. 7405/1 SK no:12 Kemeraltı Çanta Ltd Sti</TeslimAdresi>
-    <TeslimTelefon>+905447358883</TeslimTelefon>
-    <teslimsekli>KR</teslimsekli>
-    <teslimUlke>Türkiye</teslimUlke>
-    <teslimil>İzmir</teslimil>
-    <teslimilce>Bornova</teslimilce>
-    <faturaalici>Sevilay  Civaş </faturaalici>
-    <faturaAdresi>Kemalpaşa mh. 7405/1 SK no:12 Kemeraltı Çanta Ltd Sti</faturaAdresi>
-    <faturaTelefon>+905447358883</faturaTelefon>
-    <faturavergino>
-    </faturavergino>
-    <faturavergidairesi>
-    </faturavergidairesi>
-    <faturaUlke>Türkiye</faturaUlke>
-    <faturail>İzmir</faturail>
-    <faturailce>Bornova</faturailce>
-    <status>8</status>
-    <status_tanim>Ödeme Alındı</status_tanim>
-    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
-    <tasiyicifirma>hepsijet</tasiyicifirma>
-    <kargo_odemesi_tanim>
-    </kargo_odemesi_tanim>
-    <kargo_odemesi>
-    </kargo_odemesi>
-    <kargokodu>22914829811</kargokodu>
-    <banka>
-    </banka>
-    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
-    <ODEME_SEKLI>2</ODEME_SEKLI>
-    <not>
-    </not>
-    <SATIRLAR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKETTN2544_04_S</SECENEK_DEGERI>
-        <BARCODE>6000003297777</BARCODE>
-        <URUNADI>Kadın Saten Uzun Etek</URUNADI>
-        <FATURA_ADI>Kadın Saten Uzun Etek</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <SECENEK_DEGERI>5YKTKTN2533_18_M</SECENEK_DEGERI>
-        <BARCODE>6000003297258</BARCODE>
-        <URUNADI>Kadın Şifon Bluz Saten Pantolon Takım</URUNADI>
-        <FATURA_ADI>Kadın Şifon Bluz Saten Pantolon Takım</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
