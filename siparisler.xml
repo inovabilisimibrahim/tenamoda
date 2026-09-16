@@ -1,5 +1,211 @@
-﻿<!-- generated:2026-09-16T14:39:13 -->
+﻿<!-- generated:2026-09-16T14:44:27 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3008</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>23048365832</tcno>
+    <POSTA>can34bali@gmail.com</POSTA>
+    <TARIH>2026-09-16</TARIH>
+    <sipariszaman>14:44:13</sipariszaman>
+    <NET_TOPLAM>3734.44000000</NET_TOPLAM>
+    <TeslimAlici>Can Bali</TeslimAlici>
+    <TeslimAdresi>Değirmenaltı mahallesi yeşilcay sokak YSK Center STARBUCKS </TeslimAdresi>
+    <TeslimTelefon>+905436270689</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>59100</teslimPostaKodu>
+    <teslimil>Tekirdağ</teslimil>
+    <teslimilce>Süleymanpaşa</teslimilce>
+    <faturaalici>Can Bali</faturaalici>
+    <faturaAdresi>Değirmenaltı mahallesi yeşilcay sokak YSK Center STARBUCKS </faturaAdresi>
+    <faturaTelefon>+905436270689</faturaTelefon>
+    <faturavergino>23048365832</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>59100</faturaPostaKodu>
+    <faturail>Tekirdağ</faturail>
+    <faturailce>Süleymanpaşa</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914830081</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6KETRTRK440_01</KOD>
+        <VARKOD>6KETRTRK440_0101XL</VARKOD>
+        <SECENEK_DEGERI>6KETRTRK440_01_XL</SECENEK_DEGERI>
+        <BARCODE>6000003587793</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</FATURA_ADI>
+        <FIYAT>884.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6KETRTRK440_04</KOD>
+        <VARKOD>6KETRTRK440_0404XL</VARKOD>
+        <SECENEK_DEGERI>6KETRTRK440_04_XL</SECENEK_DEGERI>
+        <BARCODE>6000003587847</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</FATURA_ADI>
+        <FIYAT>884.47000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YEPNFEAT26_18</KOD>
+        <VARKOD>6YEPNFEAT26_1818XL</VARKOD>
+        <SECENEK_DEGERI>6YEPNFEAT26_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003465190</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YEPNFEAT26_18</KOD>
+        <VARKOD>6YEPNFEAT26_1818XL</VARKOD>
+        <SECENEK_DEGERI>6YEPNFEAT26_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003465190</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>982.75000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YEPNFEAT26_739G</KOD>
+        <VARKOD>6YEPNFEAT26_739G739GXL</VARKOD>
+        <SECENEK_DEGERI>6YEPNFEAT26_739G_XL</SECENEK_DEGERI>
+        <BARCODE>6000003465374</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6YEPNFEAT26_2916</KOD>
+        <VARKOD>6YEPNFEAT26_29162916XL</VARKOD>
+        <SECENEK_DEGERI>6YEPNFEAT26_2916_XL</SECENEK_DEGERI>
+        <BARCODE>6000003465251</BARCODE>
+        <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>982.75000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>3007</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11177421734</tcno>
+    <POSTA>leylabeygo6565@gmail.com</POSTA>
+    <TARIH>2026-09-16</TARIH>
+    <sipariszaman>14:44:11</sipariszaman>
+    <NET_TOPLAM>699.99000000</NET_TOPLAM>
+    <TeslimAlici>Leyla Beygo</TeslimAlici>
+    <TeslimAdresi>   Vali mithat bey mah bayındırlık 1. Sokak gül kale 2. Apartman no 5 kat 6 daire  12 2.apartman no 5 kat 6 daire 12</TeslimAdresi>
+    <TeslimTelefon>+905363399665</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Van</teslimil>
+    <teslimilce>İpekyolu</teslimilce>
+    <faturaalici>Leyla Beygo</faturaalici>
+    <faturaAdresi>   Vali mithat bey mah bayındırlık 1. Sokak gül kale 2. Apartman no 5 kat 6 daire  12 2.apartman no 5 kat 6 daire 12</faturaAdresi>
+    <faturaTelefon>+905363399665</faturaTelefon>
+    <faturavergino>11177421734</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Van</faturail>
+    <faturailce>İpekyolu</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830071</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKG16-1838_60</KOD>
+        <VARKOD>5YKG16-1838_6060M</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1838_60_M</SECENEK_DEGERI>
+        <BARCODE>6000003365155</BARCODE>
+        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1838_90</KOD>
+        <VARKOD>5YKG16-1838_9090M</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1838_90_M</SECENEK_DEGERI>
+        <BARCODE>6000003365216</BARCODE>
+        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3006</SIPARIS_NO>
     <CariHesapKodu>
