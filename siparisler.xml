@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-17T11:12:36 -->
+﻿<!-- generated:2026-09-17T11:17:52 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3008</SIPARIS_NO>
@@ -261,32 +261,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN5424_08</KOD>
-        <VARKOD>5YKPNTN5424_0808L</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5424_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003419506</BARCODE>
-        <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YKPNTN5424_14</KOD>
-        <VARKOD>5YKPNTN5424_1414L</VARKOD>
-        <SECENEK_DEGERI>5YKPNTN5424_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003422650</BARCODE>
-        <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</FATURA_ADI>
-        <FIYAT>899.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
         <KOD>5YK66-10294_MR3</KOD>
         <VARKOD>5YK66-10294_MR3MR3L</VARKOD>
         <SECENEK_DEGERI>5YK66-10294_MR3_L</SECENEK_DEGERI>
@@ -294,6 +268,22 @@
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
         <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
         <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKPNTN5424_08_L</SECENEK_DEGERI>
+        <FIYAT>899.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <SECENEK_DEGERI>5YKPNTN5424_14_L</SECENEK_DEGERI>
+        <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
