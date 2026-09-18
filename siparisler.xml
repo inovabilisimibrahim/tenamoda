@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-18T20:16:33 -->
+﻿<!-- generated:2026-09-18T20:21:43 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3008</SIPARIS_NO>
@@ -257,12 +257,20 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKPNTN5424_08</KOD>
-        <VARKOD>5YKPNTN5424_0808L</VARKOD>
+        <KOD>5YK66-10294_MR3</KOD>
+        <VARKOD>5YK66-10294_MR3MR3L</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_MR3_L</SECENEK_DEGERI>
+        <BARCODE>6000003453739</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
         <SECENEK_DEGERI>5YKPNTN5424_08_L</SECENEK_DEGERI>
-        <BARCODE>6000003419506</BARCODE>
-        <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</FATURA_ADI>
         <FIYAT>899.99000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
@@ -271,23 +279,7 @@
       </SATIR>
       <SATIR>
         <SECENEK_DEGERI>5YKPNTN5424_14_L</SECENEK_DEGERI>
-        <BARCODE>6000003422650</BARCODE>
-        <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</FATURA_ADI>
         <FIYAT>899.99000000</FIYAT>
-        <DOVIZ>TRY</DOVIZ>
-        <MIKTAR>1.00000000</MIKTAR>
-        <BIRIM>Adet</BIRIM>
-        <KDV>10</KDV>
-      </SATIR>
-      <SATIR>
-        <KOD>5YK66-10294_MR3</KOD>
-        <VARKOD>5YK66-10294_MR3MR3L</VARKOD>
-        <SECENEK_DEGERI>5YK66-10294_MR3_L</SECENEK_DEGERI>
-        <BARCODE>6000003453739</BARCODE>
-        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
-        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
-        <FIYAT>0.00000000</FIYAT>
         <DOVIZ>TRY</DOVIZ>
         <MIKTAR>1.00000000</MIKTAR>
         <BIRIM>Adet</BIRIM>
@@ -621,8 +613,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKPNTN5335_01</KOD>
-        <VARKOD>5YKPNTN5335_0101M</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5335_01_M</SECENEK_DEGERI>
         <BARCODE>6000003269415</BARCODE>
         <URUNADI>Kadın Yan Cepli  Havuç Paça Deri  Kemerli  Gabardin  Pantolon</URUNADI>
