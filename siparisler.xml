@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-19T10:55:58 -->
+﻿<!-- generated:2026-09-19T11:01:09 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3008</SIPARIS_NO>
@@ -70,6 +70,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YEPNFEAT26_18</KOD>
+        <VARKOD>6YEPNFEAT26_1818XL</VARKOD>
         <SECENEK_DEGERI>6YEPNFEAT26_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003465190</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
@@ -81,6 +83,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YEPNFEAT26_18</KOD>
+        <VARKOD>6YEPNFEAT26_1818XL</VARKOD>
         <SECENEK_DEGERI>6YEPNFEAT26_18_XL</SECENEK_DEGERI>
         <BARCODE>6000003465190</BARCODE>
         <URUNADI>Erkek Beli Yarım Lastikli ve Fermuarlı Yerli Teknik SRN42 Kumaş Pantolon</URUNADI>
@@ -283,6 +287,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKPNTN5424_14</KOD>
+        <VARKOD>5YKPNTN5424_1414L</VARKOD>
         <SECENEK_DEGERI>5YKPNTN5424_14_L</SECENEK_DEGERI>
         <BARCODE>6000003422650</BARCODE>
         <URUNADI>Kadın Beli Lastik Ve İp Bağlamalı Bol Paça Tencel Pantolon</URUNADI>
