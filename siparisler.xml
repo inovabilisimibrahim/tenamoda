@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-21T10:25:09 -->
+﻿<!-- generated:2026-09-21T10:30:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3008</SIPARIS_NO>
@@ -630,6 +630,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>6YK66-11141_09</KOD>
+        <VARKOD>6YK66-11141_0909M</VARKOD>
         <SECENEK_DEGERI>6YK66-11141_09_M</SECENEK_DEGERI>
         <BARCODE>6000003534100</BARCODE>
         <URUNADI>Kadın Şalvar Kesim Gazi Dikişli Balon  Pantolon</URUNADI>
