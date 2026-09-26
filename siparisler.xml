@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-26T12:10:35 -->
+﻿<!-- generated:2026-09-26T12:15:44 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3008</SIPARIS_NO>
@@ -427,8 +427,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>6YKELTN6852_09</KOD>
-        <VARKOD>6YKELTN6852_0909S</VARKOD>
         <SECENEK_DEGERI>6YKELTN6852_09_S</SECENEK_DEGERI>
         <BARCODE>6000003497290</BARCODE>
         <URUNADI>Kadın Kalın Askılı Ön Arka U Yaka Elbise</URUNADI>
@@ -440,8 +438,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>6YKELTN6852_18</KOD>
-        <VARKOD>6YKELTN6852_1818S</VARKOD>
         <SECENEK_DEGERI>6YKELTN6852_18_S</SECENEK_DEGERI>
         <BARCODE>6000003497337</BARCODE>
         <URUNADI>Kadın Kalın Askılı Ön Arka U Yaka Elbise</URUNADI>
