@@ -1,5 +1,166 @@
-﻿<!-- generated:2026-09-28T09:24:56 -->
+﻿<!-- generated:2026-09-28T09:30:09 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3013</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>aydinezgi03@gmail.com</POSTA>
+    <TARIH>2026-09-28</TARIH>
+    <sipariszaman>09:26:34</sipariszaman>
+    <NET_TOPLAM>712.49000000</NET_TOPLAM>
+    <TeslimAlici>Ezgi  Aydın </TeslimAlici>
+    <TeslimAdresi>2354 sokak no 21 levent  Daire</TeslimAdresi>
+    <TeslimTelefon>+905344267668</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Konak</teslimilce>
+    <faturaalici>Ezgi  Aydın </faturaalici>
+    <faturaAdresi>2354 sokak no 21 levent  Daire</faturaAdresi>
+    <faturaTelefon>+905344267668</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İzmir</faturail>
+    <faturailce>Konak</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830131</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YK66-10294_14</KOD>
+        <VARKOD>5YK66-10294_1414L</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_14_L</SECENEK_DEGERI>
+        <BARCODE>6000003453050</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>712.49000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YK66-10294_02</KOD>
+        <VARKOD>5YK66-10294_0202L</VARKOD>
+        <SECENEK_DEGERI>5YK66-10294_02_L</SECENEK_DEGERI>
+        <BARCODE>6000003452176</BARCODE>
+        <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
+        <FATURA_ADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>3012</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>mumcuceylintuana@gmail.com</POSTA>
+    <TARIH>2026-09-28</TARIH>
+    <sipariszaman>09:24:28</sipariszaman>
+    <NET_TOPLAM>1145.44000000</NET_TOPLAM>
+    <TeslimAlici>Ceylin tuana Mumcu</TeslimAlici>
+    <TeslimAdresi>1938 sk. No 10 Barla apartmanı 4.daire </TeslimAdresi>
+    <TeslimTelefon>+905426576827</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35400</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Buca</teslimilce>
+    <faturaalici>Ceylin tuana Mumcu</faturaalici>
+    <faturaAdresi>1938 sk. No 10 Barla apartmanı 4.daire </faturaAdresi>
+    <faturaTelefon>+905426576827</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35400</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Buca</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830121</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>2YKKRTN1907_B02</KOD>
+        <VARKOD>2YKKRTN1907_B02B02STN</VARKOD>
+        <SECENEK_DEGERI>2YKKRTN1907_B02_STN</SECENEK_DEGERI>
+        <BARCODE>6000002911490</BARCODE>
+        <URUNADI>Kadın Fermuarlı Krokodil Kartlık</URUNADI>
+        <FATURA_ADI>Kadın Fermuarlı Krokodil Kartlık</FATURA_ADI>
+        <FIYAT>190.90000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKCKTN3338_B02</KOD>
+        <VARKOD>5YKCKTN3338_B02B02M</VARKOD>
+        <SECENEK_DEGERI>5YKCKTN3338_B02_M</SECENEK_DEGERI>
+        <BARCODE>6000003302914</BARCODE>
+        <URUNADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</URUNADI>
+        <FATURA_ADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKCKTN3338_70</KOD>
+        <VARKOD>5YKCKTN3338_7070M</VARKOD>
+        <SECENEK_DEGERI>5YKCKTN3338_70_M</SECENEK_DEGERI>
+        <BARCODE>6000003302884</BARCODE>
+        <URUNADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</URUNADI>
+        <FATURA_ADI>Kadın Dört Düğmeli Fleto Cepli Blazer Ceket</FATURA_ADI>
+        <FIYAT>954.54000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3011</SIPARIS_NO>
     <CariHesapKodu>
