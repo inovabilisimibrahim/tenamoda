@@ -1,5 +1,90 @@
-﻿<!-- generated:2026-09-29T14:47:17 -->
+﻿<!-- generated:2026-09-29T14:52:26 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3016</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11647838154</tcno>
+    <POSTA>erengulsen68@gmail.com</POSTA>
+    <TARIH>2026-09-29</TARIH>
+    <sipariszaman>14:48:38</sipariszaman>
+    <NET_TOPLAM>699.99000000</NET_TOPLAM>
+    <TeslimAlici>Gülşen Eren</TeslimAlici>
+    <TeslimAdresi>Rafet Paşa Mahallesi 5042 sokak no:24 Çamdibi  24</TeslimAdresi>
+    <TeslimTelefon>+905300879968</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35090</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bornova</teslimilce>
+    <faturaalici>Gülşen Eren</faturaalici>
+    <faturaAdresi>Rafet Paşa Mahallesi 5042 sokak no:24 Çamdibi  24</faturaAdresi>
+    <faturaTelefon>+905300879968</faturaTelefon>
+    <faturavergino>11647838154</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35090</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bornova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830161</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>4YKGMTN3021_E51</KOD>
+        <VARKOD>4YKGMTN3021_E51E51STD</VARKOD>
+        <SECENEK_DEGERI>4YKGMTN3021_E51_STD</SECENEK_DEGERI>
+        <BARCODE>6000003090712</BARCODE>
+        <URUNADI>Kadın Çizgili Oversize Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Çizgili Oversize Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKBLTNGR59_B02</KOD>
+        <VARKOD>5YKBLTNGR59_B02B02L</VARKOD>
+        <SECENEK_DEGERI>5YKBLTNGR59_B02_L</SECENEK_DEGERI>
+        <BARCODE>6000003394476</BARCODE>
+        <URUNADI>Kadın Önü Fırfırlı Kolları Salaş Bluz</URUNADI>
+        <FATURA_ADI>Kadın Önü Fırfırlı Kolları Salaş Bluz</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3015</SIPARIS_NO>
     <CariHesapKodu>
