@@ -1,5 +1,65 @@
-﻿<!-- generated:2026-09-29T11:07:23 -->
+﻿<!-- generated:2026-09-29T11:12:36 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3014</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>ysmdgn3@gmail.com</POSTA>
+    <TARIH>2026-09-29</TARIH>
+    <sipariszaman>11:09:53</sipariszaman>
+    <NET_TOPLAM>1614.99000000</NET_TOPLAM>
+    <TeslimAlici>Yaşam  Doğan</TeslimAlici>
+    <TeslimAdresi>Dağgöl Mahallesi Recep Tayyip Erdoğan Bulvarı Teknokent Koleji Bitişiği Demir Apt Kat 2 No 4 Bobinajcının üstü </TeslimAdresi>
+    <TeslimTelefon>+905417115731</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>Hakkari</teslimil>
+    <teslimilce>Merkez</teslimilce>
+    <faturaalici>Yaşam  Doğan</faturaalici>
+    <faturaAdresi>Dağgöl Mahallesi Recep Tayyip Erdoğan Bulvarı Teknokent Koleji Bitişiği Demir Apt Kat 2 No 4 Bobinajcının üstü </faturaAdresi>
+    <faturaTelefon>+905417115731</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>Hakkari</faturail>
+    <faturailce>Merkez</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830141</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5KKT18-5311_RNSYK</KOD>
+        <VARKOD>5KKT18-5311_RNSYKRNSYK36</VARKOD>
+        <SECENEK_DEGERI>5KKT18-5311_RNSYK_36</SECENEK_DEGERI>
+        <BARCODE>6000003402560</BARCODE>
+        <URUNADI>Kadın Bisiklet Yaka Cepli İspanyol Pantolonlu Jean Takım</URUNADI>
+        <FATURA_ADI>Kadın Bisiklet Yaka Cepli İspanyol Pantolonlu Jean Takım</FATURA_ADI>
+        <FIYAT>1614.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3013</SIPARIS_NO>
     <CariHesapKodu>
