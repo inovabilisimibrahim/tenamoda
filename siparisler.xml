@@ -1,5 +1,90 @@
-﻿<!-- generated:2026-09-30T09:19:04 -->
+﻿<!-- generated:2026-09-30T09:24:16 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3017</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>11602839684</tcno>
+    <POSTA>gizemseydi818@gmail.com</POSTA>
+    <TARIH>2026-09-30</TARIH>
+    <sipariszaman>09:21:00</sipariszaman>
+    <NET_TOPLAM>399.99000000</NET_TOPLAM>
+    <TeslimAlici>Gizem Eren</TeslimAlici>
+    <TeslimAdresi>Rafet Paşa Mahallesi 5042 sokak no:24 Çamdibi İzmir 24</TeslimAdresi>
+    <TeslimTelefon>+905340331086</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35090</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Bornova</teslimilce>
+    <faturaalici>Gizem Eren</faturaalici>
+    <faturaAdresi>Rafet Paşa Mahallesi 5042 sokak no:24 Çamdibi İzmir 24</faturaAdresi>
+    <faturaTelefon>+905340331086</faturaTelefon>
+    <faturavergino>11602839684</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35090</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Bornova</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830171</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKELTN1003_13</KOD>
+        <VARKOD>5YKELTN1003_1313L</VARKOD>
+        <SECENEK_DEGERI>5YKELTN1003_13_L</SECENEK_DEGERI>
+        <BARCODE>6000003355972</BARCODE>
+        <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
+        <FATURA_ADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>4YKELT35061_U01</KOD>
+        <VARKOD>4YKELT35061_U01U01M</VARKOD>
+        <SECENEK_DEGERI>4YKELT35061_U01_M</SECENEK_DEGERI>
+        <BARCODE>6000003075726</BARCODE>
+        <URUNADI>Kadın Önü Fırfırlı Balık Sırtı Gabardin Kumaş Elbise</URUNADI>
+        <FATURA_ADI>Kadın Önü Fırfırlı Balık Sırtı Gabardin Kumaş Elbise</FATURA_ADI>
+        <FIYAT>299.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3016</SIPARIS_NO>
     <CariHesapKodu>
