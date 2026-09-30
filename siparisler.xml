@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-09-30T15:10:21 -->
+﻿<!-- generated:2026-09-30T15:15:39 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3020</SIPARIS_NO>
@@ -48,8 +48,6 @@
     </not>
     <SATIRLAR>
       <SATIR>
-        <KOD>5YKC35-1828_14</KOD>
-        <VARKOD>5YKC35-1828_1414STD</VARKOD>
         <SECENEK_DEGERI>5YKC35-1828_14_STD</SECENEK_DEGERI>
         <BARCODE>6000003371842</BARCODE>
         <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
@@ -61,8 +59,6 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
-        <KOD>5YKC35-1828_U01</KOD>
-        <VARKOD>5YKC35-1828_U01U01STD</VARKOD>
         <SECENEK_DEGERI>5YKC35-1828_U01_STD</SECENEK_DEGERI>
         <BARCODE>6000003371873</BARCODE>
         <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
