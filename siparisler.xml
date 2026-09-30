@@ -1,5 +1,287 @@
-﻿<!-- generated:2026-09-30T14:54:46 -->
+﻿<!-- generated:2026-09-30T14:59:59 -->
 <SIPARISLER>
+  <SIPARIS>
+    <SIPARIS_NO>3020</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>sahpers@gmail.com</POSTA>
+    <TARIH>2026-09-30</TARIH>
+    <sipariszaman>14:54:50</sipariszaman>
+    <NET_TOPLAM>599.99000000</NET_TOPLAM>
+    <TeslimAlici>şahper akman ak</TeslimAlici>
+    <TeslimAdresi>yeşillik Cad. no:502 Karabağlar/İzmir</TeslimAdresi>
+    <TeslimTelefon>+905543483501</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35130</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>şahper akman ak</faturaalici>
+    <faturaAdresi>yeşillik Cad. no:502 Karabağlar/İzmir</faturaAdresi>
+    <faturaTelefon>+905543483501</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35130</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830201</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKC35-1828_14</KOD>
+        <VARKOD>5YKC35-1828_1414STD</VARKOD>
+        <SECENEK_DEGERI>5YKC35-1828_14_STD</SECENEK_DEGERI>
+        <BARCODE>6000003371842</BARCODE>
+        <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
+        <FATURA_ADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</FATURA_ADI>
+        <FIYAT>499.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKC35-1828_U01</KOD>
+        <VARKOD>5YKC35-1828_U01U01STD</VARKOD>
+        <SECENEK_DEGERI>5YKC35-1828_U01_STD</SECENEK_DEGERI>
+        <BARCODE>6000003371873</BARCODE>
+        <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
+        <FATURA_ADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>100.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>3019</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>
+    </tcno>
+    <POSTA>sahpers@gmail.com</POSTA>
+    <TARIH>2026-09-30</TARIH>
+    <sipariszaman>14:54:49</sipariszaman>
+    <NET_TOPLAM>1349.98000000</NET_TOPLAM>
+    <TeslimAlici>şahper akman ak</TeslimAlici>
+    <TeslimAdresi>yeşillik Cad. no:502 Karabağlar/İzmir</TeslimAdresi>
+    <TeslimTelefon>+905543483501</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimPostaKodu>35130</teslimPostaKodu>
+    <teslimil>İzmir</teslimil>
+    <teslimilce>Karabağlar</teslimilce>
+    <faturaalici>şahper akman ak</faturaalici>
+    <faturaAdresi>yeşillik Cad. no:502 Karabağlar/İzmir</faturaAdresi>
+    <faturaTelefon>+905543483501</faturaTelefon>
+    <faturavergino>
+    </faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturaPostaKodu>35130</faturaPostaKodu>
+    <faturail>İzmir</faturail>
+    <faturailce>Karabağlar</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>
+    </kargo_odemesi_tanim>
+    <kargo_odemesi>
+    </kargo_odemesi>
+    <kargokodu>22914830191</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>5YKG16-1838_04</KOD>
+        <VARKOD>5YKG16-1838_0404L</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1838_04_L</SECENEK_DEGERI>
+        <BARCODE>6000003381322</BARCODE>
+        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKPNTN2545_04</KOD>
+        <VARKOD>5YKPNTN2545_0404L</VARKOD>
+        <SECENEK_DEGERI>5YKPNTN2545_04_L</SECENEK_DEGERI>
+        <BARCODE>6000003327443</BARCODE>
+        <URUNADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</URUNADI>
+        <FATURA_ADI>Kadın Paça Düğmeli Modal Kumaş Pantolon</FATURA_ADI>
+        <FIYAT>0.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKG16-1838_60</KOD>
+        <VARKOD>5YKG16-1838_6060L</VARKOD>
+        <SECENEK_DEGERI>5YKG16-1838_60_L</SECENEK_DEGERI>
+        <BARCODE>6000003365148</BARCODE>
+        <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
+        <FATURA_ADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</FATURA_ADI>
+        <FIYAT>599.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>5YKETYE4450_08</KOD>
+        <VARKOD>5YKETYE4450_0808L</VARKOD>
+        <SECENEK_DEGERI>5YKETYE4450_08_L</SECENEK_DEGERI>
+        <BARCODE>6000003348516</BARCODE>
+        <URUNADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</URUNADI>
+        <FATURA_ADI>Kadın Palaska Kemerli Önü Cepli Gabardin Etek</FATURA_ADI>
+        <FIYAT>699.99000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>ticimax.krg01</KOD>
+        <SECENEK_DEGERI>ticimax.krg01</SECENEK_DEGERI>
+        <BARCODE>6000002386717</BARCODE>
+        <URUNADI>Unisex  Kargo Ücreti</URUNADI>
+        <FATURA_ADI>Unisex  Kargo Ücreti</FATURA_ADI>
+        <FIYAT>50.00000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>20</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
+  <SIPARIS>
+    <SIPARIS_NO>3018</SIPARIS_NO>
+    <CariHesapKodu>
+    </CariHesapKodu>
+    <CariHesapOzelKodu>
+    </CariHesapOzelKodu>
+    <tcno>30754877146</tcno>
+    <POSTA>cihanmertkarakoc@gmail.com</POSTA>
+    <TARIH>2026-09-30</TARIH>
+    <sipariszaman>14:54:47</sipariszaman>
+    <NET_TOPLAM>2599.98000000</NET_TOPLAM>
+    <TeslimAlici>Cihan Mert Karakoç</TeslimAlici>
+    <TeslimAdresi>ESENTEPE MAH. İnönü cad. No 147-101 Kartalkule iş merkezi Kartal İstanbul  KARTALKULE İŞ MERKEZİ</TeslimAdresi>
+    <TeslimTelefon>+905326242417</TeslimTelefon>
+    <teslimsekli>KR</teslimsekli>
+    <teslimUlke>Türkiye</teslimUlke>
+    <teslimil>İstanbul</teslimil>
+    <teslimilce>Kartal</teslimilce>
+    <faturaalici>Cihan Mert Karakoç</faturaalici>
+    <faturaAdresi>ESENTEPE MAH. İnönü cad. No 147-101 Kartalkule iş merkezi Kartal İstanbul  KARTALKULE İŞ MERKEZİ</faturaAdresi>
+    <faturaTelefon>+905326242417</faturaTelefon>
+    <faturavergino>30754877146</faturavergino>
+    <faturavergidairesi>
+    </faturavergidairesi>
+    <faturaUlke>Türkiye</faturaUlke>
+    <faturail>İstanbul</faturail>
+    <faturailce>Kartal</faturailce>
+    <status>8</status>
+    <status_tanim>Ödeme Alındı</status_tanim>
+    <tasiyicifirma_tanim>HepsiJet</tasiyicifirma_tanim>
+    <tasiyicifirma>hepsijet</tasiyicifirma>
+    <kargo_odemesi_tanim>Satıcı Öder</kargo_odemesi_tanim>
+    <kargo_odemesi>2</kargo_odemesi>
+    <kargokodu>22914830181</kargokodu>
+    <banka>
+    </banka>
+    <ODEME_SEKLI_TANIM>Kredi Kartı</ODEME_SEKLI_TANIM>
+    <ODEME_SEKLI>2</ODEME_SEKLI>
+    <not>
+    </not>
+    <SATIRLAR>
+      <SATIR>
+        <KOD>6KETRTRK440_01</KOD>
+        <VARKOD>6KETRTRK440_0101XL</VARKOD>
+        <SECENEK_DEGERI>6KETRTRK440_01_XL</SECENEK_DEGERI>
+        <BARCODE>6000003587793</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</FATURA_ADI>
+        <FIYAT>866.66000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6KETRTRK440_18</KOD>
+        <VARKOD>6KETRTRK440_1818XL</VARKOD>
+        <SECENEK_DEGERI>6KETRTRK440_18_XL</SECENEK_DEGERI>
+        <BARCODE>6000003587892</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</FATURA_ADI>
+        <FIYAT>866.66000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+      <SATIR>
+        <KOD>6KETRTRK440_04</KOD>
+        <VARKOD>6KETRTRK440_0404XL</VARKOD>
+        <SECENEK_DEGERI>6KETRTRK440_04_XL</SECENEK_DEGERI>
+        <BARCODE>6000003587847</BARCODE>
+        <URUNADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</URUNADI>
+        <FATURA_ADI>Erkek Ayaklı Yaka Düğmeli Ters Dikiş Reglan Corspan Triko</FATURA_ADI>
+        <FIYAT>866.66000000</FIYAT>
+        <DOVIZ>TRY</DOVIZ>
+        <MIKTAR>1.00000000</MIKTAR>
+        <BIRIM>Adet</BIRIM>
+        <KDV>10</KDV>
+      </SATIR>
+    </SATIRLAR>
+  </SIPARIS>
   <SIPARIS>
     <SIPARIS_NO>3017</SIPARIS_NO>
     <CariHesapKodu>
