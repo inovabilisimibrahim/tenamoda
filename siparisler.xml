@@ -1,4 +1,4 @@
-﻿<!-- generated:2026-10-01T15:17:56 -->
+﻿<!-- generated:2026-10-01T15:23:16 -->
 <SIPARISLER>
   <SIPARIS>
     <SIPARIS_NO>3020</SIPARIS_NO>
@@ -48,6 +48,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKC35-1828_14</KOD>
+        <VARKOD>5YKC35-1828_1414STD</VARKOD>
         <SECENEK_DEGERI>5YKC35-1828_14_STD</SECENEK_DEGERI>
         <BARCODE>6000003371842</BARCODE>
         <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
@@ -59,6 +61,8 @@
         <KDV>10</KDV>
       </SATIR>
       <SATIR>
+        <KOD>5YKC35-1828_U01</KOD>
+        <VARKOD>5YKC35-1828_U01U01STD</VARKOD>
         <SECENEK_DEGERI>5YKC35-1828_U01_STD</SECENEK_DEGERI>
         <BARCODE>6000003371873</BARCODE>
         <URUNADI>Kadın Kruvaze Yaka İp Bağlamalı Ceket</URUNADI>
@@ -131,6 +135,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKG16-1838_04</KOD>
+        <VARKOD>5YKG16-1838_0404L</VARKOD>
         <SECENEK_DEGERI>5YKG16-1838_04_L</SECENEK_DEGERI>
         <BARCODE>6000003381322</BARCODE>
         <URUNADI>Kadın Derin V Yakalı Dirsek Kol Salaş Gömlek</URUNADI>
@@ -322,6 +328,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YKELTN1003_13</KOD>
+        <VARKOD>5YKELTN1003_1313L</VARKOD>
         <SECENEK_DEGERI>5YKELTN1003_13_L</SECENEK_DEGERI>
         <BARCODE>6000003355972</BARCODE>
         <URUNADI>Kadın V Yaka Drapeli Kolsuz Sandy Elbise</URUNADI>
@@ -624,6 +632,8 @@
     </not>
     <SATIRLAR>
       <SATIR>
+        <KOD>5YK66-10294_14</KOD>
+        <VARKOD>5YK66-10294_1414L</VARKOD>
         <SECENEK_DEGERI>5YK66-10294_14_L</SECENEK_DEGERI>
         <BARCODE>6000003453050</BARCODE>
         <URUNADI>Yp5115 Çift Pileli Bol Paça Tencel Pantolon</URUNADI>
